@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-5566-33-1404.hd-3845-10.ch-3881-1414.lg-3006-110-110.sh-5308-68.ha-5471-110-1414.fa-5467.cc-5800-92-1414",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Salathiel G.D. Indomabile offesa.",
     "habboFigure": "hr-5579-1343.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.sh-3180-92-105.fa-3276-96",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
-    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-4299-1326-92.lg-5594-64.sh-5308-1410.ha-5301-1326.he-3552.fa-5467.wa-5370.cc-5800-1409-1409",
+    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-4299-1326-92.lg-5594-64.sh-5308-1410.ha-5301-1326.he-3552.fa-5467.ca-5635-1326-1326.wa-5370.cc-5800-64-64",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -3023,7 +3023,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Amante Siculo FC»",
-    "habboFigure": "hr-5176-41.hd-3845-1.ch-5488-1412.lg-3006-110-95.sh-3064-64.he-1608.ea-1403-92.fa-1206-64.ca-3844-95-110",
+    "habboFigure": "hr-5210-60-61.hd-207-28.ch-5559-110.lg-5594-110.sh-5729-110-110.he-3740.ea-3148-110-110.fa-4048.ca-3844-110-92.wa-3264-110-110",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -3633,7 +3633,7 @@
     "online": true,
     "gender": "f",
     "motto": "Iniziato G.D",
-    "habboFigure": "hr-5579-34.hd-3956-1-30.ch-3399-64-64.lg-4167-64.sh-3383-64-64.ea-3925-73-64.ca-4281-1408.wa-2011",
+    "habboFigure": "hr-5579-34.hd-3956-1-30.ch-3399-64-64.lg-4167-64.sh-3383-64-64.ea-3925-82-80.ca-4281-1408.wa-2011",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -4290,7 +4290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "vicario G.D",
     "habboFigure": "hr-3860-34-34.hd-209-1.ch-3779-81-1408.lg-3407-81-1408.sh-4065-81-1408.he-5088.ca-4292-81-1408.cc-4979-1408",
@@ -4930,7 +4930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista  GD",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-266.lg-3116-1408-1408.sh-3524-64-1408.ca-1812",
@@ -6380,7 +6380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64",
