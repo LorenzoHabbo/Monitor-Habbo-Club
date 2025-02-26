@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3163-1347.hd-3103-3.ch-3111-1326-1326.lg-3116-1326-92.sh-3016-1414.ha-3352-1341-1408.ea-3226-1408.ca-3219-96",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Am I Out Of My Mind?",
     "habboFigure": "hr-4118-42.hd-629-1.ch-4067-73-1408.lg-716-66-1408",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-1342.hd-600-28.ch-3133-110-110.lg-5243-110.sh-3354-110-110.ha-3586.he-3081-92.fa-3276-1328.cc-5761-110-110",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3829-61.hd-180-1385.ch-3032-110-1408.lg-3596-110-1408.sh-290-1408.ha-1012-110.he-3070-92.wa-2009-63.cc-5810-110",
