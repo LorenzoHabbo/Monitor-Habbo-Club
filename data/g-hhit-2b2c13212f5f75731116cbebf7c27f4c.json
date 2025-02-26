@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3956-8-1368.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-45.hd-3845-1370.ch-3683-110-1408.lg-3023-92.sh-3275-93.ha-4201.he-5088.ea-3170-64.fa-4168-93.ca-1816.wa-5123-1321.cp-3125-96",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-5214-92-92.lg-3596-110-1408.ha-3709.cc-5800-1424-1408",
@@ -5560,7 +5560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Giudice della pace GD (Tristezza)",
     "habboFigure": "hr-3163-59.hd-209-1.ch-3203-96.lg-5594-106.sh-3206-96.fa-5122-106.ca-4036-96.wa-5123-106.cc-4184-96-106",
@@ -7637,16 +7637,6 @@
     "memberSince": "2023-01-31T21:39:14.000+00:00",
     "uniqueId": "hhit-f1a633b650eb778d72a3c7a8fd6c3912",
     "name": "pazie01",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "f",
-    "motto": "apprendista novello g.d",
-    "habboFigure": "hr-545-35.hd-600-1.ch-660-76.lg-3078-64.sh-3068-1408-1408",
-    "memberSince": "2023-02-01T00:40:54.000+00:00",
-    "uniqueId": "hhit-d902f5ae97e7816ccc0c5757a3a7195e",
-    "name": "anonimo88",
     "isAdmin": false
   },
   {
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-12-15T23:23:56.000+00:00",
     "uniqueId": "hhit-b90460ecc5d616224f9a8db36c9f633e",
     "name": "LunaSerenya",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Sentinella Esperta GD",
+    "habboFigure": "hr-5019-42.hd-208-1.ch-210-85.lg-270-64.sh-4112-64-66.fa-3344-64.ca-1809.wa-2007.cc-4078",
+    "memberSince": "2023-12-17T12:33:40.000+00:00",
+    "uniqueId": "hhit-e0e5ee2bdf2810663393c3d766454fef",
+    "name": "alienEvo",
     "isAdmin": false
   }
 ]
