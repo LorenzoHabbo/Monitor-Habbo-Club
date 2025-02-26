@@ -3,7 +3,7 @@
     "online": false,
     "gender": "m",
     "motto": "» Leader Hooligans »",
-    "habboFigure": "hr-828-45.hd-3092-10.ch-215-110.lg-270-80.sh-305-110.ha-1002-110.he-1608.fa-1208-91",
+    "habboFigure": "hr-828-45.hd-3093-10.ch-215-110.lg-270-80.sh-305-110.ha-1002-110.he-1608.fa-1208-91",
     "memberSince": "2014-09-15T19:57:28.000+00:00",
     "uniqueId": "hhit-766d3a0f342d8a47be94425ce6e4c1fd",
     "name": ",666",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-3095-1391.ch-3279-1408.lg-3019-1423.sh-3035-92.ha-5849.he-1608.ca-1816.cc-886-92",
@@ -992,7 +992,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "I pwned myself today.",
+    "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3163-1347.hd-3103-3.ch-3111-1326-1326.lg-3116-1326-92.sh-3016-1414.ha-3352-1341-1408.ea-3226-1408.ca-3219-96",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo Corleone",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1293,7 +1293,7 @@
     "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-4126-31-1346.hd-605-10.ch-655-92.lg-3006-1427-1427.sh-908-92.he-3070-92.fa-5467.wa-3263-1409-1326.cc-5800-1326-1326",
+    "habboFigure": "hr-4126-31-1346.hd-605-10.ch-655-92.lg-720-77.sh-908-92.he-3070-92.fa-5467.ca-3292-92.wa-3263-1409-1326.cc-5800-1326-1326",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1710,10 +1710,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " erede polska",
-    "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3419-64-1408.he-3660-64-1408",
+    "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3419-64-1408.he-3660-64-1408.fa-3378-1408-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-42.hd-190-1.ch-255-1431.lg-280-110.sh-3089-63.he-5577-1321-1322.ea-5007.fa-5752.ca-5615.cc-5842",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "hai fatto la fota? LA LÚÚNAAA",
     "habboFigure": "hr-5773-1404.hd-615-2.ch-660-110.lg-710-63.sh-906-92.ha-5620-92.he-5828.ea-3148-110-110.ca-3885-92-92",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "grattaceli meteoriti gli angeli",
     "habboFigure": "hr-828-1347.hd-205-1370.ch-3032-110-92.lg-280-1335.sh-305-92.ha-1002-93.he-3833-71.fa-5624-1412.cp-3314-110",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4370-31.hd-209-1370.ch-267-84.lg-280-1408.sh-305-1408.ea-1403-64",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Liam payne nel mio |",
     "habboFigure": "hr-515-45.hd-600-10.ch-660-64.lg-710-1408",
@@ -2657,6 +2657,16 @@
     "memberSince": "2024-05-26T20:31:06.000+00:00",
     "uniqueId": "hhit-fffc5da41504009b36a56211e038b302",
     "name": "Spercus-Ban",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-5681-45-40.hd-4383-1-14.ch-5595-71.lg-5594-71.sh-3419-64-64.ha-5620-71",
+    "memberSince": "2024-06-15T15:42:25.000+00:00",
+    "uniqueId": "hhit-e4ee31bf024e802166b693a5309395ec",
+    "name": "Sof-isticat",
     "isAdmin": false
   },
   {
