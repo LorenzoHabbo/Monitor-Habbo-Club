@@ -1,0 +1,35 @@
+name: Monitoraggio Gruppi Habbo
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Esegue il workflow ogni ora
+  workflow_dispatch:  # Permette di avviare manualmente il workflow
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Installa dipendenze
+        run: |
+          npm install
+
+      - name: Esegui lo script di monitoraggio
+        run: node monitor-groups.js
+
+      - name: Commit e push dei report aggiornati
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ reports/
+          git commit -m "Aggiornamento report movimenti gruppi" || echo "Nessuna modifica"
+          git push
