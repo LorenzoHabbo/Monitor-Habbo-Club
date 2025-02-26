@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-45.hd-3845-1370.ch-3683-110-1408.lg-3023-92.sh-3275-93.ha-4201.he-5088.ea-3170-64.fa-4168-93.ca-1816.wa-5123-1321.cp-3125-96",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA NOVELLO GD",
     "habboFigure": "hr-3021-1354-47.hd-3600-1362-14.ch-3208-66-64.lg-3019-97.sh-3089-67.cp-3288-84",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Iniziato G.D",
     "habboFigure": "hr-5579-34.hd-4163-1-30.ch-5699-64.lg-3216-64.sh-3180-64-64.he-5698-64-64",
@@ -6000,7 +6000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hd-3604-14.ch-4190-82-73.lg-4191-82-73.ha-4188-82",
@@ -7632,7 +7632,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "",
+    "motto": "apprendista novello g.d",
     "habboFigure": "hr-545-35.hd-600-1.ch-660-76.lg-3078-64.sh-3068-1408-1408",
     "memberSince": "2023-02-01T00:40:54.000+00:00",
     "uniqueId": "hhit-d902f5ae97e7816ccc0c5757a3a7195e",
