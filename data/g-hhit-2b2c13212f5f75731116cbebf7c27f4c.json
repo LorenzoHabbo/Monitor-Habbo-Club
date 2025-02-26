@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello G.D",
     "habboFigure": "hr-893-40.hd-195-1370.ch-255-74.lg-3023-1408.sh-3068-64-83.ha-1021-1408.he-1609-83.wa-2009-1408",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ineluttabile!",
     "habboFigure": "hr-3499-37.hd-3103-1.ch-3323-110-1408.lg-3057-92.sh-3587-1322-1408.ha-3488.fa-3344-1325.ca-5026-63.cc-3532-92-1315",
@@ -4920,7 +4920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista  GD",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-266.lg-3116-1408-1408.sh-3524-64-1408.ca-1812",
