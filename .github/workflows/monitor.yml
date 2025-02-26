@@ -1,9 +1,12 @@
 name: Monitoraggio Gruppi Habbo
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 * * * *"  # Esegue il workflow ogni ora
-  workflow_dispatch:  # Permette di avviare manualmente il workflow
+    - cron: "*/10 * * * *"  # Esegue il workflow ogni 10 minuti
+  workflow_dispatch:
 
 jobs:
   monitor:
@@ -18,11 +21,15 @@ jobs:
           node-version: "18"
 
       - name: Installa dipendenze
-        run: |
-          npm install
+        run: npm install
 
       - name: Esegui lo script di monitoraggio
         run: node monitor-groups.js
+
+      - name: Crea directory data e reports se non esistono
+        run: |
+          mkdir -p data
+          mkdir -p reports
 
       - name: Commit e push dei report aggiornati
         env:
