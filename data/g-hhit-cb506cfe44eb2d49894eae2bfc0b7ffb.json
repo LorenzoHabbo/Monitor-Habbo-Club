@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Helping Habbos ™",
     "habboFigure": "hr-9534-49.hd-207-1391.ch-3030-92.lg-5594-1425.sh-3206-92.ha-1002-1412.he-3070-1321.fa-5601-1321.ca-3084-1329-92.wa-2001.cc-3326-1412-1321",
@@ -213,7 +213,7 @@
     "online": false,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
-    "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110",
+    "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-3149-110",
     "memberSince": "2008-04-15T15:47:30.000+00:00",
     "uniqueId": "hhit-6f89f8518260b2799c5c1b8155e0dd9e",
     "name": "bruna.96",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1367.ch-5559-110.lg-3058-110.sh-3016-96.he-3181-96.cc-5800-92-92",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Soldato G.D ª",
     "habboFigure": "hr-5019-35.hd-209-1.ch-3806-1408.lg-3320-64-64.sh-906-1408",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Tutti i Migliori sono matti cit.",
     "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.cp-3205",
@@ -1453,7 +1453,7 @@
     "online": true,
     "gender": "m",
     "motto": "Assistente mozzo BP   ††††††BOOMM††\r",
-    "habboFigure": "hr-3278-61-61.hd-3845-1367.ch-210-110.lg-270-110.sh-3252-110-110.ha-3238-110.ea-1402.cc-3744-110-110",
+    "habboFigure": "hr-110-61.hd-3845-30.ch-210-110.lg-270-110.sh-3252-110-110.ea-1402.cc-3744-110-110",
     "memberSince": "2017-11-08T07:28:15.000+00:00",
     "uniqueId": "hhit-91ead7a286964c58bbd693aec4506929",
     "name": "Giojohn",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-42.hd-190-1.ch-255-1431.lg-280-110.sh-3089-63.he-5808-110.ea-5007.fa-5752.ca-5615.cc-5826-1408",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brigante 1p GD",
     "habboFigure": "hr-5841-61.hd-5838-1-1383.ch-4361-92-110.lg-5594-92.sh-3375-110-110.he-5578-63.ca-5769-92-110.cc-5690-1408",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CUSTODE DEL SIGILLO EºW",
     "habboFigure": "hr-836-42.hd-627-10.ch-3033-92-1408.lg-710-1428.sh-730-92.he-3082-92.ea-3148-110-1408.fa-5835-1408",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  Aiutante Corsaro BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -2690,13 +2690,23 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Liam payne nel mio |",
     "habboFigure": "hr-515-45.hd-600-10.ch-660-64.lg-710-1408",
     "memberSince": "2024-05-25T22:23:41.000+00:00",
     "uniqueId": "hhit-d273367789440e9b8d09a3bc6d659d0a",
     "name": "TRICHECONA",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-891-37.hd-200-10.ch-255-1408.lg-280-64.sh-906-64.ha-1003-64.ea-1404-64",
+    "memberSince": "2024-05-26T20:26:37.000+00:00",
+    "uniqueId": "hhit-e48af6661fe99dbc68708c24ccb5cd6a",
+    "name": ".RiccardoFumi.",
     "isAdmin": false
   },
   {
