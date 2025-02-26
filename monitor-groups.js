@@ -1,5 +1,5 @@
 // monitor-groups.js
-// Se usi Node <18, assicurati di installare node-fetch e decommenta la riga seguente:
+// Se usi Node <18, decommenta la seguente riga:
 // const fetch = require('node-fetch');
 
 const fs = require('fs/promises');
@@ -16,7 +16,7 @@ const groups = [
   { id: "g-hhit-f2aa4ed84bfcb4f79942ede9b7dd23bd", name: "Famiglia Corleone" }
 ];
 
-// Percorsi per salvare i dati e i report (ora il report accumula lo storico)
+// Percorsi per salvare i dati e i report (storico in JSON)
 const DATA_DIR = path.join(__dirname, 'data');
 const REPORTS_DIR = path.join(__dirname, 'reports');
 
@@ -26,18 +26,13 @@ async function ensureDirectories() {
   await fs.mkdir(REPORTS_DIR, { recursive: true });
 }
 
-// Funzione per confrontare due array di membri
+// Funzione per confrontare due array di membri e restituire le differenze
 function compareMembers(newMembers, oldMembers) {
   const oldMap = new Map(oldMembers.map(member => [member.uniqueId, member]));
   const newMap = new Map(newMembers.map(member => [member.uniqueId, member]));
 
-  // Nuovi membri: presenti in newMap ma non in oldMap
   const added = newMembers.filter(member => !oldMap.has(member.uniqueId));
-
-  // Abbandoni: presenti in oldMap ma non in newMap
   const removed = oldMembers.filter(member => !newMap.has(member.uniqueId));
-
-  // Cambiamenti in isAdmin per i membri presenti in entrambe
   const adminChanges = [];
   for (const member of newMembers) {
     if (oldMap.has(member.uniqueId)) {
@@ -52,11 +47,15 @@ function compareMembers(newMembers, oldMembers) {
       }
     }
   }
-
   return { added, removed, adminChanges };
 }
 
-// Processa un singolo gruppo: fetch, confronto e salvataggio file e report (in append)
+// Formatta una data in italiano
+function formatDateItalian(date) {
+  return new Intl.DateTimeFormat('it-IT', { dateStyle: 'full', timeStyle: 'short' }).format(date);
+}
+
+// Processa un singolo gruppo: fetch, confronto e aggiornamento dei file
 async function processGroup(group) {
   console.log(`Elaborazione gruppo: ${group.name}`);
   const apiURL = `https://www.habbo.it/api/public/groups/${group.id}/members`;
@@ -72,7 +71,7 @@ async function processGroup(group) {
     } else if (Array.isArray(json.members)) {
       newData = json.members;
     } else {
-      console.error(`Formato dati non valido per il gruppo ${group.name}:`, json);
+      console.error(`Formato dati non valido per ${group.name}:`, json);
       return;
     }
 
@@ -87,46 +86,51 @@ async function processGroup(group) {
       const oldFile = await fs.readFile(dataFilePath, 'utf-8');
       oldData = JSON.parse(oldFile);
     } catch (err) {
-      console.log(`Nessun file dati precedente per il gruppo ${group.name}.`);
+      console.log(`Nessun file dati precedente per ${group.name}.`);
     }
 
     // Confronta i dati
-    const report = compareMembers(newData, oldData);
+    const differences = compareMembers(newData, oldData);
 
-    // Costruisci il contenuto del report da apporre (con separatore per ogni esecuzione)
-    let reportContent = `\n====================\n`;
-    reportContent += `Report per il gruppo "${group.name}" (${group.id})\n`;
-    reportContent += `Data: ${new Date().toLocaleString()}\n\n`;
-    reportContent += `Nuovi membri (${report.added.length}):\n`;
-    report.added.forEach(member => {
-      reportContent += `  - ${member.name} (ID: ${member.uniqueId})\n`;
-    });
-    reportContent += `\nMembri abbandonati (${report.removed.length}):\n`;
-    report.removed.forEach(member => {
-      reportContent += `  - ${member.name} (ID: ${member.uniqueId})\n`;
-    });
-    reportContent += `\nCambiamenti nello stato Admin (${report.adminChanges.length}):\n`;
-    report.adminChanges.forEach(change => {
-      reportContent += `  - ${change.name} (ID: ${change.uniqueId}): ${change.from} => ${change.to}\n`;
-    });
-    reportContent += `\nTimestamp: ${new Date().toISOString()}\n`;
+    // Crea l'entry del log con data formattata in italiano
+    const now = new Date();
+    const logEntry = {
+      data: formatDateItalian(now),
+      nuovi: differences.added.map(member => ({ name: member.name, uniqueId: member.uniqueId })),
+      abbandonati: differences.removed.map(member => ({ name: member.name, uniqueId: member.uniqueId })),
+      adminChanges: differences.adminChanges.map(change => ({
+        name: change.name,
+        uniqueId: change.uniqueId,
+        da: change.from,
+        a: change.to
+      }))
+    };
+    console.log(`Log entry per ${group.name}:`, logEntry);
 
-    console.log(`Report per ${group.name}:`, reportContent);
+    // Aggiorna il file di log JSON: se esiste, carica l'array e aggiungi la nuova entry; altrimenti, creane uno nuovo
+    const reportFilePath = path.join(REPORTS_DIR, `${group.id}-report.json`);
+    let logArray = [];
+    try {
+      const existing = await fs.readFile(reportFilePath, 'utf-8');
+      logArray = JSON.parse(existing);
+      if (!Array.isArray(logArray)) logArray = [];
+    } catch (err) {
+      console.log(`Nessun file log precedente per ${group.name}, ne verrà creato uno nuovo.`);
+    }
+    logArray.push(logEntry);
+    await fs.writeFile(reportFilePath, JSON.stringify(logArray, null, 2), 'utf-8');
+    console.log(`Log aggiornato in: ${reportFilePath}`);
 
-    // Salva (in append) il report storico nel file di report (accumulando lo storico)
-    const reportFilePath = path.join(REPORTS_DIR, `${group.id}-report.txt`);
-    await fs.appendFile(reportFilePath, reportContent, 'utf-8');
-    console.log(`Report aggiornato (in append) in: ${reportFilePath}`);
-
-    // Salva i nuovi dati per il confronto futuro (sovrascrivendo il file)
+    // Salva i nuovi dati per il confronto futuro
     await fs.writeFile(dataFilePath, JSON.stringify(newData, null, 2), 'utf-8');
     console.log(`Dati aggiornati salvati in: ${dataFilePath}`);
+
   } catch (error) {
     console.error(`Errore nel processare il gruppo ${group.name}:`, error);
   }
 }
 
-// Funzione principale: assicura le directory e processa ogni gruppo
+// Funzione principale
 async function main() {
   await ensureDirectories();
   for (const group of groups) {
