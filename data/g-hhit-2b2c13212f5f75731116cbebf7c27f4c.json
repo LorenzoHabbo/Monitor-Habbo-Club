@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5680-1342.hd-600-2.ch-665-92.lg-4066-110.ha-3709.fa-3276-100.cc-5800-108-77",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-5214-92-92.lg-3596-110-1408.ha-3709.cc-5800-1424-1408",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Soldato G.D ª",
     "habboFigure": "hr-5019-35.hd-209-1.ch-3806-1408.lg-3320-64-64.sh-906-1408",
@@ -3720,7 +3720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello G.D (ginecologo)",
     "habboFigure": "hd-200-30.ch-5516-84-85.lg-4119.sh-3467.ha-3352-1320-73.he-5458-72-71.fa-3147-72",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello g.d.",
     "habboFigure": "hr-155-42.hd-180-1370.ch-876-64-64.lg-270-64.sh-906-1408.fa-1201",
