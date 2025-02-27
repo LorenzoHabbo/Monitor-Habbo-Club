@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Eternal Warriors º",
     "habboFigure": "hr-5275-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fondatore Eternal Warriors",
     "habboFigure": "hr-3278-61-40.hd-190-28.ch-220-110.lg-270-110.sh-295-92.ha-1013-110",
@@ -43,7 +43,7 @@
     "online": false,
     "gender": "m",
     "motto": "E.W.",
-    "habboFigure": "hr-828-61.hd-3103-10.ch-215-1331.lg-285-81.sh-906-64",
+    "habboFigure": "hr-828-42.hd-180-1.ch-3030-102.lg-275-1423",
     "memberSince": "2007-06-18T12:50:35.000+00:00",
     "uniqueId": "hhit-d556ecaf14bf2c7130454858c4e3bc8a",
     "name": "Lodato",
@@ -73,7 +73,7 @@
     "online": true,
     "gender": "m",
     "motto": "Custode del Sigillo EºW",
-    "habboFigure": "hr-3278-61-61.hd-3091-28.ch-4025-64-110.lg-4017-110-1408.sh-3419-110-110.ha-1023-110.ea-3226-110.fa-3378-110-1408.cc-3420-110",
+    "habboFigure": "hr-3278-49-40.hd-180-28.ch-3323-110-92.lg-3384-110-1408.sh-3419-110-110.ea-3169-110.fa-3345-92.wa-2001.cc-3509-110-92",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-1395.hd-3100-2.ch-4087-110.lg-3019-110.sh-3089-110.he-3070-93.fa-3276-72.cc-5078-1333",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ELETTO DEI QUIDICI EºW¥S.L.F|",
     "habboFigure": "hr-829-42.hd-3845-10.ch-3234-110.lg-4092-110.sh-3027-110-1408.ca-3225-110-110.wa-3263-63-1408.cc-3269-1408-1408",
@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Custode del Sigillo  ºEºWº",
     "habboFigure": "hr-3829-34.hd-190-10.ch-3342-110-92.lg-3328-110-92.ha-3541",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Eletto dei nove EºW",
     "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
