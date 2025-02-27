@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "»Capo Regime Little Italy Corleone»",
     "habboFigure": "hr-5275-1407.hd-3093-3.ch-3077-110-110.lg-4066-1409.sh-3035-64.ea-3169-73.fa-3993-110",
@@ -132,7 +132,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Sentinella Semplice GD",
+    "motto": "Sentinella GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
     "memberSince": "2007-07-14T15:56:41.000+00:00",
     "uniqueId": "hhit-aada7e3e4475cb61f91a42b2676b418d",
@@ -212,7 +212,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Decime G.D.",
+    "motto": "Decime Esperto G.D.",
     "habboFigure": "hr-5019-1394.hd-3845-2.ch-3077-92-64.lg-3057-110.sh-3068-92-110.he-3070-1408.ea-3484.fa-3993-100.cc-3153-1430-110",
     "memberSince": "2008-04-22T21:11:31.000+00:00",
     "uniqueId": "hhit-8f3ff5e91cc79378537f8b7c101fa005",
@@ -473,7 +473,7 @@
     "online": true,
     "gender": "f",
     "motto": "Per Sempre||",
-    "habboFigure": "hr-5680-1407.hd-4383-10-28.ch-665-92.lg-3787-110-1425.ha-3586.he-5997-1410",
+    "habboFigure": "hr-5680-1407.hd-4383-10-28.ch-665-110.lg-4066-110.ha-3586.he-5997-1410",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "Belle!",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-14.ch-5258.lg-4125.sh-905-1408.ha-4324.ea-5009.fa-5467",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-45.hd-3845-1370.ch-3683-110-1408.lg-3023-92.sh-3275-93.ha-4201.he-5088.ea-3170-64.fa-4168-93.ca-1816.wa-5123-1321.cp-3125-96",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-3786-42-36.hd-209-1.ch-3030-1408.lg-4066-64.sh-3524-1408-1408.ha-3494-81-1408.ea-1406.cc-3326-81-64",
@@ -2062,7 +2062,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "ª Soldato G.D ª",
+    "motto": "ª Soldato Scelto G.D ª",
     "habboFigure": "hr-5019-35.hd-209-1.ch-3806-1408.lg-3320-64-64.sh-906-1408",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
@@ -2612,7 +2612,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "messaggero del patto  1 P -G.D ¥¥¥¥",
+    "motto": "Custode-G.D ¥¥¥¥",
     "habboFigure": "hr-3810-37.hd-629-19.ch-3836-96-95.lg-715-95.he-1608",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Amante Siculo FC»",
     "habboFigure": "hr-5544-59-1399.hd-207-10.ch-5736-110-96.lg-5022-64-1408.sh-3693-1322-74.ha-3952.he-3329-110-110.ea-3959.fa-4044.ca-5521-1331.wa-5370.cc-5382-110",
@@ -5550,7 +5550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giudice della pace GD (Yeet)",
     "habboFigure": "hr-3163-1402.hd-3845-1.ch-5373-108-110.lg-5594-93.ha-5377-108.fa-3276-96.ca-4036-1321.cc-5382-1321",
@@ -6280,7 +6280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novella GD",
     "habboFigure": "hr-5503-42.hd-600-10.ch-4067-80-80.lg-710-82",
@@ -6340,7 +6340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-828-1407.hd-3095-1.ch-3215-110.lg-275-110.sh-295-110.ea-1402.fa-3276-64",
@@ -7390,7 +7390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "e io gioko a golf",
     "habboFigure": "hr-4996-42.hd-3604-10.ch-3539-64.lg-285-81.sh-905-64.ha-5083.fa-5601-68.ca-5028-1408-1408.wa-5123-64",
@@ -7462,7 +7462,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Scagnozzo G.D.",
+    "motto": "Scagnozzo Esperto G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -9782,7 +9782,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "iniziato  G.D",
+    "motto": "cadetto  G.D",
     "habboFigure": "hr-893-42.hd-190-1.ch-4339-84-85.lg-4341-64.sh-295-85.ha-4095-64-85.fa-3812-64-64.ca-1802",
     "memberSince": "2023-12-02T21:38:04.000+00:00",
     "uniqueId": "hhit-9b3493a158caa8f96fb6e04ff30909fd",
