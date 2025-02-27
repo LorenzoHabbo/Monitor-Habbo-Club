@@ -1820,10 +1820,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mi piaci tu.",
-    "habboFigure": "hr-3841-35.hd-190-19.ch-255-64.lg-281-64.sh-4112-73-73.ha-1004-64.fa-1204",
+    "habboFigure": "hd-205-1370.ch-255-64.lg-275-64.sh-4112-73-73.ha-1004-64.fa-1204",
     "memberSince": "2018-03-31T18:37:09.000+00:00",
     "uniqueId": "hhit-fe4439bdd38e5950673c0d4bfe10029e",
     "name": "CuiSoldier",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
