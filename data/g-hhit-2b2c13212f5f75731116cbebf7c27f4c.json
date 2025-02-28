@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-892-40.hd-190-1.ch-4165-1408-66.lg-3088-66-1408.sh-3383-1408-66.ha-5848.he-3833-1408.ea-1404-64.fa-1206-1408.wa-5599-1408-1408.cp-3127-66",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Per Sempre||",
     "habboFigure": "hr-5680-1407.hd-4383-10-28.ch-3005-92-1408.lg-4066-110.ha-3586.he-5997-1410",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-14.ch-5258.lg-4125.sh-905-1408.ha-4324.ea-5009.fa-5467",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cryckey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.cc-5826-92",
@@ -1410,10 +1410,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
-    "habboFigure": "hr-4131-1405-1405.hd-4383-10-10.ch-4087-1414.lg-5594-64.sh-5308-1410.he-5088.wa-5370.cc-5440-1428-1427",
+    "habboFigure": "hr-4363-1405-1405.hd-4383-10-10.ch-4087-1414.lg-5594-64.sh-5308-1410.ha-5301-63.he-5088.fa-5467.wa-5370.cc-5440-1428-1427",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto g.d.",
     "habboFigure": "hr-3163-61.hd-180-1389.ch-3203-1420.lg-3596-110-1408.sh-3524-92-1408.ha-3494-96-1408.he-3833-92.ea-3170-106.fa-5600-1408.ca-3175-92.cc-3827-92-110",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -5530,7 +5530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello G.D.",
     "habboFigure": "hr-155-37.hd-209-10.ch-230-64.lg-3078-82.sh-305-1408.wa-2011",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64",
@@ -7270,7 +7270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "begin again",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-64.lg-3483-1408-1408.he-1609-64.fa-4168-71",
