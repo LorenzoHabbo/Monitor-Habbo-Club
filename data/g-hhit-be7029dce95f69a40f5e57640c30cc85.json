@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-42-40.hd-3093-10.ch-3234-64.lg-3019-82.sh-3068-1408-1408.ea-1406.fa-1205-64",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Till the end",
     "habboFigure": "hr-135-42.hd-4015-30.ch-4025-1408-81.lg-4102-1408-1408.sh-3375-1408-64.ca-4937.cc-5800-1408-1408",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3256-1403-40.hd-3721-2.ch-3934-92-1409.lg-5594-110.sh-5247-92-110.ha-4039-99-1418.he-3884-1425-1417.fa-3276-1409.ca-3702-106-1327.cc-5461-92-92.cp-3315-1408",
@@ -1330,10 +1330,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
-    "habboFigure": "hr-125-31.hd-4174-1.ch-3779-64-110.lg-285-64.sh-3524-110-110.ea-3493-110-110.fa-5384-92",
+    "habboFigure": "hr-125-31.hd-3094-2.ch-5608-1427.lg-3136-68.sh-3621-110-92.ha-1004-110.he-3070-1321.ea-3493-110-93.fa-5384-92.cc-3542-110-110",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -1893,7 +1893,7 @@
     "online": true,
     "gender": "m",
     "motto": "Masarez USA - Street S",
-    "habboFigure": "hr-828-1342.hd-180-1.ch-215-92.lg-5594-92.sh-305-92.he-1609-92.cc-5800-92-92",
+    "habboFigure": "hr-828-1342.hd-180-1.ch-804-1327.lg-285-92.sh-305-92.he-1609-92.fa-1209-1327",
     "memberSince": "2009-08-18T10:21:11.000+00:00",
     "uniqueId": "hhit-4e1aa809157ee809bf4e21ce4e8e1272",
     "name": "MrBest",
@@ -2220,7 +2220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¬",
     "habboFigure": "hr-3012-49.hd-3100-28.ch-3005-92-92.lg-3057-92.he-3082-92.wa-3072-92-92.cc-3390-92-92.cp-3207-1408-1408",
@@ -6110,7 +6110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Medico di Bordo - BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-4111-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.wa-3798-1408-1408.cc-4282-72",
@@ -7570,7 +7570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Born to Die",
     "habboFigure": "hd-180-10.ch-215-1408.lg-275-64.sh-290-1408.ha-1004-64.he-5088",
