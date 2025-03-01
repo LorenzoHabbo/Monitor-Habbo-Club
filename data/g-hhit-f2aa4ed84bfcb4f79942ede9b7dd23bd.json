@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Brooklyn  —-In My Mind-—",
     "habboFigure": "hr-5617-1351-61.hd-3096-1.ch-3013-92.lg-3078-1341.sh-3016-110.he-3070-75.ea-3169-110.wa-5676.cc-5461-64-1416",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-3093-28.ch-210-64.lg-4066-1408.sh-3016-64.ea-5641",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-892-40.hd-190-1.ch-4165-1408-66.lg-3201-1408-1408.sh-3383-1408-66.ha-5848.he-3833-1408.ea-1404-64.fa-1206-1408.wa-2002.cp-3127-66",
@@ -1753,7 +1753,7 @@
     "online": false,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT",
-    "habboFigure": "hr-893-45.hd-209-8.ch-4190-73-73.lg-4191-73-82.sh-300-1408.ha-3656.he-1601.fa-1201.ca-1807.wa-2004-1408.cc-5826-84",
+    "habboFigure": "hr-893-45.hd-209-8.ch-3443.lg-4191-73-82.sh-300-1408.ha-3441.he-1601.fa-1201.ca-3444-84.wa-2004-1408.cc-5826-84",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-45.hd-3845-1370.ch-3683-110-1408.lg-3023-92.sh-3275-93.ha-4201.he-5088.ea-3170-64.fa-4168-93.ca-1816.wa-5123-1321.cp-3125-96",
@@ -2100,10 +2100,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Segretaria Corleone",
-    "habboFigure": "hr-5772-61-1344.hd-625-18.ch-3036-1325-1409.lg-3842-1325-1331.sh-3354-110-1408.he-3070-1321.ca-1802.wa-3072-1410-1410",
+    "habboFigure": "hr-5772-61-1344.hd-625-18.ch-3036-1325-1409.lg-3842-110-110.sh-3354-110-1408.he-3070-1321.ca-1802.wa-3072-1410-1410",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -2732,7 +2732,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Uomo d'onore Staten Island Corleone",
+    "motto": "PENSIONEEEEE",
     "habboFigure": "hr-3260-61.hd-3091-1370.ch-3279-110.lg-3057-110.sh-3016-110.ha-3054-110-1408.ea-1404-63.cc-3269-110-1408",
     "memberSince": "2010-09-17T07:48:16.000+00:00",
     "uniqueId": "hhit-ca8852a0f27572b770191beb0943afb0",
@@ -3693,7 +3693,7 @@
     "online": true,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
-    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-655-1428.lg-5594-64.sh-5308-1410.he-3082-64.fa-5467.wa-5370.cc-5800-110-110",
+    "habboFigure": "hr-5773-55.hd-4383-10-14.ch-655-1428.lg-3136-64.sh-5670-110.he-5808-95.ea-3148-110-110.fa-4168-95.wa-5370.cc-5307-110",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -4950,7 +4950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " »Uomo D'onore L.I. Fam. Corleone »",
     "habboFigure": "hr-3670-61.hd-5838-11-1367.ch-3934-92-110.lg-5594-1338.sh-3089-92.ha-3855-1409.he-5813-68-1333.fa-5975.ca-3485.cc-5800-1409-1409",
@@ -7330,7 +7330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode-G.D |||||||||",
     "habboFigure": "hr-3810-37.hd-629-19.ch-3836-96-95.lg-715-95.he-1608",
@@ -7363,7 +7363,7 @@
     "online": true,
     "gender": "f",
     "motto": "Mens sana in corpore sano",
-    "habboFigure": "hr-5680-1394.hd-3096-1370.ch-630-85.lg-720-82.ha-3775.ea-3141.cc-3289-82.cp-3308-1408-1408",
+    "habboFigure": "hr-836-1394.hd-3096-1370.ch-660-110.lg-720-1422.ha-1012-83",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -9973,7 +9973,7 @@
     "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
-    "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.cp-3205",
+    "habboFigure": "hr-3768-49.hd-3845-3.lg-280-110.fa-5601-110.cc-5825.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",

@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Eletto dei nove EºW",
     "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader Eternal º Warriors",
     "habboFigure": "hr-4117-1401-61.hd-3845-28.ch-660-110.lg-5594-110.sh-3419-1408-1408.he-3071-110.ea-3169-73",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Machete Mixtape V3",
     "habboFigure": "hr-135-34.hd-190-10.ch-255-64.lg-280-64.sh-290-64.ea-1403-64.fa-1204",
