@@ -863,7 +863,7 @@
     "online": false,
     "gender": "m",
     "motto": "Ride with the mob",
-    "habboFigure": "hr-5210-1394-1398.hd-5838-1385-1365.ch-5860-110.lg-3116-1409-92.sh-5247-92-110.ha-5865-110-1330.he-1608.fa-5433.cp-5885-1410",
+    "habboFigure": "hr-5210-1394-1398.hd-5838-1385-1365.ch-5860-110.lg-3116-110-92.sh-5247-92-110.ha-5865-92-110.he-1608.fa-5433.cp-5885-1410",
     "memberSince": "2008-05-05T17:06:51.000+00:00",
     "uniqueId": "hhit-4ce7b841ab8add7af51efaebce0404b5",
     "name": "Secretly",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amor che muovi il sole le stelle mare",
     "habboFigure": "hr-3791-32.hd-600-10.ch-4067-76-73.lg-710-64.sh-3180-74-76.he-3274-73.fa-3276-71.ca-1801-80",
@@ -8010,7 +8010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  800A",
     "habboFigure": "hr-828-49.hd-5799-28.ch-5396.lg-280-64.sh-908-1427.he-5808-63.wa-5676",
