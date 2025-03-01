@@ -690,10 +690,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cadetto GD ƒ",
-    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-650-110.lg-3006-98-98.sh-5717.he-5828.fa-5435.cc-3744-98-98",
+    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-650-110.lg-3006-98-98.sh-5717.he-5828.fa-5435.cc-3744-98-98.cp-5886-98",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -6380,7 +6380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64",
