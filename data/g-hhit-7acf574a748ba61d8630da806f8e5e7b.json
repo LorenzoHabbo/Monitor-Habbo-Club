@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.ch-3342-93-93.lg-5594-110.ha-5378-93-110.he-5088.fa-1209-93.ca-3292-110.cc-4091-110",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Eternal Warriors º",
     "habboFigure": "hr-5275-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capitano  B.P.",
     "habboFigure": "hr-3278-45-40.hd-209-8.ch-225-90.lg-5732-110-1408.sh-3089-110.ha-3675-110-1408.he-1608.ea-1402.cc-5733-110-92",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Scelto GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-3014-106.lg-3058-1336.sh-3089-106.he-3082-106.ea-1401-1336.ca-3187-106.cc-9563-110",

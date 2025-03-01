@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.ch-3342-93-93.lg-5594-110.ha-5378-93-110.he-5088.fa-1209-93.ca-3292-110.cc-4091-110",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1344-1344.hd-3845-1.ch-215-110.lg-3058-110.sh-3089-93.ha-3986.he-3070-92.fa-3344-1321.cc-3928",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -1690,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A.T. Soldier Hooligans [»]",
     "habboFigure": "hr-829-61.hd-3092-10.ch-240-110.lg-3023-110.sh-3016-110.fa-1204.cc-3509-64-64",
@@ -2033,7 +2033,7 @@
     "online": true,
     "gender": "m",
     "motto": "......",
-    "habboFigure": "hr-5791-49.hd-3845-28.ch-3222-92.lg-3787-110-92.sh-3089-110.ha-3709.he-1608.ea-3169-106.fa-3296.cc-4176-110-92",
+    "habboFigure": "hr-3977-49.hd-3845-28.ch-3880-96.lg-4114-92-92.ha-3461.ea-3978-96-1408.fa-3276-110.ca-4965-92-92",
     "memberSince": "2021-02-27T19:21:52.000+00:00",
     "uniqueId": "hhit-12bee497dc1e7aa6587bdc2187ca9776",
     "name": "Neosss",
@@ -2340,10 +2340,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64",
+    "habboFigure": "hr-4131-42-42.hd-3845-10.ch-4299-82-64.lg-3483-64-64.fa-4049.cc-4979-82",
     "memberSince": "2022-03-05T14:48:25.000+00:00",
     "uniqueId": "hhit-329e681a851683d81a508ccf0ae4fb8c",
     "name": "Caaamiiiii",
@@ -3210,7 +3210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Scelto GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-3014-106.lg-3058-1336.sh-3089-106.he-3082-106.ea-1401-1336.ca-3187-106.cc-9563-110",
