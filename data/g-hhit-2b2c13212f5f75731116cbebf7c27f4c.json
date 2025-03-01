@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sfortunato",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Soldato Scelto G.D ª",
     "habboFigure": "hr-3786-36-36.hd-209-1.ch-3806-1408.lg-3320-82-82.sh-906-74.ha-3352-73-1408",
@@ -6010,7 +6010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hd-3604-14.ch-4190-82-73.lg-4191-82-73.ha-4188-82",
@@ -6380,7 +6380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64",
@@ -6400,7 +6400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista g.d.",
     "habboFigure": "hr-155-42.hd-180-1370.ch-876-64-64.lg-270-64.sh-906-1408.fa-1201",
@@ -6530,7 +6530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cadetto GD",
     "habboFigure": "hr-3841-37.hd-180-1.ch-210-68.lg-5594-82.sh-4112-66-66.ha-5085.ea-3925-66-66.cc-5182-1320",
