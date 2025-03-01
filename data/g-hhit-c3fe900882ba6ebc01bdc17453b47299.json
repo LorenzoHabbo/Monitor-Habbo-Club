@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "º OBL º 5",
     "habboFigure": "hr-3852-61.hd-615-2.ch-655-92.lg-5594-110.sh-5247-92-92.he-3740.ea-3108-92-92.ca-3844-92-92.cc-3867-92-1413",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3829-61.hd-3845-1385.ch-3032-110-1408.lg-3596-110-1408.sh-290-1408.ha-1012-110.he-3070-92.wa-2009-63.cc-5810-110",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "per gli amici e-e a verità 9000",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-5069.ha-3767-63.he-5828.ea-4985.fa-5975.ca-5002.wa-5370",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Eletto dei nove EºW",
     "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
