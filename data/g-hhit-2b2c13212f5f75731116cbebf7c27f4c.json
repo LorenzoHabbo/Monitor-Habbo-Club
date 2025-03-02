@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sfortunato",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -5140,7 +5140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "*.*",
     "habboFigure": "hr-3810-31.hd-605-14.ch-670-74.lg-695-1408.sh-3180-64-1408.wa-3798-1320-66",
@@ -7460,7 +7460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-1429.sh-5803-92.ha-1004-1429.he-3070-92.ea-3169-110.fa-5601-1408.cc-3007-92-1408",
