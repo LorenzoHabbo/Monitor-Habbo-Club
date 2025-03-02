@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-14.ch-5258.lg-4125.sh-905-1408.ha-4324.ea-5009.fa-5467",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3866-60.hd-629-1.ch-3868-105-105.lg-3337-110.sh-907-105.ha-3709.he-5088.fa-3276-72",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-5214-92-92.lg-3596-110-1408.ha-3709.cc-5800-1424-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1371.ch-255-1408.lg-280-1408",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Affiliato Corleone",
     "habboFigure": "hr-828-31.hd-209-1.lg-3078-64.sh-3016-110.ha-5510.fa-5751.cc-3874-110-92",
@@ -1690,9 +1690,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "come una stella di broadway",
+    "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-1408.lg-280-110.sh-5247-92-92.he-3070-92.fa-5492-73-1408",
     "memberSince": "2019-07-02T09:38:36.000+00:00",
     "uniqueId": "hhit-5b6035f5055df52d4b588736fef1a314",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A.T. Soldier Hooligans [»]",
     "habboFigure": "hr-829-61.hd-3092-10.ch-240-110.lg-3023-110.sh-3016-110.fa-1204.cc-3509-64-64",
@@ -1860,9 +1860,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "per gli amici e-e a verità 9000",
+    "motto": "per gli amici e-e a verità 9200",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-5069.ha-3767-63.he-5828.ea-4985.fa-5975.ca-5002.wa-5370",
     "memberSince": "2020-03-11T08:39:56.000+00:00",
     "uniqueId": "hhit-a659e343437dbe99d853fcea0fdfff51",
@@ -2433,7 +2433,7 @@
     "online": false,
     "gender": "f",
     "motto": "Cambia il tuo motto....",
-    "habboFigure": "hr-9534-1395.hd-600-10.ch-3005-1429-87.lg-3023-1429.sh-3068-1325-1409.he-3070-63.fa-3276-72.ca-3292-110.wa-3263-1325-66",
+    "habboFigure": "hr-3673-1350.hd-600-10.ch-3013-1418.lg-3174-1418-92.sh-3354-1418-92.he-3082-1324.fa-3276-70.cc-3975-92-1418",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -3060,7 +3060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-1316.hd-3604-1365.lg-280-1321.sh-3252-1321-1321.ca-1808.cc-3299-1321-1321",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Scelto GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-3014-106.lg-3058-1336.sh-3089-106.he-3082-106.ea-1401-1336.ca-3187-106.cc-9563-110",
