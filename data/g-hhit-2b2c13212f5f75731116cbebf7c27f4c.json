@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sentinella GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1399.hd-209-12.ch-3022-110-110.lg-3483-70-70.sh-4112-110-92.fa-1209-96.ca-1816.cc-3420-1408",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64",
@@ -6390,7 +6390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista g.d.",
     "habboFigure": "hr-155-42.hd-180-1370.ch-876-64-64.lg-270-64.sh-906-1408.fa-1201",
@@ -7460,7 +7460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-1429.sh-5803-92.ha-1004-1429.he-3070-92.ea-3169-110.fa-5601-1408.cc-3007-92-1408",
