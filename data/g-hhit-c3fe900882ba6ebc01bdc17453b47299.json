@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3163-1347.hd-3103-3.ch-3111-1326-1326.lg-3116-1326-92.sh-3016-1414.ha-3352-1341-1408.ea-3226-1408.ca-3973-96-1408.cc-3744-1408-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Am I Out Of My Mind?",
     "habboFigure": "hr-4118-42.hd-629-1.ch-3528-72-1408.lg-3320-82-1408",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Principessa Corleone",
     "habboFigure": "hr-5579-1404.hd-3099-2.ch-3881-1324.lg-3006-92-1408.sh-5308-92.he-5139-96.fa-5467.cc-4104-77-68",
