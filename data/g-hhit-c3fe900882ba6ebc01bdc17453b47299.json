@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Food & Liquor",
     "habboFigure": "hr-3920-1404-1404.hd-205-10.ch-3111-80-1408.lg-270-77.sh-906-1408.ha-1002-63.he-3752.ea-5576-89-92.fa-5467.wa-2001",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-49.hd-600-28.ch-3135-92.lg-4066-92.sh-3587-92-92.he-5088.fa-3276-1326.cc-4979-92",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Arcano Oblivion",
     "habboFigure": "hr-3725-42.hd-190-10.ch-215-91.lg-5594-91.sh-3524-64-91.ha-5677-64.he-4990-72.ea-1404-64.fa-5552-1408.wa-2006.cc-3420-64",
