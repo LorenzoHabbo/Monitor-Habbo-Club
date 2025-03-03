@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3979-91.lg-3407-66-91.sh-300-66.ha-5744-91-91.fa-5636-64.ca-5739-66-91.cc-5826-66",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cadetto GD ƒ",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3046-110.lg-3006-110-92.sh-5717.he-5827-92-92.fa-5467.cc-4137-110.cp-5886-92",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Iniziato G.D",
     "habboFigure": "hr-5579-34.hd-4163-1-20.ch-3399-1408-1408.lg-3526-1408-1408.sh-3383-64-1408.ha-3494-64-64.wa-2012",
