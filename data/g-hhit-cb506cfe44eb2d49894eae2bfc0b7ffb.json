@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-266.lg-3290-64.sh-3524-64-1408.ca-1812.cc-260-64",
@@ -3320,7 +3320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista Scelto GD",
     "habboFigure": "hr-838-61.hd-625-1370.ch-3213-92-1327.lg-3290-110.sh-3068-92-1327.he-3227-1327.ea-1401-110",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-515-45.hd-600-1.ch-655-1408.lg-3216-73.sh-725-1408.he-1605-73",
