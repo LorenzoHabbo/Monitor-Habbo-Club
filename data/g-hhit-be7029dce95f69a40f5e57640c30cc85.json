@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-42-40.hd-3093-10.ch-3234-64.lg-3019-82.sh-3068-1408-1408.ea-1406.fa-1205-64",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Till the end",
     "habboFigure": "hr-135-42.hd-4015-30.ch-4025-1408-81.lg-4102-1408-1408.sh-3375-1408-64.ca-4937.cc-5800-1408-1408",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.ch-3342-110-110.lg-5594-1338.ha-5378-1338-110.he-5088.fa-4168-1423.ca-3292-1338.cc-4091-110",
@@ -2390,10 +2390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "                               »",
-    "habboFigure": "hr-828-61.hd-205-28.ch-804-64.lg-275-110.sh-290-92.he-3070-1410.fa-5601-92",
+    "habboFigure": "hr-4090-49.hd-205-28.ch-215-110.lg-280-110.sh-290-92.ha-3734.he-3070-1410.cc-4356",
     "memberSince": "2010-02-02T20:51:06.000+00:00",
     "uniqueId": "hhit-ed36f66cde0f13d342d40f98484b8698",
     "name": "KiLL?",
@@ -6553,7 +6553,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-34.hd-600-10.ch-665-71.lg-4369-64-64.sh-5308-1408.he-5767-1320-66.fa-3276-72.cc-3975-71-72",
+    "habboFigure": "hr-5619-34.hd-600-10.ch-665-71.lg-4369-64-64.sh-5308-1408.ha-5620-1320.fa-3276-72.cc-3975-71-72",
     "memberSince": "2012-10-03T19:51:58.000+00:00",
     "uniqueId": "hhit-5e5cb84a7c18e2e0fc799f65892f8d1c",
     "name": "-Shylar.",
@@ -7100,7 +7100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-655-110.lg-5594-64.sh-5247-92-1408.ha-3954-109-1335.ea-5626-110.fa-5835-73.wa-5836-109-1335",
@@ -7710,7 +7710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "           º WLF º",
     "habboFigure": "hr-893-31.hd-205-1.ch-255-1408.lg-280-82.sh-905-1408.ha-4006.fa-3276-73.cc-3975-1408-1408",
@@ -7990,7 +7990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " i try so hard.",
     "habboFigure": "hr-828-49.hd-5799-28.ch-5396.lg-280-64.sh-908-1427.he-5808-63.wa-5676",
