@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-42-40.hd-3093-10.ch-3234-64.lg-3019-82.sh-3068-1408-1408.ea-1406.fa-1205-64",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5680-1342.hd-600-2.ch-665-92.lg-4066-110.ha-3709.fa-3276-100.cc-5800-108-77",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Intercettatore Ombra del Kraken BP",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3498-110.lg-3596-110-64.sh-295-110.he-5088.ca-5381-1427.cp-3315-92",
