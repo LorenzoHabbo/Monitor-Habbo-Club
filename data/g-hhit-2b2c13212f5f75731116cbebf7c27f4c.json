@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5680-1342.hd-600-2.ch-665-92.lg-4066-110.ha-3709.fa-3276-100.cc-5800-108-77",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cadetto GD ƒ",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3046-110.lg-3006-110-92.sh-5717.he-5827-92-92.fa-5467.cc-4137-110.cp-5886-92",
@@ -5680,7 +5680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "® Original ®",
     "habboFigure": "hr-5019-42.hd-185-1370.ch-3030-1408.lg-281-64.ea-1406.fa-1204.cc-3917-1408",
