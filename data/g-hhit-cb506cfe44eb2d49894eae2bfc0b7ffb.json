@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-14.ch-5258.lg-4125.sh-905-1408.ha-4324.ea-5009.fa-5467",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-1403.hd-180-28.ch-255-110.lg-275-110.he-3740.ea-3803-92.wa-3773-63.cc-4979-110",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "motto",
     "habboFigure": "hr-5544-42-40.hd-209-1.ch-3808-80-64.lg-5594-64.sh-3383-1408-64.he-3324-64-80.ea-3698-76-64.fa-3276-72.cc-4079",
