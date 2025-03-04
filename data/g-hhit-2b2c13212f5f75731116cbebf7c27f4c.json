@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA NOVELLO GD",
     "habboFigure": "hr-3021-1354-47.hd-3600-1362-14.ch-3208-66-64.lg-3019-97.sh-3089-67.cp-3288-84",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-4363-1342-1342.hd-4383-2-1358.ch-3135-1410.lg-5594-92.he-3082-1337.fa-5601-92.wa-5370.cc-5440-1337-1339",
@@ -1550,9 +1550,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "Affilata Corleone",
+    "motto": "",
     "habboFigure": "hr-540-45.hd-629-1.ch-660-82.lg-3023-85.sh-735-64.fa-3276-73",
     "memberSince": "2011-05-21T15:01:12.000+00:00",
     "uniqueId": "hhit-3072de7fce1552e4aeec070d23f82860",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-93-92.lg-3058-110.ha-1026.he-1609-93.fa-3276-96.ca-5108-92-93.cc-5461-92-93",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "In Prova EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-270-1408.sh-300-1408.wa-2001",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -6380,7 +6380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4131-42-42.hd-3845-10.ch-4299-64-64.lg-4066-64.cc-5461-64-64",
@@ -8440,7 +8440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-45.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -9640,7 +9640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
