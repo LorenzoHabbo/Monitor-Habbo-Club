@@ -313,7 +313,7 @@
     "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
-    "habboFigure": "hd-180-1.ch-235-100.lg-3057-110.sh-3524-110-92.cc-3075-110",
+    "habboFigure": "hr-125-1398.hd-3845-28.ch-3342-110-110.lg-3116-110-92.sh-3206-110.ha-1004-110.he-4946-1418.cc-4184-110-1418",
     "memberSince": "2009-02-18T14:30:01.000+00:00",
     "uniqueId": "hhit-2324439fab9bf1743b5232868fe0eb77",
     "name": "Alibi,Mc",
@@ -323,7 +323,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5680-42.hd-4383-10-14.ch-824-110.lg-3006-96-96.he-5997-96.fa-3276-92.cc-4091-110",
+    "habboFigure": "hr-5680-42.hd-4383-10-14.ch-824-110.lg-3006-96-96.ha-5620-96.he-5808-96.fa-3276-92.cc-4091-110",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "Belle!",
@@ -472,8 +472,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Corleone",
-    "habboFigure": "hr-125-31.hd-5317-2-1392.ch-5858-1337.lg-3418-92.sh-5718.ha-1003-92.he-3070-92.ea-5392.fa-5601-92",
+    "motto": "Super\rChill\rSlide\rCorleone",
+    "habboFigure": "hr-125-31.hd-5317-2-1392.lg-275-92.sh-5718.he-3070-92.ea-5392.fa-5601-92.cc-5446",
     "memberSince": "2009-10-29T14:47:56.000+00:00",
     "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a",
     "name": "ric",
@@ -883,7 +883,7 @@
     "online": true,
     "gender": "m",
     "motto": "Custode del Sigillo EºW",
-    "habboFigure": "hr-3278-49-40.hd-180-28.ch-3323-110-92.lg-3384-110-1408.sh-3419-110-110.ea-3169-110.fa-3345-92.wa-2001.cc-3509-110-92",
+    "habboFigure": "hr-3278-61-61.hd-3091-28.ch-4025-64-110.lg-4017-110-1408.sh-3419-110-110.ha-1023-110.fa-3345-110.cc-3420-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-4363-1395-1395.hd-629-1.ch-3807-92-1425.lg-3320-1426-1408.sh-3089-110.he-5314-92-1408.cc-3542-92-1338",
@@ -1402,7 +1402,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "‘ Dracarys ‘ SFH ‘ Fam Corleone ‘",
+    "motto": "‘ Super Chill Slide Corleone Club ‘",
     "habboFigure": "hr-3273-31-1397.hd-3536-2-2.ch-650-92.lg-3483-1409-1409.sh-3587-92-1409.ha-3855-1409.fa-3276-1412.ca-3876-92-92.cc-3826-1409-92",
     "memberSince": "2016-02-26T23:00:05.000+00:00",
     "uniqueId": "hhit-a322e33597024a6422fe15448a6e5053",
@@ -1423,7 +1423,7 @@
     "online": true,
     "gender": "m",
     "motto": "EW",
-    "habboFigure": "hr-3322-45.hd-209-19.ch-215-91.lg-280-91.sh-908-91.ea-3925-1408-1408.fa-1204",
+    "habboFigure": "hr-3322-45.hd-209-19.ch-4111-64.lg-3320-64-1408.sh-4112-1408-1408.ea-3925-1408-1408.fa-1204.cc-3874-64-1408",
     "memberSince": "2016-03-14T14:51:53.000+00:00",
     "uniqueId": "hhit-845ed47b53ac2ff605c2b342918fae10",
     "name": "Kekkoloveink",
@@ -1463,7 +1463,7 @@
     "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-1342.hd-605-28.ch-655-92.lg-720-77.sh-908-92.he-3082-1408.fa-5467.ca-3219-1331.cc-5800-1326-1326",
+    "habboFigure": "hr-5619-1342.hd-605-28.ch-655-110.lg-710-110.sh-908-92.he-3082-1408.fa-5467.ca-3292-110.wa-3264-1427-77.cc-5800-1341-1341",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1687,6 +1687,16 @@
     "memberSince": "2018-07-10T17:24:21.000+00:00",
     "uniqueId": "hhit-98d2b737994e77494a19f0c4aae1b2b4",
     "name": "SuperThomBAN",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "ammazzo il tempo",
+    "habboFigure": "hr-834-40.hd-600-10.ch-3013-1331.lg-3078-82.sh-3016-110.he-1609-110.fa-1209-88.ca-1811",
+    "memberSince": "2018-07-24T11:43:55.000+00:00",
+    "uniqueId": "hhit-f451f4377aa45707732b442c38f8a88f",
+    "name": "allappante,",
     "isAdmin": false
   },
   {
@@ -1990,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3852-1353.hd-3845-28.ch-5595-110.lg-5594-110.sh-3089-1337.ea-3484.cc-5461-1337-110",
@@ -2020,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Masarez YK º",
     "habboFigure": "hr-4131-1350-40.hd-3096-28.ch-660-110.lg-3596-110-92.sh-3027-110-92.he-1609-110.ea-3148-110-110",
@@ -2550,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-1429.sh-5803-92.ha-1004-1429.he-3070-92.ea-3169-110.fa-5601-1408.cc-3007-92-1408",
@@ -2780,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  Aiutante Corsaro BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -2820,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Troublemaker Hooligans",
     "habboFigure": "hr-3163-1403.hd-3102-1.ch-3880-92.lg-5594-92.sh-3154-92-1408.he-5088.cc-4979-92",
@@ -3000,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "VIDA LOCA",
     "habboFigure": "hr-3841-49.hd-4174-8.ch-5559-1408.lg-3078-1410.sh-3375-1410-1410.he-3070-1410.ca-1816.cc-4386-1321-1410.cp-3315-1410",
@@ -3080,7 +3090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5720-41-1401.hd-4383-27-1363.ch-3013-1427.lg-5594-1427.sh-5464-92-110.ha-3156-1427.fa-5601-1427.cc-3744-92-1427.cp-3309-92",
