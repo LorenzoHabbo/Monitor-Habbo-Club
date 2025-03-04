@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Assolutamente assoluto",
     "habboFigure": "hr-155-42.hd-209-1.ch-3110-64-82.lg-285-64.sh-305-1408.wa-2004-1408.cc-3294-64-1408",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Helping Habbos ™",
     "habboFigure": "hr-9534-49.hd-207-1391.ch-3030-92.lg-5594-1425.sh-3206-92.ha-1002-1412.he-3070-1321.fa-5601-1321.ca-3084-1329-92.wa-2001.cc-3326-1412-1321",
@@ -533,7 +533,7 @@
     "online": true,
     "gender": "m",
     "motto": "Garzone di coperta -BP",
-    "habboFigure": "hr-802-42.hd-209-14.ch-230-76.lg-280-64.sh-906-1408.he-1608",
+    "habboFigure": "hr-802-42.hd-209-14.ch-230-76.lg-280-1408.sh-906-1408.he-1608.ca-1812",
     "memberSince": "2010-06-14T13:43:48.000+00:00",
     "uniqueId": "hhit-067c453b7b980a3026eee874d82a92cd",
     "name": "TuttoPaky99",
@@ -1122,7 +1122,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "HABBO DISOCCUPATO",
+    "motto": "unico abbino del nord sopravvisuto",
     "habboFigure": "hr-3860-42-45.hd-3845-1370.ch-3498-64.lg-4138-64.ha-3622.he-1609-64.fa-5975.cc-4137-64",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
@@ -1161,9 +1161,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "non ho più aspettato",
-    "habboFigure": "hd-180-7.ch-255-93.lg-280-93.sh-300-1321.ea-3484.fa-1208-1331.cc-3289-93",
+    "habboFigure": "hr-3040-1396.hd-3106-10.ch-3293-110-1408.lg-3174-110-110.sh-3064-110.ha-3139-110.ea-3107-110-92.fa-3193-105.ca-3444-110.cc-3299-110-110",
     "memberSince": "2013-12-17T15:12:30.000+00:00",
     "uniqueId": "hhit-a16b908903e9862da096b2b6e69bc474",
     "name": "Melissa4316",
@@ -1363,14 +1363,14 @@
     "online": true,
     "gender": "f",
     "motto": "Tutti i Migliori sono matti cit.",
-    "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
+    "habboFigure": "hr-3936-1346-1346.hd-600-10.ch-5453-1326-92.lg-5243-92.sh-3619-1327-92.ha-3565.he-5808-95.fa-5467.ca-5108-1327-92.cc-5461-92-1327",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-32.hd-3536-10-10.ch-5607-68.lg-3526-68-68.sh-5247-71-68.ha-4192.he-5765-71.fa-5467",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4118-44.hd-3631-1-1371.ch-5302-80-81.lg-3460.sh-3524-80-82.ha-4192.he-5618-80.fa-3276-72.cc-3373-81",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alastor G.D.",
     "habboFigure": "hr-5791-1353.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-1337-1337.cc-5761-100-1412",
@@ -3170,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trash queenna!",
     "habboFigure": "hr-555-1404.hd-3096-2.ch-3342-1322-1322.lg-3006-100-100.sh-3027-100-1408.ea-3108-110-92",
