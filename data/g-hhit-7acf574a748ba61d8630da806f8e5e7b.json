@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Handitem 1095",
     "habboFigure": "hr-3090-42.hd-180-10.ch-3539-73.lg-275-82.ha-1004-74.he-1608.ca-3937.cc-5690-64",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-1408-1408.lg-3088-73-1408.sh-300-1408.ha-5520-1408-85.he-1601.fa-1201.ca-3444-84.wa-2004-1408.cc-5826-84",
@@ -633,7 +633,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-5210-1349-54.hd-5838-1379-1367.ch-3498-92.lg-3521-1415-71.sh-5247-71-1415.he-3070-92.fa-5975.ca-5768-1415-1408.cp-5873-71",
+    "habboFigure": "hr-5210-1349-54.hd-5838-1379-1367.ch-3498-92.lg-3521-1415-71.sh-5247-71-1415.ha-3494-1415-71.he-3070-1408.fa-5975.ca-5768-1415-1408.cp-5873-71",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-4363-1342-1342.hd-4383-2-1358.ch-3135-1410.lg-5594-92.he-3082-1337.fa-5601-92.wa-5370.cc-5440-1337-1339",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5772-31-37.hd-4383-10-30.ch-5351-74-71.lg-700-74.ha-1003-74.cc-3917-74",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-3059-110.lg-4066-1426.sh-3089-110.cc-5800-100-100",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Soldato Scelto G.D ª",
     "habboFigure": "hr-3786-35-35.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-73.fa-5601-1408.ca-4115-64-73.wa-2007.cc-3917-64",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo Corleone",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1493,7 +1493,7 @@
     "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-1342.hd-605-28.ch-655-92.lg-720-77.sh-908-92.he-3070-92.ea-3108-1408-1408.fa-5467.ca-3219-1331.cc-5800-1326-1326",
+    "habboFigure": "hr-5619-1342.hd-605-28.ch-655-92.lg-720-77.sh-908-92.he-3958-1326.fa-5467.ca-3219-1331.cc-5800-1326-1326",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non regalate",
     "habboFigure": "hr-3852-1356.hd-5684-1391.ch-4110-110.lg-5594-77.sh-4112-92-92.he-3070-92.ca-5108-92-71.cc-5440-110-92",
@@ -1667,16 +1667,6 @@
     "memberSince": "2017-03-20T21:40:46.000+00:00",
     "uniqueId": "hhit-92632a510a372b22218b10936836681b",
     "name": "Luca9298-Ban",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3163-45.hd-205-1390.ch-240-1409.lg-280-64.sh-305-92.he-3070-1427.ca-5768-64-110.cc-4091-1409",
-    "memberSince": "2017-03-27T21:03:17.000+00:00",
-    "uniqueId": "hhit-46321e9335704051f5ca35c72187c39b",
-    "name": "3vl",
     "isAdmin": false
   },
   {
@@ -1860,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -2150,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Masarez",
     "habboFigure": "hr-828-54.hd-205-1390.ch-3368-92-110.lg-280-110.sh-3035-110.he-4946-110.ea-4021-92-110.cc-5800-110-110",
@@ -2290,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "te dejo atras",
     "habboFigure": "hr-5619-31.hd-615-10.ch-665-64.lg-5594-64.sh-906-64.he-5578-73.fa-5835-73.wa-5836-64-64",
@@ -3620,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cavaliere 1p GD",
     "habboFigure": "hr-3673-1407.hd-4383-19-14.ch-3770-1412-1408.lg-4119.sh-5671-1427",
