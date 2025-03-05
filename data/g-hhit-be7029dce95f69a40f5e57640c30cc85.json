@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-1428.lg-5594-77.sh-5464-92-92.ha-5557-63-1334.ea-3750.fa-5384-92.cc-3542-1336-1334",
@@ -8730,7 +8730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3786-42-42.hd-180-30.ch-210-1408.lg-3116-1408-1408.sh-3524-64-1408.fa-3344-1408",
