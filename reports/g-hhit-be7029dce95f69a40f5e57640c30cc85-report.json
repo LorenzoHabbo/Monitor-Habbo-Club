@@ -4082,5 +4082,29 @@
     "nuovi": [],
     "abbandonati": [],
     "adminChanges": []
+  },
+  {
+    "data": "mercoledì 5 marzo 2025 alle ore 00:54",
+    "nuovi": [
+      {
+        "name": "ric",
+        "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a"
+      },
+      {
+        "name": "Sunu",
+        "uniqueId": "hhit-add36bf88cafdb2e2cf194130fe1218a"
+      }
+    ],
+    "abbandonati": [
+      {
+        "name": "james-btr",
+        "uniqueId": "hhit-c0c3682bd2e424509b3b3dfcb117ff15"
+      },
+      {
+        "name": "Phoxes",
+        "uniqueId": "hhit-6f8e32fb0eceb406ca514309ab18c5fa"
+      }
+    ],
+    "adminChanges": []
   }
 ]
