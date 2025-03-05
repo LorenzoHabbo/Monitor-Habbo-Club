@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  Masarez © 2o16 - 2o25",
     "habboFigure": "hr-829-41.hd-190-1.ch-3934-92-110.lg-5732-110-64.sh-3587-92-92.he-1609-110.ea-1402.cc-3509-110-79",
@@ -283,7 +283,7 @@
     "online": true,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
-    "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
+    "habboFigure": "hr-5772-55-61.hd-5682-10.ch-665-110.lg-5243-1426.sh-3206-110.he-3884-92-105.ea-4161.fa-4044.cc-3867-110-110.cp-3315-92",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5619-60.hd-600-10.ch-5963-105.lg-3134-110-1408.ha-4349.fa-3276-96.ca-5771-1423-105",
@@ -1403,7 +1403,7 @@
     "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
-    "habboFigure": "hr-125-1398.hd-3845-28.ch-3342-110-110.lg-3116-110-92.sh-3206-1423.ha-4349.fa-5057.cc-4184-110-1423",
+    "habboFigure": "hr-125-1398.hd-3845-28.ch-3342-110-110.lg-3116-110-92.sh-3206-110.ha-1004-110.he-4946-1418.cc-4184-110-1418",
     "memberSince": "2009-02-18T14:30:01.000+00:00",
     "uniqueId": "hhit-2324439fab9bf1743b5232868fe0eb77",
     "name": "Alibi,Mc",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Masarez USA - Street S",
     "habboFigure": "hr-828-1342.hd-180-1.ch-804-92.lg-285-92.sh-305-92.he-1609-92.fa-1209-92.cc-5800-92-92",
@@ -1967,6 +1967,16 @@
     "memberSince": "2009-09-09T01:08:32.000+00:00",
     "uniqueId": "hhit-c8bdee358d463034cde65369b9773800",
     "name": "energized",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Mi siddia.",
+    "habboFigure": "hr-3195-1352-40.hd-3845-25.ch-3688-1417.lg-5594-110.ha-1002-110.he-3070-1337.fa-5601-97.cc-4979-110",
+    "memberSince": "2009-09-22T17:15:48.000+00:00",
+    "uniqueId": "hhit-216c58552359918f0949b0f2bdaaf652",
+    "name": "francescobot",
     "isAdmin": false
   },
   {
@@ -2063,7 +2073,7 @@
     "online": true,
     "gender": "m",
     "motto": "Super Chill Slide Corleone Club",
-    "habboFigure": "hr-125-31.hd-5317-2-1392.ch-5858-1337.lg-3418-92.sh-5718.ha-1003-92.he-3070-92.ea-5392.fa-5601-92",
+    "habboFigure": "hr-125-31.hd-208-2.ch-5858-1337.lg-3418-92.sh-5718.ha-1003-92.he-3070-92.ea-5392.fa-5601-92",
     "memberSince": "2009-10-29T14:47:56.000+00:00",
     "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a",
     "name": "ric",
@@ -2360,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro delle ombre del Kraken BP",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-215-92.lg-3596-1428-64.sh-295-1428.he-5088.ca-5381-1427",
@@ -2500,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Segretaria Corleone",
     "habboFigure": "hr-5772-61-1344.hd-625-18.ch-3036-1325-1409.lg-3842-110-110.sh-3354-110-1408.he-3070-1321.ca-1802.wa-3072-1410-1410",
@@ -2830,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Se vuoi restare, ripensaci",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-695-64.sh-5551.he-5802-64.fa-3276-73.cc-5461-1408-82",
@@ -3730,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "1312",
     "habboFigure": "hr-3841-40.hd-3845-8.ch-255-81.lg-280-81.sh-3524-1408-1408.he-1608.fa-3276-1408",
@@ -4011,9 +4021,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Scagnozzo Corleone|",
-    "habboFigure": "hr-3163-1342.hd-209-10.ch-3203-66.lg-5594-110.sh-3089-92.cc-3075-92",
+    "habboFigure": "hr-4363-1342-1342.hd-4383-2-1358.ch-3135-1410.lg-5594-92.he-3082-1337.fa-5601-92.wa-5370.cc-5440-1337-1339",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -5070,7 +5080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -5140,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "just call me Mimy|",
     "habboFigure": "hr-4031-1401-61.hd-3845-1363.ch-5735-110-1419.lg-4191-92-92.ha-4192.he-5314-110-1419.fa-5601-97.cc-5461-1419-110",
@@ -5260,10 +5270,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3278-49-40.hd-180-28.ch-4025-92-76.lg-4017-92-1408.sh-3419-110-110.ha-4018-1408-1408.ea-4021-110-1408.fa-4014-92-1408",
+    "habboFigure": "hr-3278-49-40.hd-180-28.ch-3323-110-92.lg-3384-110-1408.sh-3419-110-110.ea-3169-110.fa-3345-92.wa-2001.cc-3509-110-92",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -5600,7 +5610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady [ MSRZ ] º #strxnzasbagliat",
     "habboFigure": "hr-5619-34.hd-3956-28-1377.ch-5560-110-110.lg-5594-88.sh-5308-1410.ha-5620-110.he-5482.ea-5576-110-64.fa-4058-92.ca-5604-110-92.cc-5690-110",
@@ -5750,7 +5760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto g.d.",
     "habboFigure": "hr-3163-61.hd-180-1389.ch-3077-92-1408.lg-270-110.sh-3089-110.he-3070-92.ea-3484.cc-3186-110",
@@ -6550,7 +6560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Se sono afk manda richiesta",
     "habboFigure": "hd-180-14.ch-3030-1408.lg-270-1408.sh-305-1408.he-1609-1408.fa-3344-1408",
@@ -6690,7 +6700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-73.lg-280-64.sh-908-91.fa-3276-71.cp-3128-73",
@@ -7150,7 +7160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "C'era una volta",
     "habboFigure": "hr-828-1353.hd-180-2.ch-3934-1427-91.lg-4066-1427.sh-3587-1409-92.he-3740",
@@ -7320,7 +7330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "unico abbino del nord sopravvissuto",
     "habboFigure": "hr-3860-45-42.hd-3845-1370.ch-3498-64.lg-4138-64.ha-3662-64-1408.fa-5975.cc-4137-64",
@@ -8280,7 +8290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-828-45.hd-205-28.ch-5559-64.lg-280-110.sh-305-1408.ha-1002-110.he-3070-92.fa-1208-91.cc-3509-110-92",
@@ -9987,16 +9997,6 @@
     "memberSince": "2016-03-13T22:14:38.000+00:00",
     "uniqueId": "hhit-93d997323a60f184c1164d5664fbfdff",
     "name": "herick25",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "DAI DIAMANTI NON NASCE NIENTE",
-    "habboFigure": "hr-155-31.hd-180-14.ch-210-1408.lg-275-1408",
-    "memberSince": "2016-03-21T19:32:04.000+00:00",
-    "uniqueId": "hhit-298aed37e944896df0ff2b0459cccc66",
-    "name": "jonnuw",
     "isAdmin": false
   }
 ]
