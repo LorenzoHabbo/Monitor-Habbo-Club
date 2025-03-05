@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-889-34.hd-180-10.ch-808-1408.lg-285-82.ha-4094-1408-1408.fa-5600-68",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4186-42.hd-4383-10-14.ch-824-110.lg-3006-96-96.ha-5620-96.he-5808-96.fa-3276-92.cc-4091-110",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo Regime Alta Tensione »Hooligans»",
     "habboFigure": "hr-3768-1405.hd-208-1370.ch-3203-110.lg-285-81.sh-906-92.ha-1002-110.ea-3148-1408-110.fa-3462-63.wa-2001",
@@ -520,10 +520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cadetto GD ƒ",
-    "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3046-110.lg-3006-110-92.sh-5717.he-5827-92-92.fa-5467.cc-4137-110.cp-5886-92",
+    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-650-110.lg-3006-98-98.sh-5717.he-5827-89-98.fa-5467.cc-3744-98-98.cp-5886-98",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-1603-106.ea-3170-1321.fa-4168-93.ca-1816.wa-5123-93.cp-3125-96",
@@ -960,10 +960,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " »Uomo D'onore L.I. Fam. Corleone »",
-    "habboFigure": "hr-3670-61.hd-5838-11-1367.ch-3934-92-110.lg-5594-1338.sh-3089-92.ha-3855-1409.he-5813-68-1333.fa-5975.ca-3485.cc-5800-1409-1409.cp-5495",
+    "habboFigure": "hr-3670-61.hd-5838-11-1367.ch-3934-92-110.lg-5594-1338.sh-3089-92.ha-3855-1409.fa-5975.ca-3485.cc-5800-1409-1409.cp-5495",
     "memberSince": "2011-12-22T22:14:33.000+00:00",
     "uniqueId": "hhit-b01772c35df1f2fe4a256423a1e355a9",
     "name": ".Robi.",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "»Leggenda Battaglia»",
     "habboFigure": "hr-828-49.hd-190-28.ch-235-92.lg-280-92.sh-295-92.fa-1201",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ºScagnozzo Semplice G.D º",
     "habboFigure": "hr-3786-31-35.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-73.ca-4115-64-73.wa-2007.cc-3917-64",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-32-31.hd-3956-1-1371.ch-5560-73-73.lg-5594-73.he-3660-1408-1408.fa-3276-73.wa-5370",
@@ -1423,14 +1423,14 @@
     "online": true,
     "gender": "f",
     "motto": "‘ Super Chill Slide Corleone Club ‘",
-    "habboFigure": "hr-3273-31-1397.hd-3536-2-2.ch-650-92.lg-3483-1409-1409.sh-3587-92-1409.ha-3855-1409.fa-3276-1412.ca-3876-92-92.cc-3826-1409-92",
+    "habboFigure": "hr-3273-31-1397.hd-3536-2-2.ch-650-92.lg-3483-1409-1409.sh-3587-92-92.ha-3855-1409.fa-3276-1412.ca-3876-92-92.cc-3826-1409-92",
     "memberSince": "2016-02-26T23:00:05.000+00:00",
     "uniqueId": "hhit-a322e33597024a6422fe15448a6e5053",
     "name": "unica_au",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "bulle7prøøf ∞",
     "habboFigure": "hr-5445-51.hd-627-28.ch-3669-1420-92.lg-5594-92.ha-5511.he-3740.fa-4046.ca-5635-92-92.cc-3744-92-1420",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-4126-31-49.hd-605-10.ch-655-92.lg-720-63.sh-908-92.he-3070-92.fa-5467.ca-4965-110-1427.wa-3264-110-1408.cc-5800-86-86",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-635-92.lg-5594-77.sh-4112-99-77.ha-3156-95.he-3884-1419-95.ea-5576-64-64.cc-9563-1419",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Madcap Hooligans [»]",
     "habboFigure": "hr-829-61.hd-3092-10.ch-240-110.lg-3023-110.sh-3016-110.fa-1204.cc-3509-64-64",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-42.hd-190-1.ch-255-1431.lg-280-110.sh-5803-1431.he-5827-68-1408.ea-1404-63.fa-5752.ca-5615",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uau",
     "habboFigure": "hr-3936-49-40.hd-600-1.ch-665-110.lg-3006-110-1408.ha-4196.fa-3296.ca-4173-110.cc-3360-110",
@@ -2840,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "\"Timportasse qualcosa, ti mancherei.\"",
     "habboFigure": "hr-3163-1403.hd-3102-28.ch-3203-92.lg-5594-110.sh-3154-110-110.he-3070-1408.ea-3148-110-110.cc-3007-110-110",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-4128-1330-110.lg-3006-110-110.sh-5308-1330.he-5314-1330-1330.fa-5467",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-515-1404.hd-615-2.ch-660-63.lg-710-110.sh-3275-63.ea-3148-110-110",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ne esci deviato",
     "habboFigure": "hr-802-42.hd-190-1.ch-3110-1320-91.lg-285-1320.sh-906-1408.ha-1002-1320.ea-1404-64",
@@ -3597,6 +3597,16 @@
     "memberSince": "2025-03-01T19:21:16.000+00:00",
     "uniqueId": "hhit-de330d6f3df2f77100a9df75d45ae8cc",
     "name": "Evelyn.",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-3090-36.hd-209-1.ch-3030-64.lg-285-64.sh-3068-64-1408",
+    "memberSince": "2025-03-04T14:02:35.000+00:00",
+    "uniqueId": "hhit-82c1e42929058b6188543e533f899f40",
+    "name": "ManuelGenerale",
     "isAdmin": false
   },
   {
