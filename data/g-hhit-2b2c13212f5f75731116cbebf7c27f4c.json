@@ -80,10 +80,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
-    "habboFigure": "hr-5445-55.hd-5682-10.ch-665-110.lg-5243-1426.sh-3206-110.he-3884-92-105.ea-5007.fa-4044.cc-3867-110-110.cp-3315-92",
+    "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "since 2009",
     "habboFigure": "hr-3163-59.hd-3095-1370.ch-3203-92.lg-3023-64.sh-3089-96.wa-2001.cc-3007-64-92",
@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºScagnozzo Semplice G.D º",
     "habboFigure": "hr-3786-31-35.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-73.ca-4115-64-73.wa-2007.cc-3917-64",
@@ -7470,7 +7470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Decime G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-1429.sh-5803-92.ha-1004-1429.he-3070-92.ea-3169-110.fa-5601-1408.cc-3007-92-1408",
