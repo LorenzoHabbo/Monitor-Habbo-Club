@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-92",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-3322-45.hd-209-19.ch-4111-64.lg-3320-64-1408.sh-4112-1408-1408.ea-3925-1408-1408.fa-1204.cc-3874-64-1408",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Decime G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-1429.sh-5803-92.ha-1004-1429.he-3070-92.ea-3169-110.fa-5601-1408.cc-3007-92-1408",
@@ -4290,7 +4290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Iniziato GD",
     "habboFigure": "hr-838-61.hd-625-1370.ch-3213-92-1327.lg-3290-110.sh-3068-92-1327.he-3227-1327.ea-1401-110",
