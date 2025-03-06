@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1367.ch-5559-1409.lg-5594-89.sh-3089-110.ha-3709.cc-5800-92-92",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-209-1.ch-235-66.lg-4167-82.sh-305-64.he-1608.fa-1201",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-3059-110.lg-4066-1426.sh-3089-110.cc-5800-100-100",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-3604-1370.ch-3581-66-85.lg-5113-1408.sh-3524-1408-1408.ha-3591.he-5074-1408.fa-4048.cc-4091-64",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-4111-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.wa-3798-1408-1408.cc-4282-72",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-92",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-12.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -1473,7 +1473,7 @@
     "online": false,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-1342.hd-605-10.ch-3439-1427-71.lg-3006-1338-81.sh-3206-1408.he-3821-84-1326.ea-3196-1326.fa-3276-1412.ca-3175-63.cc-3289-1338",
+    "habboFigure": "hr-5619-1342.hd-605-28.ch-655-1333.lg-710-110.sh-740-92.he-3821-84-1332.fa-5467.ca-3292-110.cc-5800-92-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Decime G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-1429.sh-5803-92.ha-1004-1429.he-3070-92.ea-3169-110.fa-5601-1408.cc-3007-92-1408",
