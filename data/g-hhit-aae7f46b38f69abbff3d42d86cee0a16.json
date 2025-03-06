@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "E.W.",
     "habboFigure": "hr-828-37.hd-180-3.ch-3030-1325.lg-3057-81.sh-4112-110-92",
@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "    Eternal º Warriors",
     "habboFigure": "hd-180-10.ch-215-92.lg-3058-92.sh-3089-110.ha-1002-110.ea-3169-110.fa-3462-110.cc-3075-110",
