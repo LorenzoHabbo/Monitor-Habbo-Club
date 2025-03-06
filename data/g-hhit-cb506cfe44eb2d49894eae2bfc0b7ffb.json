@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro delle ombre del Kraken BP",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-92.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-1603-106.ea-3170-1321.fa-4168-93.ca-1816.wa-5123-93.cp-3125-96",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-4111-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.wa-3798-1408-1408.cc-4282-72",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Scagnozzo G.D º",
     "habboFigure": "hr-3841-35.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-82.fa-5601-1408.ca-4115-64-82.wa-2009-64.cc-3917-64",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -1840,10 +1840,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Madcap Hooligans [»]",
-    "habboFigure": "hr-829-61.hd-3092-10.ch-3203-110.lg-3023-110.sh-3016-110.fa-1204",
+    "motto": "",
+    "habboFigure": "hr-829-61.hd-3092-10.ch-240-110.lg-3023-110.sh-3016-110.fa-1204.cc-3509-64-1408",
     "memberSince": "2019-08-03T13:44:51.000+00:00",
     "uniqueId": "hhit-8a160583ccbdb6d8d33da747a5606f49",
     "name": "Teoby88",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "la vita è pazzesca",
     "habboFigure": "hr-5018-52-61.hd-3097-28.ch-5560-110-110.lg-5594-110.sh-3035-110.he-3070-92.ea-5641",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5813-68-110.ea-1404-110",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  Aiutante Corsaro BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Nothing's gonna hurt you baby |",
     "habboFigure": "hr-3163-1403.hd-3102-1.ch-3203-92.lg-5594-110.sh-3089-110.he-3070-1408.cc-3007-92-1326",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3852-54.hd-615-28.ch-3005-92-71.lg-710-92.sh-5670-64.he-3082-92.fa-5467.ca-4372-92.wa-3264-71-92.cc-3975-92-71",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cadetto GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-815-110-1408.lg-3058-1336.sh-3089-110.he-3082-106.ea-1401-1336.ca-3187-92.cc-9563-110",
