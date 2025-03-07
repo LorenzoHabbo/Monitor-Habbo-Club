@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fondatore Eternal Warriors",
     "habboFigure": "hr-3278-61-40.hd-190-28.ch-220-110.lg-270-110.sh-295-92.ha-1013-110",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SEGUACE COLONNELLO ETERNAL WARRIOR",
     "habboFigure": "hr-3860-1407-61.hd-3092-1359.ch-3234-110.lg-3596-110-110.ha-3710.fa-3462-110.cc-4947-96",
