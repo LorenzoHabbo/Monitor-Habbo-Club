@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
     "habboFigure": "hr-125-31.hd-4174-1.ch-3779-64-110.lg-285-64.sh-3524-110-110.ea-3493-110-110.fa-5384-92",
@@ -1750,10 +1750,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sommelier Masarez",
-    "habboFigure": "hr-829-1394.hd-3095-2.ch-875-110-99.lg-270-110.sh-3016-110.fa-1204.ca-1810.wa-3212-99-99",
+    "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -5020,10 +5020,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Prete di Avetrana",
-    "habboFigure": "hd-190-1371.ch-875-110-1408.lg-3191-110-110.sh-295-92.ca-1810",
+    "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
     "memberSince": "2011-08-28T17:25:18.000+00:00",
     "uniqueId": "hhit-add36bf88cafdb2e2cf194130fe1218a",
     "name": "Sunu",
@@ -6090,7 +6090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-4111-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.wa-3798-1408-1408.cc-4282-72",
@@ -6440,7 +6440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sicario Corleone¬",
     "habboFigure": "hr-125-35.hd-190-1.ch-5608-1408.lg-3078-82.sh-3524-64-1408.fa-3276-64.ca-4965-73-1408",
@@ -6640,7 +6640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Where Do We Go",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-73.lg-280-64.sh-908-91.fa-3276-71.cp-3128-73",
