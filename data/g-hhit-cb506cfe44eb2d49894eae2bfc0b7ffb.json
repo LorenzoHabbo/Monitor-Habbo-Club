@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-889-34.hd-180-10.ch-215-64.lg-285-82.ha-4094-64-64.fa-5600-68.cc-4105-64-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1395-1395.hd-209-2.ch-5214-110-110.lg-5594-1341.he-3082-1329.cc-5800-1331-1331",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "»Leggenda Battaglia»",
     "habboFigure": "hr-828-49.hd-190-28.ch-235-92.lg-280-92.sh-295-92.fa-1201",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-92",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -2180,10 +2180,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
-    "habboFigure": "hr-3163-61.hd-190-1.ch-5258.lg-3136-110.sh-5803-101.he-5827-68-110.ea-1404-103.fa-5753.cc-3744-1315-103",
+    "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5813-68-1408.ea-1404-63.fa-5752",
     "memberSince": "2020-07-30T19:13:23.000+00:00",
     "uniqueId": "hhit-67b75c5e1842a089bad6b3951c98ea72",
     "name": "michelinus",
@@ -3080,7 +3080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Youth Hooligans",
     "habboFigure": "hr-5019-61.hd-3845-1390.ch-5559-92.lg-5594-89.sh-5640.he-3070-68.ea-1404-110.cc-3420-110",
