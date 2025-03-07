@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1344-1344.hd-3091-1.ch-215-110.lg-3058-110.sh-3089-93.ha-3986.he-3070-92.cc-3928",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
     "habboFigure": "hr-125-31.hd-4174-1.ch-3779-64-110.lg-285-64.sh-3524-110-110.ea-3493-110-110.fa-5384-92",
@@ -4760,7 +4760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto g.d",
     "habboFigure": "hd-180-14.ch-210-1408.lg-270-1408.fa-3344-1408",
@@ -5020,7 +5020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Prete di Avetrana",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -5890,10 +5890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MasArez",
-    "habboFigure": "hr-5681-1403-49.hd-3100-1390.ch-4110-92.lg-4138-110.fa-3276-97.cc-3515-110-92",
+    "habboFigure": "hr-5681-1403-49.hd-3100-1390.ch-4087-92.lg-4066-1412.he-5817-63.fa-3276-97.cc-5800-1412-92",
     "memberSince": "2012-02-04T18:51:43.000+00:00",
     "uniqueId": "hhit-e1f833cd4352e443b025fb5c33b15792",
     "name": "Chanel22",
@@ -7320,7 +7320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SICILIAN LOVE!",
     "habboFigure": "hr-5248-57-1351.hd-5696-1-1362.ch-3203-1340.lg-270-92.he-3070-1410.fa-3344-110.cc-886-110",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5681-45-40.hd-4163-1-1.ch-4299-82-64.lg-3408-1408-1408.sh-730-64",
