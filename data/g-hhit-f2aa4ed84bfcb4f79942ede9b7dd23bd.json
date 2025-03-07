@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mbare si nliuni",
     "habboFigure": "hr-3163-61.hd-3102-28.ch-3342-110-110.lg-3418-1416.sh-305-92.he-3070-110.fa-5601-92.ca-4115-1416-92",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5285-1403-61.hd-5317-2-8.ch-3032-110-110.lg-275-110.sh-5247-92-110.he-3070-1408.ea-3925-110-110.fa-5751.cp-3315-1408",
@@ -4730,7 +4730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "malessere",
     "habboFigure": "hr-3090-40.hd-205-10.ch-255-64.lg-285-81.sh-908-1408.ha-1002-1408",
