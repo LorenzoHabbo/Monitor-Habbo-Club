@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vescovo Piemontese",
     "habboFigure": "hr-155-45.hd-206-1.ch-240-64.lg-270-64.sh-300-64.ca-1810.wa-2009-76",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-3322-45.hd-209-19.ch-215-91.lg-3320-82-1408.sh-4112-1408-1408.ea-3925-1408-1408.fa-1204.cc-3874-1408-1408",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Luogotenente Little Italy » Corle1 »",
     "habboFigure": "hr-5791-61.hd-5317-8-1365.ch-3934-1331-110.lg-3596-110-1415.sh-3016-110.ha-4188-1331.fa-3296.cc-5825",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo di coperta BP",
     "habboFigure": "hr-3673-44.hd-3956-1-12.ch-3809-64-64.lg-695-64.sh-3383-64-74.ha-4192.he-3329-75-74.ca-5278-85.cc-4184-76-74",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato Semplice GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-815-110-1408.lg-3058-1336.sh-3089-110.he-3082-106.ea-1401-1336.ca-3187-92",
