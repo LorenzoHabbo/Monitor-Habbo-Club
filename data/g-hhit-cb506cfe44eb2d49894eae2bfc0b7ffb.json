@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Ingegnere Wired",
     "habboFigure": "hr-3037-48-1398.hd-180-1370.ch-3222-92.lg-275-82.sh-295-110.ha-3117-110",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo GD",
     "habboFigure": "hr-5773-1405.hd-600-2.ch-3807-110-1408.lg-3018-1428.sh-3089-1408.ha-1013-110.he-3070-1408",
