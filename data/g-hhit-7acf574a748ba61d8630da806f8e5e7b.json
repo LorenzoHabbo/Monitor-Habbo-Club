@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro delle ombre del Kraken BP",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92.cp-3315-92",
@@ -490,10 +490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Eternal Warriors º",
-    "habboFigure": "hr-5275-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
+    "habboFigure": "hr-5275-1342.hd-180-2.ch-215-1325.lg-285-110.sh-3068-92-92.ha-1021-110.fa-5600-89.cc-3744-110-110",
     "memberSince": "2010-03-27T18:11:46.000+00:00",
     "uniqueId": "hhit-51e68938a0d62f16954462d7156667c7",
     "name": "Ludo-Vik",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5619-31.hd-4383-10-30.ch-665-66.lg-5594-91.sh-5308-66.ha-1004-91.cc-4108-66-1408",
@@ -850,10 +850,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-3050-110-64.lg-3407-110-92.sh-300-92.cc-5800-110-110",
+    "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-3059-110.lg-4066-1426.sh-3089-110.cc-5800-100-100",
     "memberSince": "2011-11-26T16:03:53.000+00:00",
     "uniqueId": "hhit-b924b0493c185642a9e308d05f3607fc",
     "name": "TheWizard",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Scagnozzo Esperto G.D º",
     "habboFigure": "hr-3841-35.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-82.fa-5601-1408.ca-4115-64-82.wa-2009-64.cc-3917-64",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-5619-1342.hd-605-28.ch-655-110.lg-3006-110-110.sh-908-1427.he-3070-110.fa-5467.ca-3175-1427.wa-3263-110-1408.cc-5800-1324-1324",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Assistente mozzo BP   ††††††BOOMM††\r",
     "habboFigure": "hr-4117-34-34.hd-4174-1.ch-3527-64.lg-3924-64-64.sh-3383-64-64.ha-3922-64-64.fa-5456-72.wa-2001.cc-3448",
@@ -1763,7 +1763,7 @@
     "online": true,
     "gender": "m",
     "motto": "mi piaci tu.",
-    "habboFigure": "hr-125-45.hd-205-8.ch-215-1408.lg-270-82.sh-295-1408.he-3660-1408-1408.fa-3344-90",
+    "habboFigure": "hr-125-45.hd-205-8.ch-215-1408.lg-270-82.sh-295-1408.he-3660-1408-1408.fa-3344-90.ca-3503-73",
     "memberSince": "2018-03-31T18:37:09.000+00:00",
     "uniqueId": "hhit-fe4439bdd38e5950673c0d4bfe10029e",
     "name": "CuiSoldier",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-4117-31-48.hd-3845-10.ch-3399-73-1408.lg-4066-64.sh-3524-73-73.fa-3276-73",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-5544-40-40.hd-615-1.ch-3809-64-66.lg-5594-1408.sh-3383-64-1408.he-3324-75-76.cc-4076",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-1369-10.ch-665-82.lg-5623.sh-5803-1408.ha-3620.fa-5467.cc-5800-1408-1408",
@@ -3363,14 +3363,14 @@
     "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-275-110.sh-5803-92.ea-1404-110.cp-3309-92",
+    "habboFigure": "hr-4090-54.hd-205-28.ch-3934-92-110.lg-280-92.sh-3252-64-64.he-3082-92.fa-5467.wa-3264-1326-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-650-110.lg-5594-77.sh-5247-92-92.he-3740.fa-3276-100.cc-5800-110-110",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-100.hd-205-10.ch-255-1320.lg-281-64.sh-908-1408.ha-1006.he-1608.fa-5601-1408",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cavaliere 1p GD",
     "habboFigure": "hr-5681-61-1394.hd-4383-19-14.ch-4063-92-1415.lg-4119.sh-907-1415.he-1608",
@@ -3600,7 +3600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-4128-92-77.lg-3006-77-92.sh-5308-92.he-5314-77-77.fa-5601-92",
@@ -3983,6 +3983,16 @@
     "online": false,
     "gender": "m",
     "motto": "",
+    "habboFigure": "hr-155-31.hd-180-19.ch-235-64.lg-3290-64.sh-300-64.ha-1015.fa-1205-1408",
+    "memberSince": "2024-11-25T21:05:50.000+00:00",
+    "uniqueId": "hhit-2a7072aa6cc402b4331b1b2ad8ca8bff",
+    "name": "Coerenza",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "",
     "habboFigure": "hr-145-39.hd-209-1.ch-255-1408.lg-3116-64-1408.sh-3068-1408-1408.ha-1003-64.ea-1401-1408.fa-3276-73",
     "memberSince": "2024-11-27T11:07:39.000+00:00",
     "uniqueId": "hhit-6074beb33202763ceacb4858ed715617",
@@ -4250,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato Semplice GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-815-110-1408.lg-3058-1336.sh-3089-110.he-3082-106.ea-1401-1336.ca-3187-92",
