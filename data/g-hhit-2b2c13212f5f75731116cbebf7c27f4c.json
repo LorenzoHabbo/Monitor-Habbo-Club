@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-4363-1404-1404.hd-3845-10.ch-5202-92-97.lg-3198-92.sh-3338-92.he-5698-92-97.fa-5467",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-4087-110.lg-4066-110.ha-3586.he-5808-1408.fa-3276-1414",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Decime Esperta G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
@@ -8460,7 +8460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-45.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
