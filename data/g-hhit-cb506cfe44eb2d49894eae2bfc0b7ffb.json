@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-803-110.lg-285-110.sh-300-110",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1344-1344.hd-3091-1.ch-215-110.lg-3058-110.sh-3089-93.ha-3986.he-3070-92.cc-3928",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Questo è Solo Un Gioco.",
     "habboFigure": "hr-155-45.hd-180-8.ch-215-64.lg-275-82.sh-290-1408.he-1601",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1395-1395.hd-209-2.ch-5214-110-110.lg-5594-1341.he-3082-1329.cc-5800-1331-1331",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ognuno ha quel che merita",
     "habboFigure": "hr-515-45.hd-615-1.ch-685-1320.lg-720-82.sh-740-1408.fa-3276-73.ca-1807",
