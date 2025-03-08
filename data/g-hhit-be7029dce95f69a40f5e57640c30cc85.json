@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Till the end",
     "habboFigure": "hr-135-42.hd-4015-30.ch-4025-1408-81.lg-4102-1408-1408.sh-3375-1408-64.ca-4937.cc-5800-1408-1408",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-5772-34-1407.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604.fa-1209-110",
@@ -1393,7 +1393,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-40.hd-600-28.ch-685-110.lg-5243-110.sh-3206-63.ha-5620-110.he-3070-96.ea-3493-1336-1408.fa-3276-96",
+    "habboFigure": "hr-5773-40.hd-600-28.ch-685-110.lg-5243-110.ha-5620-110.he-3070-96.ea-3493-1336-1408.fa-3276-96",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "@topina@",
@@ -4810,10 +4810,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-5619-31.hd-4383-10-30.ch-665-82.lg-5594-91.sh-5308-66.ha-1004-91.cc-4076",
+    "habboFigure": "hr-5772-31-40.hd-4383-10-30.ch-650-84.lg-5594-83.sh-5729-85-85",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -7140,7 +7140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "dejame pensar",
     "habboFigure": "hr-3163-1403.hd-3091-4.ch-255-1331.lg-3596-92-1408.sh-295-110.he-3070-63.fa-3276-63",
@@ -8730,7 +8730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-31-31.hd-3956-1-1371.ch-5560-1408-73.lg-5594-81.he-3660-64-1408.fa-3276-73.wa-5370.cc-5461-73-1408",
