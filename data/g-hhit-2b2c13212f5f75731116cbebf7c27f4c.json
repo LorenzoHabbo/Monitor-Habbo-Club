@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ministro Golden Demons ¥",
     "habboFigure": "hr-3322-37.hd-209-1.ch-3539-82.lg-3596-64-1408.sh-4112-1408-64.ha-5305-82-1408.ca-4115-82-1408.cc-3744-1408-82",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-270-1408.sh-300-1408.wa-2001",
@@ -6400,7 +6400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4131-42-40.hd-3845-10.ch-5302-64-64.lg-3526-64-64.fa-5601-1408",
