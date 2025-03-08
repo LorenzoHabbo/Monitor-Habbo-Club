@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sono paxxo vi giuro º HØØligans",
     "habboFigure": "hr-3163-1407.hd-205-1.ch-5559-89.lg-3078-110.sh-908-1428.ha-5989.fa-5601-110.wa-3080-110.cc-5761-110-89",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1344-1344.hd-3091-1.ch-215-110.lg-3058-110.sh-3089-93.ha-3986.he-3070-92.cc-3928",
@@ -313,7 +313,7 @@
     "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
-    "habboFigure": "hr-125-1398.hd-3845-28.ch-5608-1418.lg-5594-110.sh-3524-110-92.ha-1004-1418.he-4946-1418.fa-5835-1412.ca-3292-110.cc-3289-110",
+    "habboFigure": "hr-3278-1351-49.hd-3845-28.ch-3203-1418.lg-3138-92-1408.ca-3225-1416-1416.wa-5836-92-92.cc-3232-1416-1416",
     "memberSince": "2009-02-18T14:30:01.000+00:00",
     "uniqueId": "hhit-2324439fab9bf1743b5232868fe0eb77",
     "name": "Alibi,Mc",
@@ -513,7 +513,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
-    "habboFigure": "hr-3602-61-1401.hd-5696-10-1367.ch-3032-110-1408.lg-280-110.sh-4112-92-92.he-1609-100.fa-5600-68.ca-3844-110-1330",
+    "habboFigure": "hr-155-45.hd-180-1370.ch-809-85.lg-285-91.sh-906-85",
     "memberSince": "2009-11-15T20:51:23.000+00:00",
     "uniqueId": "hhit-5d49f2bd4206cc9a30a16366e47ada36",
     "name": "DavideL98",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3170-1321.fa-4168-93.ca-1816.wa-5123-93.cp-3125-96",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to Die",
     "habboFigure": "hr-125-1342.hd-180-10.ch-255-110.lg-5594-82.sh-906-110.he-5088",
@@ -1630,6 +1630,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "polli e galline",
+    "habboFigure": "hr-3357-40.hd-209-20.ch-4299-73-64.lg-3216-72.sh-295-64.ha-4050.ea-1401-1408.fa-3462-1408.ca-3973-68-73",
+    "memberSince": "2017-06-22T21:53:05.000+00:00",
+    "uniqueId": "hhit-f7a8da5d816a5050758feba83d14bb55",
+    "name": "Barbatux",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "f",
     "motto": "",
@@ -1780,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-5331-49-40.hd-180-28.ch-3688-110.lg-5732-110-93.sh-3383-110-1408.ha-3463-110.ea-1402.fa-4048.ca-1816.cc-5800-110-93",
@@ -2170,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.fa-5835-96",
@@ -3580,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-5619-1342.hd-615-13.ch-660-63.lg-710-1428.sh-908-92.ha-5620-92.ea-3148-110-110.cc-5961-92-110",
