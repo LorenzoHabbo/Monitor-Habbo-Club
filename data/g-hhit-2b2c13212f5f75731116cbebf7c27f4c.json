@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cadetto GD ƒ",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5167-1326.lg-3502-92.sh-5717.ha-5511.he-5827-1326-1327.fa-5435.cc-5961-1326-1327.cp-5886-1415",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1395-1395.hd-209-2.ch-5214-110-110.lg-5594-1341.he-3082-1329.cc-5800-1331-1331",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to Die",
     "habboFigure": "hr-125-1342.hd-180-10.ch-255-110.lg-5594-82.sh-906-110.he-5088",
