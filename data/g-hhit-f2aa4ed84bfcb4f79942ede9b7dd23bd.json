@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3602-61-1401.hd-5696-10-1367.ch-3032-110-1408.lg-280-110.sh-4112-92-92.he-1609-100.fa-5600-68.ca-3844-110-1330",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tutto finirà",
     "habboFigure": "hr-115-31.hd-209-1.ch-3030-88.lg-3023-85.sh-908-91.ha-5704.ea-1406.fa-1206-90.wa-3211-85-1408.cc-3280-64-1408",
@@ -3940,7 +3940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sono spagnolos",
     "habboFigure": "hr-4090-61.hd-207-8.ch-210-110.lg-280-110.sh-5247-110-110.he-3070-110.ea-1404-110",
@@ -4560,7 +4560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
