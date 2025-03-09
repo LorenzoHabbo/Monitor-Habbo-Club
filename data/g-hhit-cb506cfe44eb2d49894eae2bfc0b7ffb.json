@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1367.ch-5559-1409.lg-5594-89.sh-3089-110.ha-3709.cc-5800-92-92",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3524-1408-1408.ha-3591.he-5074-1408.fa-5760.cc-4091-64",
@@ -2062,7 +2062,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "per gli amici e-e a verità 11790",
+    "motto": "per gli amici e-e a verità 11840",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-3693-90-1320.he-5828.ea-4985.fa-5975.ca-5002.wa-5370",
     "memberSince": "2020-03-11T08:39:56.000+00:00",
     "uniqueId": "hhit-a659e343437dbe99d853fcea0fdfff51",
@@ -2183,7 +2183,7 @@
     "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
-    "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.fa-5835-96",
+    "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63",
     "memberSince": "2020-07-30T19:13:23.000+00:00",
     "uniqueId": "hhit-67b75c5e1842a089bad6b3951c98ea72",
     "name": "michelinus",
@@ -2930,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mio amore espresso macchiato por favor",
     "habboFigure": "hr-3810-56.hd-4383-1-14.ch-3517-92-110.lg-3018-81.sh-3277-92-110.he-3324-1419-1408.ca-3151-92-110",
@@ -3250,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-4363-61-61.hd-5840-1391-1362.ch-3036-1325-73.lg-5594-1409.sh-5308-1329.he-5827-71-77.cc-5961-1325-70",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vigile Urbano di Cairo (devi vendere)",
     "habboFigure": "hd-207-10.ch-875-64-76.lg-270-64.sh-300-64.ea-1403-64.ca-1810.wa-2009-73",
