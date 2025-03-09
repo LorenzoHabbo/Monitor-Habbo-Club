@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.ch-3342-110-110.lg-5594-106.ha-5378-110-110.he-5088.fa-1209-106.ca-3292-106.cc-4091-110",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No flame burns forever",
     "habboFigure": "hr-3163-61.hd-209-28.ch-5596-82.lg-5594-110.sh-3089-92.he-3081-82.fa-3276-82.ca-5300-82",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1370.ch-3323-73-1408.lg-3078-1408.sh-3068-1408-64.ha-1004-64",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio - BP",
     "habboFigure": "hr-829-42.hd-180-8.ch-3279-1327.lg-3023-1417.sh-3089-79.ha-1011-1416.fa-1204.wa-3211-64-73.cc-3075-1419",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-3322-45.hd-209-19.ch-215-91.lg-3320-82-1408.sh-4112-1408-1408.ea-3925-1408-1408.fa-1204.cc-3874-1408-1408",
@@ -1450,10 +1450,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-4126-31-1401.hd-605-28.ch-655-92.lg-720-63.sh-908-92.he-3070-92.fa-5467.ca-4965-110-1427.wa-3264-110-1408.cc-5800-1331-1331",
+    "habboFigure": "hr-4126-31-49.hd-605-28.ch-655-92.lg-720-63.sh-908-92.he-3070-92.fa-5467.ca-4965-110-1427.wa-3264-110-1408.cc-5800-1336-1336",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-3163-61.hd-180-22.ch-3032-110-92.lg-285-77.sh-3587-92-92.he-5643.fa-5835-73",
@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Clone di Tirchio . . . Ganbaru ^-* •",
     "habboFigure": "hr-893-40.hd-5317-1-1367.ch-3668-110-1412.lg-5594-1428.sh-5639.ha-5379-92-110.he-5828.ea-5392.fa-5948-92.cc-5825",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
