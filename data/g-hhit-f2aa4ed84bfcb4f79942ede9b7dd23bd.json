@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-1408-1408.lg-4191-1408-85.sh-290-1408.ha-5520-1408-85.he-1601.fa-1201.ca-3444-85.wa-2004-85.cc-5826-84",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Corleone Club",
     "habboFigure": "hr-125-31.hd-5317-2-1392.ch-5858-1337.lg-3418-92.sh-5718.ha-1003-92.he-3070-92.fa-5601-92",
@@ -4033,7 +4033,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-540-45.hd-629-1.ch-660-82.lg-3023-85.sh-735-64.fa-3276-73",
+    "habboFigure": "hr-540-45.hd-629-1.ch-660-82.lg-3023-85.fa-3276-73",
     "memberSince": "2011-05-21T15:01:12.000+00:00",
     "uniqueId": "hhit-3072de7fce1552e4aeec070d23f82860",
     "name": "b.pucca.d",
