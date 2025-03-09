@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5772-31-40.hd-4383-10-30.ch-650-84.lg-5594-83.sh-5729-85-85",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Fuggite, sciocchi!",
     "habboFigure": "hr-5606-42-42.hd-3845-10.ch-5633-64-64.lg-4375-1408.sh-5671-64.ca-5771-64-64.cc-3975-64-64",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mi piaci tu.",
     "habboFigure": "hr-893-40.hd-190-8.ch-255-64.lg-3058-82.sh-3089-64.ha-5852.ea-3925-75-75.fa-1201.ca-1816",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Masarez",
     "habboFigure": "hr-828-54.hd-205-1390.ch-3368-92-110.lg-280-110.sh-3035-110.he-4946-110.ea-4021-92-110.cc-5800-110-110",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sicario | carissimo| EºW",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato Semplice GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-3014-106.lg-3058-1336.sh-3089-106.he-3082-106.ea-1401-1336.ca-3187-106.cc-9563-110",
