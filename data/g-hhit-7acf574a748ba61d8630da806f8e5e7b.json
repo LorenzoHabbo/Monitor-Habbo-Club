@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Vescovo Piemontese",
     "habboFigure": "hr-3810-45.hd-206-1.ch-240-64.lg-270-64.sh-300-64.ca-1810.wa-2009-76",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-807-64.lg-280-64.ea-1404-1408.fa-1205-64.ca-1806-73",
