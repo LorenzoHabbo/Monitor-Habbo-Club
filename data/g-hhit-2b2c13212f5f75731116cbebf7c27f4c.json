@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-892-40.hd-190-1.ch-4165-1408-66.lg-3290-1408.sh-3383-1408-66.ha-5854.he-3833-1408.ea-1404-64.fa-1206-1408.wa-2002.cp-3127-66",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3170-1321.fa-4168-93.ca-1816.wa-5123-93.cp-3125-96",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3673-37.hd-629-1.ch-4110-73.lg-4114-85-84.sh-3375-64-1408.ha-5620-73.he-5764-66.fa-5601-66.ca-3973-66-72",
