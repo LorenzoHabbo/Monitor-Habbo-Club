@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.ch-3342-110-110.lg-5594-106.ha-5378-110-110.he-5088.fa-1209-106.ca-3292-106.cc-4091-110",
@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-889-34.hd-180-10.ch-210-1408.lg-285-64.ha-4094-1408-1408.fa-5600-1408.cc-3398-64-1408",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Consigliere Corleone",
     "habboFigure": "hr-828-34.hd-180-18.ch-215-110.lg-280-64.sh-3587-92-92.ha-3586.he-3070-1408.ca-4115-109-100",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro delle ombre del Kraken BP",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92.cp-3315-92",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-3322-45.hd-209-19.ch-215-91.lg-3320-82-1408.sh-4112-1408-1408.ea-3925-1408-1408.fa-1204.cc-3874-1408-1408",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4131-42-40.hd-3845-10.ch-5302-64-64.lg-3526-64-64.fa-5601-1408",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato Semplice GD",
     "habboFigure": "hr-838-61.hd-625-27.ch-3213-110-1327.lg-3290-110.sh-3068-110-1327.he-3227-1327.ea-1401-110",
