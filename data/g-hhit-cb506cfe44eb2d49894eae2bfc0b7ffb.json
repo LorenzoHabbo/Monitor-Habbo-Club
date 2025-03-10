@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cambia il tuo motto...~",
     "habboFigure": "hr-4162-42.hd-200-1.ch-5488-72.lg-3460.ha-3620.he-1601.fa-1202-72.ca-1806-72.cc-5826-1408",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-5772-34-1407.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604.fa-1209-110",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sicario | carissimo| EºW",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
