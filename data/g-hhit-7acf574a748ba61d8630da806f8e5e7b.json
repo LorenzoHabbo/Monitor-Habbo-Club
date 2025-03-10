@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.ch-3342-110-110.lg-5594-106.ha-5378-110-110.he-5088.fa-1209-106.ca-3292-106.cc-4091-110",
@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-4370-45.hd-3721-2.ch-5110-63-92.lg-5594-63.sh-3783-92-1408.ha-3544.ea-3803-1408.ca-5444-92-92.cc-4176-92-92.cp-3312",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-92",
