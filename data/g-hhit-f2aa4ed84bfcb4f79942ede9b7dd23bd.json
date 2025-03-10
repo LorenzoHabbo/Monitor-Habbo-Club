@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-155-1394.hd-209-27.ch-5856.lg-5594-1429.sh-908-92.fa-5600-92.cc-3420-64",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Diffidati con noi!",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-4370-45.hd-3721-2.ch-5110-63-92.lg-5594-63.sh-3783-92-1408.ha-3544.ea-3803-1408.ca-5444-92-92.cc-4176-92-92.cp-3312",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-209-1.ch-210-1408.lg-3116-85-85.sh-3068-1408-64.ha-5849.he-1608.fa-1201",
@@ -4040,7 +4040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Che vuoi",
     "habboFigure": "hr-3829-45.hd-3845-1.ch-5596-92.lg-3418-110.sh-5247-92-64.he-5074-92.ca-4390",
@@ -9020,10 +9020,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arcolopoli",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-107.sh-3089-92.ha-3620.he-3772-1424.fa-3296.wa-3773-107.cc-3075-1424",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.fa-3296.wa-3773-110.cc-3075-110",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
