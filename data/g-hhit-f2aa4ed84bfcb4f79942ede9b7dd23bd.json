@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Consigliere Corleone",
     "habboFigure": "hr-828-34.hd-180-18.ch-215-110.lg-280-64.sh-3587-92-92.ha-3586.he-3070-1408.ca-4115-109-100",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-3093-28.ch-210-64.lg-4066-1408.sh-3016-110.ea-5641",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-209-1.ch-210-1408.lg-3116-85-85.sh-3068-1408-64.ha-5849.he-1608.fa-1201",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "dejame pensar",
     "habboFigure": "hr-3163-1403.hd-3091-4.ch-255-1331.lg-3596-92-1408.sh-295-110.he-3070-63.fa-3276-63",
