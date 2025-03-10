@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-5019-39.hd-5696-10-1367.ch-3032-110-1408.lg-280-110.sh-5247-1330-110.he-3070-93.fa-5600-68.ca-3844-110-1330",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-4370-45.hd-3721-2.ch-5110-63-92.lg-5594-63.sh-3783-92-1408.ha-3544.ea-3803-1408.ca-5444-92-92.cc-4176-92-92.cp-3312",
