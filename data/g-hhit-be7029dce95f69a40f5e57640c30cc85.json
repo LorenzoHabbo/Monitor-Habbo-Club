@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-3841-45.hd-208-8.ch-3342-73-1320.lg-3320-82-73.sh-3524-64-1408.fa-3344-91",
@@ -5940,7 +5940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "MasArez",
     "habboFigure": "hr-5681-1403-49.hd-3100-1390.ch-4087-92.lg-4066-1412.he-5817-63.fa-3276-97.cc-5800-1412-92",
@@ -6060,7 +6060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-31.hd-180-2.ch-3030-77.lg-3483-110-110.ha-5364.fa-3276-70",
