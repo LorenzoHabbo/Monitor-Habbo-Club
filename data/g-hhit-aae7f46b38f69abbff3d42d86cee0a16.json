@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Capo Regime Brigata Nera Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -73,7 +73,7 @@
     "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3278-1407-1400.hd-180-28.ch-5833-110-92.lg-3257-110.sh-3524-110-94.ea-1404-1322.fa-1204",
+    "habboFigure": "hr-3278-1407-1400.hd-180-28.ch-5833-110-92.lg-3257-110.sh-3524-110-94.ea-3169-94.fa-1204",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Custode del Sigillo EºW",
     "habboFigure": "hr-155-45.hd-180-1.ch-3077-92-110.lg-3136-110.sh-3016-110",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aspirante O.M",
     "habboFigure": "hr-105-36.hd-209-14.ch-215-91.lg-280-91.sh-908-91.ha-1009-81.ea-3484",
