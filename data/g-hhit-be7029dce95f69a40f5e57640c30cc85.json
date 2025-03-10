@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  Masarez © 2o16 - 2o25",
     "habboFigure": "hr-829-41.hd-190-1.ch-3934-92-110.lg-5732-110-64.sh-3587-92-92.he-1609-110.ea-1402.cc-3509-110-79",
@@ -2470,7 +2470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sicario corleone",
     "habboFigure": "hr-5772-61-1344.hd-625-18.ch-3036-1325-1409.lg-3842-110-110.sh-3354-110-1408.he-3070-1321.ca-1802.wa-3072-1410-1410",
@@ -5240,7 +5240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
     "habboFigure": "hr-3278-49-40.hd-180-28.ch-3323-110-92.lg-3384-110-1408.sh-3419-110-110.ea-3169-110.fa-3345-92.wa-2001.cc-3509-110-92",
@@ -5430,7 +5430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3673-55.hd-3096-10.ch-3013-1326.lg-3006-1326-92.sh-3089-1326.ha-3986.fa-3276-1414.wa-3178-92",
@@ -8053,7 +8053,7 @@
     "online": true,
     "gender": "m",
     "motto": " Architects - Wiplash",
-    "habboFigure": "hr-3829-1400.hd-5799-28.ch-5559-1408.lg-4066-64.sh-3338-64.he-5088.ea-3224-110-110.ca-5771-110-110.wa-5676.cc-3269-110-110",
+    "habboFigure": "hr-3829-1400.hd-5799-10.ch-5559-1408.lg-5594-77.sh-3089-1334.he-5088.ea-4161.ca-5771-110-110.wa-5676.cc-3692-89-110",
     "memberSince": "2014-06-25T19:57:08.000+00:00",
     "uniqueId": "hhit-fa322b0f5e5d6e8b426d8c1fb2b5b630",
     "name": "-One",
@@ -8760,7 +8760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-31-31.hd-3956-1-1371.ch-5560-1408-73.lg-5594-81.he-3660-64-1408.fa-3276-73.wa-5370.cc-5461-73-1408",
@@ -8962,8 +8962,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-155-45.hd-185-1.ch-255-82.lg-280-81.sh-300-1408.cp-3124-1408",
+    "motto": "Erede Corleone",
+    "habboFigure": "hr-802-34.hd-180-14.ch-215-64.lg-280-64.sh-908-1408.he-1608.cp-3284-1408",
     "memberSince": "2015-07-05T15:01:11.000+00:00",
     "uniqueId": "hhit-89e2b7cc967e9b14a32b44858591b4de",
     "name": "remale",
@@ -9440,7 +9440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",

@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cambia il tuo motto...~",
     "habboFigure": "hr-4162-42.hd-200-1.ch-5488-72.lg-3460.ha-3620.he-1601.fa-1202-72.ca-1806-72.cc-5826-1408",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sicario corleone",
     "habboFigure": "hr-5772-61-1344.hd-625-18.ch-3036-1325-1409.lg-3842-110-110.sh-3354-110-1408.he-3070-1321.ca-1802.wa-3072-1410-1410",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
     "habboFigure": "hr-3278-49-40.hd-180-28.ch-3323-110-92.lg-3384-110-1408.sh-3419-110-110.ea-3169-110.fa-3345-92.wa-2001.cc-3509-110-92",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-3030-110.lg-4114-1426-1426.sh-3089-110.cc-5800-100-100",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-31-31.hd-3956-1-1371.ch-5560-1408-73.lg-5594-81.he-3660-64-1408.fa-3276-73.wa-5370.cc-5461-73-1408",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Madrina Corleone »",
     "habboFigure": "hr-515-1342.hd-610-28.ch-665-92.lg-710-77.sh-3035-92.he-5088.fa-5467.ca-3844-92-92",
@@ -3210,7 +3210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-4128-92-77.lg-3006-77-92.sh-5308-92.he-1609-77.fa-5601-92",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-88.lg-3216-64.sh-907-64.he-3274-88",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "im so shy",
     "habboFigure": "hd-627-10.ch-665-1320.lg-3216-1320.ha-1008.fa-5456-72.ca-5049-1320",
@@ -3560,7 +3560,17 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
+    "gender": "m",
+    "motto": "Holigans",
+    "habboFigure": "hr-830-37.hd-190-10.ch-255-88.lg-270-64.sh-906-64.ha-1009-91.ea-1403-73.fa-1204.wa-2007",
+    "memberSince": "2025-02-07T23:16:01.000+00:00",
+    "uniqueId": "hhit-8308df4c8c49708e3f7c1ff336ff4d0d",
+    "name": "Nefarious",
+    "isAdmin": false
+  },
+  {
+    "online": false,
     "gender": "m",
     "motto": "Soldato Semplice GD",
     "habboFigure": "hr-834-42.hd-180-14.ch-220-110.lg-285-64.sh-3027-110-64.he-3082-106.ea-1401-1336.wa-3073-64.cc-3280-110-1408",
