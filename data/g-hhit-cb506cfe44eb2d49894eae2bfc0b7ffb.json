@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo GD",
     "habboFigure": "hr-5773-1405.hd-600-2.ch-3807-110-1408.lg-3018-1428.sh-3089-1408.ha-1013-110.he-3070-1408",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3524-1408-1408.ha-3591.he-5074-1408.fa-5760.cc-4091-64",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-92",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3163-1347.hd-3103-3.ch-3111-1326-1326.lg-3116-1326-92.sh-3016-1414.ha-5730-1341.ea-3749.ca-3973-96-1408.cc-3744-1408-1408",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato Semplice GD",
     "habboFigure": "hr-834-42.hd-3098-1390.ch-3014-106.lg-3058-1336.sh-3089-106.he-3082-106.ea-1401-1336.ca-3187-106.cc-9563-110",
