@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-804-110.lg-285-110.sh-300-110",
@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3322-1407.hd-180-10.ch-210-110.lg-285-110.ha-4094-110-110.ea-3148-110-1327.fa-5600-1324.cc-3398-110-92",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-5772-34-1407.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604.fa-1209-110",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1403.hd-600-10.ch-5453-1332-110.lg-3134-110-1408.sh-5803-1332.he-3376-86-80.fa-5467.wa-3263-1409-110",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-3845-28.ch-3342-110-110.lg-3116-110-92.sh-3206-110.ha-1004-110.he-4946-1418.fa-5835-1412.cc-4184-110-1418",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo Regime Alta Tensione »Hooligans»",
     "habboFigure": "hr-3768-1405.hd-208-1370.ch-3203-110.lg-285-81.sh-906-92.ha-1002-110.ea-3148-1408-110.fa-3462-63.wa-2001",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-1347.hd-3091-1389.lg-3787-1330-1430.sh-3587-92-93.he-3070-93.fa-1201.cc-5179-1430-92",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-209-1.ch-210-1408.lg-3116-85-85.sh-3068-1408-64.ha-5849.he-1608.fa-1201",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-1408-1408.lg-4191-1408-85.sh-290-1408.ha-5520-1408-85.he-1601.fa-1201.ca-3444-85.wa-2004-85.cc-5826-84",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-5019-39.hd-5696-10-1367.ch-3032-110-1408.lg-280-110.sh-5247-1330-110.he-3070-93.fa-5600-68.ca-3844-110-1330",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cadetto GD ƒ",
     "habboFigure": "hr-5589-49-49.hd-3536-10-10.ch-4087-92.lg-3006-92-92.sh-3587-92-92.he-5698-92-92.fa-5467.cc-5961-92-1327.cp-5886-110",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cerco dragone viola",
     "habboFigure": "hr-893-37.hd-180-1.ch-235-71.lg-275-1408.sh-295-1408.fa-3344-90",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "o, death. become my blade, once more.",
     "habboFigure": "hr-831-61.hd-205-10.ch-255-1418.lg-3596-110-110.sh-3035-1408.ha-3544.he-3716.cc-5461-64-1408",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-64-1408.lg-285-90.sh-295-64.ha-4192.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -883,7 +883,7 @@
     "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3278-57-49.hd-207-28.ch-215-110.lg-3257-64.sh-3206-110.ha-1026.ea-3169-80.fa-3345-80.wa-2007.cc-886-110",
+    "habboFigure": "hr-3278-61-40.hd-180-28.ch-3987-110-110.lg-3257-110.sh-3419-110-110.ea-3169-110.fa-3345-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3538-106.lg-3058-1422.sh-3089-92.ha-3156-106.he-3082-92.ea-1402.fa-3276-96.ca-3702-92-92",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Scagnozzo Esperto G.D º",
     "habboFigure": "hr-3841-35.hd-209-1.ch-210-64.lg-3320-64-64.sh-4112-64-82.fa-5601-1408.ca-4115-64-82.wa-2009-64.cc-3917-1408",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode-G.D |||||||||",
     "habboFigure": "hr-3957-1354-58.hd-629-19.ch-3629-92-107.lg-715-99.he-1608",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
-    "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.cp-3205",
+    "habboFigure": "hr-3768-1347.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",
@@ -1503,7 +1503,7 @@
     "online": false,
     "gender": "f",
     "motto": "Fuggite, sciocchi!",
-    "habboFigure": "hr-5606-42-42.hd-3845-10.ch-5633-64-64.lg-4375-1408.sh-5671-64.ca-5771-64-64.cc-3975-64-64",
+    "habboFigure": "hr-4117-37-45.hd-615-10.ch-5633-64-64.lg-4375-1408.sh-5670-64",
     "memberSince": "2016-04-15T19:54:37.000+00:00",
     "uniqueId": "hhit-391be929f64f307ef90f98fd82ad52ac",
     "name": "Bleunoir",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SEGUACE COLONNELLO ETERNAL WARRIOR",
     "habboFigure": "hr-3860-1407-61.hd-3092-1359.ch-3234-110.lg-3596-110-110.ha-3710.fa-3462-110.cc-4947-96",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Luogotenente Little Italy FC",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Rioter Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-5302-68-73.lg-695-1408.he-5457-72",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Decime Esperta G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "SONO IRRITATA",
     "habboFigure": "hr-3673-1395.hd-600-1.ch-5607-1426.lg-5594-104.sh-3089-110.ha-5469-104-110.fa-3276-73.ca-5278-104",
@@ -2770,7 +2770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "!",
     "habboFigure": "hr-676-47.hd-207-20.ch-267-72.lg-3116-73-1408.sh-3068-64-1408.ea-3925-72-72",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-4363-54-54.hd-3097-28.ch-3214-92.lg-4369-92-71.sh-5670-64.he-5314-92-92.fa-5467.wa-3264-71-92.cc-5961-1325-71",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "VIDA LOCA",
     "habboFigure": "hr-3841-49.hd-4174-8.ch-5559-1408.lg-3078-92.sh-3375-110-92.he-3070-92.ea-3170-92.ca-5770-110.cc-4386-92-110.cp-3315-1408",
