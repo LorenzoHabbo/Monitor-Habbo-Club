@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sicario corleone",
     "habboFigure": "hr-5772-61-1344.hd-625-18.ch-3036-1325-1409.lg-3842-110-110.sh-3354-110-1408.he-3070-1321.ca-1802.wa-3072-1410-1410",
@@ -4560,7 +4560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
