@@ -7790,5 +7790,29 @@
       }
     ],
     "adminChanges": []
+  },
+  {
+    "data": "lunedì 10 marzo 2025 alle ore 23:28",
+    "nuovi": [
+      {
+        "name": "Ringil-44",
+        "uniqueId": "hhit-06f9a145f357c2f188296138f812950a"
+      },
+      {
+        "name": "ChazOrtiz",
+        "uniqueId": "hhit-ba0016ccd83292e1f94ca9898d1a0253"
+      }
+    ],
+    "abbandonati": [
+      {
+        "name": "silviettamore",
+        "uniqueId": "hhit-2ac2425d2d26f74267e6d24e1007f2be"
+      },
+      {
+        "name": "herick25",
+        "uniqueId": "hhit-93d997323a60f184c1164d5664fbfdff"
+      }
+    ],
+    "adminChanges": []
   }
 ]
