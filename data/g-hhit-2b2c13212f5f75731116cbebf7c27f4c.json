@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Salathiel G.D. Indomabile offesa.",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.sh-3180-92-105.fa-3276-96",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-5773-57.hd-4383-10-1372.ch-5607-1337.lg-5594-64.sh-4159-93-105.he-5802-92.fa-5467.wa-5370.cc-5461-74-77",
@@ -1963,7 +1963,7 @@
     "online": false,
     "gender": "m",
     "motto": "Annuntio vobis, Gaudium magnum.",
-    "habboFigure": "hr-3322-40.hd-209-14.ch-3342-76-1408.lg-270-1408.ha-3352-1408-1408.ea-3484.cc-3509-1408-1408",
+    "habboFigure": "hr-3322-1347.hd-209-1383.ch-3342-76-1408.lg-3058-110.sh-3016-64.ha-3352-110-1408.ea-3484.cc-3509-1417-1417",
     "memberSince": "2011-12-23T18:05:57.000+00:00",
     "uniqueId": "hhit-4892500f792b726b361d8f8946793b2a",
     "name": "Paul.McCartney",
@@ -3050,10 +3050,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Amante Siculo FC»",
-    "habboFigure": "hr-5801-1354-1355.hd-3845-1.ch-5168-108-110.lg-3006-110-95.sh-3693-1423-108.he-1608.ea-4161.fa-4049.ca-5771-1341-105.wa-5370.cc-5283-1423",
+    "habboFigure": "hd-4174-1.ch-4169.lg-3434-110-95.sh-4159-1328-106.ha-3730.he-5137.ea-4161.fa-4048.ca-4963-1423.wa-5370.cc-5283-1327",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "superdivina",
     "habboFigure": "hr-890-45.hd-629-1.ch-3114-73-1408.lg-3023-64.he-1610",
@@ -4792,8 +4792,8 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-3673-37.hd-629-1.ch-665-76.lg-4066-64.sh-3068-64-74.ha-3117-76.he-5764-66.fa-5601-1320.ca-3973-66-1320.cc-4108-76-64",
+    "motto": "Manovalanza Corleone",
+    "habboFigure": "hr-4118-37.hd-629-1.ch-665-75.lg-4066-74.sh-3375-64-1408.cc-4108-75-74",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -5980,7 +5980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Luogotenente Little Italy FC",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -6350,7 +6350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sicario | carissimo| EºW",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
@@ -9493,7 +9493,7 @@
     "online": true,
     "gender": "m",
     "motto": "demone guardiano di cerbero g.d.",
-    "habboFigure": "hr-893-44.hd-209-19.ch-878-64-76.lg-3078-64.he-1608.ea-1404-64.fa-1201.ca-1801-73.cp-3127-73",
+    "habboFigure": "hr-3090-44.hd-209-19.ch-878-64-76.lg-3078-64.he-1608.ea-1404-64.fa-1201.ca-1801-73.cp-3127-73",
     "memberSince": "2023-10-24T18:20:50.000+00:00",
     "uniqueId": "hhit-1b530a9f6550dc501beb314e9ca983d8",
     "name": "thefiend001",
@@ -9697,6 +9697,16 @@
     "memberSince": "2023-11-10T14:30:48.000+00:00",
     "uniqueId": "hhit-de64f7f9b2670353ef5c0d93be7128d7",
     "name": "Seiko",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "apprendista novella G.D",
+    "habboFigure": "hr-4363-57-40.hd-3956-1383-1372.ch-5245-92.lg-5243-110.sh-3354-110-1408.ha-3709.ea-3169-110",
+    "memberSince": "2023-11-12T11:18:14.000+00:00",
+    "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
+    "name": "Sweetdevil:!",
     "isAdmin": false
   },
   {
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-10T02:17:18.000+00:00",
     "uniqueId": "hhit-c58aab46ee9ffaf2d94f2d40bef9f0e5",
     "name": "Olivand3r",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "Apprendista novella G.D.",
-    "habboFigure": "hr-890-35.hd-600-10.ch-655-90.lg-720-80.sh-3180-64-64.fa-3276-72",
-    "memberSince": "2023-12-10T16:41:28.000+00:00",
-    "uniqueId": "hhit-4d44672a7015844e3c05e1ec76d78d34",
-    "name": "Fosgene",
     "isAdmin": false
   }
 ]
