@@ -2633,7 +2633,7 @@
     "online": true,
     "gender": "f",
     "motto": "Custode-G.D |||||||||",
-    "habboFigure": "hr-5619-33.hd-629-19.ch-3005-107-1326.lg-4119.he-3274-1326",
+    "habboFigure": "hr-5619-61.hd-629-19.ch-3005-107-1326.lg-4119.he-3274-1326",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-3936-1403-1403.hd-3845-10.ch-5607-110.lg-3136-110.sh-5308-92.ha-3620.fa-5467.ca-5463",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4118-37.hd-629-1.ch-665-75.lg-4066-74.sh-3375-64-1408.cc-4108-75-74",
@@ -6180,7 +6180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D. (w i minolli)•",
     "habboFigure": "hr-5142-35-40.hd-3631-1370-30.ch-3807-73-64.lg-3526-64-73.sh-5308-73.he-3274-64.fa-3276-72.ca-5771-64-73",
@@ -6340,7 +6340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sicario | carissimo| EºW",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
@@ -6537,16 +6537,6 @@
     "memberSince": "2022-04-29T14:49:45.000+00:00",
     "uniqueId": "hhit-ed6d73ec8cab70af739ec43404575766",
     "name": "solaria26",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "Cadetto G.D                    A |",
-    "habboFigure": "hr-3163-37.hd-180-1.ch-3342-110-1409.lg-3483-105-105.sh-3435-110-1409.ha-1003-1409.ea-3083-110.ca-3217-1409-1409.cc-3744-110-110",
-    "memberSince": "2022-05-03T13:28:22.000+00:00",
-    "uniqueId": "hhit-f93e8573265c9d5e2c190921d24e6cca",
-    "name": "mik3thebyt3",
     "isAdmin": false
   },
   {
@@ -8900,7 +8890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-1369-10.ch-665-82.lg-5623.sh-5803-1408.ha-3620.fa-5467.cc-5800-1408-1408",
@@ -9490,7 +9480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "demone guardiano di cerbero g.d.",
     "habboFigure": "hr-3090-44.hd-209-19.ch-878-64-76.lg-3078-64.he-1608.ea-1404-64.fa-1201.ca-1801-73.cp-3127-73",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-12-10T02:17:18.000+00:00",
     "uniqueId": "hhit-c58aab46ee9ffaf2d94f2d40bef9f0e5",
     "name": "Olivand3r",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "Apprendista novella G.D.",
+    "habboFigure": "hr-890-35.hd-600-10.ch-655-90.lg-720-80.sh-3180-64-64.fa-3276-72",
+    "memberSince": "2023-12-10T16:41:28.000+00:00",
+    "uniqueId": "hhit-4d44672a7015844e3c05e1ec76d78d34",
+    "name": "Fosgene",
     "isAdmin": false
   }
 ]
