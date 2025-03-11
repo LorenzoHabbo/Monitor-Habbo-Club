@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-803-110.lg-285-110.sh-300-110",
@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Brooklyn  —-In My Mind-—",
     "habboFigure": "hr-5617-1351-40.hd-3096-1.ch-5666.lg-3078-110.sh-3016-110.he-3274-64.ea-3169-110.wa-5676.cc-5461-64-1416",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "    Ingegnere Wired",
     "habboFigure": "hr-3194-34-40.hd-180-1370.ch-3030-110.lg-275-82.sh-295-110.ha-3117-82",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "LOVE ME |",
     "habboFigure": "hr-4117-44-44.hd-3845-10.ch-665-74.lg-5594-64.he-1609-64.fa-3276-64.cc-4108-64-64",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-165-32.hd-190-1370.ch-808-1408.lg-285-81.sh-290-1408",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Kebab Hooligans - CEO of McDonald's",
     "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-3171-88-88.ea-4161.ca-5737-1325.cc-5826-63",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cerco fida",
     "habboFigure": "hr-3468-45.hd-209-1.ch-210-1408.lg-275-64.sh-3180-1408-64.ha-1017.fa-1210.cc-3405-64-1408",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -943,7 +943,7 @@
     "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3278-61-40.hd-3093-28.ch-5833-110-92.lg-3257-110.sh-3419-110-1322.ea-3169-1322.fa-3345-110",
+    "habboFigure": "hr-3278-61-40.hd-180-28.ch-5833-110-92.lg-3257-110.sh-3419-110-1322.ea-3169-1322.fa-3345-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "»Leggenda Battaglia»",
     "habboFigure": "hr-828-49.hd-190-28.ch-235-92.lg-280-92.sh-295-92.fa-1201",
@@ -1150,10 +1150,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
-    "habboFigure": "hr-5773-61.hd-629-1.ch-4299-110-92.lg-3320-1426-1408.sh-3016-110.he-3778-96",
+    "habboFigure": "hr-5773-61.hd-629-1.ch-4299-110-92.lg-3320-1426-1408.sh-3016-110.he-5808-92",
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-31-31.hd-3956-1-1371.ch-5560-1408-73.lg-5594-81.he-3660-64-1408.fa-3276-73.wa-5370.cc-5461-73-1408",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "bulle7prøøf ∞",
     "habboFigure": "hr-5445-51.hd-627-28.ch-3669-1420-92.lg-5594-92.ha-5511.he-3740.fa-4046.ca-5635-92-92.cc-3744-92-1420",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-5619-1342.hd-605-28.ch-884-1427.lg-3006-110-110.sh-908-92.ha-5730-110.he-3070-92.fa-5467.ca-3292-110.cc-5440-92-98",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-635-92.lg-5594-77.sh-4112-99-77.ha-3156-95.he-3884-1419-95.ea-5576-64-64.cc-887-1419",
@@ -2370,10 +2370,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3281-61.hd-209-1.ch-4361-110-92.lg-4373.sh-3524-110-92.ha-1004-110.he-5088.ea-3169-110",
+    "habboFigure": "hr-5791-1395.hd-3095-1.ch-5559-1416.lg-5594-77.sh-3089-110.he-5088.ea-3169-110.cc-4386-110-110",
     "memberSince": "2020-11-07T02:41:07.000+00:00",
     "uniqueId": "hhit-42e0885596dcd1b8695c74660706a511",
     "name": "ErMonky",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ognuno ha quel che merita",
     "habboFigure": "hr-515-45.hd-615-1.ch-685-1320.lg-720-82.sh-740-1408.fa-3276-73.ca-1807",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-4363-61-61.hd-5840-1391-1362.ch-3036-1325-73.lg-5594-1409.sh-5308-1329.he-5827-71-77.cc-5961-1325-70",
@@ -3430,7 +3430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-207-10.ch-875-64-76.lg-270-64.sh-300-64.ea-1403-64.ca-1810.wa-2009-73",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato GD",
     "habboFigure": "hr-836-61.hd-625-1.ch-3045-110.lg-3088-110-1408.sh-3180-110-110.ea-1401-110",
