@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
     "habboFigure": "hr-3829-49.hd-4174-1.ch-3934-92-110.lg-3483-1428-1428.sh-3524-1418-91.he-3070-1410.ea-3493-1418-1410.fa-5384-92.ca-1802.cc-4356",
@@ -1541,9 +1541,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
-    "habboFigure": "hr-3040-1347.hd-5696-1393-1367.ch-3213-101-1408.lg-3174-101-1408.ha-3709.fa-3276-97.cc-5800-92-92",
+    "habboFigure": "hr-3281-1407.hd-3095-10.ch-3222-1429.lg-3023-1429.sh-3252-1325-1408.ha-3129-1429.fa-3276-85.ca-1813.wa-3263-1325-1408.cc-3294-88-1408.cp-3312",
     "memberSince": "2009-04-01T19:42:14.000+00:00",
     "uniqueId": "hhit-92c7bb1c60e0da28a0fc29907e750bb5",
     "name": ":::MaGiC.BoY:::",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-905-1408.ha-4324.ea-5009.fa-5467",
@@ -1770,10 +1770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4024-61.hd-3100-26.ch-3045-110.lg-3174-1412-110.he-3070-93",
+    "habboFigure": "hr-4024-40.hd-600-14.ch-630-1408.lg-695-1408",
     "memberSince": "2009-06-16T18:17:55.000+00:00",
     "uniqueId": "hhit-5fe9fa612e1fa8f3ad45e95a25bbedfa",
     "name": "@teresa@-72188",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sommelier Masarez",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -4030,7 +4030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-5773-57.hd-4383-10-1372.ch-5245-95.lg-5594-95.sh-5803-80.he-5802-80.fa-4168-95.wa-5370.cc-5461-80-95",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Lunga e diritta correva la Habboway...",
     "habboFigure": "hr-3194-45-49.hd-209-1.ch-4111-109.lg-3057-82.ea-3169-63.fa-3344-91.wa-2001",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Masarez",
     "habboFigure": "hr-4031-1401-61.hd-3845-1363.ch-5735-110-1419.lg-4191-92-92.ha-4192.he-5314-110-1419.fa-5601-97.cc-5461-1419-110",
@@ -5293,7 +5293,7 @@
     "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3048-61-61.hd-3093-28.ch-3683-110-110.lg-3257-110.sh-3419-110-110.ea-3169-110.fa-3378-110-110.cc-3420-110",
+    "habboFigure": "hr-3278-61-40.hd-180-28.ch-5833-110-110.lg-3384-110-93.sh-3419-110-110.ea-3169-1322.fa-3345-110.wa-2001",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -5480,7 +5480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3673-55.hd-3096-10.ch-3013-1326.lg-3006-1326-92.sh-3064-95.ha-3986.fa-3276-1414",
@@ -6190,7 +6190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-4111-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.wa-3798-1408-1408.cc-4282-72",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Where Do We Go",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-73.lg-280-64.sh-908-91.fa-3276-71.cp-3128-73",
@@ -6770,7 +6770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -8953,7 +8953,7 @@
     "online": false,
     "gender": "m",
     "motto": "Even if it kills me... OºM",
-    "habboFigure": "hd-180-10.ch-215-92.lg-3058-92.sh-3089-110.ha-1002-110.ea-3169-110.fa-3462-110.cc-3075-110",
+    "habboFigure": "hr-829-61.hd-3092-1390.ch-3203-92.lg-3058-110.sh-3016-110.fa-3344-110.ca-1801-1413",
     "memberSince": "2015-06-09T15:16:40.000+00:00",
     "uniqueId": "hhit-6e6fcb1f0cfdfe8d68736690f4f866f5",
     "name": "_Thomas_",
@@ -9410,7 +9410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ PAPPONE º Famiglia Corleone [F.C] ¥",
     "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3479",
@@ -9633,7 +9633,7 @@
     "online": true,
     "gender": "f",
     "motto": "lasciatemi stare.",
-    "habboFigure": "hr-5773-31.hd-600-1.ch-4392-96-92.lg-5165-96-92.sh-3619-1432-92.ha-3775.he-3081-68.fa-5467.ca-5444-96-92.wa-3212-96-1413.cc-3867-1432-1432",
+    "habboFigure": "hr-4363-1403-1403.hd-600-10.ch-3067-1341.lg-3057-1341.sh-5670-110.ha-3409-108-92.fa-3276-71.ca-3425-1410-110.wa-3263-110-92",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -9673,7 +9673,7 @@
     "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
-    "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.cp-3205",
+    "habboFigure": "hr-3768-1347.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",
@@ -9810,7 +9810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leader º Oblivion",
     "habboFigure": "hr-5773-61.hd-600-28.ch-665-64.lg-710-64.sh-5247-92-110.ha-3544.he-3070-92.fa-5600-1408",
