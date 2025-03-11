@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-5773-59.hd-4383-2-1372.ch-5245-92.lg-3006-110-92.ha-1012-110.he-5698-96-92.wa-5599-110-92.cc-5961-92-96",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-49-49.hd-3536-10-10.ch-4087-92.lg-3006-92-92.sh-3587-92-92.he-5827-92-92.fa-5467.cc-5961-92-1327.cp-5886-110",
@@ -2093,7 +2093,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Decime G.D º",
-    "habboFigure": "hr-3786-35-35.hd-209-1.ch-267-75.lg-281-75.sh-905-75.fa-5601-1408.ca-1818.wa-2004-1408",
+    "habboFigure": "hr-3841-34.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-73.fa-5601-1408.ca-4115-64-73.cc-3917-64",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-270-1408.sh-300-1408.wa-2001",
@@ -4700,7 +4700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "non provateci con me.",
     "habboFigure": "hr-5679-45-45.hd-627-1370.ch-665-64.lg-3434-64-1408.sh-905-1320.ea-1406.fa-3276-72",
