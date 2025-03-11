@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-3841-45.hd-208-8.ch-3342-73-1320.lg-3320-82-73.sh-3524-64-1408.fa-3344-91",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "1312",
     "habboFigure": "hr-5019-34.hd-3845-8.ch-235-1408.lg-3320-82-1408.sh-3524-1408-1408.he-1608.ea-1401-64",
@@ -6840,7 +6840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "I'm a tiny builder ƒ",
     "habboFigure": "hr-4186-34.hd-3631-10-30.ch-3036-92-110.lg-3006-64-64.sh-5308-92.he-3149-110.fa-3276-72.cc-4104-1334-92",
