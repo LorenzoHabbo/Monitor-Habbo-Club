@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-3322-45.hd-209-19.ch-4111-1408.lg-3320-82-1408.sh-4112-1408-1408.ea-3484.fa-1204",
@@ -3052,6 +3052,16 @@
   {
     "online": false,
     "gender": "m",
+    "motto": "",
+    "habboFigure": "hd-209-1.ch-235-64.lg-280-66.ha-1004-66.ea-1404-66",
+    "memberSince": "2023-09-08T19:12:18.000+00:00",
+    "uniqueId": "hhit-1700dbd885184fb57a9de4cca0be7cbf",
+    "name": "manuel0410juve",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
     "motto": "Vicario G.D",
     "habboFigure": "hr-165-34.hd-209-19.ch-215-1408.lg-275-82.sh-906-64.ea-1406",
     "memberSince": "2023-09-19T18:32:51.000+00:00",
@@ -4030,7 +4040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-88.lg-3216-64.sh-907-64.he-3274-88",
