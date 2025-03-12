@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-3022-110-67.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-125-49.hd-5317-18-1392.ch-5858-110.lg-3418-64.sh-5718.ha-1003-64.he-3070-92.fa-5601-92",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "o, death. become my blade, once more.",
     "habboFigure": "hr-831-61.hd-205-10.ch-255-1418.lg-3596-110-110.sh-3035-1408.ha-3544.he-3716.cc-5461-64-1408",
@@ -973,7 +973,7 @@
     "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hd-180-8.ch-875-94-1408.lg-280-1419.sh-3524-110-1408.ea-3108-72-110.fa-1205-1408.ca-3916-75-75.cc-3827-94-1408",
+    "habboFigure": "hr-3278-49-49.hd-180-28.ch-5833-110-110.lg-3384-110-94.sh-3419-110-1322.ea-3169-94.fa-3345-92.wa-2009-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Where Do We Go",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-73.lg-280-64.sh-908-91.fa-3276-71.cp-3128-73",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -1833,7 +1833,7 @@
     "online": true,
     "gender": "f",
     "motto": "¡3RR0R 404! [E.W] D0NN4 D1 Ludo-Vik",
-    "habboFigure": "hr-3936-1403-1403.hd-5696-2-28.ch-3013-92.lg-710-1421.sh-5247-92-92.he-3070-92.cc-5800-1421-1421",
+    "habboFigure": "hr-3936-1403-1403.hd-5696-2-28.ch-3013-92.lg-710-1421.sh-5247-92-92.he-3891.cc-5800-1421-1421",
     "memberSince": "2018-01-06T13:23:25.000+00:00",
     "uniqueId": "hhit-35547eca94a0fce9dd9bb1af158e0b61",
     "name": ",auro",
@@ -2353,7 +2353,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cosí mi chiamano",
-    "habboFigure": "hr-3829-45.hd-190-1.ch-3030-64.lg-281-64.he-1608.ea-3925-76-76",
+    "habboFigure": "hr-3829-45.hd-190-1369.ch-255-64.lg-280-64.he-1608",
     "memberSince": "2020-07-28T20:46:19.000+00:00",
     "uniqueId": "hhit-4202ee2ceaf657434a08158ffd538be2",
     "name": "p-p-calzelunghe",
@@ -2490,7 +2490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uau",
     "habboFigure": "hr-3936-49-49.hd-600-1.ch-660-110.lg-3006-110-92.ha-4196.cc-5461-1408-74",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-5544-40-40.hd-615-1.ch-3809-64-66.lg-5594-1408.sh-3383-64-1408.he-3324-75-64.ca-5769-1408-1408.cc-4076",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-45.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -3541,6 +3541,16 @@
   },
   {
     "online": false,
+    "gender": "f",
+    "motto": "Nulla è come appare",
+    "habboFigure": "hr-3468-39.hd-600-10.ch-665-73.lg-3078-82.ha-1005-73.fa-3276-72.wa-3210-82-90",
+    "memberSince": "2024-10-15T14:37:37.000+00:00",
+    "uniqueId": "hhit-abcefbc8d30d97654e0c0313c7d75614",
+    "name": "Albertine",
+    "isAdmin": false
+  },
+  {
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-48-40.hd-190-1.ch-3342-64-82.lg-285-88.sh-295-64.ha-4192.ea-1404-1408.fa-3344-72.ca-5278-1408.cc-4947-73",
@@ -3680,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Spia Semplice GD",
     "habboFigure": "hr-5680-37.hd-629-1.ch-3807-74-76.lg-3078-74.sh-5671-74.he-3324-76-1408",
@@ -3850,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-63.lg-5594-1338.sh-3035-110.he-3858-63.ea-1404-110.fa-3276-96",
