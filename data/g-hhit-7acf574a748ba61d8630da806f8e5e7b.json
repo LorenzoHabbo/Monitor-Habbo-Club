@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-49.hd-3092-3.ch-5596-110.lg-5594-64.sh-5308-1410.ha-3352-64-1427.he-5578-1408.fa-5601-68.ca-5769-92-92",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-1430-1430",
@@ -3283,7 +3283,7 @@
     "online": false,
     "gender": "f",
     "motto": "Anima Perduta - Moglie di Charlotte.|",
-    "habboFigure": "hr-3810-39.hd-3845-10.ch-5560-64-73.lg-3384-64-1408.sh-5729-64-73.ha-5704.fa-5624-73.cc-5440-83-1408",
+    "habboFigure": "hr-3957-39-40.hd-3845-10.ch-5699-64.lg-3384-64-1408.sh-5729-64-73.fa-5624-73",
     "memberSince": "2023-12-28T20:02:48.000+00:00",
     "uniqueId": "hhit-7a6aacf71d0ddf56ab6a1e73b9e2c51f",
     "name": "Gnomica",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-100.hd-205-10.ch-215-64.lg-280-1408.sh-908-1408.ha-1006.he-1608.fa-5601-1408",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "im so shy",
     "habboFigure": "hd-627-10.ch-665-1320.lg-3216-1320.ha-1008.fa-5456-72.ca-5049-1320",
