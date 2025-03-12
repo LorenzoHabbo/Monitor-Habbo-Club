@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Brooklyn  —-In My Mind-—",
     "habboFigure": "hr-5617-1351-40.hd-3096-1.ch-5666.lg-3078-110.sh-3016-110.he-3274-64.ea-3169-110.wa-5676.cc-5461-64-1416",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-905-1408.ha-4324.ea-5009.fa-5467",
@@ -1123,7 +1123,7 @@
     "online": true,
     "gender": "m",
     "motto": "IAmReDesk™",
-    "habboFigure": "hr-3786-35-40.hd-209-8.ch-4003.lg-3290-1408.sh-3524-1408-1408.ha-3710.cc-4943-1408",
+    "habboFigure": "hr-3786-40-40.hd-209-8.ch-4003.lg-3290-1408.sh-3524-1408-1408.ha-3710.cc-4943-1408",
     "memberSince": "2012-06-03T12:32:34.000+00:00",
     "uniqueId": "hhit-b0570f104095f479858ba71c49de2ed7",
     "name": "ReDesk",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Masarez YK º",
     "habboFigure": "hr-4131-1350-40.hd-3096-28.ch-660-110.lg-3596-110-92.sh-3027-110-92.he-1609-110.ea-3148-110-110",
@@ -3080,7 +3080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pre edict",
     "habboFigure": "hd-180-1.ch-255-81.lg-275-1408.sh-305-1408.ha-1003-1408.he-1609-81.cc-3744-81-1408",
