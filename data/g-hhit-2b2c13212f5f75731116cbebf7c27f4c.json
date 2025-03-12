@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sommelier Masarez",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-49-49.hd-3536-10-10.ch-4087-92.lg-3006-92-92.sh-3587-92-92.he-5827-92-92.fa-5467.cc-5961-92-1327.cp-5886-110",
@@ -5943,7 +5943,7 @@
     "online": true,
     "gender": "f",
     "motto": " Apprendista Novella GD",
-    "habboFigure": "hr-890-35.hd-629-8.ch-655-73.lg-720-80.sh-3068-1320-1320",
+    "habboFigure": "hr-890-35.hd-629-8.ch-665-73.lg-720-80.sh-3068-1320-1320",
     "memberSince": "2021-08-27T19:47:16.000+00:00",
     "uniqueId": "hhit-09eba42314ada15a75cb31b0e682783e",
     "name": ".Sunshine.",
