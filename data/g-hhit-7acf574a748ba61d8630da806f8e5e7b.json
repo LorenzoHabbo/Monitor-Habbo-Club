@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3860-1403-1404.hd-3721-2.ch-3788-92.lg-5594-1338.sh-5247-92-92.ha-5852.ca-3882-92-92.cc-3867-92-92",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-3022-110-67.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -510,10 +510,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Eternal Warriors º",
-    "habboFigure": "hr-5275-40.hd-180-14.ch-210-1408.lg-285-1408.sh-3419-64-1408.ha-1004-1408.cc-3420-1408",
+    "habboFigure": "hr-5275-40.hd-180-14.ch-210-1408.lg-285-1408.sh-3419-64-1408.ha-1004-1408.fa-5600-1408.cc-3420-1408",
     "memberSince": "2010-03-27T18:11:46.000+00:00",
     "uniqueId": "hhit-51e68938a0d62f16954462d7156667c7",
     "name": "Ludo-Vik",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-1398-1398.hd-190-7.ch-5220-92-110.lg-3787-110-110.sh-3089-110.cc-5800-110-110",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Decime esperto G.D º",
     "habboFigure": "hr-3841-34.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-73.fa-5601-1408.ca-4115-64-73.cc-3917-64",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-12.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -2840,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo Decime G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
@@ -3573,7 +3573,7 @@
     "online": false,
     "gender": "f",
     "motto": "|",
-    "habboFigure": "hr-4363-54-54.hd-3097-28.ch-3005-92-71.lg-710-92.sh-5670-64.he-3082-92.fa-5467.ca-4372-92.wa-3264-71-92.cc-5961-92-71",
+    "habboFigure": "hr-4363-54-54.hd-615-28.ch-3005-92-71.lg-710-92.sh-5670-64.he-3082-92.fa-5467.ca-4372-92.wa-3264-71-92.cc-5961-92-71",
     "memberSince": "2024-06-21T15:11:53.000+00:00",
     "uniqueId": "hhit-10a3d4728b893ec0767df6508496fa2d",
     "name": "mayflow3rs",
@@ -3860,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Amami sotto voce,senò ti rubano l'idea",
     "habboFigure": "hr-828-47.hd-185-8.ch-255-71.lg-3864.ha-3862.he-3164-71-1408.fa-5760.ca-5771-71-73.cc-3863-71",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista novello G.D.",
     "habboFigure": "hr-3791-42.hd-629-1.ch-884-73.lg-3216-73.fa-3276-72",
