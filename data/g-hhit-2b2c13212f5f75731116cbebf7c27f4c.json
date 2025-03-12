@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-61.hd-600-28.ch-660-110.lg-4369-110-1408.ha-3586.he-5279.ea-3493-110-110.fa-3276-96",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-208-1.ch-225-73.lg-3023-110.sh-3068-64-110.ha-5968-1408-110.he-1609-72.ca-5136.wa-2001.cc-5966-63-110",
@@ -8900,7 +8900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-1369-10.ch-665-82.lg-5623.sh-5803-1408.ha-3620.fa-5467.cc-5800-1408-1408",

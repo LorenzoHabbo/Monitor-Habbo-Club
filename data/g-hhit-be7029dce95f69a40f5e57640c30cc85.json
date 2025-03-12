@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The chemtrails over the country club",
     "habboFigure": "hr-3829-60.hd-200-1379.ch-4220-1408.lg-3057-110.sh-3089-64.ha-4039-64-1418.he-4264.cc-4277-110",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-61.hd-600-28.ch-660-110.lg-4369-110-1408.ha-3586.he-5279.ea-3493-110-110.fa-3276-96",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¬",
     "habboFigure": "hr-3012-49.hd-3100-28.ch-3005-92-92.lg-3057-92.he-3082-92.wa-3072-92-92.cc-3390-92-92.cp-3207-1408-1408",
@@ -5572,6 +5572,16 @@
   {
     "online": false,
     "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-4941-1398-1398.hd-190-7.ch-5220-92-110.lg-3787-110-110.sh-3089-110.cc-5800-110-110",
+    "memberSince": "2011-11-26T16:03:53.000+00:00",
+    "uniqueId": "hhit-b924b0493c185642a9e308d05f3607fc",
+    "name": "TheWizard",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
     "motto": "càcca volante haha fra|",
     "habboFigure": "hr-893-45.hd-205-10.ch-210-1408.lg-280-1320.sh-305-64.he-3376-64-73",
     "memberSince": "2011-11-26T18:34:23.000+00:00",
@@ -7260,7 +7270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "dejame pensar",
     "habboFigure": "hr-3163-1403.hd-3091-4.ch-255-1335.lg-280-92.sh-3035-110.ha-3952.fa-3276-63",
@@ -8123,7 +8133,7 @@
     "online": true,
     "gender": "m",
     "motto": " Architects - Wiplash",
-    "habboFigure": "hr-3977-49.hd-207-10.ch-255-110.lg-280-64.sh-5247-92-110.he-5418-110-64.fa-5975.wa-5676.cc-5826-110",
+    "habboFigure": "hr-828-49.hd-207-10.ch-255-110.lg-280-64.sh-5247-92-110.he-5418-110-64.fa-5975.wa-5676.cc-5826-110",
     "memberSince": "2014-06-25T19:57:08.000+00:00",
     "uniqueId": "hhit-fa322b0f5e5d6e8b426d8c1fb2b5b630",
     "name": "-One",
@@ -8900,6 +8910,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "Arcolopoli",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.fa-3296.wa-3773-110.cc-3075-110",
+    "memberSince": "2015-05-24T22:08:52.000+00:00",
+    "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
+    "name": "surjitilfur",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "si vbb",
@@ -9510,7 +9530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -9977,26 +9997,6 @@
     "memberSince": "2016-03-01T16:03:50.000+00:00",
     "uniqueId": "hhit-2e4d2416d2545b47c55d70520e81b74e",
     "name": "-Kanzaki-",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "Calm e prosecco fresco.",
-    "habboFigure": "hr-515-39.hd-3631-1370-30.ch-665-1408.lg-3116-64-73.sh-908-1408.he-1608.fa-3276-73",
-    "memberSince": "2016-03-03T20:33:40.000+00:00",
-    "uniqueId": "hhit-4ebaec8c5b0c21bbfccfb033f79bdbe2",
-    "name": "giulia36128",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "infermiere HSW",
-    "habboFigure": "hr-155-42.hd-180-14.ch-210-1408.lg-270-64.sh-305-64.cc-3294-64-1408",
-    "memberSince": "2016-03-07T17:19:16.000+00:00",
-    "uniqueId": "hhit-fddbf207efb7c18a0627f2c29f62484d",
-    "name": "Eminem8mileroad",
     "isAdmin": false
   }
 ]
