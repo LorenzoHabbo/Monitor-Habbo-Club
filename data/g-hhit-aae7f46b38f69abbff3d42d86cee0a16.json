@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fondatore Eternal Warriors",
     "habboFigure": "hr-3278-61-40.hd-190-28.ch-220-110.lg-270-110.sh-295-92.ha-1013-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
     "habboFigure": "hr-3278-49-49.hd-180-28.ch-5833-110-110.lg-3384-110-94.sh-3419-110-1322.ea-3169-94.fa-3345-92.wa-2009-110",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3293-83-1408.lg-3057-83.sh-3089-92.he-3297-92.ea-3107-110-92.fa-1212.ca-1819.cc-3066-92",
