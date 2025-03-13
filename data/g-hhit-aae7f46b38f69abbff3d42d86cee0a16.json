@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Eternal Warriors º",
     "habboFigure": "hr-5275-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Even if it kills me... OºM",
     "habboFigure": "hd-180-10.ch-215-92.lg-3058-92.sh-3089-110.ha-1002-110.ea-3169-110.fa-3462-110.cc-3075-110",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¡3RR0R 404! [E.W] 0P44",
     "habboFigure": "hr-3936-1403-1403.hd-5696-2-1391.ch-665-92.lg-720-1338.sh-5247-92-92.he-3070-92.cc-5800-1334-1334",
@@ -577,6 +577,16 @@
     "memberSince": "2025-01-13T11:59:33.000+00:00",
     "uniqueId": "hhit-34c4e510c9f05006da56c32d16b1ba8e",
     "name": "selfietotti",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Yuji YANKII",
+    "habboFigure": "hr-3531-61-49.hd-207-10.ch-875-1408-1408.lg-3365-1408.sh-3206-67.fa-1204.cc-3827-64-1408",
+    "memberSince": "2025-01-18T17:25:17.000+00:00",
+    "uniqueId": "hhit-ad0af163b77eb90a126180cb6372ab6e",
+    "name": "Ravagers",
     "isAdmin": false
   },
   {
