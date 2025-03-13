@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5503-45.hd-600-2.ch-3528-110-92.lg-3526-1425-1425.he-3082-1329.fa-3276-1412.cc-5800-1331-1331",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Eternal Warriors º",
     "habboFigure": "hr-5275-1342.hd-180-2.ch-215-92.lg-3023-110.sh-3524-92-92.ha-1003-1412.cc-3744-110-110",
@@ -7070,7 +7070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "What is Love",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-5833-110-92.lg-3078-110.sh-3035-110.he-5348.fa-5624-110",
