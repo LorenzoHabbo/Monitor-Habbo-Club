@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3200-1325.sh-730-1325.ha-5284.ca-1802",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5503-45.hd-600-2.ch-3528-110-92.lg-3526-1425-1425.he-3082-1329.fa-3276-1412.cc-5800-1331-1331",
@@ -9313,7 +9313,7 @@
     "online": true,
     "gender": "m",
     "motto": "Apprendista Monello GD",
-    "habboFigure": "hr-165-1344.hd-209-1369.ch-3015-85.lg-3483-1340-64.sh-300-1408.ea-1404-66.fa-1201",
+    "habboFigure": "hr-9534-40.hd-209-10.ch-210-1408.lg-270-64.sh-300-1408.ea-1401-64.fa-1204.cc-260-1408",
     "memberSince": "2023-09-22T12:32:15.000+00:00",
     "uniqueId": "hhit-a482b3d99775ede73b4eb19b5853d513",
     "name": "Re.Priamo",
