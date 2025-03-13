@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "OLD SCHOOL |",
     "habboFigure": "hr-5773-36.hd-190-3.ch-4361-110-1408.lg-3596-92-110.sh-3016-110.ha-1004-110.he-5088.fa-3296.cc-4979-92",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-4126-31-47.hd-605-10.ch-665-1408.lg-710-82.sh-908-1408.fa-5467.cc-5440-72-1320",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-285-90.ha-1004-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
