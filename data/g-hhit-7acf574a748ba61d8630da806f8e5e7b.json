@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tesoriere Black Pearl",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92.cp-3315-92",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-64-1408.lg-285-90.sh-295-64.ha-4192.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1395-1395.hd-209-2.ch-5214-110-110.lg-5594-1341.he-3082-1329.cc-5800-1331-1331",
@@ -970,7 +970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Capo Decime G.D º",
     "habboFigure": "hr-3841-34.hd-209-1.ch-210-1408.lg-3320-64-64.sh-4112-64-73.fa-5601-1408.ca-4115-64-73.cc-3917-64",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "What is Love",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-5833-110-92.lg-3078-110.sh-3035-110.he-5348.fa-5624-110",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-12.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'Onore Little Italy Corleone",
     "habboFigure": "hr-4363-59-59.hd-5682-10.ch-5560-110-92.lg-5594-77.sh-3089-110.he-5698-74-95.fa-4046.ca-5771-74-95.wa-5370.cc-5761-110-96",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non regalate",
     "habboFigure": "hr-3852-54.hd-5684-1391.ch-3183.lg-5594-77.sh-4112-92-92.fa-3276-97.ca-5108-92-110",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
