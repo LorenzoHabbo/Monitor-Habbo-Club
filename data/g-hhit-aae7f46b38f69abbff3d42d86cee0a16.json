@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Erede Golden Demons º",
     "habboFigure": "hr-5275-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-45.hd-180-1.ch-3792-64-1408.lg-3596-64-1408.ha-1002-76.fa-3276-72.ca-3883.cc-5826-1408",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non i nuovi wired che mi aspettavo",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
