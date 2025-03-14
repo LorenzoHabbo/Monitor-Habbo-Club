@@ -150,10 +150,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Can't f*ck with MSRZ - Borsello Gucci",
-    "habboFigure": "hr-3531-41-40.hd-3092-27.ch-3215-92.lg-5594-110.sh-3383-110-63.ha-5557-110-1408.he-1609-110.fa-5601-1408.ca-4115-85-100.wa-3072-110-92.cc-5558-110-92",
+    "motto": "Arci-Capo Golden Demons",
+    "habboFigure": "hr-3531-41-40.hd-3092-27.ch-3215-92.lg-5594-110.sh-3383-110-63.ha-5557-110-1408.he-1609-110.fa-5601-1408.ca-4130-92-110.wa-3072-110-92.cc-5558-110-92",
     "memberSince": "2012-05-04T20:03:24.000+00:00",
     "uniqueId": "hhit-76cf6015b96ceb33ad0619f32fa119c5",
     "name": "SuperDavide2003",
@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3077-1326-1326.lg-5745-1326-92.sh-5242-1414.ha-5968-63-1408.ea-3749.cc-5966-63-1408",
@@ -303,7 +303,7 @@
     "online": true,
     "gender": "f",
     "motto": "meow",
-    "habboFigure": "hr-4117-48-39.hd-3845-10.ch-665-1408.lg-3078-81.sh-3180-80-73.he-3660-80-71.fa-3276-72.cc-3390-73-80",
+    "habboFigure": "hr-4031-35-39.hd-3845-10.ch-3517-80-71.lg-3078-81.he-3329-80-71.fa-3276-72",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ºmsrzº  #strzsbagliata",
     "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1428.lg-710-110.sh-5247-92-110.ha-1004-63.he-3891.fa-5601-92.ca-3885-92-1408",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
@@ -1047,6 +1047,16 @@
     "memberSince": "2024-12-09T11:35:36.000+00:00",
     "uniqueId": "hhit-09fb6954e45719732ea810d7b6dba7b1",
     "name": "Buscio",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "resilienza",
+    "habboFigure": "hr-515-45.hd-615-1.ch-660-1408.lg-710-82.sh-908-1408.he-1609-1408.ea-1404-64",
+    "memberSince": "2025-01-05T16:10:58.000+00:00",
+    "uniqueId": "hhit-5f2b3b9da0c44a7e7fbea2d11fe9c0cd",
+    "name": "sociopatica",
     "isAdmin": false
   },
   {
