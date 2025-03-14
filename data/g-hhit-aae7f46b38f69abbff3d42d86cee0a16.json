@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "PeterWhite - Birre Chiare",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3032-1334-1408.lg-280-92.sh-3035-92.ha-5929.he-3070-92.ea-1404-92.fa-5601-92",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Decime G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-40.hd-190-1.ch-3030-64.lg-280-1408.sh-908-1408.ha-1002-64.he-1608.cp-3284-1408",
