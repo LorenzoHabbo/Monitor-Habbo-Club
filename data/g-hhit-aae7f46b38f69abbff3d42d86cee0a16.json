@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hr-3163-31.hd-180-1392.lg-3267-1326-1408.sh-3277-1326-1408.ha-3305-1326-1408.fa-1205-1326.ca-5604-106-106",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Even if it kills me... OºM",
     "habboFigure": "hd-180-10.ch-215-92.lg-3058-92.sh-3089-110.ha-1002-110.ea-3169-110.fa-3462-110.cc-3075-110",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ PAPPONE º Famiglia Corleone [F.C] ¥",
     "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3479",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "bulle7prøøf ∞",
     "habboFigure": "hr-3936-1347-1347.hd-627-28.ch-3669-1420-1408.lg-5594-92.he-5997-1408.ea-4988.fa-4046.ca-5960-1327-92.cc-3744-92-1420",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-110.lg-5594-64.sh-5247-92-1408.ha-4094-1408-1408.he-3884-110-1408.ea-5576-92-92.wa-5719",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¡3RR0R 404! [E.W] DtMF",
     "habboFigure": "hr-3852-1403.hd-600-2.ch-3013-92.lg-695-1425.sh-5247-92-92.he-3891.cc-5800-1330-1330",
@@ -730,10 +730,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alastor G.D.",
-    "habboFigure": "hr-5791-1353.hd-5317-2-1365.ch-3030-1432.lg-3483-1432-1432.he-3820-64.fa-4044.ca-4936.wa-5836-1337-1337.cc-5761-1432-1432",
+    "habboFigure": "hr-5791-1353.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-1337-1337.cc-5761-100-1329",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -827,16 +827,6 @@
     "memberSince": "2022-03-05T14:48:25.000+00:00",
     "uniqueId": "hhit-329e681a851683d81a508ccf0ae4fb8c",
     "name": "Caaamiiiii",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "f",
-    "motto": "Veridis Quo",
-    "habboFigure": "hr-3012-1356.hd-3099-28.ch-650-110.lg-3078-110.sh-906-64.he-1604.ea-1404-64.fa-5600-1408.cc-887-110",
-    "memberSince": "2022-07-17T20:58:28.000+00:00",
-    "uniqueId": "hhit-384a1a14d3e2544cf7209f23c611909c",
-    "name": "mvscj",
     "isAdmin": false
   },
   {
@@ -993,7 +983,7 @@
     "online": false,
     "gender": "f",
     "motto": "|",
-    "habboFigure": "hr-5773-49.hd-600-28.ch-5202-110-110.lg-3502-110.sh-5464-92-1326.he-5314-1326-1326.ea-3978-92-110.fa-5467.ca-4372-92.wa-3264-1326-92.cc-5961-92-1326",
+    "habboFigure": "hr-5773-49.hd-600-28.ch-5202-110-110.lg-3502-110.sh-5464-92-1326.he-5314-1326-1326.ea-3978-92-110.fa-5467.ca-4372-92.wa-3264-1326-92",
     "memberSince": "2024-06-21T15:11:53.000+00:00",
     "uniqueId": "hhit-10a3d4728b893ec0767df6508496fa2d",
     "name": "mayflow3rs",
