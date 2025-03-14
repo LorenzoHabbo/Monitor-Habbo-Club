@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» [Master of Subculture] » Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3200-1325.sh-730-1325.ha-5284.ca-1802",
@@ -5550,7 +5550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giudice della pace GD (Yeet)",
     "habboFigure": "hr-3163-1399.hd-209-1.ch-4361-106-1408.lg-5594-96.he-5578-1408.fa-1209-96.ca-5770-1321.cc-5810-96",
