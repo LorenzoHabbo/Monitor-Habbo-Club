@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Brooklyn  —-In My Mind-—",
     "habboFigure": "hr-5617-1351-61.hd-3096-1.ch-3807-1430-102.lg-3078-1430.sh-3016-1430.he-3274-85.ea-3169-110.wa-5676",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» [Master of Subculture] » Hooligans »",
     "habboFigure": "hr-5772-41-61.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.ha-5620-110.fa-1209-110",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-3093-28.ch-215-83.lg-4066-1408.sh-3016-110.ea-5641",
@@ -260,10 +260,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sono paxxo vi giuro º Rioter HØØligans",
-    "habboFigure": "hr-3163-1407.hd-205-2.ch-5559-89.lg-3078-110.sh-908-1428.ha-5989.fa-5601-90.wa-3080-110.cc-5761-110-89",
+    "habboFigure": "hr-3163-41.hd-205-1.ch-5488-1409.lg-5732-1408-110.ha-5989.fa-5601-92.cc-5826-92",
     "memberSince": "2008-04-26T09:26:24.000+00:00",
     "uniqueId": "hhit-bd1882670aa483d39ae0faf933c7d51b",
     "name": "tnove",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-5239-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.cc-5961-92-77",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-209-1.ch-210-1408.lg-3116-85-85.sh-3068-1408-64.ha-5849.he-1608.fa-1201.wa-5836-1408-1408",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-31.hd-180-2.ch-3030-77.lg-3483-110-110.ha-5364.fa-3276-70",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3077-1326-1326.lg-5745-1326-92.sh-5242-1414.ha-5968-63-1408.ea-3749.cc-5966-63-1408",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-61.hd-3092-10.ch-240-110.lg-3023-110.sh-3016-110.fa-1204.cc-3509-64-1408",
@@ -3403,7 +3403,7 @@
     "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
-    "habboFigure": "hr-4363-61-61.hd-5840-1391-1360.ch-665-77.lg-5594-77.sh-5308-1325.he-5827-1409-77.ca-5604-77-1325.wa-5676.cc-5961-1325-70",
+    "habboFigure": "hr-4363-61-61.hd-5840-1391-1360.ch-665-77.lg-5594-1409.sh-5308-1325.he-5827-1409-77.ca-5604-77-1325.wa-5676.cc-5961-1325-70",
     "memberSince": "2024-08-23T10:12:18.000+00:00",
     "uniqueId": "hhit-daebdaa9eb8fc692c88ce4c2461b40a2",
     "name": "AishaLaBisha",
@@ -3430,7 +3430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-4131-61-61.hd-4383-28-1392.ch-3013-1326.lg-5594-77.sh-5803-92.ha-3156-1326.he-3070-92.fa-5601-92.cc-3744-92-1326.cp-3207-95-95",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Zio Trenus",
     "habboFigure": "hr-3791-44.hd-629-1370.ch-665-88.lg-720-82.sh-906-88.fa-3276-72.wa-2001",
