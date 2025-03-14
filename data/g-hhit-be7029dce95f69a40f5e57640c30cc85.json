@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Patrimonio mondiale del nunesco ¶",
     "habboFigure": "hr-165-45.hd-5838-1370-14.ch-5222.lg-5594-64.sh-305-1408.ea-1404-64.fa-5601-1320.ca-4115-91-91",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The chemtrails over the country club",
     "habboFigure": "hr-3322-39.hd-180-2.ch-5267-96.lg-3202-1315-1315.sh-3524-110-1408.he-3660-110-110.fa-3344-100",
@@ -1251,9 +1251,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Dottor oillando",
-    "habboFigure": "hr-3602-39-31.hd-180-14.ch-215-85.lg-275-85.ha-3620.he-3580.ca-1815-85",
+    "habboFigure": "hr-3602-39-31.hd-627-1.ch-650-64.lg-3596-64-1408.sh-3587-64-1408.ha-3620.he-3580.cc-3867-64-64",
     "memberSince": "2009-01-03T13:33:36.000+00:00",
     "uniqueId": "hhit-b511dda15c07b9be03a348f588ac0b30",
     "name": "maria770",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-61.hd-205-10.ch-255-1428.lg-285-77.sh-3035-1408",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? Sempre º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
