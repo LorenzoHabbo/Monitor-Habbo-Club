@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arci-Capo Golden Demons",
     "habboFigure": "hr-3531-41-40.hd-3092-27.ch-3215-92.lg-5594-110.sh-3383-110-63.ha-5557-110-1408.he-1609-110.fa-5601-1408.ca-4130-92-110.wa-3072-110-92.cc-5558-110-92",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.fa-3296.wa-3773-110.cc-3075-110",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-44.hd-209-1.ch-255-73.lg-275-81.sh-906-1408.fa-3344-73",
@@ -677,6 +677,16 @@
     "memberSince": "2020-10-04T12:54:03.000+00:00",
     "uniqueId": "hhit-cdf205b4b4942e23fceaabbaa938b9e9",
     "name": "allyMermaid",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-3163-61.hd-3095-1.ch-5559-1416.lg-5594-77.sh-3089-110.he-5088.ea-3169-110.cc-4386-110-110",
+    "memberSince": "2020-11-07T02:41:07.000+00:00",
+    "uniqueId": "hhit-42e0885596dcd1b8695c74660706a511",
+    "name": "ErMonky",
     "isAdmin": false
   },
   {
@@ -1050,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "resilienza",
     "habboFigure": "hr-515-45.hd-615-1.ch-660-1408.lg-710-82.sh-908-1408.he-1609-1408.ea-1404-64",
@@ -1100,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-3273-1407-1347.hd-625-1383.ch-3214-1326.lg-3290-110.sh-3180-110-110.ea-1401-110.ca-5705",
