@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1396.hd-180-3.ch-803-92.lg-3596-110-1408.sh-4112-110-92.ha-5677-110.he-3660-92-92.cc-5761-110-110",
@@ -213,7 +213,7 @@
     "online": true,
     "gender": "m",
     "motto": "sale come un ascensore",
-    "habboFigure": "hr-3860-61-41.hd-3845-1370.ch-215-110.lg-4138-110.sh-3587-110-1408.ha-3585-110.fa-5975.cc-4979-110",
+    "habboFigure": "hr-3860-61-41.hd-3845-1370.ch-215-110.lg-4138-110.sh-3587-110-1408.ha-3585-110.fa-5975.ca-5502.cc-4979-110",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -300,10 +300,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "meow",
-    "habboFigure": "hr-4031-35-39.hd-3845-10.ch-3517-80-71.lg-3078-81.he-3329-80-71.fa-3276-72",
+    "habboFigure": "hr-4031-38-39.hd-3845-10.ch-3517-80-71.lg-3078-81.ha-3666-66-81.he-3329-80-71.fa-3276-72",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -313,7 +313,7 @@
     "online": false,
     "gender": "m",
     "motto": "Even if it kills me... OºM",
-    "habboFigure": "hr-3281-61.hd-180-10.ch-255-92.lg-3057-77.sh-3016-110.ha-1002-110.ea-3169-110.fa-3462-110",
+    "habboFigure": "hr-3281-61.hd-180-10.lg-3138-74-1321.sh-3275-74.ha-1002-74.ea-3169-110.fa-3462-110",
     "memberSince": "2015-06-09T15:16:40.000+00:00",
     "uniqueId": "hhit-6e6fcb1f0cfdfe8d68736690f4f866f5",
     "name": "_Thomas_",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-34.hd-205-2.ch-215-63.lg-5594-1338.sh-3035-110.he-3858-63.ea-1404-110.fa-3276-96",
