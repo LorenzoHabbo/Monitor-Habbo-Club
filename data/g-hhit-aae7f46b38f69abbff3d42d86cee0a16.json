@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fondatore Eternal Warriors",
     "habboFigure": "hr-3278-61-40.hd-190-28.ch-225-110.lg-270-110.sh-295-92.ha-1013-110.cc-3420-1428",
@@ -140,10 +140,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Can't f*ck with MSRZ - Borsello Gucci",
-    "habboFigure": "hr-3531-41-40.hd-3092-27.ch-3215-92.lg-5594-110.sh-3383-110-63.ha-1021-110.he-1609-110.fa-5601-1408.ca-4115-85-100.wa-3072-110-92.cc-5558-110-92",
+    "habboFigure": "hr-3531-41-40.hd-3092-27.ch-3215-92.lg-5594-110.sh-3383-110-63.ha-5557-110-1408.he-1609-110.fa-5601-1408.ca-4115-85-100.wa-3072-110-92.cc-5558-110-92",
     "memberSince": "2012-05-04T20:03:24.000+00:00",
     "uniqueId": "hhit-76cf6015b96ceb33ad0619f32fa119c5",
     "name": "SuperDavide2003",
@@ -183,7 +183,7 @@
     "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-3768-1347.hd-3103-3.ch-3077-84-1326.lg-5745-1326-92.sh-5242-1414.ha-5968-63-1408.ea-3749.cc-5966-63-1408",
+    "habboFigure": "hr-3768-1347.hd-3103-3.ch-3077-84-1326.lg-5745-1326-92.sh-5242-1414.ha-5968-63-1408.ea-3749.wa-2004-1409.cc-5966-63-1408",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -353,7 +353,7 @@
     "online": true,
     "gender": "f",
     "motto": "bulle7prøøf ∞",
-    "habboFigure": "hr-3936-1347-1347.hd-627-28.ch-3669-1420-1408.lg-5594-92.he-5997-1408.fa-4046.ca-5960-1327-92.cc-3744-92-1420",
+    "habboFigure": "hr-3936-1347-1347.hd-627-28.ch-3669-1420-1408.lg-5594-92.he-5997-1408.ea-4988.fa-4046.ca-5960-1327-92.cc-3744-92-1420",
     "memberSince": "2016-03-05T01:07:53.000+00:00",
     "uniqueId": "hhit-079e5ada18d98cef4f5ba72a1e12719b",
     "name": ":NeverForgetYou",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cancelliere EW",
     "habboFigure": "hr-828-1407.hd-180-28.ch-3683-64-64.lg-280-110.sh-3035-110.ea-3169-110.fa-1209-1428.cc-5800-110-110",
@@ -927,6 +927,16 @@
     "memberSince": "2024-08-22T16:11:03.000+00:00",
     "uniqueId": "hhit-920ad88f0afa9eb3037544d503189bd5",
     "name": "Najim",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hd-207-10.ch-875-64-73.lg-270-64.sh-290-64.ea-1403-64.ca-1810.wa-2009-73",
+    "memberSince": "2024-09-06T15:54:53.000+00:00",
+    "uniqueId": "hhit-1c0fa7f556328dc623a55e80659724c1",
+    "name": "Buccio",
     "isAdmin": false
   },
   {
