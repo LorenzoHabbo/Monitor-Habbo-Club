@@ -193,10 +193,20 @@
     "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3786-42-61.hd-3091-10.ch-3059-110.lg-3290-68.sh-3419-110-110.ha-1013-68.fa-1205-110.ca-3131-1320-91.wa-3263-90-91.cc-3269-91-110",
+    "habboFigure": "hr-3786-42-61.hd-3091-10.ch-3059-110.lg-3290-68.sh-3419-91-1320.ha-1013-68.fa-1205-110.ca-3131-1320-91.wa-3263-90-91.cc-3269-91-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-3090-42.hd-190-8.ch-235-64.lg-3078-64.sh-3115-64-64.he-1608.wa-2002",
+    "memberSince": "2011-11-16T16:43:08.000+00:00",
+    "uniqueId": "hhit-d36a771a3a6be90cbbfa5957faa244c7",
+    "name": "chersmitico",
     "isAdmin": false
   },
   {
@@ -550,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "             ∞",
     "habboFigure": "hr-3841-34.hd-180-1.ch-255-92.lg-275-110.sh-5803-92.he-3740.ea-3751.cc-3867-110-110",
@@ -820,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giudice della pace GD (Yeet)",
     "habboFigure": "hr-3163-52.hd-209-1.ch-4361-1408-1408.lg-5594-92.sh-3089-104.ha-3171-104-92.ea-3169-104.fa-1209-92.cc-5307-104",
@@ -830,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alastor G.D.",
     "habboFigure": "hr-5791-1353.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-1337-1337.cc-5761-100-1329",
@@ -1133,14 +1143,14 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hd-207-10.ch-875-64-73.lg-270-64.sh-290-64.ea-1403-64.ca-1810.wa-2009-73",
+    "habboFigure": "hr-125-31.hd-207-10.ch-875-64-73.lg-270-64.sh-290-64.ea-1403-64.ca-1810.wa-2009-73",
     "memberSince": "2024-09-06T15:54:53.000+00:00",
     "uniqueId": "hhit-1c0fa7f556328dc623a55e80659724c1",
     "name": "Buccio",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-61.hd-4383-28-1392.ch-3045-110.lg-5594-77.sh-5803-92.ha-5620-77.he-3070-92.fa-5601-92",
@@ -1250,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-836-1407.hd-625-1383.ch-3045-110.lg-3088-110-1408.sh-3180-110-110.ea-1401-110.ca-5705",
