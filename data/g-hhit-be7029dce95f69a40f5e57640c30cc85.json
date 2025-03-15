@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-92.lg-5594-1338.sh-3621-92-67.ha-1004-1334.ea-3750.fa-5384-92.ca-4115-1325-1329.cc-5307-1334",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-61.hd-205-10.ch-255-1428.lg-285-77.sh-3035-1408",
@@ -2080,10 +2080,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono Carlo",
-    "habboFigure": "hr-3810-45.hd-629-1.ch-685-74.lg-3216-71.sh-906-76.ha-1002-76.he-1608",
+    "habboFigure": "hr-545-45.hd-629-1.ch-685-1408.lg-700-1408",
     "memberSince": "2009-10-29T21:35:26.000+00:00",
     "uniqueId": "hhit-3864d365c569c0766aba6bb865154c98",
     "name": "BimbaSABRY4ever",
@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
