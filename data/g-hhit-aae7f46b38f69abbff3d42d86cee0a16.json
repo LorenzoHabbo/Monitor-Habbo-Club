@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3673-32.hd-3100-1.ch-3005-64-89.lg-4114-64-89.sh-3016-64.he-3070-89.fa-3276-96.ca-4281-1409",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "En bonne santé et en maladie.",
     "habboFigure": "hr-5772-1353-42.hd-615-28.ch-5595-92.lg-3006-110-110.sh-5671-110.he-3070-92.ea-3107-110-92.fa-3276-1412",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Giudice della pace GD (Yeet)",
     "habboFigure": "hr-3163-52.hd-209-1.ch-4361-1408-1408.lg-5594-92.sh-3089-104.ha-3171-104-92.ea-3169-104.fa-1209-92.cc-5307-104",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-61.hd-4383-28-1392.ch-3045-110.lg-5594-77.sh-5803-92.ha-5620-77.he-3070-92.fa-5601-92",
