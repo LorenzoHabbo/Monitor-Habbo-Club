@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
@@ -370,10 +370,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ PAPPONE º Famiglia Corleone [F.C] ¥",
-    "habboFigure": "hr-893-42.hd-180-10.ch-3808-1408-1408.lg-270-81.ha-3479",
+    "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-270-81.ha-3479",
     "memberSince": "2015-09-24T17:37:16.000+00:00",
     "uniqueId": "hhit-40fde95fcb03d0f10e613e0c87f880e2",
     "name": "J3Tears",
@@ -622,8 +622,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hd-209-10.ch-804-73.lg-3116-1408-73.sh-908-1408.he-1609-1408.fa-1211",
+    "motto": "Tanto noi la pace l'abbiamo già persa",
+    "habboFigure": "hd-205-10.ch-805-85.lg-281-1408.sh-305-1408.ha-1013-64.he-1608.fa-1212",
     "memberSince": "2019-11-21T03:11:15.000+00:00",
     "uniqueId": "hhit-644d1803164521047119bbc957585483",
     "name": "Marsiellino",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.cc-5842",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4131-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64.cc-4184-64-64",
@@ -1103,7 +1103,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-4131-61-61.hd-4383-28-1392.ch-3013-1326.lg-5594-77.sh-5803-92.ha-3156-1326.he-3070-92.fa-5601-92.cc-3744-92-1326.cp-3315-110",
+    "habboFigure": "hr-4131-61-61.hd-4383-28-1392.ch-3046-1326.lg-5594-77.sh-5803-92.ha-3156-1326.he-3070-92.fa-5601-92.cc-3744-92-1326",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
