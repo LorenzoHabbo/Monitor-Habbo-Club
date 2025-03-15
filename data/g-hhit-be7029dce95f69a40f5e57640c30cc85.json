@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  Masarez © 2o16 - 2o25",
     "habboFigure": "hr-829-41.hd-190-1.ch-3934-92-110.lg-5732-110-64.sh-3587-92-92.he-1609-110.ea-1402.cc-3509-110-79",
@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Patrimonio mondiale del nunesco ¶",
     "habboFigure": "hr-165-45.hd-5838-1370-14.ch-3368-64-1408.lg-5594-64.sh-305-1408.ha-3455.he-5828.ea-1404-64.fa-5601-1320.ca-5771-64-64.cc-4107-64-1408",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-61.hd-205-10.ch-255-1428.lg-285-77.sh-3035-1408",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92.cp-3315-92",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-1430-1430",
@@ -8900,7 +8900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",

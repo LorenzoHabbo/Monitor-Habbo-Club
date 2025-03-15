@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-3032-64-92.lg-5594-1409.sh-5247-92-77.ha-1015.he-3732.fa-1203.ca-5737-64.cc-5077-77",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-3841-42.hd-209-1.ch-210-1408.lg-3116-85-85.sh-3068-1408-64.ha-5849.he-1608.fa-1201.wa-5836-1408-1408",
@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-1430-1430",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-92",
@@ -1930,7 +1930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1004-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-115-31.hd-205-10.ch-215-1408.lg-280-64.sh-908-1408.ha-1006.fa-5601-1408.cc-3917-80",
