@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3077-1326-1326.lg-5745-1326-92.sh-5242-1414.ha-5968-63-1408.ea-3749.cc-5966-63-1408",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3673-32.hd-3100-1.ch-3005-64-89.lg-4114-64-89.sh-3016-64.he-3070-89.fa-3276-96.ca-4281-1409",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.cc-5842",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-836-1407.hd-625-1383.ch-3045-110.lg-3088-110-1408.sh-3180-110-110.ea-1401-110.ca-5705",
