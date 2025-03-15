@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5285-1405-40.hd-6045-18.ch-3077-110-110.lg-275-110.sh-5247-110-110.he-3070-1410.ea-1404-110.fa-5751.ca-5768-1410-1410.cc-5446",
@@ -7390,7 +7390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-665-1336.lg-5594-110.ha-4192.he-3821-104-1430.fa-3296",
@@ -9061,9 +9061,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Arcolopoli",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.he-3772-1424.fa-3296.wa-3773-110.cc-3075-110",
+    "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",

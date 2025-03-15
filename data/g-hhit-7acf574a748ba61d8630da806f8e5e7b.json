@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-64-1408.lg-285-90.sh-295-64.ha-4192.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3468-38.hd-3631-1-1371.ch-5302-80-71.lg-4167-81.sh-3524-81-82.he-3274-80.fa-3276-72.ca-1805-81",
@@ -3220,7 +3220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  Aiutante Corsaro BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
