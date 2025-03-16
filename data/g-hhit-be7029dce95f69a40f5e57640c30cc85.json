@@ -783,7 +783,7 @@
     "online": true,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
-    "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
+    "habboFigure": "hr-836-34.hd-628-1.ch-665-110.lg-710-64.sh-730-110.ha-1012-1327.he-1604.fa-3276-1414",
     "memberSince": "2008-04-15T15:47:30.000+00:00",
     "uniqueId": "hhit-6f89f8518260b2799c5c1b8155e0dd9e",
     "name": "bruna.96",
@@ -832,8 +832,8 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-831-1394.hd-180-1390.ch-5860-110.lg-280-110.sh-295-92.ha-5364.he-1608.ca-1816",
+    "motto": "reality used to be a friend of mine",
+    "habboFigure": "hr-831-1394.hd-180-9.ch-5860-110.lg-280-110.sh-295-92.ha-5364.he-1608.ca-1816",
     "memberSince": "2008-05-05T17:06:51.000+00:00",
     "uniqueId": "hhit-4ce7b841ab8add7af51efaebce0404b5",
     "name": "Proemio",
@@ -1223,7 +1223,7 @@
     "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
-    "habboFigure": "hr-5773-1404.hd-600-10.ch-5351-110-1410.lg-3134-110-1408.sh-5803-1410.ha-5704.he-5578-1321.fa-5467.cc-5690-63",
+    "habboFigure": "hr-5773-1403.hd-600-10.ch-5453-1332-110.lg-3134-110-1408.sh-5803-1332.he-3376-86-80.fa-5467.wa-3263-1409-110",
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "95@Rosina@95",
@@ -1373,7 +1373,7 @@
     "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
-    "habboFigure": "hr-125-1398.hd-180-1.ch-5559-63.lg-3078-110.sh-3524-110-92.ha-1004-110.ca-1816.cc-3289-110",
+    "habboFigure": "hr-125-1398.hd-180-1.ch-255-96.lg-3078-110.sh-3089-110.ha-1012-96.he-1604.ca-1816",
     "memberSince": "2009-02-18T14:30:01.000+00:00",
     "uniqueId": "hhit-2324439fab9bf1743b5232868fe0eb77",
     "name": "Alibi,Mc",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-3022-110-67.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥Vice Imperatore Golden Demons¥",
     "habboFigure": "hr-3499-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "1312",
     "habboFigure": "hr-5019-34.hd-3845-8.ch-235-1408.lg-3320-82-1408.sh-3524-64-1408.he-1608.ea-1401-64",
@@ -6721,16 +6721,16 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "",
-    "habboFigure": "hd-3095-1362.ch-3203-1341.lg-3202-1325-67.ha-3272-110-1408.he-3081-1433.fa-1202-96.cc-3269-93-110",
+    "habboFigure": "hr-834-61.hd-3096-28.ch-3014-1326.lg-3058-110.sh-3089-110.he-1604.ca-3292-110",
     "memberSince": "2012-11-08T17:16:50.000+00:00",
     "uniqueId": "hhit-ba0016ccd83292e1f94ca9898d1a0253",
     "name": "ChazOrtiz",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-73.lg-280-64.sh-908-91.fa-3276-71.cp-3128-73",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -7390,10 +7390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-42.hd-180-10.ch-3030-64.lg-281-110.sh-290-92.he-3070-92.ea-3640",
+    "habboFigure": "hr-3163-42.hd-180-10.ch-4361-110-64.lg-5594-80.sh-3587-92-1408.ha-3488.he-3070-92.ea-3640.cc-3360-1408",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
     "name": "Tinhos",
@@ -8310,7 +8310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-828-45.hd-180-10.ch-210-110.lg-280-80.sh-300-110.ha-1002-110",
@@ -8410,7 +8410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-44-42.hd-3604-1.ch-655-73.lg-3216-64.sh-3068-64-82.ha-3613-64.fa-1212.ca-3973-64-64.wa-3210-64-64.cp-3288-85",
@@ -8890,7 +8890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
