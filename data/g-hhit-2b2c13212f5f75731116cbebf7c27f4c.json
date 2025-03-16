@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Sentinella Semplice G.D º",
     "habboFigure": "hr-3841-34.hd-209-1.ch-230-1408.lg-3320-64-64.sh-4112-64-73.fa-5601-1408.ca-4115-64-73.cc-3917-64",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-34.hd-4383-10-1393.ch-3598-110-110.lg-4066-110.ha-3054-110-1409.he-3070-96",
@@ -8450,7 +8450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-45.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
