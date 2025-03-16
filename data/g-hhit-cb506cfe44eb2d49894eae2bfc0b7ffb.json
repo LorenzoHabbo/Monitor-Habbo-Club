@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Troublemaker Hooligans",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-650-110.lg-3006-98-98.sh-5717.he-5828.cc-5895.cp-5886-92",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sicario corleone",
     "habboFigure": "hr-4131-61-61.hd-615-10.ch-3036-1325-1409.lg-3842-1341-1341.sh-4112-86-86.ha-5089",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "OLD SCHOOL |",
     "habboFigure": "hr-5773-36.hd-190-3.ch-4361-110-1408.lg-3596-92-110.sh-3016-110.ha-1004-110.he-5088.fa-3296.cc-4979-92",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1371.ch-255-1408.lg-280-1408",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "‘ Super Chill Slide Corleone Club ‘",
     "habboFigure": "hr-3273-31-1397.hd-3536-2-2.ch-650-92.lg-3483-1409-1409.sh-3587-92-1409.ha-3855-1409.fa-3276-1412.ca-3876-92-92.cc-3826-1409-92",
@@ -2583,7 +2583,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-4360-42-42.hd-209-1.ch-5608-64.lg-3023-64.sh-3068-1408-1408.fa-5624-1408",
+    "habboFigure": "hr-4360-42-42.hd-209-1.ch-5608-64.lg-3023-64.sh-3068-1408-1408.fa-5624-1408.ca-1815-64",
     "memberSince": "2021-12-16T19:02:53.000+00:00",
     "uniqueId": "hhit-79fc9291c90d93d17b25fcab9f239f90",
     "name": "guest5-9-30",
