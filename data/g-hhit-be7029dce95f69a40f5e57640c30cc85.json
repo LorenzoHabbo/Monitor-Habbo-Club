@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Elizabeth Swann BLACK PEARL",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-110.lg-3192-92.sh-3206-110.ha-1005-110.ea-1402.fa-3276-110",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92.cp-3315-92",
@@ -5090,7 +5090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -6730,7 +6730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-73.lg-280-64.sh-908-91.fa-3276-71.cp-3128-73",
