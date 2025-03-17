@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-5019-51.hd-5696-10-1362.ch-3934-110-110.lg-280-110.sh-4112-92-92.he-3070-1321.fa-5600-68",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Brooklyn  —-In My Mind-—",
     "habboFigure": "hr-5617-1351-61.hd-3096-1.ch-5666.lg-3078-110.sh-3016-110.he-3274-64.ea-3169-110.wa-5676.cc-5461-64-1416",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-125-49.hd-5317-18-28.ch-5858-110.lg-3418-64.sh-5718.ha-1003-64.he-3070-92.fa-5601-92",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "triade",
     "habboFigure": "hr-802-42.hd-209-14.ch-215-72.lg-3290-72.sh-3115-64-64.ha-1002-72.fa-1201",
@@ -9980,7 +9980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ºmsrzº  #strzsbagliata",
     "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1428.lg-710-110.sh-5247-92-110.ha-1004-63.he-3891.fa-5601-92.ca-3885-92-1408",
