@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-5773-57.hd-4383-10-14.ch-5245-95.lg-5594-95.sh-5803-80.he-5802-80.fa-4168-95.wa-5370.cc-5461-80-95",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3524-1408-1408.ha-3591.he-5074-1408.fa-5280-90.ca-4036-66.cc-4091-64",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-44.hd-3631-1-14.ch-3528-71-73.lg-3526-72-73.sh-3621-71-73.ea-1401-71.cc-4106-73-1408",
@@ -1930,7 +1930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1004-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
