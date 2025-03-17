@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -8400,7 +8400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-44-42.hd-3604-1.ch-655-73.lg-3216-64.sh-3068-64-82.ha-3613-64.fa-1212.ca-3973-64-64.wa-3210-64-64.cp-3288-85",
