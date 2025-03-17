@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Elizabeth Swann BLACK PEARL",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-110.lg-3192-92.sh-3206-110.ha-1005-110.ea-1402.fa-3276-110",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cryckey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.cc-5826-92",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.sh-3180-92-105.fa-3276-96",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " »Uomo D'onore L.I. Fam. Corleone »",
     "habboFigure": "hr-3670-61.hd-5838-11-1367.ch-3934-92-110.lg-5594-1338.sh-3089-92.ha-3855-1409.he-3740.fa-5975.ca-3485.cc-5800-1409-1409",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Even if it kills me... OºM",
     "habboFigure": "hr-3281-61.hd-180-10.ch-255-92.lg-3057-77.sh-3016-110.ha-1002-110.ea-3169-110.fa-3462-110",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
     "habboFigure": "hr-5579-34.hd-4163-1-30.ch-4368-64.lg-5594-1408.sh-5729-64-64.he-5314-1408-1408",
@@ -2263,7 +2263,7 @@
     "online": true,
     "gender": "m",
     "motto": "Alastor G.D.",
-    "habboFigure": "hr-5791-1353.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-1337-1337.cc-5761-100-1329",
+    "habboFigure": "hr-5791-35.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-66-66.cc-5761-100-1329",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hd-3604-14.ch-4190-82-73.lg-4191-82-73.ha-4188-82",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Doganiere Del Fronte Scudo Del Faro BP",
     "habboFigure": "hr-3163-49.hd-205-1.ch-4111-110.lg-285-110.sh-305-64.ea-1404-64.fa-3276-72.ca-1816.wa-2012",
@@ -2490,7 +2490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capitano  B.P.",
     "habboFigure": "hr-3278-45-40.hd-209-8.ch-225-90.lg-5732-110-1408.sh-3089-110.ha-3675-110-1408.he-1608.ea-1402.cc-5733-110-92",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5679-1394-1401.hd-4383-10-28.ch-3013-100.lg-3078-110.sh-3089-100.he-3070-92.fa-5601-92.ca-3799-110-110.cp-3207-89-89",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Prospect Masarez",
     "habboFigure": "hr-170-42.hd-207-1.ch-878-90-1408.lg-3088-64-64.sh-906-64.ea-1404-64.fa-1206-64.ca-1809.cp-3284-1408",
@@ -2983,7 +2983,7 @@
     "online": true,
     "gender": "f",
     "motto": "Capitano di DIvisione R.G.S",
-    "habboFigure": "hr-5619-47.hd-627-1.ch-665-1408.lg-3526-81-81.ha-5620-1408.fa-1212.ca-3876-1408-1408",
+    "habboFigure": "hr-5619-47.hd-627-1.ch-645-64.lg-3023-64.sh-907-64.ha-5620-1408.fa-1212.ca-1813.wa-2007",
     "memberSince": "2023-08-29T06:28:41.000+00:00",
     "uniqueId": "hhit-c7d2874704319999c94705d58d8ac794",
     "name": "giiuulsss263",
@@ -3133,7 +3133,7 @@
     "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
-    "habboFigure": "hd-208-28.ch-3030-1408.lg-3216-1408.he-3189-96",
+    "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
     "memberSince": "2023-11-08T16:40:54.000+00:00",
     "uniqueId": "hhit-87738591e8f965854080727e6c36bfc7",
     "name": "momo1",
@@ -3333,7 +3333,7 @@
     "online": false,
     "gender": "m",
     "motto": "you are the gin to my tonic",
-    "habboFigure": "hr-5275-34.hd-205-2.ch-3934-92-110.lg-5594-92.sh-305-92.ea-5576-110-110.fa-5835-1412.ca-4115-1430-1412",
+    "habboFigure": "hr-5275-34.hd-205-2.ch-255-110.lg-5594-1426.sh-305-92.ea-1404-110.fa-5835-1412.cc-3420-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-838-61.hd-625-1370.ch-3213-92-1327.lg-3290-110.sh-3068-92-1327.he-3227-1327.ea-1401-110",
