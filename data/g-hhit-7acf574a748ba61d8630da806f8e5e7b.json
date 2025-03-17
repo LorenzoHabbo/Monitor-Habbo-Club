@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3524-1408-1408.ha-3591.he-5074-1408.fa-5280-90.ca-4036-66.cc-4091-64",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "dopo tutto questo tempo?",
     "habboFigure": "hr-802-42.hd-209-1370.ch-255-73.lg-3078-64.ea-1401-1408.fa-1205-1320",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "M|",
     "habboFigure": "hr-5617-1345-1352.hd-3096-1.ch-3342-1424-96.lg-3483-96-96.sh-4112-110-110.he-3081-68.fa-3276-96.cc-3744-1424-96",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-838-61.hd-625-1370.ch-3213-92-1327.lg-3290-110.sh-3068-92-1327.he-3227-1327.ea-1401-110",
