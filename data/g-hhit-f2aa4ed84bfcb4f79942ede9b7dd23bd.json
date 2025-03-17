@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Brooklyn  —-In My Mind-—",
     "habboFigure": "hr-5617-1351-61.hd-3096-1.ch-5666.lg-3078-110.sh-3016-110.he-3274-64.ea-3169-110.wa-5676.cc-5461-64-1416",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-3279-110.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -1823,7 +1823,7 @@
     "online": true,
     "gender": "m",
     "motto": "Corleone",
-    "habboFigure": "hr-125-49.hd-5317-18-28.ch-5858-110.lg-3418-64.sh-5718.ha-1003-64.he-3070-92.fa-5601-92",
+    "habboFigure": "hr-125-49.hd-5317-18-28.ch-5858-1321.lg-3418-64.sh-5718.ha-1003-64.he-3070-92.fa-5601-92",
     "memberSince": "2009-10-29T14:47:56.000+00:00",
     "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a",
     "name": "ric",
@@ -2843,7 +2843,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1395.hd-5317-2-10.ch-3032-92-92.lg-280-110.sh-5247-110-110.ha-5512.he-3070-1408.fa-3276-1328",
+    "habboFigure": "hr-5285-1405-40.hd-6045-18.ch-3032-110-110.lg-5594-110.sh-5247-110-110.he-3070-1408.ea-1404-110.fa-5751.ca-3292-110.cc-4137-110.cp-3315-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -2983,7 +2983,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Vice Padrino Corleone »",
-    "habboFigure": "hr-828-1404.hd-3845-1390.ch-215-92.lg-5594-1338.sh-4112-92-92.he-3070-1321.ea-1404-110.cc-5077-1321",
+    "habboFigure": "hr-828-1404.hd-3845-1390.ch-215-92.lg-5594-1338.sh-4112-92-92.he-3070-1321.ea-1404-110.cc-5077-96",
     "memberSince": "2010-11-02T11:34:52.000+00:00",
     "uniqueId": "hhit-f61bf0c2e91d85469599f22dd84bc610",
     "name": "samuf",
@@ -6840,16 +6840,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "» Pezzo Grosso - Battaglia »",
-    "habboFigure": "hr-3163-1403.hd-3091-4.ch-255-1335.lg-280-92.sh-3035-110.he-3070-63.fa-3276-63.ca-4115-110-110",
-    "memberSince": "2013-06-21T16:09:36.000+00:00",
-    "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
-    "name": "El.Vampiro",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "Figlio dell aria Triade",
@@ -7650,7 +7640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ºº",
     "habboFigure": "hr-3163-61.hd-3095-1.lg-3058-110.sh-3089-110.ca-3175-93.wa-2005.cc-3327-110-73",
@@ -9743,7 +9733,7 @@
     "online": true,
     "gender": "m",
     "motto": "¥ PAPPONE º Famiglia Corleone [F.C] ¥",
-    "habboFigure": "hr-893-42.hd-180-10.ch-3486-1320-1320.lg-270-81.ha-3479",
+    "habboFigure": "hr-893-42.hd-180-10.ch-3486-73-73.lg-270-81.ha-3479",
     "memberSince": "2015-09-24T17:37:16.000+00:00",
     "uniqueId": "hhit-40fde95fcb03d0f10e613e0c87f880e2",
     "name": "J3Tears",
@@ -9997,6 +9987,16 @@
     "memberSince": "2015-12-03T12:57:10.000+00:00",
     "uniqueId": "hhit-d1cdda1e880114061a06d38f965f282e",
     "name": "lucealexoc76",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "vince chi perde",
+    "habboFigure": "hr-155-36.hd-209-1370.ch-240-74.lg-281-74.sh-290-74.ha-1004-64.ea-1404-64.fa-1204",
+    "memberSince": "2015-12-03T17:28:37.000+00:00",
+    "uniqueId": "hhit-17be6973a0cf7daf0e9ad5b88ffdd967",
+    "name": "--fristo..",
     "isAdmin": false
   }
 ]
