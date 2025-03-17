@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-96.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.cc-5842",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4131-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64.cc-4184-64-64",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-838-61.hd-625-1370.ch-3213-92-1327.lg-3290-110.sh-3068-92-1327.he-3227-1327.ea-1401-110",
