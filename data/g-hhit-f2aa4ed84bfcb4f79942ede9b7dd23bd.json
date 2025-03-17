@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DS Corleone",
     "habboFigure": "hr-155-34.hd-207-1.ch-5856.lg-281-85.sh-305-1408.fa-5600-1408.ca-5420-1408-1408",
@@ -9060,7 +9060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",

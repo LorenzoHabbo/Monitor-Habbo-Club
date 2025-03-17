@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3673-32.hd-3100-1.ch-3005-64-89.lg-4114-64-89.sh-3016-64.he-3070-89.fa-3276-96.ca-4281-1409",
@@ -1463,7 +1463,7 @@
     "online": true,
     "gender": "m",
     "motto": "I won't tell you my motto.",
-    "habboFigure": "hr-3163-61.hd-205-1383.ch-215-92.lg-280-1324.sh-908-92.he-3070-92.ea-1404-110.fa-5600-92.cp-3204",
+    "habboFigure": "hr-3829-1342.hd-205-1383.ch-215-110.lg-280-92.sh-908-92.he-3070-92.ea-1404-110.fa-5600-92.cp-3204",
     "memberSince": "2025-03-14T01:58:50.000+00:00",
     "uniqueId": "hhit-69526264cb6343e7f93f61ec0dcc2ba5",
     "name": "kalashnikov.",
