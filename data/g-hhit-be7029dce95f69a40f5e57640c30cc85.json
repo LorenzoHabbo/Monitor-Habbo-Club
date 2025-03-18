@@ -1320,10 +1320,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Pensionato",
-    "habboFigure": "hr-3829-49.hd-4174-1.ch-3934-92-110.lg-3483-1428-1428.sh-3621-92-1325.he-3070-1410.ea-3493-1418-1410.fa-5384-92.ca-4115-1335-1412.cc-4356",
+    "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-63.lg-5594-77.sh-5464-92-92.ha-5557-63-64.ea-1404-110.fa-5384-92.cc-5761-64-1428",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-61.hd-205-10.ch-255-1428.lg-285-77.sh-3035-1408",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Me voglio annammurà",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-695-64.sh-5551.he-5802-64.fa-3276-73.cc-5461-1408-1408",
@@ -8410,7 +8410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-44-42.hd-3604-1.ch-655-73.lg-3216-64.sh-3068-64-82.ha-3613-64.fa-1212.ca-3973-64-64.wa-3210-64-64.cp-3288-85",
