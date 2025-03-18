@@ -50,10 +50,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-1396.hd-180-10.ch-803-92.lg-3596-110-1408.sh-4112-110-92.ha-5677-110.he-3660-92-92.cc-5761-110-110",
+    "habboFigure": "hr-5791-1396.hd-180-10.ch-803-92.lg-3596-110-1408.sh-4112-110-92.ha-5677-110.he-3660-92-92.fa-5601-92.cc-5761-110-110",
     "memberSince": "2007-06-18T12:50:35.000+00:00",
     "uniqueId": "hhit-d556ecaf14bf2c7130454858c4e3bc8a",
     "name": "Lodato",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "^.^ |",
     "habboFigure": "hr-5619-32.hd-4383-10-30.ch-5596-85.lg-5594-83.sh-4159-84-73",
@@ -423,7 +423,7 @@
     "online": true,
     "gender": "f",
     "motto": "meow",
-    "habboFigure": "hr-4117-32-37.hd-3845-10.ch-822-64.lg-3078-1408.sh-3180-1408-64.fa-3276-72",
+    "habboFigure": "hr-4117-32-37.hd-3845-10.ch-822-64.lg-3078-1408.sh-3180-1408-64.he-3660-64-64.fa-3276-72",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Partner Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-884-64.lg-3526-1408-1408.ha-3775.cc-3824-64-73",
