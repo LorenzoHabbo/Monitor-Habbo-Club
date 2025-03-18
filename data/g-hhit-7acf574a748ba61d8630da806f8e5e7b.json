@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Garzone di coperta BP Arrr!",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-90.lg-3526-82-82.sh-3419-90-91.ha-3675-64-1408.ea-3484.ca-5455-82-66",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-3788-1326.lg-4083.ha-3709.ca-5463",
