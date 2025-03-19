@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-5239-92.lg-275-77.sh-5296.ha-3488.fa-5600-92",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-125-31.hd-5317-18-1392.ch-5858-110.lg-3418-64.sh-5718.ha-1003-64.he-3070-92.fa-5601-92",
@@ -510,10 +510,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "M..S..T..S..C..",
-    "habboFigure": "hr-4131-49-49.hd-3845-28.ch-5202-77-1422.lg-3006-110-110.ha-3709.he-5088.fa-3296.ca-5278-77.cc-3360-1326",
+    "habboFigure": "hr-5606-49-40.hd-3845-28.ch-5453-92-106.lg-4138-1416.sh-3154-106-106.he-5088.fa-3276-1323.ca-5444-92-106.cc-5461-92-106",
     "memberSince": "2011-06-23T00:13:40.000+00:00",
     "uniqueId": "hhit-48d2de02afd820ed78b4647b9fb28ea5",
     "name": "Estrela.",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-92.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.cc-5961-1326-92",
@@ -813,7 +813,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-655-110.lg-5594-64.sh-5247-92-1408.ha-3954-109-64.ea-5626-110.fa-5835-73",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-655-110.lg-5594-64.sh-5247-92-1408.ha-3954-109-64.ea-5626-110.fa-5835-73.cc-5800-109-109",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -983,7 +983,7 @@
     "online": true,
     "gender": "f",
     "motto": ".",
-    "habboFigure": "hr-5579-1404.hd-600-10.ch-4067-1326-92.lg-700-1408.sh-730-110.fa-5122-110.cc-4184-92-1326",
+    "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "per gli amici e-e a verità 12840",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-280-82.sh-3693-1325-1409.ha-5797.he-5828.ea-4985.fa-5975.ca-5002.wa-5370",
@@ -1653,7 +1653,7 @@
     "online": true,
     "gender": "m",
     "motto": "R6 emerald player / TRM supporter",
-    "habboFigure": "hr-3860-61-61.hd-5524-1372-1372.ch-255-110.lg-5732-110-110.sh-5640.he-5828.ea-5392.fa-5948-110.ca-5574-110-110.cc-5690-110",
+    "habboFigure": "hr-3860-59-59.hd-5524-1367-1367.ch-255-1413.lg-5594-1413.sh-3338-1413.he-5828.ea-5392.fa-5948-96.ca-5574-1412-1412.cc-5690-1413",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
     "name": "MVPsimo_",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fiduciario EºW",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
