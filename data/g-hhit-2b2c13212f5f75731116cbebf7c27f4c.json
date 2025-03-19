@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» [Master of Subculture] » Hooligans »",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-3884-92-92.fa-4044.cc-3867-110-110",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-3788-1326.lg-4083.ha-3709.ca-5463",
@@ -3430,10 +3430,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5772-38-40.hd-605-1.ch-665-91.lg-5594-91.sh-5308-1408.he-5766-1408-1408.fa-5467.cc-5761-90-1408",
+    "habboFigure": "hr-5681-38-40.hd-605-1.ch-665-91.lg-5594-91.sh-5308-1408.he-5766-1408-1408.fa-5467",
     "memberSince": "2016-06-22T11:07:36.000+00:00",
     "uniqueId": "hhit-54ad243cbd41f57f29db4d0c8c27546d",
     "name": "Selene.",
@@ -3573,7 +3573,7 @@
     "online": false,
     "gender": "f",
     "motto": "Per sempre",
-    "habboFigure": "hr-5680-1397.hd-4383-10-1393.ch-826-110-110.lg-4066-110.ha-3054-110-1409.he-3070-96.fa-3276-92",
+    "habboFigure": "hr-5680-1397.hd-4383-10-1393.ch-826-110-110.lg-3018-82.ha-3054-82-1409.he-3070-96.fa-3276-92",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "Belle!!!",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Vicario Eperto G.D",
     "habboFigure": "hr-3860-34-40.hd-190-10.ch-3788-82.lg-4083.sh-908-82.ha-3855-82.fa-4049",
