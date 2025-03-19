@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-92.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.cc-5961-1326-92",
@@ -333,7 +333,7 @@
     "online": true,
     "gender": "m",
     "motto": "sale come un ascensore",
-    "habboFigure": "hr-3860-61-42.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-110-110.he-3772-110.ea-3978-110-110.fa-5975.ca-5278-110.wa-3773-110",
+    "habboFigure": "hr-3860-61-42.hd-180-2.ch-215-110.lg-4138-110.sh-3587-110-110.he-3772-110.ea-3978-110-110.fa-5975.wa-3773-110.cc-5810-63",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-34.hd-205-2.ch-215-110.lg-5594-110.sh-3035-110.he-3858-63.ea-1404-110.fa-3276-96.ca-3225-110-110.cp-3310-1408",
