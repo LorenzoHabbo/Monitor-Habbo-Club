@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1371.ch-255-1408.lg-280-1408",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5773-61.hd-629-1.ch-4299-110-92.lg-3320-1426-1408.sh-3016-110.he-5808-92",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-34.hd-605-10.ch-3367-74-1408.lg-3364-74-1408.sh-730-74.he-3821-71-1408.fa-5467.ca-3799-1408-1408.wa-4317-74.cc-4979-1408",
+    "habboFigure": "hr-5619-34.hd-605-10.ch-655-1320.lg-710-82.sh-908-1408.he-5577-1320-88.fa-5467.cc-5800-88-88",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3342-110-110.lg-5363-1432.sh-5803-92.ha-1003-1432.he-5466.ca-3885-92-92.cc-5800-1432-1432",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Luogotenente Little Italy » Corle1 »",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3779-1425-92.lg-3596-92-110.sh-3016-1426.ha-4325.he-5348.fa-3296.cc-5800-1425-1341",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? Sempre º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5560-110-110.lg-5594-110.he-3740.ca-3885-1410-110.cc-4108-110-110",
@@ -3210,7 +3210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " Corsaro esperto BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-64.lg-4369-1408-1408.sh-5308-1408.he-3324-64-64.fa-5467",
@@ -3310,10 +3310,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "you are the gin to my tonic",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-1428.sh-305-92.ha-3709.he-3070-92.cc-3420-110",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-1409-110.lg-275-110.sh-5803-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-655-1418.lg-5594-1427.sh-5308-1427.he-1609-1418.fa-5601-1427.cc-5800-1427-1427",
@@ -4217,16 +4217,6 @@
     "memberSince": "2025-02-13T00:09:25.000+00:00",
     "uniqueId": "hhit-a2006388afef91b1893a3fa47695e0fc",
     "name": "Mauriwewe",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "f",
-    "motto": "Affiliata Corleone.",
-    "habboFigure": "hr-540-45.hd-605-1.ch-812-72.lg-3216-1408.sh-725-72.ha-3775.fa-3276-72",
-    "memberSince": "2025-02-14T12:43:14.000+00:00",
-    "uniqueId": "hhit-301edd9766627a9ba7c648ed73038298",
-    "name": "nastivata",
     "isAdmin": false
   },
   {
