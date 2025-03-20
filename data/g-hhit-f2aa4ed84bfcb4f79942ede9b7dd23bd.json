@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-5239-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.cc-5961-77-92",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sicario corleone",
     "habboFigure": "hr-4131-61-61.hd-615-18.ch-630-1408.lg-4167-82.sh-3184-1321.ha-5089.ca-5604-1409-1409.cc-4104-1325-82",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3668-110-110.lg-3787-110-110.sh-3089-110.ha-3382-110-110.he-3557.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
