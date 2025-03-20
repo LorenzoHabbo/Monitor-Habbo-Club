@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fondatore Eternal Warriors",
     "habboFigure": "hr-3278-61-40.hd-190-28.ch-225-110.lg-270-110.sh-295-92.ha-1013-110.cc-3420-1428",
@@ -28,6 +28,16 @@
     "uniqueId": "hhit-afb03f7e71ea9bae473bb12d13313ece",
     "name": "EternalWarriors",
     "isAdmin": true
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "Guardia di coperta BP Arrr!",
+    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-90.lg-3526-82-82.sh-3419-90-91.ha-3675-64-1408.ea-3484.ca-5455-82-66",
+    "memberSince": "2006-02-05T19:06:27.000+00:00",
+    "uniqueId": "hhit-b2be57d2196743d6e0f3986336c5d580",
+    "name": "Cici.",
+    "isAdmin": false
   },
   {
     "online": false,
@@ -72,11 +82,41 @@
   {
     "online": true,
     "gender": "m",
+    "motto": "The Dark Lord.",
+    "habboFigure": "hd-190-1.ch-3032-64-92.lg-5594-1409.sh-5247-92-77.ha-1015.he-3732.fa-1203.ca-5737-64.cc-5077-77",
+    "memberSince": "2008-03-04T12:02:33.000+00:00",
+    "uniqueId": "hhit-dfa939003671ccb93b85546ffc8a96a4",
+    "name": "DarkDragon:.",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "sicario scelto famiglia mandela",
+    "habboFigure": "hr-5556-40-42.hd-207-1.ch-3432-1320-1408.lg-5594-82.sh-3435-68-72.fa-4042.cc-4978-76-1408",
+    "memberSince": "2008-04-06T20:21:43.000+00:00",
+    "uniqueId": "hhit-44b1d66d2a65e78feaf93cfc15024ece",
+    "name": "limoncello1994",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
     "motto": "Vicario GD",
-    "habboFigure": "hd-3997-2.ch-3077-110-1324.lg-285-1335.sh-290-110.ha-3409-1335-1408.cc-4105-1335-92",
+    "habboFigure": "hr-5019-49.hd-3997-2.ch-803-110.lg-3078-110.sh-3089-92.fa-3993-1331.ca-5278-92.cc-3827-110-1408",
     "memberSince": "2008-04-22T21:11:31.000+00:00",
     "uniqueId": "hhit-8f3ff5e91cc79378537f8b7c101fa005",
     "name": "Marek17",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Uomo d'onore Little Italy-Corleone",
+    "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
+    "memberSince": "2009-04-01T19:42:14.000+00:00",
+    "uniqueId": "hhit-92c7bb1c60e0da28a0fc29907e750bb5",
+    "name": ":::MaGiC.BoY:::",
     "isAdmin": false
   },
   {
@@ -90,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Hi",
     "habboFigure": "hd-180-14.ch-266.lg-3290-64.sh-905-72.he-3274-1408.ea-1404-1408.fa-1201.ca-1806-72.cc-3294-64-64",
@@ -263,10 +303,20 @@
     "online": true,
     "gender": "m",
     "motto": "º Spia semplice G.D º",
-    "habboFigure": "hr-4090-31.hd-190-1.ch-215-1408.lg-3088-64-64.sh-4112-64-1408.fa-5601-1408.ca-4115-64-1408",
+    "habboFigure": "hr-4090-31.hd-190-1.ch-215-1408.lg-3088-64-82.sh-4112-64-1408.fa-5601-1408.ca-4115-64-1408",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "prima ero solo ora solo ero",
+    "habboFigure": "hr-893-37.hd-205-10.ch-806-72.lg-3078-82.sh-906-1408.he-1610.fa-3276-76.wa-3074-85-76",
+    "memberSince": "2012-04-25T17:06:25.000+00:00",
+    "uniqueId": "hhit-86c634d8e7576ea50dc1fff12ba2df26",
+    "name": "Orwell.-Ban",
     "isAdmin": false
   },
   {
@@ -347,6 +397,16 @@
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-655-110.lg-5594-64.sh-5247-92-1408.ha-3954-109-64.ea-5626-110.fa-5835-73.cc-5800-109-109",
+    "memberSince": "2013-06-17T16:41:02.000+00:00",
+    "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
+    "name": "Shippah.",
     "isAdmin": false
   },
   {
@@ -433,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "Arcolopoli",
-    "habboFigure": "hr-3810-60.hd-3100-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413.ca-5463.wa-3773-106",
+    "habboFigure": "hr-3251-60-40.hd-3100-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413.ca-5463.wa-3773-106",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -527,6 +587,16 @@
     "memberSince": "2015-12-11T16:11:14.000+00:00",
     "uniqueId": "hhit-6de415084834dc1589253227e0dda9c3",
     "name": "_itsnali",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Uomo d'onore Corleone Fear Allah",
+    "habboFigure": "hr-3768-1347.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-6044.cp-3205",
+    "memberSince": "2015-12-19T14:18:34.000+00:00",
+    "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
+    "name": "-Cristallo-Ban-",
     "isAdmin": false
   },
   {
@@ -731,6 +801,16 @@
   },
   {
     "online": true,
+    "gender": "f",
+    "motto": "ª Maestro di Vela - Black Pearl ª",
+    "habboFigure": "hr-5773-1407.hd-3631-1370-30.ch-650-1414.lg-5594-92.sh-3035-110.he-5577-89-1408.ea-5576-110-110.wa-3264-1327-92.cc-5800-83-83",
+    "memberSince": "2018-06-23T11:00:29.000+00:00",
+    "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
+    "name": "giada092",
+    "isAdmin": false
+  },
+  {
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-831-49.hd-180-9.ch-3167.lg-3078-110.sh-3595-92.ha-3952.ea-3484.fa-5056.ca-1816.cc-4386-110-1408",
@@ -920,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cancelliere EW",
     "habboFigure": "hr-828-1407.hd-3845-28.ch-3683-64-64.lg-280-110.sh-3035-110.fa-1209-1428.cc-5800-110-110",
@@ -1087,6 +1167,16 @@
     "memberSince": "2022-02-03T15:28:15.000+00:00",
     "uniqueId": "hhit-4cf41f2d1dab8d795364b25aaaef95bb",
     "name": ".Garp.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "ººº PUSHER SUPREMO CORLEONE ººº",
+    "habboFigure": "hr-3531-49-49.hd-3845-1370.ch-803-110.lg-5594-110.sh-5803-92.ha-1026.he-1604.fa-3700.wa-3504-110",
+    "memberSince": "2022-02-14T09:27:02.000+00:00",
+    "uniqueId": "hhit-48597daf24a8bb3fdbb50f5f32c2d5f9",
+    "name": "Mexiwano",
     "isAdmin": false
   },
   {
@@ -1353,7 +1443,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5773-61.hd-615-1393.ch-3598-110-110.lg-5594-110.sh-5803-92.ea-3148-110-110",
+    "habboFigure": "hr-5773-61.hd-615-2.ch-3598-110-110.lg-5594-110.sh-5803-92.ea-3148-110-110",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -1473,7 +1563,7 @@
     "online": true,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
-    "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-1424.lg-3290-110.ha-1013-107.he-3082-110.fa-4168-95.cc-3066-110",
+    "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-98.lg-3290-110.ha-1013-1327.he-3082-110.fa-4168-95.cc-3066-110",
     "memberSince": "2025-02-09T23:31:32.000+00:00",
     "uniqueId": "hhit-0dcc03ee2ca90df5307435857daa5db0",
     "name": "Mokkanonnt",
@@ -1623,7 +1713,7 @@
     "online": true,
     "gender": "f",
     "motto": "800A",
-    "habboFigure": "hr-540-45.hd-629-1.ch-3682-73-73.lg-3116-91-1408.sh-906-1320.ha-4201.ea-3484",
+    "habboFigure": "hr-515-45.hd-629-10.ch-685-1320.lg-3116-1320-1408.sh-906-1408.ha-4201.ea-3484",
     "memberSince": "2025-03-15T02:29:16.000+00:00",
     "uniqueId": "hhit-ad377a5e7b3d880619dc212aa4374e08",
     "name": "iosonogroot.",
