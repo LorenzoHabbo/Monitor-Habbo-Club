@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guardia di coperta BP Arrr!",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-90.lg-3526-82-82.sh-3419-90-91.ha-3675-64-1408.ea-3484.ca-5455-82-66",
@@ -67,6 +67,16 @@
     "memberSince": "2007-08-31T00:22:57.000+00:00",
     "uniqueId": "hhit-3d641d9cac3aed8aa8e8d43413b57d3b",
     "name": "--JoDy--",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "~ OSU",
+    "habboFigure": "hr-3322-61.hd-180-10.ch-3032-110-1408.lg-285-1338.ha-1026.fa-5600-92.cc-3289-1338",
+    "memberSince": "2007-12-31T12:48:14.000+00:00",
+    "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
+    "name": "francesco97!",
     "isAdmin": false
   },
   {
@@ -113,7 +123,7 @@
     "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
-    "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
+    "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-3138-1338-1408.ha-3709",
     "memberSince": "2009-04-01T19:42:14.000+00:00",
     "uniqueId": "hhit-92c7bb1c60e0da28a0fc29907e750bb5",
     "name": ":::MaGiC.BoY:::",
@@ -300,10 +310,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Spia semplice G.D º",
-    "habboFigure": "hr-4090-31.hd-190-1.ch-215-1408.lg-3088-64-82.sh-4112-64-1408.fa-5601-1408.ca-4115-64-1408",
+    "habboFigure": "hr-4090-31.hd-190-1.ch-215-1408.lg-3088-64-82.sh-4112-1408-1408.fa-5601-1408.ca-4115-64-1408",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -430,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "è un matto col botto! MascotteCorleone",
     "habboFigure": "hr-125-1395.hd-3092-8.ch-3185-104.lg-3019-63.sh-3206-1409.ea-3484.fa-5636-1325.ca-3225-1338-92.cc-5825",
@@ -540,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -800,10 +810,20 @@
     "isAdmin": false
   },
   {
+    "online": false,
+    "gender": "f",
+    "motto": "ti mando sotto il pontos",
+    "habboFigure": "hr-515-42.hd-615-1369.ch-669-64.lg-696-64.sh-905-1408.fa-5467",
+    "memberSince": "2018-05-21T19:20:19.000+00:00",
+    "uniqueId": "hhit-a764bebe9f02cdf721c1dcee7e27d8b4",
+    "name": "la.valotaa",
+    "isAdmin": false
+  },
+  {
     "online": true,
     "gender": "f",
     "motto": "ª Maestro di Vela - Black Pearl ª",
-    "habboFigure": "hr-5773-1407.hd-3631-1370-30.ch-650-1414.lg-5594-92.sh-3035-110.he-5577-89-1408.ea-5576-110-110.wa-3264-1327-92.cc-5800-83-83",
+    "habboFigure": "hr-5773-1407.hd-3631-1370-30.ch-650-1414.lg-5594-92.sh-3035-110.he-5577-98-94.ea-5576-110-110.wa-3264-1327-92.cc-5800-83-83",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -817,6 +837,16 @@
     "memberSince": "2018-08-08T22:05:04.000+00:00",
     "uniqueId": "hhit-17ab2f240ff6959567864673a08c0408",
     "name": "Venom1993",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "BARISTA Esperto G.D",
+    "habboFigure": "hr-3860-37-40.hd-190-10.ch-4299-81-1408.lg-281-82.ha-3662-82-1408.fa-4049.ca-3466-81-1408.cc-4979-1408",
+    "memberSince": "2018-11-24T06:59:14.000+00:00",
+    "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
+    "name": "sir.crocodile",
     "isAdmin": false
   },
   {
@@ -1563,7 +1593,7 @@
     "online": true,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
-    "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-98.lg-3290-110.ha-1013-1327.he-3082-110.fa-4168-95.cc-3066-110",
+    "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-101.lg-3290-110.ha-1013-101.he-3082-110.fa-4168-95.cc-3066-110",
     "memberSince": "2025-02-09T23:31:32.000+00:00",
     "uniqueId": "hhit-0dcc03ee2ca90df5307435857daa5db0",
     "name": "Mokkanonnt",
