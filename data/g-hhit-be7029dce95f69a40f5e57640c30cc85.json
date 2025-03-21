@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-4088-1408.lg-4114-1408-1408.sh-905-1408.ha-1008.ea-1401-1408.fa-5467",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "meh",
     "habboFigure": "hr-3499-1347.hd-3091-7.ch-4286-110-1408.lg-4066-110.sh-3016-110.he-3740.ea-3169-110.fa-3346-1414",
@@ -6810,7 +6810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -8180,7 +8180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sin locura no hay felicidad",
     "habboFigure": "hr-3977-61.hd-207-10.ch-5559-63.lg-275-64.sh-5247-92-92.he-5088.wa-5676.cc-3158-110",
