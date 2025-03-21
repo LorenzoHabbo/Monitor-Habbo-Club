@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Corazzatatorres",
     "habboFigure": "hr-3090-47.hd-190-14.ch-210-1408.lg-270-1408.sh-5551.ca-5575",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -6120,7 +6120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-31.hd-180-2.ch-3030-77.lg-3483-110-110.ha-5364.fa-3276-70",
@@ -6430,7 +6430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-3768-44.hd-4163-1-14.ch-3881-75.lg-4066-76.sh-3419-75-74.he-3974.ea-3484",
@@ -7230,7 +7230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "1v1?",
     "habboFigure": "hr-5619-1402.hd-3099-28.ch-685-110.lg-3290-110.sh-4064-110.he-3081-1408.ea-3484.ca-3916-79-82.cc-3975-110-1408",
@@ -7450,10 +7450,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3531-34-34.hd-180-10.ch-4361-64-64.lg-5594-64.sh-3587-1408-1408.ha-3488.he-3642.ea-3640.fa-3276-72",
+    "habboFigure": "hr-3531-34-34.hd-180-10.ch-4361-64-64.lg-5594-64.sh-3587-1408-1408.ha-3488.ea-3640",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
     "name": "Tinhos",
@@ -7630,7 +7630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "l\\_/l\"\"\"'\"\\_====_ \\_(‡).__I_.(‡)_]",
     "habboFigure": "hr-4193-48.hd-180-30.ch-3443.lg-3290-73.ha-3455.he-1609-73.fa-4013.ca-3444-73.cc-3509-64-64",
@@ -7820,7 +7820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
