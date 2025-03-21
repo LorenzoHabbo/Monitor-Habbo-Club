@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-1399.hd-180-1389.ch-4361-1424-1409.lg-3521-1424-1409.sh-3587-92-93.he-3070-93.fa-1201",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "affiliata Corleone",
     "habboFigure": "hr-5720-45-45.hd-3631-1-12.ch-650-1408.lg-5594-82.sh-4112-1408-1408.he-3660-64-64.fa-3276-72",
@@ -623,7 +623,7 @@
     "online": false,
     "gender": "f",
     "motto": "siete cm rotoloni regina nn finsch mai",
-    "habboFigure": "hr-3625-34-40.hd-3100-4.ch-665-93.lg-3320-93-93.sh-3016-92.wa-2009-92",
+    "habboFigure": "hr-3625-34-49.hd-3100-4.ch-665-93.lg-3320-93-93.sh-3016-92.wa-2009-92",
     "memberSince": "2010-07-27T00:54:27.000+00:00",
     "uniqueId": "hhit-6669bdb357bc9fc5d8cbafa9db5e4a89",
     "name": "PEGAS-",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5773-61.hd-629-1.ch-4299-110-92.lg-3320-1426-1408.sh-3016-110.he-5808-92",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-92.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.cc-5961-1326-92",
@@ -1573,7 +1573,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
-    "habboFigure": "hr-5579-34.hd-4163-1-12.ch-4368-80.lg-5594-1408.sh-3383-64-64.ha-3709.he-5618-1408.ca-3545-1408",
+    "habboFigure": "hr-5579-34.hd-4163-1-30.ch-4368-80.lg-5594-1408.sh-5729-64-64",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "polli e derivat ps.non sono napoletano",
     "habboFigure": "hr-3357-40.hd-209-20.ch-4299-73-64.lg-3216-64.sh-295-64.ha-4133-1408.ea-1401-64.fa-3462-1408.ca-4937",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ª Maestro di Vela - Black Pearl ª",
     "habboFigure": "hr-5773-1407.hd-3631-1370-30.ch-665-1409.lg-5594-1341.sh-3035-110.he-5577-98-94.ea-5576-110-110.wa-3264-1328-92.cc-3008-110-110",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MOMMY",
     "habboFigure": "hr-4117-58-1407.hd-3956-28-30.ch-3809-110-1428.lg-3200-110.he-1609-64.ea-3169-63.cc-4184-110-1408",
@@ -2351,9 +2351,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Picciotto Non Dirittato [FC]®",
-    "habboFigure": "hr-5503-1349.hd-3997-1.ch-3045-92.lg-3018-77.sh-3184-110.he-3082-110.fa-3276-95.cc-9865-110",
+    "habboFigure": "hr-3674-61-61.hd-3997-2.ch-4286-1325-1408.lg-3290-64.sh-4065-110-110.ha-1011-91.ea-3168-110.fa-5387.ca-3085-1331.cc-3280-67-110",
     "memberSince": "2021-05-04T19:35:01.000+00:00",
     "uniqueId": "hhit-d36da01536a0b4de434b9afe2876a4b1",
     "name": "Davez",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Luogotenente Little Italy FC",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -2742,7 +2742,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Sentinella Semplice G.D.",
+    "motto": "Sentinella G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "M|",
     "habboFigure": "hr-5605-61.hd-3096-7.ch-5310-110-1329.lg-5594-77.sh-4112-110-1410.ha-5085.fa-5601-77.cc-5188-110",
@@ -3043,7 +3043,7 @@
     "online": true,
     "gender": "m",
     "motto": "you are the gin to my tonic",
-    "habboFigure": "hr-828-1403.hd-205-2.ch-255-110.lg-280-110.sh-908-92.he-3660-110-110.fa-5835-1412.cc-5800-64-64",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-110-110.lg-4138-110.sh-5247-92-1408.he-3070-66.fa-5835-1412.ca-3175-66",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
