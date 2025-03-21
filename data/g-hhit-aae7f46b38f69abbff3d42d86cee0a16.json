@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CANCELLIERE EW",
     "habboFigure": "hr-4117-32-37.hd-3845-10.ch-3517-73-71.lg-710-91.sh-3180-71-82.he-3660-73-71.fa-3276-72.cc-3390-81-71",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I leoni uccidono per fame",
     "habboFigure": "hr-3531-44-44.hd-205-14.ch-215-64.lg-285-64.sh-300-64.fa-1201",
