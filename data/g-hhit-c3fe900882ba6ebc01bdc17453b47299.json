@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
     "habboFigure": "hr-3278-49-49.hd-180-28.ch-5833-110-110.lg-3384-110-94.sh-3419-110-1322.ea-3169-94.fa-3345-92.wa-2009-110",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-1346.hd-600-28.ch-665-110.lg-3006-110-110.sh-3587-110-92.ha-3541.he-3081-92.fa-4168-1326.cp-3309-92",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Malessere",
     "habboFigure": "hr-893-40.hd-205-10.ch-4111-1408.lg-281-1408.sh-295-1408.ea-1404-1408.fa-3276-85",
