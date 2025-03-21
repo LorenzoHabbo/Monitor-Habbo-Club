@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Annuntio vobis, Gaudium magnum.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-875-110-99.lg-270-110.sh-3016-1416.ea-3108-99-1408.ca-3085-1408.wa-3212-99-99",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3538-106.lg-3058-1422.sh-3089-92.ha-3156-106.he-3082-92.ea-1402.fa-3276-96.ca-3702-92-92",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Luogotenente Little Italy » Corle1 »",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3779-1425-92.lg-3596-92-110.sh-3016-1426.ha-4325.he-5348.fa-3296.cc-5800-1425-1341",
