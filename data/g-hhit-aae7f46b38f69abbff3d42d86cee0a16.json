@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3746-42.hd-190-1369.ch-3779-73-1408.lg-3290-64.sh-4065-64-1408.ha-3620.fa-3344-64",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-1403.hd-615-1.ch-3013-92.lg-720-77.sh-5803-92.fa-5601-1326",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "800A",
     "habboFigure": "hr-515-45.hd-629-10.ch-685-1320.lg-3116-1320-1408.sh-906-1408.ha-4201.ea-3484",
