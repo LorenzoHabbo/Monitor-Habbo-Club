@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-4286-88-73.lg-270-1325.sh-3089-1331.ha-5864.ea-3108-110-110.fa-3344-110.wa-2001.cc-5826-73",
@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-3070-1327.fa-5467",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hr-3163-31.hd-180-1392.ch-3234-1326.lg-3267-1326-1408.sh-3277-1326-1408.ha-3305-1326-1408.fa-1205-1326.ca-5604-71-71",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-3290-64.sh-305-64",
@@ -413,7 +413,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-655-110.lg-5594-64.sh-5247-92-1408.ha-3954-109-64.ea-5626-110.fa-5835-73.cc-5800-109-109",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-655-110.lg-5594-64.sh-5247-92-1408.ha-3954-109-64.ea-5626-110.fa-5835-73",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
     "habboFigure": "hr-3768-1347.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-6044.cp-3205",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3746-42.hd-190-1369.ch-3779-73-1408.lg-3290-64.sh-4065-64-1408.ha-3620.fa-3344-64",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5773-49.hd-615-28.ch-3005-92-92.lg-710-92.sh-5670-64.ha-3614-92-71.he-3082-92.fa-5467.ca-4372-92.wa-3264-71-92.cc-5961-92-71",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-61.hd-615-1392.ch-3598-110-110.lg-5594-110.sh-5803-92.ea-3148-110-110",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "800A",
     "habboFigure": "hr-515-45.hd-629-10.ch-685-1320.lg-3116-1320-1408.sh-906-1408.ha-4201.ea-3484",
