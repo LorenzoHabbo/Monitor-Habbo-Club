@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥Vice Imperatore Golden Demons¥",
     "habboFigure": "hr-3499-1342.hd-180-15.ch-875-110-1330.lg-285-110.sh-3419-64-110.ha-1004-110.he-3070-92.fa-5600-89.cc-3593-110-1330",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Spia semplice G.D º",
     "habboFigure": "hr-4090-31.hd-190-1.ch-3323-64-64.lg-3088-64-82.sh-4112-1408-1408.fa-5601-1408.ca-4115-64-1408",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MAYHEM",
     "habboFigure": "hr-4031-1342-1404.hd-3102-1.ch-3203-1330.lg-5732-1331-100.fa-3296.cc-5733-1331-100",
@@ -843,7 +843,7 @@
     "online": true,
     "gender": "m",
     "motto": "BARISTA Esperto G.D",
-    "habboFigure": "hr-3860-37-40.hd-190-10.ch-4299-81-1408.lg-281-82.ha-3662-82-1408.fa-4049.ca-3466-81-1408.cc-4979-1408",
+    "habboFigure": "hr-3860-37-40.hd-190-10.ch-4299-81-1408.lg-5594-82.ha-3662-82-1408.fa-4049.ca-3466-81-1408.cc-4979-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-110.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.cc-5842",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-73.lg-285-64.sh-3524-1408-64.fa-3276-73.ca-4965-73-1408.cc-3744-1408-64",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4131-42-42.hd-3845-10.ch-665-64.lg-4066-64.he-3329-64-64.cc-4184-64-64",
@@ -1470,10 +1470,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5773-61.hd-4383-1393-1385.ch-3045-110.lg-5594-1326.sh-5803-92.he-3274-1326.fa-5601-1326",
+    "habboFigure": "hr-5773-61.hd-615-1.ch-3598-110-110.lg-5594-110.sh-5803-92",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-36.hd-209-19.ch-3110-85-74.lg-3023-64.sh-906-1408.ca-1812",
