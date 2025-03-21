@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-200-14.ch-255-92.lg-280-110.sh-300-1408",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capitano  B.P.",
     "habboFigure": "hr-3278-45-40.hd-209-8.ch-225-90.lg-5732-110-1408.sh-3089-110.ha-3675-110-1408.he-1608.ea-1402.cc-5733-110-92",
@@ -2520,10 +2520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato di Divisione R.G:S",
-    "habboFigure": "hr-5679-1394-61.hd-4383-10-1368.ch-3013-95.lg-710-110.he-3070-92.fa-5601-92.ca-3799-110-110.cp-3207-89-89",
+    "habboFigure": "hr-5679-1394-61.hd-4383-10-1368.ch-3013-95.lg-710-110.sh-3089-95.he-3070-92.fa-5601-92.ca-3799-110-110.cp-3207-89-89",
     "memberSince": "2022-01-24T14:53:55.000+00:00",
     "uniqueId": "hhit-d366ea857aeabbd0fe89ad5c126b81f0",
     "name": "moonlye.",
