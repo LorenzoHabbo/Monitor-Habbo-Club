@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "GiovBrun dove sei",
     "habboFigure": "hr-3810-45.hd-600-1.ch-660-71.lg-3023-64.sh-906-71.ha-1002-1408",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-TRVIM",
     "habboFigure": "hr-5791-49.hd-209-1370.ch-5394.lg-275-110.sh-5803-92.ha-5169-96.he-5808-107.ea-1404-110.fa-5435.cc-3360-67",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "you are the gin to my tonic",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-275-110.sh-5803-92.he-3070-92.cc-3420-110",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
@@ -3670,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-48-40.hd-190-1.ch-3342-64-82.lg-285-88.sh-295-64.ha-4192.ea-1404-1408.fa-3344-72.ca-5278-1408.cc-4947-73",
