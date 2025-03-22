@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Spia G.D º",
     "habboFigure": "hr-4090-31.hd-190-1.ch-3323-64-64.lg-3088-64-82.sh-4112-1408-1408.fa-5601-68.ca-4115-64-1408",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-14.ch-230-64.lg-3290-64.sh-305-64",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sembra un angelo caduto dal cielo",
     "habboFigure": "hr-6035-49-56.hd-5319-28-28.ch-5245-75.lg-5594-1418.sh-5803-92.he-5813-68-92.fa-5975.ca-5635-92-92.wa-5370",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "i piedi mi puzzano di parmigiano",
     "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3479.ca-5807-1320-80",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -833,7 +833,7 @@
     "online": true,
     "gender": "m",
     "motto": "BARISTA Esperto G.D",
-    "habboFigure": "hr-3860-34-40.hd-190-1.ch-3334-1408-81.lg-3596-1408-1408.sh-3338-1408.ha-3855-1408.he-5088.ca-4037-1408-81.cc-5961-1408-81",
+    "habboFigure": "hr-3860-49-49.hd-190-1.ch-3334-67-1324.lg-3596-67-105.sh-3338-67.ha-3855-67.he-5088.ca-4037-67-1325.cc-5961-67-67",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-676-43.hd-180-1.ch-255-1408.lg-3078-81.sh-906-71.ha-1003-1408",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4118-1404.hd-3100-1.ch-3005-1339-1337.lg-3006-1339-1337.sh-3184-63.he-3070-63.ca-3973-63-1427",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-110.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-3318-63.cc-5842",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "MOMMY",
     "habboFigure": "hr-4117-58-1407.hd-3956-28-30.ch-3807-110-1428.lg-3116-110-1408.sh-3016-1336.he-1609-64.ea-3169-63",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-3095-1.ch-5559-1416.lg-5594-77.sh-3089-110.he-5088.ea-3169-110.cc-4386-110-110",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "800A",
     "habboFigure": "hr-515-45.hd-629-10.ch-660-73.lg-3116-1320-1408.sh-906-1408.ha-4201.ea-3484",
