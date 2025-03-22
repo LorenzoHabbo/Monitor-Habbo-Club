@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PESARO CAPITALE|",
     "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72.ha-1005-64",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¬",
     "habboFigure": "hr-3012-49.hd-3100-28.ch-3005-92-92.lg-3057-92.he-3082-92.wa-3072-92-92.cc-3390-92-92.cp-3207-1408-1408",
@@ -9030,7 +9030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Even if it kills me... OºM",
     "habboFigure": "hd-180-10.ch-215-92.lg-3058-1426.sh-3089-110.ha-1002-110.ea-3169-110.fa-3462-110.cc-3075-110",
