@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-61.hd-205-10.ch-255-1428.lg-285-77.sh-3035-1408",
@@ -3130,7 +3130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-48-40.hd-190-1.ch-3342-64-82.lg-285-88.sh-295-64.ha-4192.ea-1404-1408.fa-3344-72.ca-5278-1408.cc-4947-73",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "l'inferno 'int'a ll'anema.",
     "habboFigure": "hr-5681-42-40.hd-626-10.ch-655-71.lg-3387-82-76.sh-906-76.ha-5709-76",
