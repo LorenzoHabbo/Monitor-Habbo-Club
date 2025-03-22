@@ -343,7 +343,7 @@
     "online": true,
     "gender": "m",
     "motto": "DS Corleone",
-    "habboFigure": "hr-5331-1404-40.hd-190-1370.ch-5856.lg-5226.sh-906-92.ha-3156-110.ea-5576-110-1408",
+    "habboFigure": "hr-5331-1404-40.hd-190-1370.ch-5856.lg-5226.sh-5247-92-89.ha-3156-110.he-5088.ea-5576-110-1408",
     "memberSince": "2007-03-06T14:49:44.000+00:00",
     "uniqueId": "hhit-a3c8fd40b6fec07c60a207f7af385b0b",
     "name": "kry6",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-100.hd-3845-8.ch-4111-73.lg-4167-1408.sh-3068-1408-64.ha-5854.he-1608.fa-1201.ca-1801-1408.wa-5836-1408-1408",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3829-45.hd-3845-1.ch-5192.lg-3418-64.sh-5247-92-64.ha-5191.he-5074-92.ca-5769-92-92.cc-3289-110",
@@ -6510,7 +6510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MAYHEM",
     "habboFigure": "hr-4031-1342-1404.hd-3102-1.ch-3203-1330.lg-5732-1331-100.fa-3296.cc-5733-1331-100",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5973-1394-1395.hd-600-1370.ch-665-1321.lg-5594-1429.he-5137.fa-4014-1429-88.ca-5444-1429-1336",
