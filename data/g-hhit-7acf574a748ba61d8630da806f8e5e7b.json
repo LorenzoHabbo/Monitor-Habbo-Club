@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "F",
     "habboFigure": "hr-893-42.hd-190-1370.ch-265-1408.lg-3116-64-1408.sh-3068-1408-91.ha-1018.fa-3276-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3621-1408-1408.ha-3591.he-5074-1408.fa-5280-90.ca-4036-66.cc-4091-64",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-5619-34.hd-605-10.ch-3439-1320-82.lg-710-82.sh-908-1408.he-5577-1320-1408.fa-5467.cc-5800-80-80",
@@ -3060,7 +3060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trash queenna!",
     "habboFigure": "hr-5619-1345.hd-3604-1367.ch-825-96-96.lg-3136-96.sh-3338-96.ha-5704.he-3081-72.fa-1209-96.ca-5771-96-96.cc-3326-96-96",
