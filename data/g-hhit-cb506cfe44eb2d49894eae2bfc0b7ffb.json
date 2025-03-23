@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-42.hd-4383-28-28.ch-665-1428.lg-4066-110.ha-3586.he-3070-1410.ca-1815-64.cc-3744-64-1410",
@@ -912,7 +912,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "",
+    "motto": "Grande Mentore EºW",
     "habboFigure": "hr-3278-61-49.hd-207-28.ch-3234-92.lg-3364-110-73.sh-3206-110.ha-1026.fa-1204.ca-5028-92-110.wa-3366-110-110.cc-4184-110-73",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arcolopoli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.fa-3296.wa-3773-110.cc-3075-110",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-545-34.hd-615-1.ch-660-1408.lg-710-71.sh-730-1408.he-1602-71.fa-5601-1408",
@@ -3707,6 +3707,16 @@
     "memberSince": "2025-01-28T21:09:21.000+00:00",
     "uniqueId": "hhit-f3d000cf68e675cdfba3969ce4308aee",
     "name": "UVU-BAN-BAN-2",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-540-39.hd-627-1370.ch-820-82-81.lg-695-88.sh-3068-1408-64.ha-3298-1408-64.he-1608.fa-1212.ca-1807.wa-2004-64",
+    "memberSince": "2025-01-30T22:18:11.000+00:00",
+    "uniqueId": "hhit-ed6eba1677ac4a2608694792f67c5713",
+    "name": ".GraceShelby",
     "isAdmin": false
   },
   {
