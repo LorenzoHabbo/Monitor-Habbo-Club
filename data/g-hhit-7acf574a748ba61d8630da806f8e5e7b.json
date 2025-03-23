@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-807-64.lg-280-64.ea-1404-1408.fa-1205-64.ca-1806-73",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "AH HA AH HA AH HA",
     "habboFigure": "hr-125-36.hd-180-10.ch-210-1408.lg-3290-1408.sh-300-64.ha-1003-1408.fa-3462-64.ca-5463.wa-2011.cc-260-64",
