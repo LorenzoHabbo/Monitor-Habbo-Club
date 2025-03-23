@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hr-3163-31.hd-180-1392.ch-3234-1326.lg-3267-1326-1408.sh-3277-1326-1408.ha-3305-1326-1408.fa-1205-1326.ca-5604-71-71",
@@ -4240,10 +4240,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gangster Corleone",
-    "habboFigure": "hr-5791-45.hd-180-1.ch-5559-1408.lg-281-64.sh-5803-1408.he-5578-66.ea-1404-1408.fa-5600-1408",
+    "habboFigure": "hr-5791-45.hd-180-1.ch-3030-1408.lg-281-64.sh-906-64.he-5578-66.ea-1404-64.fa-5600-1408",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
@@ -6380,7 +6380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5772-1400-61.hd-629-1.ch-4299-110-92.lg-3320-1426-1408.sh-3016-110.he-5808-92",
@@ -7140,9 +7140,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "",
+    "motto": "quèdate",
     "habboFigure": "hr-5285-34-34.hd-205-10.ch-4361-71-64.lg-3483-64-64.sh-3587-1408-1408.ha-3488.fa-5601-1408",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
@@ -7483,7 +7483,7 @@
     "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-836-1394.hd-600-1370.ch-660-110.lg-720-1422.ha-1004-110.he-3082-66",
+    "habboFigure": "hr-5680-1394.hd-3096-1370.ch-630-85.lg-720-82.ha-3775.ea-3141.cc-3289-82.cp-3308-1408-1408",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
