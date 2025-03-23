@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-3788-1326.lg-4083.ha-3709.ca-5463",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-545-34.hd-615-1.ch-660-1408.lg-710-71.sh-730-1408.he-1602-71.fa-5601-1408",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-34.hd-205-2.ch-215-110.lg-5594-1427.sh-3035-110.he-3082-110.ea-1404-110.fa-1202-96.ca-3225-110-110.cp-3310-1408",
