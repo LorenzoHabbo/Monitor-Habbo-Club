@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello g.d",
     "habboFigure": "hr-155-45.hd-209-1370.ch-255-72.lg-280-64.sh-305-73.wa-2007",
@@ -1263,7 +1263,7 @@
     "online": true,
     "gender": "m",
     "motto": "1312",
-    "habboFigure": "hr-5019-34.hd-3845-8.ch-255-80.lg-280-80.sh-3524-1408-1408.he-1608.ea-1401-64",
+    "habboFigure": "hr-5019-34.hd-3845-8.ch-267-64.lg-3320-64-1408.sh-3524-64-1408.he-1608.ea-1401-64.fa-1201.ca-1802.cc-3374-64.cp-3126-64",
     "memberSince": "2011-01-16T22:11:26.000+00:00",
     "uniqueId": "hhit-c5c07710e4a24e4c548e0a724f0e0604",
     "name": "ultrass98",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "BARISTA Esperto G.D",
     "habboFigure": "hr-3860-37-37.hd-190-1.ch-3334-67-89.lg-3596-67-67.sh-3338-67.ha-3855-67.he-5088.fa-4168-1408.ca-4037-67-67.cc-5961-67-67",
@@ -5000,7 +5000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-5605-31.hd-3845-10.ch-5762-76-1408.lg-3216-64.sh-3524-73-1408.ha-5471-76-1408.fa-3276-73",
@@ -6580,7 +6580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista aiutante GD    A |",
     "habboFigure": "hr-3163-37.hd-180-1.lg-5594-77.sh-4112-110-1410.ha-5085.fa-5601-1408.wa-3080-1321.cc-5182-1336",
@@ -7057,6 +7057,16 @@
     "memberSince": "2022-09-25T22:19:44.000+00:00",
     "uniqueId": "hhit-3451ccbb20bb2dd98c02c82d724b8107",
     "name": "AlePare99",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Dottore SFH",
+    "habboFigure": "hr-165-37.hd-180-14.ch-225-82.lg-285-82.sh-300-1408.ca-1819",
+    "memberSince": "2022-09-27T15:38:55.000+00:00",
+    "uniqueId": "hhit-8520ba42361da8c973d7e50461b0108b",
+    "name": "Mathius.96",
     "isAdmin": false
   },
   {
@@ -8520,7 +8530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAPO REGIME CERBERO G.D.",
     "habboFigure": "hr-3322-37.hd-209-1.ch-4003.lg-3596-73-82.sh-906-1408.ha-3494-73-73.ea-3484.fa-3344-90.cc-3389-82-66",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-09T19:19:27.000+00:00",
     "uniqueId": "hhit-07aced57e63b580c057bcdc676d94920",
     "name": "Ell",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Anima lost soul",
-    "habboFigure": "hr-135-44.hd-209-1.ch-235-1320.lg-270-64.sh-906-1408.he-1608.ea-1404-1408.fa-1201.wa-3211-1408-1408.cc-260-1408",
-    "memberSince": "2023-12-10T02:17:18.000+00:00",
-    "uniqueId": "hhit-c58aab46ee9ffaf2d94f2d40bef9f0e5",
-    "name": "Olivand3r",
     "isAdmin": false
   }
 ]
