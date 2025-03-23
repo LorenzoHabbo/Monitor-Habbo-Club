@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to Die",
     "habboFigure": "hr-125-1342.hd-180-10.ch-255-110.lg-5594-82.sh-906-110.he-5088",
@@ -3020,10 +3020,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Decime G.D",
-    "habboFigure": "hr-893-34.hd-180-1.ch-804-85.lg-280-82.sh-300-1408.ha-1006",
+    "habboFigure": "hr-893-34.hd-180-1.ch-804-85.lg-280-82.sh-300-1408",
     "memberSince": "2015-06-30T20:51:19.000+00:00",
     "uniqueId": "hhit-687ac7755a4189e9f9fcd3805e7ab1d1",
     "name": "pinterq62",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-807-64.lg-280-64.ea-1404-1408.fa-1205-64.ca-1806-73",
@@ -7520,7 +7520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sentinella G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
