@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ineluttabile!",
     "habboFigure": "hr-3499-37.hd-3103-1.ch-3323-110-1408.lg-3057-92.sh-3587-1322-1408.ha-3488.fa-3344-1325.ca-5026-63.cc-3532-92-1315",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "BARISTA Esperto G.D",
     "habboFigure": "hr-3860-37-37.hd-190-1.ch-3334-67-89.lg-3596-67-67.sh-3338-67.ha-3855-67.he-5088.fa-4168-1408.ca-4037-67-67.cc-5961-67-67",
@@ -8520,7 +8520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAPO REGIME CERBERO G.D.",
     "habboFigure": "hr-3322-37.hd-209-1.ch-4003.lg-3596-73-82.sh-906-1408.ha-3494-73-73.ea-3484.fa-3344-90.cc-3389-82-66",
