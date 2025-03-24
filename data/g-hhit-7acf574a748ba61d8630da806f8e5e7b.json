@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non so piu' chi sei",
     "habboFigure": "hr-3810-45.hd-600-1.ch-660-71.lg-3023-64.sh-906-71.ha-1002-1408",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3281-1398.hd-190-7.ch-3030-92.lg-4092-110.sh-3089-110.ca-3885-110-110.cc-3509-110-92",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3621-1408-1408.ha-3591.he-5074-1408.fa-5280-90.ca-4036-66.cc-4091-64",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-6045-7.ch-5833-79-92.lg-5623.sh-5032.fa-5636-92",
