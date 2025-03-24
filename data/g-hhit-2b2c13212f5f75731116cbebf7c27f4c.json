@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Troublemaker Hooligans",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-4392-1425-92.lg-710-1338.sh-3587-92-92.he-5828.fa-5435.cc-3744-92-92",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-3290-64.sh-305-64",
@@ -2430,7 +2430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4118-61.hd-3103-2.ch-803-110.lg-3023-92.sh-3089-110.ha-3171-110-1408.ca-3219-92.wa-2003",
@@ -6450,7 +6450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto g.d.",
     "habboFigure": "hr-802-42.hd-180-1370.ch-230-1408.lg-285-64.sh-906-1408.he-1608.fa-1201",
