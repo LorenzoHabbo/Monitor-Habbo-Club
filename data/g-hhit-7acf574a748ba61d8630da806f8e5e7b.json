@@ -313,7 +313,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sommelier Masarez",
-    "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
+    "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.ha-1015.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non so piu' chi sei",
     "habboFigure": "hr-3810-45.hd-600-1.ch-660-71.lg-3023-64.sh-906-71.ha-1002-1408",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3668-110-110.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-1408.sh-3621-1408-1408.ha-3591.he-5074-1408.fa-5280-90.ca-4036-66.cc-4091-64",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Annuntio vobis, Gaudium magnum.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3203-110.lg-4066-110.sh-3016-1416.ea-3169-1425.ca-3292-63",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-5245-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5078-63",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-3160-1400-61.hd-3100-10.ch-5030-70-86.lg-4012-110.sh-907-70.ea-3107-110-92.fa-3276-63",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "º OBL º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
     "habboFigure": "hr-5579-34.hd-4163-1-30.ch-4368-64.lg-5594-1408.sh-5729-64-64.he-5314-64-64",
@@ -1943,7 +1943,7 @@
     "online": true,
     "gender": "f",
     "motto": "cadetto GD",
-    "habboFigure": "hr-3673-42.hd-3956-1370-30.ch-5560-85-91.lg-3078-91.sh-3383-90-91.ha-1013-91.ca-1807.wa-2001",
+    "habboFigure": "hr-5772-45-40.hd-3956-1370-30.ch-5560-85-91.lg-3078-91.sh-3383-90-91.ca-1807.wa-2001",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
     "name": "sognoilcies",
@@ -1953,7 +1953,7 @@
     "online": false,
     "gender": "f",
     "motto": "» Madrina Corleone »",
-    "habboFigure": "hr-5973-31-61.hd-615-28.ch-665-110.lg-3006-110-110.sh-5247-92-110.he-3070-1321.fa-5467.ca-3973-92-92",
+    "habboFigure": "hr-5973-31-61.hd-615-28.ch-665-110.lg-715-110.sh-5247-92-110.he-3070-1321.fa-5467.ca-3973-92-92",
     "memberSince": "2019-12-04T23:46:57.000+00:00",
     "uniqueId": "hhit-8e8195b4c9cb0c2927d1823a2241b58e",
     "name": "dory???",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Partner Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-884-64.lg-3526-1408-1408.ha-3775.cc-3824-64-73",
@@ -2770,9 +2770,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Sentinella G.D.",
+    "motto": "Sentinella Esperta G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -3370,7 +3370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo di Coperta B.P.",
     "habboFigure": "hr-802-40.hd-180-14.ch-255-73.lg-3078-82.sh-3068-1408-1408.ha-3117-73.wa-2007",

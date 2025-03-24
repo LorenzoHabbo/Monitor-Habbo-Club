@@ -122,7 +122,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Cavaliere Fidato 1p GD",
+    "motto": "Cavaliere Eletto GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
     "memberSince": "2007-07-14T15:56:41.000+00:00",
     "uniqueId": "hhit-aada7e3e4475cb61f91a42b2676b418d",
@@ -200,9 +200,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Vicario Esperto GD",
+    "motto": "Cavaliere GD",
     "habboFigure": "hr-5019-1394.hd-3997-2.ch-5608-92.lg-3078-110.sh-3089-92.ha-3426-110-109.he-3070-1408.ea-3484.fa-3993-110.cc-3827-109-110",
     "memberSince": "2008-04-22T21:11:31.000+00:00",
     "uniqueId": "hhit-8f3ff5e91cc79378537f8b7c101fa005",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello g.d",
     "habboFigure": "hr-155-45.hd-209-1370.ch-875-82-1408.lg-270-64.sh-305-1408.wa-2001",
@@ -533,7 +533,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sommelier Masarez",
-    "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
+    "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.ha-1015.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-208-1.ch-225-73.lg-3023-110.sh-3068-64-110.ha-5968-1408-110.he-1609-72.ca-5136.wa-2001.cc-5966-63-110",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Annuntio vobis, Gaudium magnum.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3203-110.lg-4066-110.sh-3016-1416.ea-3169-1425.ca-3292-63",
@@ -2102,7 +2102,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "º Spia G.D º",
+    "motto": "º Spia Esperta G.D º",
     "habboFigure": "hr-4090-31.hd-209-1.ch-3323-81-81.lg-3088-64-64.sh-4112-64-81.ca-4115-64-1408",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
@@ -3130,7 +3130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ƒG.M. HIHƒ                  ¥Bleikur¥",
     "habboFigure": "hr-3163-49.hd-3845-2.lg-3328-1338-1408.fa-3296.cc-3692-110-110",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
     "habboFigure": "hr-5579-34.hd-4163-1-30.ch-4368-64.lg-5594-1408.sh-5729-64-64.he-5314-64-64",
@@ -4340,9 +4340,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "HIHFNS-VER-ZIyKVy",
+    "motto": "HIHFNS-VER-soJmUB",
     "habboFigure": "hr-3860-37-37.hd-190-8.ch-3334-67-89.lg-3596-67-67.sh-3338-67.ha-3855-67.he-5088.fa-4168-1408.ca-4037-67-67.cc-5961-67-67",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
@@ -4723,7 +4723,7 @@
     "online": true,
     "gender": "f",
     "motto": "cadetto GD",
-    "habboFigure": "hr-3673-42.hd-3956-1370-30.ch-5560-85-91.lg-3078-91.sh-3383-90-91.ha-1013-91.ca-1807.wa-2001",
+    "habboFigure": "hr-5772-45-40.hd-3956-1370-30.ch-5560-85-91.lg-3078-91.sh-3383-90-91.ca-1807.wa-2001",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
     "name": "sognoilcies",
@@ -6233,7 +6233,7 @@
     "online": true,
     "gender": "f",
     "motto": "Apprendista Scelto G.D. (w i minolli)•",
-    "habboFigure": "hr-5617-42-40.hd-3631-1370-14.ch-3970-66.lg-3968-80.sh-5308-72.ha-5299-73-66.he-3958-66.fa-5601-1408.ca-5583.cc-5440-73-66",
+    "habboFigure": "hr-5142-42-40.hd-3631-1370-14.ch-5167-73.lg-3526-64-73.sh-5308-73.ha-5471-73-64.he-5482.fa-5601-1408.ca-5771-64-73.cc-5440-73-64",
     "memberSince": "2021-12-11T21:41:45.000+00:00",
     "uniqueId": "hhit-2772179b7e4e1f6f141c870c8bbba44e",
     "name": "roseboss",
@@ -6540,7 +6540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ";)",
     "habboFigure": "hr-3810-45.hd-629-1.ch-3809-64-73.lg-3391-82-1408.he-3329-1408-73",
@@ -7540,9 +7540,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Sentinella G.D.",
+    "motto": "Sentinella Esperta G.D.",
     "habboFigure": "hr-3090-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.fa-5601-92.cc-3158-64",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -8950,7 +8950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-10-12.ch-665-1408.lg-5594-81.sh-5274-1408-1408.ha-3620.fa-5467.cc-5800-1320-81",
@@ -9722,7 +9722,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "iniziato .G.D",
+    "motto": "cadetto .G.D",
     "habboFigure": "hr-4117-49-40.hd-4163-1383-1372.ch-5245-92.lg-4066-110.sh-4112-92-92.ha-1005-110.fa-3276-96",
     "memberSince": "2023-11-12T11:18:14.000+00:00",
     "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
