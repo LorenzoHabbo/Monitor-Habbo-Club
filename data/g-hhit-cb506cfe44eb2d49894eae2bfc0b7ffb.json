@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-61.hd-205-10.ch-255-1428.lg-285-77.sh-3035-1408",
@@ -890,10 +890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grande Mentore EºW",
-    "habboFigure": "hr-3278-61-49.hd-207-28.ch-3234-92.lg-3364-110-73.sh-3206-110.ha-1026.fa-1205-110.ca-5028-92-110.wa-3366-110-110.cc-4184-110-73",
+    "habboFigure": "hr-3194-61-49.hd-3102-3.ch-3038-92.lg-3365-1320.sh-3206-110.wa-3178-68",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-92.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.cc-5961-1326-92",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-3160-1400-61.hd-3100-10.ch-5030-70-86.lg-4012-110.sh-907-70.ea-3107-110-92.fa-3276-63",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "º OBL º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒ",
     "habboFigure": "hr-5720-58-1345.hd-5696-1-1365.ch-5245-92.lg-3526-110-92.sh-5247-92-110.he-5348.fa-3276-96.cc-5826-63",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-45.hd-190-1.ch-266.lg-280-76.he-1608.ea-1404-64",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "l'inferno 'int'a ll'anema.",
     "habboFigure": "hr-5681-42-48.hd-627-10.ch-820-73-1408.lg-3387-82-82.sh-3068-73-1408.he-3469-73.fa-3276-72.wa-2009-73",
