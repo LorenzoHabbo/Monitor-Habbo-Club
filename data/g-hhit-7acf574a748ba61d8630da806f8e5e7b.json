@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-3032-64-92.lg-5594-1409.sh-5247-92-77.ha-1015.he-3732.fa-1203.ca-5737-64.cc-5077-77",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5772-34-40.hd-3631-10-12.ch-665-1408.lg-5594-71.sh-5803-1408.he-5808-1408.fa-3276-72.cc-5461-1408-71",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-99-99",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " »Uomo D'onore L.I. Fam. Corleone »",
     "habboFigure": "hr-3670-61.hd-5838-11-1367.ch-3934-92-110.lg-5594-1338.sh-3089-92.ha-3855-1409.he-3740.fa-5975.ca-3485.cc-5800-1409-1409",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ay Amor, me duele tanto.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3203-110.lg-4066-110.sh-3016-1416.ea-3169-1425.ca-3292-63",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-12.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -1643,7 +1643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Assistente mozzo BP   ††††††BOOMM†††††",
-    "habboFigure": "hr-3841-34.hd-3845-10.ch-3540-64.lg-3384-64-81.sh-3383-64-82.ha-5269-64.ea-3388-64-73.fa-3378-64-1408.cc-3744-64-64",
+    "habboFigure": "hr-3841-34.hd-3845-10.ch-3540-64.lg-3384-64-81.sh-3383-64-82.ha-5269-64.he-1608.ea-3388-64-73.fa-3378-64-1408.cc-3744-64-64",
     "memberSince": "2017-11-08T07:28:15.000+00:00",
     "uniqueId": "hhit-91ead7a286964c58bbd693aec4506929",
     "name": "Giojohn",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-6034-1403-1403.hd-5317-28-22.ch-3880-110.lg-5594-110.sh-3587-92-92.he-3070-110.ca-6044.cc-5800-64-110",
