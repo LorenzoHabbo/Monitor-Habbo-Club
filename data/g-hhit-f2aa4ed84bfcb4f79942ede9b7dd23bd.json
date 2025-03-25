@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-5019-40.hd-5696-10-1367.ch-3934-110-110.lg-280-110.sh-5247-92-110.he-3070-93.fa-5600-68.wa-3263-110-64.cc-4091-63",
@@ -281,9 +281,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-515-33.hd-600-1.ch-884-70.lg-700-72.sh-735-72.he-1608.ea-1404-63",
+    "habboFigure": "hr-6034-42-61.hd-3093-28.ch-215-64.lg-4066-1408.sh-3016-110.ea-5641",
     "memberSince": "2006-10-06T18:37:46.000+00:00",
     "uniqueId": "hhit-1e5ce1e418595d5b24ad5ba72c5b292c",
     "name": "diavoletto96",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -7140,10 +7140,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "quèdate",
-    "habboFigure": "hr-5210-61-1344.hd-205-30.ch-4361-110-1427.lg-5594-110.sh-3587-1408-1408.ha-3488.he-3070-92.fa-5601-1408",
+    "habboFigure": "hr-3163-41.hd-205-10.ch-4361-110-1408.lg-5594-64.sh-3587-1408-1408.ha-3546-1408.he-3070-92.fa-5601-1408.ca-3545-1408",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
     "name": "Tinhos",
@@ -7650,7 +7650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "<",
     "habboFigure": "hr-3322-37.hd-205-1370.ch-210-1408.lg-3407-1408-1408.sh-295-64.fa-3344-90.cc-3327-64-1408",
@@ -9150,7 +9150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
