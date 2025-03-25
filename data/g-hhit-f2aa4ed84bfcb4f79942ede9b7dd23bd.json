@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5772-34-40.hd-3631-10-12.ch-665-1408.lg-5594-71.sh-5803-1408.he-5808-1408.fa-3276-72.cc-5461-1408-71",
@@ -2873,7 +2873,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-3163-1405.hd-5317-18-14.ch-255-110.lg-280-110.sh-5247-110-110.he-3070-1408.fa-5601-1408.cc-3420-64",
+    "habboFigure": "hr-125-1405.hd-4023-18.ch-255-110.lg-280-110.sh-5247-110-110.fa-5601-1408.cc-3420-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Vice Padrino Corleone »",
     "habboFigure": "hr-828-1404.hd-3845-1390.ch-215-92.lg-5594-1338.sh-4112-92-92.he-3070-1321.ea-1404-110.cc-5077-110",
@@ -4120,10 +4120,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME",
-    "habboFigure": "hr-3829-45.hd-3845-1.ch-5559-110.lg-3418-77.sh-5247-92-64.ha-5191.fa-5600-92.ca-4390.cc-3289-110",
+    "habboFigure": "hr-3829-45.hd-3845-1.ch-3077-110-110.lg-3418-77.sh-5247-92-64.ha-5191.fa-5600-92.ca-4390",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -4800,7 +4800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
@@ -9150,7 +9150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -9770,7 +9770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "i piedi mi puzzano di parmigiano",
     "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3709.ca-5807-1320-80",
