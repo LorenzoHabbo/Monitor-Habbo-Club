@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-892-42.hd-190-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.ha-1013-1408.he-3833-1408.ea-1404-64.fa-1206-64.wa-2002",
@@ -183,7 +183,7 @@
     "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-5971-1403.hd-6072-2-26.ch-255-110.lg-5594-1338.sh-3035-92.he-5578-63.fa-5982-110.ca-5768-92-92.cc-4109-110-92",
+    "habboFigure": "hr-5971-1403.hd-3721-2.ch-255-110.lg-5594-1338.sh-3035-92.he-5578-63.fa-5982-110.ca-5768-92-92.cc-4109-110-92",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-3222-92.lg-3483-110-1330.ha-3952.ca-1816.cc-4184-110-100",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Qui Quo Qua Ti amo",
     "habboFigure": "hr-5773-37.hd-4383-10-14.ch-824-110.lg-5974-110-92.ha-5593-64-1408.he-5808-110.fa-3276-92.cc-4091-110",
@@ -363,7 +363,7 @@
     "online": true,
     "gender": "f",
     "motto": "|",
-    "habboFigure": "hr-5720-44-48.hd-3631-1-1371.ch-3809-73-73.lg-3387-73-64.sh-5464-73-64.fa-5624-73.ca-1804-64",
+    "habboFigure": "hr-5720-44-48.hd-3631-1-1371.ch-3809-73-73.lg-3387-73-64.sh-907-64.fa-5624-73.ca-1804-64",
     "memberSince": "2009-10-24T15:13:29.000+00:00",
     "uniqueId": "hhit-451428165cb5dc29b6eb1c8006de6dff",
     "name": "Ottimaely",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ay Amor, me duele tanto.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3203-110.lg-4066-110.sh-3016-1416.ea-3169-1425.ca-3292-63",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3538-106.lg-3058-1422.sh-3089-92.ha-3156-106.he-3082-92.ea-1402.fa-3276-96.ca-3702-92-92",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-1396.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-96",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-830-32.hd-208-19.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -1540,10 +1540,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
-    "habboFigure": "hr-5579-34.hd-4163-1-30.ch-4368-64.lg-5594-1408.sh-5729-64-64.he-5314-64-64",
+    "habboFigure": "hr-5579-34.hd-4163-1-1371.ch-5699-64.lg-5594-1408.sh-5729-64-64.he-5314-64-64",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-2.ch-3668-92-110.lg-5594-110.sh-5247-92-110.he-3891.fa-5601-92.cc-5800-110-110",
@@ -1953,7 +1953,7 @@
     "online": true,
     "gender": "f",
     "motto": "» Madrina Corleone »",
-    "habboFigure": "hr-5973-31-61.hd-615-28.ch-665-110.lg-3006-110-110.sh-5247-92-110.he-3070-1321.fa-5467.ca-3973-92-92",
+    "habboFigure": "hr-5973-31-61.hd-615-28.ch-665-110.lg-3006-110-110.sh-5247-92-110.he-3070-1321.fa-5467",
     "memberSince": "2019-12-04T23:46:57.000+00:00",
     "uniqueId": "hhit-8e8195b4c9cb0c2927d1823a2241b58e",
     "name": "dory???",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-5605-31.hd-3845-10.ch-5762-76-1408.lg-3216-64.sh-3524-73-1408.ha-5471-76-1408.fa-3276-73",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Luogotenente Little Italy » Corle1 »",
     "habboFigure": "hr-5791-61.hd-5317-8-1365.ch-3934-1331-110.lg-3596-110-1415.sh-3016-110.he-3740.fa-3296.cc-5800-1331-1331",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MCMNF",
     "habboFigure": "hr-5605-34.hd-600-10.ch-685-73.lg-720-82.fa-3276-73",
@@ -2402,7 +2402,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "apprendista novello g.d.",
+    "motto": "4:20",
     "habboFigure": "hr-105-45.hd-3604-14.ch-5833-81-1408.lg-4092-1408.sh-305-64.ha-5854",
     "memberSince": "2021-10-04T10:04:48.000+00:00",
     "uniqueId": "hhit-73770cfe0e4f6cb31661af5baf0b85f0",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Partner Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-5453-64-1408.lg-3526-1408-1408.ha-3775",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-45.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -2953,7 +2953,7 @@
     "online": true,
     "gender": "f",
     "motto": "You know me",
-    "habboFigure": "hr-3673-1402.hd-3099-28.ch-3076-110-110.lg-710-110.sh-4064-110.he-3071-92.ea-3169-1417.wa-3212-110-110",
+    "habboFigure": "hr-5617-1398-44.hd-3099-28.ch-3076-110-110.lg-4092-1408.sh-4064-110.he-5314-110-73.ea-3148-110-110.ca-5282-64.wa-3661-73-1408.cc-4106-110-1320",
     "memberSince": "2023-08-26T23:34:50.000+00:00",
     "uniqueId": "hhit-d5f1e1268cc397564236a688817f00c2",
     "name": "Julsardy",
@@ -3110,7 +3110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LS per sempre |",
     "habboFigure": "hr-3163-31.hd-207-1.ch-3077-63-110.lg-270-110.sh-3089-110",
@@ -3303,7 +3303,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-1404.hd-190-2.ch-210-110.lg-275-64.sh-908-92.ha-1005-64.he-1608.ca-3085-92",
+    "habboFigure": "hr-5971-34.hd-205-2.ch-215-92.lg-5594-1426.sh-5247-92-1408.he-3070-92.cc-5800-110-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-4363-61-1407.hd-5840-1391-1362.ch-4087-70.lg-5970-1338.sh-5803-92.he-5827-71-70.ca-5455-70-1410.cc-5826-1323",
@@ -4170,7 +4170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~ Scagnozzo Semplice GD ~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-85.lg-3290-85.ha-1013-85.fa-4168-71.cc-3294-85-85",
