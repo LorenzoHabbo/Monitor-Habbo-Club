@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-61.hd-3091-3.ch-5596-64.lg-5594-64.sh-5308-1410.ha-3352-64-1427.he-5578-1408.ea-3169-64.ca-5769-92-92",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5772-34-40.hd-3631-10-12.ch-665-1408.lg-5594-71.sh-5803-1408.he-5808-1408.fa-3276-72.cc-5461-1408-71",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-99-99",
@@ -781,9 +781,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
-    "habboFigure": "hr-3860-44-44.hd-600-14.ch-884-70.lg-700-72.sh-735-72",
+    "habboFigure": "hr-3860-44-44.hd-209-2.ch-3185-1330.lg-5594-77",
     "memberSince": "2011-09-24T14:54:58.000+00:00",
     "uniqueId": "hhit-6a989cbc9cfedb242865b5eed47985a9",
     "name": "andrea2270",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|| Rioter Hooligans ||",
     "habboFigure": "hr-3163-1407.hd-3845-11.ch-3779-110-1408.lg-5594-110.sh-3016-110.he-3070-92.ea-1402.cc-3867-110-110",
@@ -3520,7 +3520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-3014-110.lg-3006-82-92.sh-5308-92.fa-3276-1328.ca-3485.cc-5800-1331-1331",
@@ -4267,6 +4267,16 @@
     "memberSince": "2025-03-12T20:33:29.000+00:00",
     "uniqueId": "hhit-38ea17a49693ee41b0e7495ec3094b2b",
     "name": "opossumino",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-892-35.hd-629-10.ch-655-80.lg-3023-83.sh-735-91.he-1602-1320.cc-3294-72-73",
+    "memberSince": "2025-03-21T14:09:42.000+00:00",
+    "uniqueId": "hhit-cb64b5c93bf64d41b591a5bc43437156",
+    "name": "Cuffiedagatto",
     "isAdmin": false
   }
 ]
