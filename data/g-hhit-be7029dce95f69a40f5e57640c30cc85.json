@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¬",
     "habboFigure": "hr-3012-49.hd-3100-28.ch-3005-92-92.lg-3057-92.he-3082-92.wa-3072-92-92.cc-3390-92-92.cp-3207-1408-1408",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -7250,7 +7250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Pezzo Grosso - Battaglia »",
     "habboFigure": "hr-828-1398.hd-3091-3.ch-255-1426.lg-285-92.sh-295-92",
