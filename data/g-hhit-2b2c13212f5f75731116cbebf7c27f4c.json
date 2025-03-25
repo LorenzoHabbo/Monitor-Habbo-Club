@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cavaliere Eletto GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Qui Quo Qua Ti amo",
     "habboFigure": "hr-5773-37.hd-4383-10-14.ch-824-110.lg-5974-110-92.ha-5593-64-1408.he-5808-110.fa-3276-92.cc-4091-110",
@@ -703,7 +703,7 @@
     "online": true,
     "gender": "f",
     "motto": "Troublemaker Hooligans",
-    "habboFigure": "hr-5969-1404.hd-3536-10-10.ch-650-1426.lg-3006-1425-1341.sh-5717.he-5804.fa-5435.cc-3542-98-98",
+    "habboFigure": "hr-5969-1404.hd-3536-10-10.ch-650-1426.lg-3006-1425-1341.sh-5717.fa-5435.cc-5580-92-98",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5594-106.sh-5671-92.ha-3709.cc-3373-110",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-3172-61.hd-4174-8.ch-3059-1325.lg-3483-91-91.sh-3693-89-110.ha-3054-1325-110.he-3740.fa-3350.ca-1816.cc-3007-1325-67",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5306-48-42.hd-205-1370.ch-3987-72-64.lg-4138-64.sh-3419-64-72.ha-4103-64-72.he-3552.ea-3484.fa-3344-64.ca-5960-64-72.cc-4184-64-72",
@@ -3593,7 +3593,7 @@
     "online": true,
     "gender": "f",
     "motto": "Dammi i pacchi reg e finiamola qui",
-    "habboFigure": "hr-5773-39.hd-4383-28-14.ch-824-110.lg-5974-110-1408.ha-5593-1408-1408.he-5808-1328.ea-3169-110.fa-3276-92.cc-4091-110",
+    "habboFigure": "hr-5773-39.hd-4383-28-14.ch-824-110.lg-5974-110-92.ha-5593-1408-1408.he-5808-1328.fa-3276-92.cc-4091-110",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "Belle!!!",
@@ -5650,7 +5650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-35.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-1320-1320.cc-5761-100-1329",
@@ -6060,7 +6060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-105-45.hd-3604-14.ch-5833-81-1408.lg-4092-1408.sh-305-64.ha-5854",
@@ -6220,7 +6220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista Scelto G.D. (w i minolli)•",
     "habboFigure": "hr-5142-42-40.hd-3631-1370-14.ch-5167-73.lg-3526-64-73.sh-5308-73.ha-5471-73-64.he-5482.fa-5601-1408.ca-5771-64-73.cc-5440-73-64",
@@ -7297,6 +7297,16 @@
     "memberSince": "2022-11-11T20:08:14.000+00:00",
     "uniqueId": "hhit-d56f3f4dc3d9b4b0b3a1f2f6dfb9ed0c",
     "name": ".Marta.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Leggenda Kanun",
+    "habboFigure": "hr-5756-61-61.hd-5696-1381-1363.ch-255-1420.lg-5594-77.sh-5803-92.fa-5601-1420.cp-5462",
+    "memberSince": "2022-11-12T00:01:34.000+00:00",
+    "uniqueId": "hhit-8994d6972195363f117c127069710b02",
+    "name": "VON",
     "isAdmin": false
   },
   {
@@ -9710,7 +9720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "cadetto .G.D",
     "habboFigure": "hr-4117-49-40.hd-4163-1383-1372.ch-5351-92-110.lg-4066-110.sh-4064-110.he-5314-110-92.fa-3276-96.ca-5604-1408-1408.cc-5461-92-110",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-09T13:21:37.000+00:00",
     "uniqueId": "hhit-265a4da5a13ae383434d7615f7474b42",
     "name": "darkcristaaa",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "too cute for this planet ^^",
-    "habboFigure": "hr-890-34.hd-600-10.ch-3517-81-1408.lg-3216-81.sh-730-1408.ha-5620-80",
-    "memberSince": "2023-12-09T19:19:27.000+00:00",
-    "uniqueId": "hhit-07aced57e63b580c057bcdc676d94920",
-    "name": "Ell",
     "isAdmin": false
   }
 ]
