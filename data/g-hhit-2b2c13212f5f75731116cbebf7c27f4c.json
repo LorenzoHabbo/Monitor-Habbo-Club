@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-5773-59.hd-4383-2-1372.ch-5245-92.lg-5974-110-92.ha-1012-110.he-5698-96-92.ea-3493-110-110.wa-5599-110-92.cc-5961-92-96",
@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-5791-40.hd-3845-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.he-3833-1408.ea-1404-64.fa-5054.wa-2002",
@@ -3723,7 +3723,7 @@
     "online": true,
     "gender": "m",
     "motto": "ºApprendista Novello GDº",
-    "habboFigure": "hr-802-42.hd-209-1.ch-804-1408.lg-3078-85.sh-300-1408.wa-2008.cc-260-73",
+    "habboFigure": "hr-802-42.hd-209-1.ch-235-73.lg-3078-85.sh-300-1408.wa-2008",
     "memberSince": "2017-04-06T20:12:55.000+00:00",
     "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
     "name": "ottaviano2",
@@ -6470,7 +6470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto g.d.",
     "habboFigure": "hr-802-42.hd-180-1370.ch-235-1408.lg-3088-64-1408.sh-906-1408.he-1608.fa-1201",
@@ -9710,7 +9710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
