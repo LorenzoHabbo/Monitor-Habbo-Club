@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "LETTERA Q",
     "habboFigure": "hr-515-42.hd-615-28.ch-3033-110-110.lg-710-63.sh-725-92.he-3082-92.fa-5601-1408.ca-3225-110-110.cc-4041-1427.cp-3310-63",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Block soldier masarez [MSRZ]",
     "habboFigure": "hr-4117-1342-1342.hd-615-11.ch-660-110.lg-720-77.sh-735-110.ha-1002-110.he-3070-92.fa-5467",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
     "habboFigure": "hr-3829-45.hd-190-8.ch-266.lg-280-64.he-1608.ea-1404-64.cc-3917-81",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "I won't tell you my motto.",
     "habboFigure": "hr-515-1403.hd-615-2.ch-3013-1325.lg-3202-1325-1409.sh-3252-1325-1409.he-3070-92.fa-5601-1326",
