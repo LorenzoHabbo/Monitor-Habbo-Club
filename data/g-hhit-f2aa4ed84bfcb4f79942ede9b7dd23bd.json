@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.cc-3867-110-110",
@@ -470,10 +470,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
-    "habboFigure": "hr-892-42.hd-190-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.ha-1013-1408.he-3833-1408.ea-1404-64.fa-1206-64.wa-2002",
+    "habboFigure": "hr-5791-40.hd-3845-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.he-3833-1408.ea-1404-64.fa-5054.wa-2002",
     "memberSince": "2007-12-08T11:40:11.000+00:00",
     "uniqueId": "hhit-22f4495677cafa3e06f6f45ec68c84e8",
     "name": "-KerneL-",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-3045-86.lg-5974-86-1415.sh-5308-1415.ha-3709.he-5577-86-1322.fa-5467.ca-1810.wa-3264-110-86.cc-4137-92",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5619-34.hd-3631-1-12.ch-665-1408.lg-5594-71.sh-5803-1408.he-5314-71-71.fa-3276-72.cc-5461-1408-71",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -7740,7 +7740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Alto Cancelliere FC»",
     "habboFigure": "hr-5773-59.hd-3100-10.ch-5560-1409-110.lg-3006-110-110.sh-3621-110-110.ha-1002-110.he-5088.ea-1404-110.fa-1206-96.ca-1816.wa-2010",
@@ -8170,7 +8170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "spariró in un incubo.",
     "habboFigure": "hr-3020-49.hd-5042-26.ch-3934-92-99.lg-5970-63.sh-3035-95.ha-1004-110.ea-3575.fa-5975.cc-3002-110",
