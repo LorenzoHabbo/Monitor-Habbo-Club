@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cavaliere 1P GD",
     "habboFigure": "hr-5019-1394.hd-3997-2.ch-5608-92.lg-3078-110.sh-3089-92.ha-3426-110-109.he-3070-1408.ea-3484.fa-3993-110.cc-3827-109-110",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.sh-3180-92-105.fa-3276-96",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ay Amor, me duele tanto.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3203-110.lg-4066-110.sh-3016-1416.ea-3169-1425.ca-3292-63",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Born to Die",
     "habboFigure": "hr-125-1342.hd-180-10.ch-255-110.lg-5594-82.sh-906-110.he-5088",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-5372-1348.hd-4174-8.ch-3332-1328-68.lg-4309.sh-5464-92-1410.ha-4323.he-5088.fa-1211.ca-4036-63.wa-5370.cc-3232-110-1408",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Qui Quo Qua Non so vendere",
     "habboFigure": "hr-5680-39.hd-4383-28-14.ch-3005-110-110.lg-5974-110-1326.he-4977-63-1326.fa-3276-92.cc-4091-110",
@@ -3683,7 +3683,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
-    "habboFigure": "hr-5579-34.hd-4163-1-1371.ch-5699-64.lg-5594-1408.sh-5729-64-64.he-5314-64-64",
+    "habboFigure": "hr-5579-34.hd-4163-1-30.ch-5699-64.lg-5594-1408.sh-5729-64-64.he-5314-64-64",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -3717,6 +3717,16 @@
     "memberSince": "2017-03-31T08:17:55.000+00:00",
     "uniqueId": "hhit-1674edba7b4eaf9d29ecd92cbe498861",
     "name": "-Frigorifero-",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "ºªApprendista Novello GDªº",
+    "habboFigure": "hr-802-42.hd-209-1.ch-235-1408.lg-3078-85.sh-290-1408.wa-2001",
+    "memberSince": "2017-04-06T20:12:55.000+00:00",
+    "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
+    "name": "ottaviano2",
     "isAdmin": false
   },
   {
@@ -5010,10 +5020,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "||Spirito della Forza jehudie G.D||",
-    "habboFigure": "hr-5969-34.hd-4383-10-1371.ch-5245-71.lg-5974-80-71.sh-907-80.he-3329-71-80.cc-5984-80",
+    "habboFigure": "hr-5969-34.hd-4383-10-1371.ch-5245-71.lg-5974-80-71.sh-907-80.he-3329-71-80.ca-5984-80",
     "memberSince": "2020-04-23T13:52:31.000+00:00",
     "uniqueId": "hhit-5445c4e273f5d05af99303e744ee0116",
     "name": "moonshine95",
@@ -5613,7 +5623,7 @@
     "online": true,
     "gender": "m",
     "motto": "Giudice della pace GD (Yeet)",
-    "habboFigure": "hr-3163-1399.hd-209-1.ch-4361-110-1408.lg-5594-92.he-5578-1408.fa-3276-96.ca-5770-1321.cc-5810-110",
+    "habboFigure": "hr-3163-59.hd-3845-1.ch-5373-96-1424.lg-5594-106.sh-3206-96.ha-5377-96.fa-3276-96.ca-4036-96.cc-5382-106",
     "memberSince": "2021-03-02T10:50:23.000+00:00",
     "uniqueId": "hhit-0640405577616f3a60e39a021f939d53",
     "name": "eivor12",
@@ -6070,7 +6080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "4:20",
     "habboFigure": "hr-105-45.hd-3604-14.ch-5833-64-64.lg-4092-64.sh-305-64.ha-5854",
@@ -6090,7 +6100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto g.d",
     "habboFigure": "hr-155-38.hd-209-14.ch-255-71.lg-285-90.sh-300-90.ha-1004-64.fa-1201.ca-4115-64-64",
@@ -7313,7 +7323,7 @@
     "online": true,
     "gender": "m",
     "motto": "Leggenda Kanun",
-    "habboFigure": "hr-5756-61-61.hd-5799-5.ch-267-64.lg-275-1326.sh-5803-1326.ea-1404-64.fa-3276-110.cc-5177-110-64",
+    "habboFigure": "hr-5756-61-61.hd-5799-5.ch-3111-110-71.lg-281-1326.sh-5803-1326.ea-1404-64.fa-3276-110.cp-5462",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
@@ -7360,7 +7370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "begin again",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-64.lg-3483-1408-1408.he-1609-64.fa-4168-71",
@@ -9183,7 +9193,7 @@
     "online": true,
     "gender": "f",
     "motto": "You know me",
-    "habboFigure": "hr-4117-1398-1398.hd-3099-28.ch-3183.lg-3018-82.sh-4064-110.ha-3054-110-110.he-5279.ea-3169-1412.ca-5282-73.cc-5761-110-66",
+    "habboFigure": "hr-4117-1398-1398.hd-3099-28.ch-3183.lg-4092-82.sh-4064-110.ha-1012-110.he-3324-1408-1408.ea-3169-1412.cc-3975-110-64",
     "memberSince": "2023-08-26T23:34:50.000+00:00",
     "uniqueId": "hhit-d5f1e1268cc397564236a688817f00c2",
     "name": "Julsardy",
@@ -9730,7 +9740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato semplice .G.D",
     "habboFigure": "hr-4117-49-40.hd-4163-1383-1372.ch-5351-92-110.lg-5582-110-1408.sh-4064-110.he-5314-110-92.fa-3276-96.ca-5604-1408-1408",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-08T02:02:21.000+00:00",
     "uniqueId": "hhit-42dc6fe3ae321ad170270dc0c14cd503",
     "name": "Ciro1",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-540-42.hd-600-1.ch-665-76.lg-3078-73.he-1609-73.ea-1404-1408.wa-3074-73-85",
-    "memberSince": "2023-12-08T21:35:18.000+00:00",
-    "uniqueId": "hhit-e0866be99b895afee5a487e25af33633",
-    "name": "Lilith298",
     "isAdmin": false
   }
 ]
