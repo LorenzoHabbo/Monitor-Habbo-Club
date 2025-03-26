@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-45.hd-180-1.ch-3792-64-1408.lg-3596-64-1408.ha-1002-76.fa-3276-72.ca-3883.cc-5826-1408",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "^.^ |",
     "habboFigure": "hr-5606-31-32.hd-4383-10-30.ch-5596-80.lg-5623",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-92.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.cc-5961-1326-92",
@@ -1200,10 +1200,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
-    "habboFigure": "hr-3163-61.hd-190-1.ch-255-110.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-3318-63.ca-5615",
+    "habboFigure": "hr-3163-61.hd-190-1.ch-255-110.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-1404-63.ca-5615",
     "memberSince": "2020-07-30T19:13:23.000+00:00",
     "uniqueId": "hhit-67b75c5e1842a089bad6b3951c98ea72",
     "name": "michelinus",
@@ -1263,7 +1263,7 @@
     "online": true,
     "gender": "m",
     "motto": "Giudice della pace GD (Yeet)",
-    "habboFigure": "hr-3221-1402-40.hd-209-22.ch-3167.lg-5594-110.sh-3089-108.ha-3171-110-92.ea-3169-1416.ca-1816.wa-3072-96-1408.cc-887-110",
+    "habboFigure": "hr-3163-61.hd-209-1.ch-3167.lg-5594-110.sh-3089-92.ha-3171-110-92.ea-3169-1432.fa-1209-92.ca-1802.wa-3072-106-1408.cc-887-110",
     "memberSince": "2021-03-02T10:50:23.000+00:00",
     "uniqueId": "hhit-0640405577616f3a60e39a021f939d53",
     "name": "eivor12",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "il mondo cade a pezzi noi compresi",
     "habboFigure": "hr-3852-1404.hd-600-2.ch-665-92.lg-5974-1325-1325.sh-5803-92.he-3873-1325.fa-5982-110.ca-5108-89-1409.cc-5961-1409-96",
@@ -1603,7 +1603,7 @@
     "online": false,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-5971-1403.hd-205-2.ch-3934-92-110.lg-5970-1426.sh-305-92.he-3070-92.ea-1404-110",
+    "habboFigure": "hr-5971-1403.hd-205-2.ch-5596-92.lg-5970-1426.sh-305-92.he-3070-92.fa-5601-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "I won't tell you my motto.",
     "habboFigure": "hr-515-1403.hd-615-2.ch-3013-92.lg-710-1410.sh-908-1321",
