@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "too cool to be careless",
     "habboFigure": "hr-828-34.hd-180-28.ch-215-1408.lg-280-64.sh-305-1408.ha-3586.he-3081-92.fa-5600-1427.cc-3002-110",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-5019-40.hd-5696-10-1367.ch-3934-110-110.lg-280-110.sh-5247-92-110.he-3070-93.fa-5600-68.wa-3263-110-64.cc-4091-63",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-42-61.hd-3093-28.ch-215-64.lg-4066-1408.sh-3016-110.ea-5641",
@@ -1210,10 +1210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
-    "habboFigure": "hr-5773-1404.hd-600-10.ch-3013-1337.lg-3061-86.sh-5308-77.ha-5704.he-5578-77.fa-3276-96.ca-5769-67-86.wa-3263-1324-67.cc-5961-86-1337",
+    "habboFigure": "hr-5773-1404.hd-600-10.ch-5351-110-1410.lg-3134-110-1408.sh-5803-1410.ha-5704.he-5578-1321.fa-5467.cc-5690-63",
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "95@Rosina@95",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-3222-92.lg-3483-110-1330.ha-3952.ca-1816.cc-4184-110-100",
@@ -1663,7 +1663,7 @@
     "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
-    "habboFigure": "hd-3845-8.ch-4111-73.lg-4167-1408.sh-3068-1408-64.he-3465-1408-1408.fa-1201.ca-1801-1408.wa-5836-1408-1408",
+    "habboFigure": "hr-115-45.hd-3845-8.ch-4111-73.lg-4167-1408.sh-3068-1408-64.ha-5854.fa-1201.ca-1801-1408.wa-5836-1408-1408",
     "memberSince": "2009-08-09T22:58:14.000+00:00",
     "uniqueId": "hhit-adffc83317c2eb163c765a55afea1ed2",
     "name": "PazzoDr.Alex",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-3070-1326.fa-5467",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo Regime Brooklyn FC     Ohime-sama",
     "habboFigure": "hr-5772-61-61.hd-627-1.ch-4158-110-1331.lg-3364-89-1408.sh-907-110.ha-3488.he-3069-1330-1330.fa-3193-110.cc-4106-110-110",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo Corleone|",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
@@ -4490,7 +4490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "^.^ |",
     "habboFigure": "hr-5606-31-32.hd-4383-10-30.ch-5596-80.lg-5623",
@@ -7093,7 +7093,7 @@
     "online": true,
     "gender": "m",
     "motto": "se ai qi sotto 100 nn mi parlare",
-    "habboFigure": "hr-3860-61-42.hd-180-2.ch-215-110.lg-4138-110.sh-3587-110-110.ha-3586.he-3772-110.ea-3978-110-110.fa-5975.wa-3773-110.cc-5810-63",
+    "habboFigure": "hr-3860-61-42.hd-180-2.ch-3979-110.lg-4138-110.sh-3587-110-110.ha-3586.he-3772-110.ea-3978-110-110.fa-5975.wa-3773-110.cc-5826-95",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -8430,7 +8430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "...Meticcio Particolare...",
     "habboFigure": "hr-6035-59-49.hd-5682-10.ch-5560-110-92.lg-5594-77.sh-3089-110.ea-5392.fa-4046.ca-5771-74-95.wa-5370.cc-5761-110-96",
