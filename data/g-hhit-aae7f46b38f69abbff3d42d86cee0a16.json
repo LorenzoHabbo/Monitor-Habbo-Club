@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-3323-64-1408.lg-5594-1409.sh-5247-92-77.ha-1015.he-3732.fa-1203.ca-5737-64.cc-5077-77",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-685-81.lg-3526-1408-81.sh-3354-81-1408.he-4318-81.fa-3276-73.ca-1813.wa-4317-81.cc-4943-1408",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Vicario G.D º",
     "habboFigure": "hr-3746-31.hd-205-1.ch-875-64-64.lg-3328-1408-64.sh-4112-64-73.ea-1404-64.fa-5601-68.ca-4115-64-73.cc-3917-64",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "IAmReDesk™",
     "habboFigure": "hr-3768-31.hd-209-8.ch-807-1408.lg-3290-1408.sh-3524-1408-1320.ha-3710.cc-4943-1408",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-3290-64.sh-305-64",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante O.M",
     "habboFigure": "hr-105-36.hd-209-14.ch-215-91.lg-280-91.sh-908-91.ha-1009-81.ea-3484",

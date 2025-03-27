@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5969-44.hd-600-2.ch-665-1330.lg-5594-77.he-5314-110-110.fa-3276-96.ca-5984-1409",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sommelier Masarez",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3058-110.sh-3089-1424.fa-1204.ca-3217-110-64.wa-2012.cc-3158-64",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Troublemaker Hooligans",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-3501-110.lg-5974-1426-1341.sh-5717.he-5314-110-110.fa-3276-1412.ca-5807-110-92.cp-5886-92",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Vicario G.D º",
     "habboFigure": "hr-3746-31.hd-205-1.ch-875-64-64.lg-3328-1408-64.sh-4112-64-73.ea-1404-64.fa-5601-68.ca-4115-64-73.cc-3917-64",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-3290-64.sh-305-64",
@@ -2667,6 +2667,16 @@
     "memberSince": "2013-12-04T15:06:30.000+00:00",
     "uniqueId": "hhit-d1952f4e195ad4677f2fbaf80f2f5eb3",
     "name": "Gianmarco1020",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "- YaºKuºZa",
+    "habboFigure": "hr-802-42.hd-205-1.ch-210-1408.lg-270-64.sh-3524-1408-1408.fa-1208-64.cc-3827-64-1408",
+    "memberSince": "2013-12-21T12:09:30.000+00:00",
+    "uniqueId": "hhit-b9a9f431106e676ce472ff2b2a4fc363",
+    "name": "-Strike",
     "isAdmin": false
   },
   {
@@ -3380,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "   |Scrittrice&Builder|",
     "habboFigure": "hr-5617-1397-49.hd-3956-1389-30.ch-3013-1422.lg-3526-1422-92.sh-725-110.ea-3170-110.fa-3276-1414.cc-3515-110-92",
@@ -4060,7 +4070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fan del nu metal",
     "habboFigure": "hr-115-45.hd-209-1370.ch-255-64.lg-3078-82.sh-295-64.ha-3352-91-1408.fa-3276-72.wa-2007",
@@ -5033,7 +5043,7 @@
     "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
-    "habboFigure": "hr-5605-31.hd-3845-10.ch-5762-76-1408.lg-3216-64.sh-3524-73-1408.ha-5471-76-1408.fa-3276-73",
+    "habboFigure": "hr-5120-34-37.hd-3845-10.ch-3598-84-1408.lg-3320-64-1408.sh-3180-64-1408.fa-3276-73",
     "memberSince": "2020-04-27T14:00:56.000+00:00",
     "uniqueId": "hhit-9ca83877f1b71181a8f009d0ac76c1b3",
     "name": "Ellie_williams",
@@ -8683,7 +8693,7 @@
     "online": true,
     "gender": "m",
     "motto": "apprendista g.d",
-    "habboFigure": "hr-3090-42.hd-180-1.ch-235-73.lg-285-64.sh-3068-64-1408",
+    "habboFigure": "hr-3090-42.hd-180-14.ch-235-73.lg-285-64.sh-3068-64-1408",
     "memberSince": "2023-07-05T07:40:28.000+00:00",
     "uniqueId": "hhit-5a13e5c50c402806f42d276fde68f66d",
     "name": "vinsIlCapo",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-08T01:40:41.000+00:00",
     "uniqueId": "hhit-c5f33d694ec17e4a6e0e32ed0f130211",
     "name": "EmilyZar",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista novello g.d.",
-    "habboFigure": "hr-170-39.hd-180-1370.ch-807-1408.lg-3078-1408.ca-5463",
-    "memberSince": "2023-12-08T02:02:21.000+00:00",
-    "uniqueId": "hhit-42dc6fe3ae321ad170270dc0c14cd503",
-    "name": "Ciro1",
     "isAdmin": false
   }
 ]
