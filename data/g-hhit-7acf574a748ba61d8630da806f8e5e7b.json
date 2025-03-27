@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sono paxxo vi giuro º",
     "habboFigure": "hr-5971-1403.hd-190-1.ch-235-92.lg-3078-1427.sh-908-92.he-3379-64-80.ea-5576-92-1408.fa-3276-110.wa-3504-1409.cc-5761-92-1408",
@@ -692,7 +692,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Scagnozzo Corleone|",
+    "motto": "Bobba!",
     "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5453-1414-1414.lg-5594-77.sh-5308-1410.ha-5301-1326.he-5808-95.fa-5467.cc-5440-1326-1328",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -1183,7 +1183,7 @@
     "online": true,
     "gender": "f",
     "motto": "...Meticcio Particolare...",
-    "habboFigure": "hr-6035-59-49.hd-5682-10.ch-5560-110-92.lg-5594-77.sh-3089-110.ea-5392.fa-4046.ca-5771-74-95.wa-5370.cc-5761-110-96",
+    "habboFigure": "hr-4363-59-59.hd-5682-10.ch-3658-1427-92.lg-696-92.ea-5392.fa-4046",
     "memberSince": "2014-10-01T18:28:54.000+00:00",
     "uniqueId": "hhit-5560b6310c7dc8eff31c673730437989",
     "name": "SeleneRyan",
@@ -1940,10 +1940,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Madrina Corleone »",
-    "habboFigure": "hr-5973-1342-61.hd-615-28.ch-665-110.lg-3006-110-110.sh-5247-92-110.he-3070-93.fa-5467.ca-3084-1326-1328",
+    "habboFigure": "hr-5973-1342-61.hd-615-28.ch-665-110.lg-3006-110-110.sh-5247-92-110.he-3070-93.fa-5467",
     "memberSince": "2019-12-04T23:46:57.000+00:00",
     "uniqueId": "hhit-8e8195b4c9cb0c2927d1823a2241b58e",
     "name": "dory???",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3841-42.hd-180-1.ch-210-1408.lg-3787-64-1408.cc-5761-64-73",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Thinking of you wherever you are",
     "habboFigure": "hr-890-37.hd-629-1.ch-4099-72-1408.lg-700-82.sh-907-64",
