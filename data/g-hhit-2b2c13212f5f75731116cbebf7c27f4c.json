@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3979-91.lg-3407-66-91.sh-300-66.ha-5744-91-91.fa-5636-64.ca-5739-66-91.cc-5826-66",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1399.hd-209-12.ch-3022-110-110.lg-3483-70-70.sh-4112-110-92.fa-1209-96.ca-1816.cc-3420-1408",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.sh-3180-92-105.fa-3276-96",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1405.hd-5696-10-10.ch-655-1428.lg-5594-64.sh-5308-1410.he-3082-64.fa-3276-1338.wa-5370.cc-5800-110-110",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-3290-64.sh-305-64",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Born to Die",
     "habboFigure": "hr-125-51.hd-180-1364.lg-3136-102.he-5088",
@@ -2733,7 +2733,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5556-61-50.hd-205-10.ch-3001-1330-110.lg-281-1408.sh-905-92.he-3070-92.ea-5392.fa-5391.cp-5882-1315",
+    "habboFigure": "hr-5556-61-50.hd-205-10.ch-3001-110-110.lg-281-1408.sh-905-92.he-3070-92.ea-5392.fa-5391.wa-2002.cp-5882-1315",
     "memberSince": "2014-06-15T15:06:26.000+00:00",
     "uniqueId": "hhit-ebc0960f18ed6d96dae770de55164e8a",
     "name": "maradona",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-3936-1403-1403.hd-3845-10.ch-5607-110.lg-3136-110.sh-5308-92.he-3821-85-1333.fa-5467.ca-5960-1333-92.cc-5961-1409-1333",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-37-37.hd-190-8.ch-3334-91-1408.lg-3596-91-66.sh-3338-91.ha-3855-91.he-5088.fa-4168-1408.ca-4037-91-1408.cc-5961-91-1408",
@@ -6450,7 +6450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-3526-64-64.sh-5464-64-64.ha-3857-64-64.cc-4300-64-64",
@@ -6600,7 +6600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista aiutante GD    A |",
     "habboFigure": "hr-3163-37.hd-180-1.lg-5594-77.sh-4112-1410-1410.ha-5085.fa-5601-1408.wa-3080-1321.cc-5182-1336",
