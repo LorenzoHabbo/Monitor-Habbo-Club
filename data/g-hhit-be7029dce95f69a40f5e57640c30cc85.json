@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "      ºº",
     "habboFigure": "hr-828-1342.hd-3092-8.ch-806-110.lg-3116-110-1408.sh-3016-110.ha-4326.ea-1406.ca-1816",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Gloria Nitti",
     "habboFigure": "hd-4174-7.ch-5608-1427.lg-5594-1336.sh-3621-92-67.ha-1004-1334.he-3660-1329-1325.fa-5384-92.ca-4115-1325-1329.cc-5307-89",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "It's been Agatha all along.",
     "habboFigure": "hr-3012-1395.hd-3536-1-1.ch-3183.lg-3434-1430-110.sh-4159-110-92.ha-3150-110-1430.he-3660-1412-84.fa-3276-95.cc-5610-63",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Elizabeth Swann BLACK PEARL",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-110.lg-3192-92.sh-3206-110.ha-1005-110.ea-1402.fa-3276-110",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Eletto dei Quindici EºW",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-3596-110-1408.sh-3206-110.he-5088.cc-4137-92.cp-3315-92",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -4891,9 +4891,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-5969-55.hd-4383-10-30.lg-5970-1414.sh-3154-110-1326.ha-5620-1326.cc-4109-110-110",
+    "habboFigure": "hr-5969-55.hd-4383-10-5.ch-5560-1414-110.lg-5594-64.sh-740-110.he-1608.ea-1404-1408",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -5700,7 +5700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ay Amor, me duele tanto.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3203-110.lg-4066-110.sh-3016-1416.ea-3169-1425.ca-3292-63",
@@ -6100,7 +6100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-31.hd-3102-2.ch-3050-1408-92.lg-3596-92-1408.sh-5247-63-92.ha-3656.ea-3148-63-1408.cc-3867-1337-1337",
@@ -7160,10 +7160,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-155-45.hd-190-10.ch-215-88.lg-281-64.sh-290-1408",
+    "habboFigure": "hr-155-45.hd-190-10.ch-215-88.lg-281-64.sh-290-1408.ha-1002-64",
     "memberSince": "2013-05-13T09:04:32.000+00:00",
     "uniqueId": "hhit-9c6a6199784d7e5fe68341b934f5de8c",
     "name": "Sconsolato..",
@@ -7203,7 +7203,7 @@
     "online": true,
     "gender": "f",
     "motto": "1v1?",
-    "habboFigure": "hr-5619-40.hd-600-14.ch-685-1408.lg-710-1408.sh-4064-1408.he-5844",
+    "habboFigure": "hr-3673-40.hd-600-14.ch-665-1408.lg-710-1408.sh-4064-1408.ha-1003-1408.he-5844.ca-1815-1408.wa-3661-1408-1408",
     "memberSince": "2013-06-07T13:10:23.000+00:00",
     "uniqueId": "hhit-cbd7eeaeed5d24640a6be500425753da",
     "name": "Chym",
@@ -8153,7 +8153,7 @@
     "online": true,
     "gender": "m",
     "motto": "Solo se vive una vez",
-    "habboFigure": "hr-3829-49.hd-207-10.ch-3167.lg-5594-77.sh-3089-85.he-3070-92.ea-3978-110-110.ca-5739-110-89.wa-5676.cc-5077-110",
+    "habboFigure": "hr-3977-49.hd-207-10.ch-3167.lg-5594-77.sh-3089-85.he-5828.ea-3978-110-110.wa-5676.cc-5077-110",
     "memberSince": "2014-06-25T19:57:08.000+00:00",
     "uniqueId": "hhit-fa322b0f5e5d6e8b426d8c1fb2b5b630",
     "name": "-One",
@@ -8850,7 +8850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-44.hd-209-20.ch-245-1408.lg-280-64.sh-908-85.ha-1006.he-1608",
@@ -8950,7 +8950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-107.sh-3089-92.ha-3620.he-3772-1424.fa-3296.wa-3773-107.cc-3075-1424",
