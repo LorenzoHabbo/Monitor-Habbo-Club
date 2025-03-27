@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Paladino 1p GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista g.d",
     "habboFigure": "hr-155-45.hd-209-1370.ch-875-82-1408.lg-270-64.sh-305-1408.wa-2001",
@@ -712,7 +712,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Troublemaker Hooligans",
+    "motto": "Hool Hooligans",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-3501-110.lg-5974-1426-1341.sh-5717.he-5314-110-110.fa-3276-1412.ca-5807-110-92.cp-5886-92",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
@@ -1433,7 +1433,7 @@
     "online": true,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-57.hd-4383-10-14.ch-3005-92-105.lg-5594-1426.sh-5308-80.he-5244-95.fa-4046.wa-5370.cc-5461-80-95",
+    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-655-1428.lg-5594-64.sh-5308-1410.he-3082-64.fa-5467.wa-5370.cc-5800-110-110",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -4090,7 +4090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Iniziato GD|",
     "habboFigure": "hr-5210-1396-1405.hd-3095-8.ch-5559-92.lg-4138-110.sh-290-92.ha-3494-89-92.he-3070-92.ea-3925-110-92.fa-3276-110.ca-5768-110-1408.cc-3593-89-92",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-3936-1404-1404.hd-3845-10.ch-5607-1326.lg-3136-110.sh-5308-92.he-3740.fa-5467.cc-5826-1326",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "barista esperto g.d",
     "habboFigure": "hr-3860-37-40.hd-190-8.ch-3334-91-1408.lg-3596-91-1408.sh-3338-91.ha-3855-91.he-5088.ca-4037-91-1408.cc-5961-91-1408",
@@ -5000,7 +5000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Apprendiista g.d",
     "habboFigure": "hr-155-39.hd-209-1.ch-878-72-80.lg-3023-64.sh-3068-1408-84.wa-2001",
@@ -6192,7 +6192,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "hooligans",
+    "motto": "MadCap hooligans",
     "habboFigure": "hr-5841-1356.hd-5838-28-1367.ch-3167.lg-5732-110-110.sh-3720-110-110.he-5828.fa-5492-1426-110.ca-5702-110-92.wa-3264-110-1427.cc-3593-110-1408",
     "memberSince": "2021-11-18T16:02:21.000+00:00",
     "uniqueId": "hhit-218871d4f17d91b77b5dc2fdb52b2aa2",
@@ -6413,7 +6413,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cavaliere Eletto EW",
-    "habboFigure": "hr-3278-42-40.hd-180-8.ch-215-91.lg-280-91.sh-908-91.he-5088.fa-1209-110",
+    "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
@@ -6430,7 +6430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-828-1407.hd-3095-1.ch-3215-110.lg-275-110.ea-1402.fa-3276-64",
@@ -7923,7 +7923,7 @@
     "online": true,
     "gender": "f",
     "motto": "Guardiano della Cittadella 1p G.d.",
-    "habboFigure": "hr-5605-39.hd-600-10.ch-4158-73-1408.lg-3023-64.sh-906-1408.he-3329-1408-73",
+    "habboFigure": "hr-5605-39.hd-600-10.ch-4158-73-1408.lg-3023-64.sh-907-64.he-3329-1408-73",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
     "name": "everblacknoemi",
@@ -8430,7 +8430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-35.hd-625-1.ch-821-72-1408.lg-3216-72.sh-735-72.ha-3117-72",
@@ -9201,9 +9201,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "You know me",
-    "habboFigure": "hr-828-61.hd-205-22.ch-3050-110-110.lg-280-110.sh-305-64.ha-4192.he-5844",
+    "habboFigure": "hr-3920-34-1401.hd-3099-28.ch-3045-110.lg-710-110.sh-4064-110.he-3070-1408.ea-3169-1412.wa-3212-73-1408.cc-3515-110-110",
     "memberSince": "2023-08-26T23:34:50.000+00:00",
     "uniqueId": "hhit-d5f1e1268cc397564236a688817f00c2",
     "name": "Julsardy",
