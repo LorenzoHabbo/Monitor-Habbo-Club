@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Forza & Onore",
     "habboFigure": "hr-3278-61-49.hd-190-28.ch-3030-110.lg-280-110.sh-295-110.ha-1013-110.fa-1209-110",
@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Guardia di coperta BP Arrr!",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-90.lg-3526-82-82.sh-3619-82-1408.ha-5087.ea-3484.ca-5455-82-66",
@@ -93,7 +93,7 @@
     "online": true,
     "gender": "m",
     "motto": "~ OSU",
-    "habboFigure": "hr-3260-41.hd-180-10.ch-3001-64-110.lg-285-77.sh-3089-110.ha-3156-110.ea-1404-110",
+    "habboFigure": "hr-3260-41.hd-180-10.ch-3001-64-110.lg-285-1427.sh-3089-110.ha-3156-110.ea-1404-110",
     "memberSince": "2007-12-31T12:48:14.000+00:00",
     "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
     "name": "francesco97!",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-676-43.hd-209-1.ch-255-1408.lg-3078-81.sh-906-71.ha-1003-1408.ca-1815-64",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3673-61.hd-3845-28.ch-3013-110.lg-5594-110.sh-3089-110.he-5314-110-77.ea-3484.fa-3276-92.cc-5461-77-110",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "UOMO D’ONORE FC",
     "habboFigure": "hr-3531-49-49.hd-3845-1370.ch-803-110.lg-5594-110.sh-5803-92.ha-1026.he-3070-92.fa-3700.wa-3504-110",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
