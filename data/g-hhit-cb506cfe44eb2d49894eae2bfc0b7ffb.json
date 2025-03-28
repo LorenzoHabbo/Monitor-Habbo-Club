@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-31.hd-200-14.ch-255-1408.lg-280-64.sh-300-1408.ha-1002-64",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ª Cannoniere - Black Pearl ª",
     "habboFigure": "hr-5773-61.hd-3631-1370-30.ch-3013-100.lg-5594-1341.sh-3035-110.ea-5576-110-94.ca-5983-92.cc-5800-110-110",
@@ -3590,10 +3590,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
-    "habboFigure": "hr-5680-1394.hd-600-2.ch-3014-110.lg-3006-82-92.sh-5308-92.fa-3276-1328.ca-3485.cc-5800-1331-1331",
+    "habboFigure": "hr-5680-1394.hd-600-2.ch-3013-110.lg-5974-92-110.sh-5308-92.he-5314-110-110.fa-3276-1328",
     "memberSince": "2024-08-17T12:10:12.000+00:00",
     "uniqueId": "hhit-74b22a55b8b6f940108378015b21203c",
     "name": "Gaia25",
@@ -3870,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "FRATELLO E SCHIAVO CORLEONE",
     "habboFigure": "hr-515-40.hd-628-19.ch-3689-1408.lg-716-73-73.sh-5803-1408.ha-4089-64.fa-1201.ca-5049-71",
