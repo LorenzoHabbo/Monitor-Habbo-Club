@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "speedy gonzalez",
     "habboFigure": "hr-831-1397.hd-205-25.ch-265-110.lg-280-110.sh-3524-110-1339.ha-1009-110.he-3376-110-64.fa-5600-1409.cc-3360-110",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "    Forza & Onore",
     "habboFigure": "hr-3278-61-49.hd-190-28.ch-3030-110.lg-280-110.sh-295-110.ha-1013-110.fa-1209-110",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "F3N0M3N0 [E.W]",
     "habboFigure": "hr-3852-61.hd-600-2.ch-3013-110.lg-710-110.sh-5803-86.he-3082-86.fa-5982-1325.cc-5800-86-86",
