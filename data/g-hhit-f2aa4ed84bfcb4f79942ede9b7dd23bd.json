@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mbare si nliuni",
     "habboFigure": "hr-3163-61.hd-3102-28.ch-3342-110-110.lg-3418-106.sh-305-92.he-3070-110.fa-5601-92.cc-5810-106",
@@ -2150,10 +2150,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sicario corleone",
-    "habboFigure": "hr-5772-61-35.hd-3098-10.ch-5595-1427.lg-5970-110.sh-5308-93",
+    "habboFigure": "hr-5772-61-35.hd-3098-10.ch-5595-1427.lg-5970-64.sh-5308-93",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -8170,7 +8170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "siamo leggende da Bar",
     "habboFigure": "hr-5544-49-40.hd-5042-22.ch-5833-95-92.lg-5970-92.sh-3035-95.he-5646.fa-3771-1408",
@@ -9780,7 +9780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3709.ca-5807-1320-80",
