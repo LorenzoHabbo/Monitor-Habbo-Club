@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Vice Leader ª Oblivion",
     "habboFigure": "hr-828-54.hd-207-10.ch-210-110.lg-285-80.sh-290-92.ea-3639",
@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "JUMBO - CLEVER GIRL,,,,,,,,,",
     "habboFigure": "hr-3920-1404-1404.hd-205-10.ch-3111-80-1408.lg-270-77.sh-906-1408.ha-1002-63.he-3752.ea-5576-89-92.fa-5467.wa-2001",
@@ -563,7 +563,7 @@
     "online": true,
     "gender": "m",
     "motto": "Vendicatore EºW",
-    "habboFigure": "hr-3278-61-49.hd-3091-22.ch-3323-110-93.lg-3257-110.sh-3419-110-110.ha-1009-1321.ea-3170-1322.fa-3345-110.cc-3509-93-93",
+    "habboFigure": "hr-3278-61-49.hd-3091-22.ch-3323-110-110.lg-3257-110.sh-3419-110-110.ha-1009-110.ea-3170-110.fa-3345-110.cc-3509-110-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|tutti troppo convinti|",
     "habboFigure": "hr-4363-49-49.hd-627-14.ch-665-1408.lg-710-1408.sh-4064-1408.he-3740.fa-3276-72.cc-5800-1408-1408",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1004-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "per gli amici e-e a verità 16280",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-6043.he-4971.ea-4985.fa-5975.ca-5002.wa-5370",
