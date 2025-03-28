@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
     "habboFigure": "hr-3829-45.hd-207-8.ch-266.lg-3116-64-1408.he-1608.ea-1404-64.cc-3917-64.cp-3128-1408",
