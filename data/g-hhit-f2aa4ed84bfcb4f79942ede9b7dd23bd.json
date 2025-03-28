@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "too cool to be careless",
     "habboFigure": "hr-828-34.hd-180-28.ch-215-1408.lg-280-64.sh-305-1408.ha-3586.he-3081-92.fa-5600-1427.cc-3002-110",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3602-61-31.hd-5696-10-1367.ch-3934-110-110.lg-280-110.sh-4112-92-92.he-3070-1408.ea-3169-1330.fa-5600-68.ca-3410-92.wa-3263-110-64.cc-4091-63",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.cc-3867-110-110",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-215-89.lg-4066-1409.sh-3016-110.ea-3727",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-630-1408.lg-3116-1326-1423.sh-5308-1338.ha-1005-1326.he-3376-110-1337.fa-5467.cc-5518-1337-86",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo Regime Brooklyn FC     Ohime-sama",
     "habboFigure": "hr-5772-61-61.hd-627-1.ch-4158-110-1331.lg-3364-89-1408.sh-907-110.ha-3488.he-3069-1330-1330.fa-3193-110.cc-4106-110-110",
@@ -3773,7 +3773,7 @@
     "online": true,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
+    "habboFigure": "hr-5773-1405.hd-5696-28-28.ch-655-1428.lg-5594-64.ha-5116-1408.he-5088.fa-3276-1338.ca-5444-92-92.cc-3917-110",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -7093,7 +7093,7 @@
     "online": true,
     "gender": "m",
     "motto": "se ai qi sotto 100 nn mi parlare",
-    "habboFigure": "hr-3860-61-42.hd-180-2.ch-3979-110.lg-4138-110.sh-3587-110-110.ha-3586.he-3644.ea-3978-110-110.fa-5975.cc-5810-92",
+    "habboFigure": "hr-3860-61-42.hd-180-2.ch-3979-110.lg-4138-110.sh-3587-110-110.ha-3586.he-1609-110.ea-3978-110-110.fa-5975.cc-5810-92",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -7150,10 +7150,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "quèdate",
-    "habboFigure": "hr-828-42.hd-180-10.ch-4361-1418-110.lg-5594-110.sh-3587-1408-1408.ha-3488.he-3070-92.ea-3640",
+    "habboFigure": "hr-828-1348.hd-180-10.ch-4361-1427-110.lg-5594-110.sh-3587-1408-1408.ha-3488.he-3070-92.ea-3640",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
     "name": "Tinhos",
@@ -9980,7 +9980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
