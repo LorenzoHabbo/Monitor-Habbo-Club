@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-285-77.sh-290-92",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-40.hd-205-10.ch-255-64.lg-285-81.sh-908-1408.ha-1002-1408",
@@ -1163,7 +1163,7 @@
     "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
-    "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92",
+    "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
@@ -1270,10 +1270,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
-    "habboFigure": "hd-190-22.ch-3237-92-110.lg-3257-1419.sh-3275-1322.he-1609-1412.fa-3462-63.ca-1807.cc-3299-1417-94",
+    "habboFigure": "hr-3260-1406.hd-3092-1362.ch-3203-92.lg-3216-67.ea-3270-110-110.fa-1212.cc-5825",
     "memberSince": "2013-10-14T19:08:30.000+00:00",
     "uniqueId": "hhit-16e8bfb7bbe99b9bbf193923136cf672",
     "name": "A-N-D-R-E-Z",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-836-1394.hd-600-1370.ch-660-110.lg-720-81.ea-3196-1408.fa-3276-73",
