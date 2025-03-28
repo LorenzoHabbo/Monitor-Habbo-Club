@@ -350,10 +350,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "f",
+    "online": false,
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-892-35.hd-600-12.ch-3528-1416-1339.lg-3353-99.sh-735-1417.he-4265.ca-3217-95-98",
+    "habboFigure": "hd-180-2.ch-215-1408.lg-275-1408.fa-1205-100",
     "memberSince": "2007-05-16T15:56:01.000+00:00",
     "uniqueId": "hhit-c9ba292e49d9125cc03061609ce75906",
     "name": "Jvlian",
@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hr-3163-58.hd-180-1392.ch-3234-106.lg-3267-106-1408.sh-3277-106-106.ha-3305-106-81.fa-1205-106.ca-5604-106-106",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1403.hd-5317-3-8.ch-3032-110-110.lg-280-110.sh-5247-1408-1408.ha-5510",
@@ -3670,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "800A",
     "habboFigure": "hd-180-12.ch-210-1408.lg-270-1408.ha-1015",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-215-110.lg-280-110.sh-3035-92.ha-5304-110-110.fa-1209-110.cc-3326-110-110",
@@ -8173,7 +8173,7 @@
     "online": true,
     "gender": "m",
     "motto": "siamo leggende da Bar",
-    "habboFigure": "hr-5544-49-40.hd-5042-22.ch-5833-95-92.lg-5970-92.sh-905-95.he-5646.fa-3771-1408",
+    "habboFigure": "hr-5544-49-40.hd-5042-22.ch-5833-95-92.lg-5970-92.sh-3035-95.he-5646.fa-3771-1408",
     "memberSince": "2014-08-12T13:33:15.000+00:00",
     "uniqueId": "hhit-323b4a9622f06f50bd21f58bcd6a13f2",
     "name": "Adams,",
@@ -9780,7 +9780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3709.ca-5807-1320-80",
