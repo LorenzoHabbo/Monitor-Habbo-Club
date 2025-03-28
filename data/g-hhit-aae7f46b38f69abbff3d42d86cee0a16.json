@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Forza & Onore",
     "habboFigure": "hr-3278-61-49.hd-190-28.ch-3030-110.lg-280-110.sh-295-110.ha-1013-110.fa-1209-110",
@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5969-55.hd-4383-10-5.ch-5560-1414-110.lg-5594-64.sh-740-110.he-1608.ea-1404-1408",
@@ -383,7 +383,7 @@
     "online": true,
     "gender": "m",
     "motto": "Vendicatore EºW",
-    "habboFigure": "hr-3278-61-49.hd-3845-22.ch-3840-110-1408.lg-3787-110-1408.sh-3419-110-1408.he-1609-92.fa-1205-110.wa-2009-110.cc-3420-110",
+    "habboFigure": "hr-3278-61-49.hd-3091-22.ch-3323-110-93.lg-3257-110.sh-3419-110-110.ha-1009-1321.ea-3170-1322.fa-3345-110.cc-3509-93-93",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -503,7 +503,7 @@
     "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-893-49.hd-3095-28.ch-803-1323.lg-3201-94-92.sh-3206-92.ha-3253.ca-3175-1408",
+    "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-92.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.cc-5961-1326-92",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-190-22.ch-3237-92-110.lg-3257-1419.sh-3275-1322.he-1609-1412.fa-3462-63.ca-1807.cc-3299-1417-94",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-4126-31-40.hd-605-10.ch-655-1408.lg-5594-82.sh-908-1408.he-1608.fa-5467.wa-5986-1408.cc-5800-84-84",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-3526-64-64.sh-5464-64-64.ha-3857-64-64.cc-4300-64-64",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " vice controllore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-64.lg-4369-1408-1408.sh-5308-1408.he-3324-1408-1408.fa-5467",
