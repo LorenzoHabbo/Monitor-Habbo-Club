@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-829-44.hd-6045-13.ch-215-110.lg-285-110.sh-300-110.ea-1403-110.fa-1204",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-280-1427.sh-290-92",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5969-1348.hd-4383-10-5.ch-5560-1414-1414.lg-5594-1413.sh-5671-1414.ha-5620-1413.fa-1209-1413",
@@ -933,7 +933,7 @@
     "online": true,
     "gender": "m",
     "motto": "Vendicatore EºW",
-    "habboFigure": "hr-3278-49-1342.hd-180-28.ch-5833-110-110.lg-3384-110-94.sh-3419-110-1322.ea-3169-94.fa-3345-92.wa-2009-110",
+    "habboFigure": "hr-3278-57-49.hd-207-28.ch-215-110.lg-3257-64.sh-3206-110.ha-1026.ea-3169-80.fa-3345-80.wa-2007.cc-886-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1.ch-3806-84.lg-3078-64.sh-300-1408.ha-1009-66.fa-5601-66.cc-3825-64-64",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "in mezzo a questo temporale baciami",
     "habboFigure": "hr-5619-34.hd-600-2.ch-665-110.lg-3483-77-77.sh-725-92.he-3376-110-110.fa-3276-72.ca-3414-92",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒ",
     "habboFigure": "hr-5720-58-1345.hd-5696-1-1365.ch-5245-92.lg-3526-110-92.sh-5247-92-110.he-5348.fa-3276-96.cc-5826-63",
@@ -2102,7 +2102,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "",
+    "motto": "simone malgrotti suca",
     "habboFigure": "hr-540-34.hd-600-10.ch-665-64.lg-715-64.sh-735-64.he-1609-1408",
     "memberSince": "2019-06-03T16:31:29.000+00:00",
     "uniqueId": "hhit-ff9f5cf27d8b95cd538e649f8b789008",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Madrina Corleone »",
     "habboFigure": "hr-5973-1404-61.hd-615-28.ch-665-110.lg-5974-110-1409.sh-5247-92-110.he-3070-1410.fa-5467",
@@ -2710,10 +2710,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-3829-34.hd-180-1.ch-5596-1408.lg-5594-82.sh-5803-1408.he-4977-1408-64.ea-3978-1408-1408.ca-3485.cc-5800-64-64",
+    "habboFigure": "hr-4941-34-34.hd-180-1.ch-5596-1408.lg-5594-82.sh-5803-1408.he-4977-1408-64.ea-3978-1408-1408.ca-3485.cc-5800-64-64",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Spia Semplice G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.cc-3158-64",
@@ -3343,7 +3343,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5624-100.cc-3420-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-875-92-1408.lg-275-110.sh-5247-92-92.he-3070-92.ea-1404-110.cc-5485-92-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3870,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-36.hd-209-19.ch-3110-85-74.lg-3023-64.sh-906-1408.ca-1812",
@@ -4050,7 +4050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Scagnozzo GD~",
     "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-1424.lg-3290-110.ha-1013-107.he-3082-110.fa-4168-95.cc-3066-110",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-34.hd-180-2.ch-215-110.lg-5594-77.sh-3035-92.ea-1404-110.ca-1801-92",
