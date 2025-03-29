@@ -853,7 +853,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3699-49.hd-5838-1389-1362.ch-4994-1325-1325.lg-285-1409.sh-3524-1325-64.fa-5948-94.ca-4292-110-110.cc-5609-1408",
+    "habboFigure": "hr-3699-49.hd-5838-1389-1362.ch-4994-1325-1325.lg-285-1409.sh-3524-1325-64.fa-5948-94.ca-4292-110-110.cc-5610-1408",
     "memberSince": "2008-05-05T17:06:51.000+00:00",
     "uniqueId": "hhit-4ce7b841ab8add7af51efaebce0404b5",
     "name": "Proemio",
@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-280-1427.sh-290-92",
@@ -4030,7 +4030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
@@ -5710,10 +5710,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Senmin",
-    "habboFigure": "hr-3090-39.hd-180-1370.ch-3030-85.lg-3116-82-1408.sh-295-1408",
+    "habboFigure": "hr-3090-39.hd-180-1370.ch-3030-85.lg-3116-64-1408.sh-906-1408",
     "memberSince": "2011-12-23T21:27:03.000+00:00",
     "uniqueId": "hhit-f25129ddd0fa6fa3cefc16f6b0dd259d",
     "name": "duca99",
@@ -6770,7 +6770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -7251,9 +7251,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "» Pezzo Grosso - Battaglia »",
-    "habboFigure": "hr-540-45.hd-615-1.ch-660-71.lg-710-71.sh-908-1408",
+    "habboFigure": "hr-3163-1403.hd-3091-4.ch-255-1331.lg-285-92.sh-295-110.he-3070-63.fa-3276-63",
     "memberSince": "2013-06-21T16:09:36.000+00:00",
     "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
     "name": "El.Vampiro",
