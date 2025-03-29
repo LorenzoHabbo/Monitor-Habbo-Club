@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-44-44.hd-209-2.ch-3185-1330.lg-5594-77",
@@ -2617,16 +2617,6 @@
     "memberSince": "2013-11-03T14:10:29.000+00:00",
     "uniqueId": "hhit-613d6629baf5dc62a0446c2fc73c5783",
     "name": "CM2-09",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Born to Die",
-    "habboFigure": "hr-125-51.hd-180-1364.lg-3136-102.he-5088",
-    "memberSince": "2013-11-15T11:19:56.000+00:00",
-    "uniqueId": "hhit-6396d8ea4389c92ebefa67c49ff150cc",
-    "name": "Massi95",
     "isAdmin": false
   },
   {
@@ -6070,7 +6060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "4:20",
     "habboFigure": "hr-105-45.hd-3604-14.ch-4190-64-64.lg-4191-64-1408.sh-3068-64-1408.ha-4188-64.he-1609-64",
@@ -6740,7 +6730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arruolato Gh",
     "habboFigure": "hr-165-34.hd-190-1.ch-267-66.lg-275-66.sh-305-1408.fa-3276-64",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-12-08T21:35:18.000+00:00",
     "uniqueId": "hhit-e0866be99b895afee5a487e25af33633",
     "name": "Lilith298",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "Soldato g.d.",
+    "habboFigure": "hr-5681-42-40.hd-629-1.ch-665-1408.lg-5594-64.sh-3383-64-64.he-3329-76-81.fa-3276-73",
+    "memberSince": "2023-12-09T13:21:37.000+00:00",
+    "uniqueId": "hhit-265a4da5a13ae383434d7615f7474b42",
+    "name": "darkcristaaa",
     "isAdmin": false
   }
 ]
