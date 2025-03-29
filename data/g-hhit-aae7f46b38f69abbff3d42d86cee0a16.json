@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3281-61.hd-209-1.ch-4361-110-92.lg-4373.sh-3524-110-92.ha-1004-110.he-5088.ea-3169-110",
@@ -1970,10 +1970,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "I won't tell you my motto.",
-    "habboFigure": "hr-515-1403.hd-615-2.ch-660-92.lg-710-1428.sh-3035-1326.he-3070-1326.ea-1405.fa-3276-100",
+    "habboFigure": "hr-515-1403.hd-615-2.ch-660-67.lg-710-1428.sh-3035-1326.he-3070-1326.fa-5601-1326",
     "memberSince": "2025-03-14T01:58:50.000+00:00",
     "uniqueId": "hhit-69526264cb6343e7f93f61ec0dcc2ba5",
     "name": "kalashnikov.",
