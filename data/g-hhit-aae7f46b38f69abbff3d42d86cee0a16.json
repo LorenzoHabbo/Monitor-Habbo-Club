@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Forza & Onore",
     "habboFigure": "hr-3278-61-49.hd-190-28.ch-3030-110.lg-280-110.sh-295-110.ha-1013-110.fa-1209-110",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3260-61.hd-180-10.ch-215-92.lg-285-77.sh-3089-110.ea-1404-110",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3791-1404.hd-3604-1370.ch-3059-110.lg-3078-110.sh-3275-93.ha-4052.he-5088.ea-3168-1321.fa-4168-93.ca-1802.wa-5123-93.cp-3125-96",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "EºW",
     "habboFigure": "hr-4352-37.hd-615-1.ch-3935-110-110.lg-700-110.sh-5803-92.ha-5301-110.cc-5518-92-92",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
     "habboFigure": "hr-3829-45.hd-207-8.ch-266.lg-3116-64-1408.he-1608.ea-1404-64.cc-3917-64.cp-3128-1408",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cadetto G.D. °~°",
     "habboFigure": "hr-4117-34-34.hd-3631-1370-30.ch-5167-73.lg-3526-64-73.sh-5308-73.ha-4201.he-5279.ea-3961.fa-5601-1408.ca-5771-64-73.cc-5440-73-64",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-3013-110.lg-5974-92-110.sh-5308-92.he-5314-110-110.fa-3276-1328",
@@ -1970,10 +1970,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "I won't tell you my motto.",
-    "habboFigure": "hr-5619-1403.hd-615-2.ch-660-67.lg-710-1428.sh-3035-67.he-3070-92.cp-3309-92",
+    "habboFigure": "hr-5619-1403.hd-615-2.ch-3266-67-92.lg-710-1428.sh-3035-67.he-3070-92.ea-1405",
     "memberSince": "2025-03-14T01:58:50.000+00:00",
     "uniqueId": "hhit-69526264cb6343e7f93f61ec0dcc2ba5",
     "name": "kalashnikov.",
