@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CANCELLIERE EW",
     "habboFigure": "hr-4117-45-40.hd-3845-10.ch-665-73.lg-4369-73-64.sh-3354-73-1408.ha-5471-73-71.fa-3276-72.cc-5761-64-71",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ºmsrzº",
     "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1428.lg-710-110.sh-5247-92-110.ha-1004-63.he-3891.fa-5601-92.ca-3885-92-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Uomo Di Fiducia E.W. º",
     "habboFigure": "hr-5791-42.hd-190-10.ch-3323-64-64.lg-3596-64-64.sh-3419-66-64.he-3740.ea-3750.cc-3420-64",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cavaliere degli eletti EW",
     "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",

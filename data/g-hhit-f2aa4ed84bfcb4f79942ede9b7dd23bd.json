@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mbare si nliuni",
     "habboFigure": "hr-3163-61.hd-3102-28.ch-3342-110-110.lg-3418-106.sh-305-92.he-3070-110.fa-5601-92.cc-5810-106",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-5461-92-1326",
@@ -7163,7 +7163,7 @@
     "online": true,
     "gender": "m",
     "motto": "quèdate",
-    "habboFigure": "hr-828-52.hd-180-10.ch-4361-1333-110.lg-5594-110.sh-3587-1408-1408.ha-3488.he-3070-92.ea-3640",
+    "habboFigure": "hr-3163-51.hd-180-10.ch-3030-64.lg-275-110",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
     "name": "Tinhos",

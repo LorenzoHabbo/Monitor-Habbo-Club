@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Come la rabbia di amar, alegria. |",
     "habboFigure": "hr-4118-42.hd-629-1.ch-665-72.lg-3320-81-1408",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-5773-34.hd-615-22.ch-3013-110.lg-700-1427.sh-908-64.ha-4349.fa-5467.cc-5800-1415-92",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cavaliere degli eletti EW",
     "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
