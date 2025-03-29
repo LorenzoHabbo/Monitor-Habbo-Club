@@ -90,10 +90,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
-    "habboFigure": "hr-5791-40.hd-3845-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.he-3833-1408.ea-1404-64.fa-5054.wa-2002",
+    "habboFigure": "hr-892-42.hd-3845-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.ha-1013-1408.he-3833-1408.ea-1404-64.fa-1206-64.wa-2002",
     "memberSince": "2007-12-08T11:40:11.000+00:00",
     "uniqueId": "hhit-22f4495677cafa3e06f6f45ec68c84e8",
     "name": "-KerneL-",
@@ -183,7 +183,7 @@
     "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3829-1403.hd-3721-2.ch-3934-110-110.lg-5594-92.sh-5247-92-110.ha-5710-92.fa-5982-110.ca-5026-92.cc-3867-96-1413.cp-3315-1408",
+    "habboFigure": "hr-3829-1403.hd-3721-2.ch-3934-110-110.lg-5594-92.sh-5247-92-110.ha-5710-92.fa-5982-110.ca-5026-92.cc-3867-1413-96.cp-3315-1408",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-893-42.hd-190-25.ch-255-110.lg-3483-79-79.sh-3587-92-92.ha-3984-79-1327",
@@ -3520,7 +3520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
