@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono Felicissima|",
     "habboFigure": "hr-5680-42.hd-4383-28-28.ch-665-1428.lg-4066-110.ha-3586.he-5808-1410.fa-3276-92",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "speedy gonzalez",
     "habboFigure": "hr-831-1397.hd-205-25.ch-265-110.lg-280-110.sh-3524-110-1339.ha-1009-110.he-3376-110-64.fa-5600-1409.cc-3360-110",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -1663,7 +1663,7 @@
     "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
-    "habboFigure": "hr-828-49.hd-3536-27-28.ch-3668-92-92.lg-3418-92.sh-5803-92.he-5466.ca-3885-92-92.cc-5800-77-77",
+    "habboFigure": "hr-828-49.hd-3704-27.ch-3668-92-92.lg-3418-92.sh-5803-92.he-3579.ca-3885-92-92.cc-5800-77-77",
     "memberSince": "2018-02-01T01:44:05.000+00:00",
     "uniqueId": "hhit-25cff609b6c5e80f363b18a686a61679",
     "name": "AnGeLsHoK",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trash queenna!",
     "habboFigure": "hr-4117-1351-1350.hd-600-1383.ch-650-96.lg-3361-77.sh-5308-106.ha-3144-92-1414.ea-3698-110-1331.cc-3289-77",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",

@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono Felicissima|",
     "habboFigure": "hr-5680-42.hd-4383-28-28.ch-665-1428.lg-4066-110.ha-3586.he-5808-1410.fa-3276-92",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-280-1427.sh-290-92",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1863,7 +1863,7 @@
     "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
-    "habboFigure": "hr-828-49.hd-3536-27-28.ch-3668-92-92.lg-3418-92.sh-5803-92.he-5466.ca-3885-92-92.cc-5800-77-77",
+    "habboFigure": "hr-828-49.hd-3704-27.ch-3668-92-92.lg-3418-92.sh-5803-92.he-3579.ca-3885-92-92.cc-5800-77-77",
     "memberSince": "2018-02-01T01:44:05.000+00:00",
     "uniqueId": "hhit-25cff609b6c5e80f363b18a686a61679",
     "name": "AnGeLsHoK",
@@ -1953,7 +1953,7 @@
     "online": true,
     "gender": "m",
     "motto": "Nel mio Motto ci sono motto(crikey)",
-    "habboFigure": "hr-5971-61.hd-3721-28.ch-5596-64.lg-3483-64-64.sh-3587-110-64.he-3070-64.ea-3108-64-110.fa-3276-97.ca-5635-82-64.cc-3867-110-110",
+    "habboFigure": "hr-5971-61.hd-3721-28.ch-5596-64.lg-3483-64-64.sh-3587-110-64.he-3070-64.ea-3108-64-110.ca-5635-82-64.cc-3867-110-110",
     "memberSince": "2018-07-06T23:17:03.000+00:00",
     "uniqueId": "hhit-23480bf66e562bf1fc514c6979391272",
     "name": "..Harley..",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3768-34.hd-190-8.ch-3334-91-1408.lg-5594-91.sh-3338-91.ha-3855-91.he-5088.ea-3822-64.ca-4037-91-1408.cc-5961-91-1408",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -4050,7 +4050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-34.hd-180-2.ch-215-110.lg-5594-77.sh-3035-92.ea-1404-110.fa-3276-96.ca-1801-92",
