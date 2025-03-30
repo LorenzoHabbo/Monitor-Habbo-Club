@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leader Eternal º Warriors",
     "habboFigure": "hr-4117-1401-61.hd-3845-28.ch-665-110.lg-5594-64.sh-3419-1408-1408.he-3660-110-1408.fa-1209-64.wa-5986-110",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-255-110.lg-281-110.sh-5247-92-110.he-5827-68-1408.ea-3318-63.ca-5615",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " vice controllore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-64.lg-4369-1408-1408.sh-5308-1408.he-3324-1408-1408.fa-5467",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-5971-1403.hd-205-17.ch-3030-92.lg-5970-110.sh-305-92.he-3070-92.ea-1404-110.fa-5601-92.cc-5077-1330",
