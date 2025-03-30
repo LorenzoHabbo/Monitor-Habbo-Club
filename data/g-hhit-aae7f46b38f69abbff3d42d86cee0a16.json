@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Vicario Esperto G.D º",
     "habboFigure": "hr-155-34.hd-209-1.ch-3030-1408.lg-275-64.wa-3661-90-1320",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
     "habboFigure": "hr-3829-45.hd-207-8.ch-266.lg-3116-64-1408.he-1608.ea-1404-64.cc-3917-64.cp-3128-1408",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-73.lg-285-64.sh-3524-1408-64.fa-3276-73.ca-4965-73-1408.cc-3744-1408-64",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-64.lg-275-110.sh-5803-92.he-3070-92.fa-5601-92.cc-3420-64",
