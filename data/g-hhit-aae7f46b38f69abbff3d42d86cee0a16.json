@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-3290-64.sh-305-64",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-4193-1394.hd-5522-10-14.ch-5030-110-110.lg-3191-110-110.sh-3154-110-110.ha-4192.ea-3107-110-108.fa-3350.ca-3444-110.cp-3287",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "F3N0M3N0 [E.W]",
     "habboFigure": "hr-3852-61.hd-600-2.ch-3013-110.lg-710-110.sh-5803-86.he-3082-86.fa-5982-1325.cc-5800-86-86",
@@ -1173,7 +1173,7 @@
     "online": true,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
-    "habboFigure": "hr-3829-45.hd-207-8.ch-266.lg-3116-64-1408.he-1608.ea-1404-64.cc-3917-64.cp-3128-1408",
+    "habboFigure": "hd-205-30.ch-875-85-85.lg-285-64.sh-295-64.ha-1001.cp-3128-1408",
     "memberSince": "2020-07-28T20:46:19.000+00:00",
     "uniqueId": "hhit-4202ee2ceaf657434a08158ffd538be2",
     "name": "p-p-calzelunghe",
