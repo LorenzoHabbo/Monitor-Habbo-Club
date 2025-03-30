@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Paladino 1p GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
@@ -1420,10 +1420,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-4131-1405-40.hd-4383-10-10.ch-5245-1414.lg-5594-78.sh-5308-93.ha-5468-1326-1414.he-5808-99.fa-5467.ca-5981-1326-92.wa-5370.cc-5461-92-1326",
+    "habboFigure": "hr-5773-1405.hd-4383-10-14.ch-5245-1414.lg-5594-78.sh-5308-93.ha-5468-1326-1408.he-5808-99.fa-5467.ca-5981-1326-92.wa-5370.cc-5461-92-1326",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -1853,7 +1853,7 @@
     "online": true,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
-    "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
+    "habboFigure": "hr-3162-1394.hd-208-2.ch-5452-92-92.lg-3058-110.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
     "memberSince": "2011-10-11T13:30:20.000+00:00",
     "uniqueId": "hhit-d8434b47921e20b25706300f42929891",
     "name": "tuonomattiaXD",
@@ -1973,7 +1973,7 @@
     "online": true,
     "gender": "m",
     "motto": "apprendista scelto g.d.",
-    "habboFigure": "hr-3768-40.hd-180-1.ch-4190-64-82.lg-4191-64-64.ha-3352-64-64.he-3833-82.fa-5600-1408",
+    "habboFigure": "hr-3768-40.hd-180-1.ch-877-64-82.lg-3596-64-1408.ha-3494-64-64.he-3833-75.fa-5600-1408.ca-1801-1408",
     "memberSince": "2012-01-10T14:59:34.000+00:00",
     "uniqueId": "hhit-d7e93ae1420e96f370713f75e6631c4d",
     "name": "nicholas314",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ºApprendista GDº",
     "habboFigure": "hr-802-42.hd-209-1.ch-235-85.lg-3023-1408.sh-906-1408.ha-4006.wa-2002",
@@ -6580,7 +6580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista aiutante GD    A |",
     "habboFigure": "hr-3163-37.hd-180-1.lg-5594-77.sh-4112-110-1410.ha-5085.fa-5601-1408.wa-3080-1321.cc-5182-1336",
@@ -8950,7 +8950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-10-12.ch-665-1408.lg-5594-81.sh-5274-1408-1408.ha-3620.fa-5467.cc-5800-1320-81",
