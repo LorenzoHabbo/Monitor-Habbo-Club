@@ -590,10 +590,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "   Drag Queen di Habbo",
-    "habboFigure": "hr-3625-1401-40.hd-626-14.ch-3672-92-1322.lg-3019-1341.sh-907-1410.he-4022.fa-3344-1413.cc-3927",
+    "habboFigure": "hr-3625-40-40.hd-626-14.ch-3672-1408-1408.lg-695-1408.sh-907-1408.he-4022.fa-3344-1408.cc-3927",
     "memberSince": "2007-11-24T21:56:12.000+00:00",
     "uniqueId": "hhit-f1e757e00f8afe66d1fdcf1e00a71122",
     "name": "Rapper.Napoletano",
@@ -4020,7 +4020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-3852-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5981-1326-92.wa-5370.cc-5461-92-1326",
@@ -7760,7 +7760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -8120,7 +8120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "hier kommt die Sonne",
     "habboFigure": "hr-3163-61.hd-190-10.ch-255-110.lg-281-92.sh-5247-92-92.he-4345-64.ca-5771-110-110.wa-5676",
