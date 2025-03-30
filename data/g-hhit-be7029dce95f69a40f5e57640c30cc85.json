@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Gloria Nitti",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-92.lg-5594-77.sh-5464-92-92.ha-5557-63-110.ea-3750.fa-5384-92.cc-5761-64-1428",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-280-1427.sh-290-92",
@@ -8120,7 +8120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "hier kommt die Sonne",
     "habboFigure": "hr-3163-61.hd-190-10.ch-255-110.lg-281-92.sh-5247-92-92.he-4345-64.ca-5771-110-110.wa-5676",
