@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Hool Hoolligans",
     "habboFigure": "hr-3625-1404-40.hd-3536-10-10.ch-635-89.lg-720-1409.sh-725-89.he-5314-67-67.fa-5435.ca-5981-1409-67",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3768-1355.hd-3604-7.ch-3342-1413-102.lg-3023-110.sh-3275-1413.ha-4132.he-1608.fa-5122-96.ca-1815-1408.wa-5123-1421.cp-3125-96",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-4131-1405-40.hd-4383-10-10.ch-5245-1414.lg-5594-78.sh-5308-93.ha-5468-1326-1414.he-5808-99.fa-5467.ca-5981-1326-92.wa-5370.cc-5461-92-1326",
@@ -3700,10 +3700,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºApprendista GDº",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-255-85.lg-3023-1408.sh-906-1408.wa-2002",
+    "habboFigure": "hr-802-42.hd-209-1.ch-255-85.lg-3023-1408.sh-906-1408.wa-2002",
     "memberSince": "2017-04-06T20:12:55.000+00:00",
     "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
     "name": "ottaviano2",
@@ -3853,7 +3853,7 @@
     "online": true,
     "gender": "f",
     "motto": "apprendista novello g.d",
-    "habboFigure": "hr-832-59.hd-3096-1.ch-826-92-1408.lg-3018-96.sh-730-92.he-3082-110",
+    "habboFigure": "hr-3811.hd-600-1.ch-3013-95.lg-3088-95-1408.sh-3089-99.fa-3276-110",
     "memberSince": "2017-07-23T14:55:32.000+00:00",
     "uniqueId": "hhit-40462891326ad88715d909cf72a9ab65",
     "name": "_Lisa__",
@@ -4280,7 +4280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-3936-1404-1403.hd-3845-10.ch-5607-1326.lg-3136-1326.sh-5308-92.he-3740.fa-5467.cc-5826-1326",
@@ -6400,10 +6400,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " stagista barista g.d",
-    "habboFigure": "hr-828-1407.hd-3095-1.ch-3215-110.lg-275-110.ea-1402.fa-3276-64",
+    "habboFigure": "hr-3841-42.hd-3845-14.ch-3342-76-76.lg-275-64.fa-3276-64.cc-4091-64",
     "memberSince": "2022-02-19T19:03:06.000+00:00",
     "uniqueId": "hhit-6749d41e5fcffad99ebda8314a203ed4",
     "name": "DEMON.666",
@@ -8510,7 +8510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-45.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
