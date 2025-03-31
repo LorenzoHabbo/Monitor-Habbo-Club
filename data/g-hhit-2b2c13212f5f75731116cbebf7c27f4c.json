@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono Felicissima|",
     "habboFigure": "hr-5969-39.hd-4383-28-28.ch-665-1428.lg-4066-110.ha-3156-110.he-5808-96.fa-3276-92",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3768-1355.hd-3604-7.ch-3342-1413-102.lg-3023-110.sh-3275-1413.ha-4132.he-1608.fa-5122-96.ca-1815-1408.wa-5123-1421.cp-3125-96",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A zonzo",
     "habboFigure": "hr-3531-34-40.hd-190-1.ch-3880-1408.lg-4066-64.ha-4050.he-3833-66.fa-3344-1320.ca-4115-1320-1408",
@@ -3700,16 +3700,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-235-85.lg-3023-73.sh-906-1408.ha-1005-88.wa-2001",
-    "memberSince": "2017-04-06T20:12:55.000+00:00",
-    "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
-    "name": "ottaviano2",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "Sentinella Semplice G.D",
@@ -4710,7 +4700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "cadetto GD",
     "habboFigure": "hr-5772-45-40.hd-3956-1370-30.ch-5560-90-90.lg-3078-91.sh-3383-90-91.ca-1807.wa-2001",
@@ -6060,7 +6050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "4:20",
     "habboFigure": "hr-105-45.hd-3604-14.ch-4190-64-64.lg-4191-64-1408.sh-3068-64-1408.ha-4188-64.he-1609-64",
@@ -6400,7 +6390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3342-66-66.lg-275-64.fa-3276-64.cc-4091-64",
@@ -6430,7 +6420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-3526-64-64.sh-5464-64-64.ha-3857-64-64.cc-4300-64-64",
@@ -7302,8 +7292,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "top 5 migliori clubber di sempre",
-    "habboFigure": "hr-5756-61-61.hd-5696-1387-14.ch-808-1331.lg-285-1426.sh-5803-1429.ea-1404-64.fa-3276-110.cc-5177-1331-1429.cp-5462",
+    "motto": "Consigliere Oblivion",
+    "habboFigure": "hr-5756-61-61.hd-5798-1387.ch-255-100.lg-5594-77.sh-5803-92.ea-1404-64.cp-5462",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
@@ -8950,7 +8940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-10-12.ch-665-1408.lg-5594-81.sh-5274-1408-1408.ha-3620.fa-5467.cc-5800-1320-81",
@@ -9723,7 +9713,7 @@
     "online": true,
     "gender": "f",
     "motto": "soldato .G.D",
-    "habboFigure": "hr-5619-48.hd-4163-10-20.ch-5245-74.lg-5974-80-81.he-5314-91-91.fa-3276-72.wa-5599-82-80",
+    "habboFigure": "hr-4117-48-40.hd-4163-10-20.ch-5245-74.lg-5974-80-81.ha-5468-75-74.fa-3276-72.wa-5599-82-80",
     "memberSince": "2023-11-12T11:18:14.000+00:00",
     "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
     "name": "Sweetdevil:!",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-12-09T13:21:37.000+00:00",
     "uniqueId": "hhit-265a4da5a13ae383434d7615f7474b42",
     "name": "darkcristaaa",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "too cute for this planet ^^",
+    "habboFigure": "hr-890-34.hd-600-10.ch-3517-81-1408.lg-3216-81.sh-730-1408.ha-5620-80",
+    "memberSince": "2023-12-09T19:19:27.000+00:00",
+    "uniqueId": "hhit-07aced57e63b580c057bcdc676d94920",
+    "name": "Ell",
     "isAdmin": false
   }
 ]
