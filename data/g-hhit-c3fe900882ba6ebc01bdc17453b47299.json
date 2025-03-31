@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Diffidati con noi!",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -843,7 +843,7 @@
     "online": false,
     "gender": "f",
     "motto": "Come la rabbia di amar, alegria. |",
-    "habboFigure": "hr-4118-42.hd-629-1.ch-665-72.lg-3320-81-1408",
+    "habboFigure": "hr-4118-42.hd-629-1.ch-665-64.lg-3320-64-1408",
     "memberSince": "2013-09-15T00:09:47.000+00:00",
     "uniqueId": "hhit-c76ca3ad20c7489b4743d6128309a28b",
     "name": ".:Lithium.",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-3339-1404.hd-600-10.ch-665-110.lg-4369-110-1412.sh-4064-110.he-3070-92.fa-5467.ca-5981-100-110.cp-3315-92",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Oblivion",
     "habboFigure": "hr-5756-61-61.hd-5798-1387.ch-255-100.lg-5594-77.sh-5803-92.ea-1404-64.cp-5462",
