@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5969-44.hd-600-2.ch-665-1330.lg-5594-77.he-5314-110-110.fa-3276-96.ca-5984-1409",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SCIAMN. #GGDGG",
     "habboFigure": "hr-5210-45-34.hd-190-2.ch-3032-110-1408.lg-285-1426.sh-3035-110.he-3070-1408.fa-5601-89",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-5619-1342.hd-605-28.ch-665-92.lg-5594-1427.sh-3089-1412.he-3070-92.fa-5467.ca-3292-92.wa-5986-92.cc-5800-110-110",
@@ -1863,7 +1863,7 @@
     "online": true,
     "gender": "f",
     "motto": "in mezzo a questo temporale baciami",
-    "habboFigure": "hr-5619-34.hd-600-1.ch-5595-110.lg-3200-110.sh-3206-92.ha-5620-110.fa-3276-72",
+    "habboFigure": "hr-5619-34.hd-600-2.ch-665-110.lg-3483-77-77.sh-725-92.he-3376-110-64.fa-3276-72",
     "memberSince": "2018-02-13T18:00:06.000+00:00",
     "uniqueId": "hhit-57ac1215aeec2c35fe53b0a45430cf34",
     "name": ",Ayana",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-6034-1403-1403.hd-5317-28-22.ch-3880-110.lg-5594-110.sh-3587-92-92.he-3070-110.ca-6044.cc-5800-64-110",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "per gli amici e-e a verità 17600",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-6043.he-4971.ea-4985.fa-5975.ca-5002.wa-5370",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vsco.co/vicccrz",
     "habboFigure": "hr-5619-1404.hd-3097-13.ch-4299-1409-89.lg-5594-1409.sh-908-1325.he-3469-100.ea-5641.ca-3973-1411-92.cp-3207-110-92",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ti piace la mia beretta?",
     "habboFigure": "hr-828-1346.hd-180-3.ch-255-92.lg-280-1326.sh-3206-1326.he-5137.fa-4046.ca-5278-1326.cc-4300-92-1326",
@@ -2980,7 +2980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "GRANDE MENTORE EºW",
     "habboFigure": "hr-5619-1342.hd-615-22.ch-665-110.lg-5594-64.sh-5729-110-64.ha-1013-64.he-5482.ea-3148-110-1408.fa-5122-1333.ca-1804-63.wa-5986-64",
@@ -3370,7 +3370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao",
     "habboFigure": "hr-5619-34.hd-600-1.ch-685-71.lg-710-81.sh-906-81.ca-3176-81-1408",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~Scagnozzo GD~",
     "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-1424.lg-3290-110.ha-1013-107.he-3082-110.fa-4168-95.cc-3066-110",
