@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-3022-110-67.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1283,7 +1283,7 @@
     "online": false,
     "gender": "m",
     "motto": "il tuo panino preferito?",
-    "habboFigure": "hr-3163-1398.hd-6027-2.ch-3032-110-110.lg-280-110.ha-5728.he-3070-1408.ca-5136.cp-3315-110",
+    "habboFigure": "hr-3163-1398.hd-6027-2.ch-255-110.lg-280-110.ha-5728.he-3070-1408.ca-5136.cp-3315-110",
     "memberSince": "2021-05-06T00:02:19.000+00:00",
     "uniqueId": "hhit-adbbe013b3eb59df5ceef70c2e28eaf9",
     "name": "BurgerKing",
@@ -1433,7 +1433,7 @@
     "online": true,
     "gender": "f",
     "motto": "il mondo cade a pezzi noi compresi",
-    "habboFigure": "hr-3852-1404.hd-600-2.ch-665-92.lg-5974-1325-1325.sh-5803-92.he-3873-1325.fa-5982-110.cc-5961-1409-96",
+    "habboFigure": "hr-3852-1404.hd-600-2.ch-665-92.lg-5974-1325-1325.sh-5803-92.ha-4054.he-3873-1325.fa-5982-110.cc-5961-1409-96",
     "memberSince": "2022-12-04T13:23:49.000+00:00",
     "uniqueId": "hhit-a5a3802b40da95c945c5992594cb1e17",
     "name": "Fawn",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
