@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-5351-110-1410.lg-3134-110-1408.sh-5803-1410.ha-5704.he-5578-1321.fa-5467.cc-5690-63",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5969-44.hd-600-2.ch-665-1330.lg-5594-77.he-5314-110-110.fa-3276-96.ca-5984-1409",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-63K <3",
     "habboFigure": "hr-3841-40.hd-208-1.ch-3030-88.lg-3290-64.cc-3326-91-73",
@@ -1213,7 +1213,7 @@
     "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-1408.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
+    "habboFigure": "hr-4941-1343-60.hd-3103-3.ch-3111-106-1408.lg-3116-107-92.sh-3016-1340.ha-3352-1341-1408.ea-3226-1408.ca-3219-96",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -1443,7 +1443,7 @@
     "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
-    "habboFigure": "hr-4363-1342-1342.hd-3956-1391-1367.ch-3501-92.lg-5594-1338.he-5279.fa-3276-73.wa-5370.cc-5440-110-92",
+    "habboFigure": "hr-4363-1342-1342.hd-3956-1391-1367.ch-3501-92.lg-5594-1338.he-5279.fa-4168-92.wa-5370.cc-4979-92",
     "memberSince": "2015-04-19T18:52:48.000+00:00",
     "uniqueId": "hhit-5d2b477630046ca4d59eab35853a1c18",
     "name": "Charlotte.",
@@ -1532,7 +1532,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "stagista fidaa avaren",
+    "motto": "stagista fida avaren",
     "habboFigure": "hr-5773-34.hd-627-1393.ch-3501-92.lg-5594-1337.he-5482.ea-1404-1421.fa-3276-1327.cc-5800-92-1327",
     "memberSince": "2016-01-29T12:09:04.000+00:00",
     "uniqueId": "hhit-81c17c0cc3428c896131be512c3c85ab",
@@ -1610,10 +1610,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-1342.hd-605-10.ch-665-92.lg-5594-1427.sh-3089-1412.ha-3026-110.he-3070-92.fa-5467.ca-3292-110.wa-5986-92.cc-4979-92",
+    "habboFigure": "hr-5619-1342.hd-605-28.ch-665-92.lg-5594-1427.sh-3089-1412.he-3070-92.fa-5467.ca-3292-92.wa-5986-92.cc-5800-110-110",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1813,7 +1813,7 @@
     "online": true,
     "gender": "m",
     "motto": "Assistente mozzo BP   ††††††BOOMM†††††",
-    "habboFigure": "hr-3531-34-34.hd-3604-10.ch-3527-73.lg-5594-82.sh-3419-64-64.ha-3952.fa-4168-73.cc-3744-64-64",
+    "habboFigure": "hr-3531-34-34.hd-3604-10.ch-3527-73.lg-5594-82.sh-3419-64-64.ha-3709.fa-4168-73.cc-3744-64-64",
     "memberSince": "2017-11-08T07:28:15.000+00:00",
     "uniqueId": "hhit-91ead7a286964c58bbd693aec4506929",
     "name": "Giojohn",
@@ -1860,10 +1860,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in mezzo a questo temporale baciami",
-    "habboFigure": "hr-5579-34.hd-600-2.ch-3497-110.lg-3134-80-80.sh-730-100.he-1609-100.fa-3276-72",
+    "habboFigure": "hr-5619-34.hd-600-1.ch-5607-110.lg-3134-110-110.sh-3206-92.he-3082-73.fa-5467.ca-5278-1333",
     "memberSince": "2018-02-13T18:00:06.000+00:00",
     "uniqueId": "hhit-57ac1215aeec2c35fe53b0a45430cf34",
     "name": ",Ayana",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-34-34.hd-190-8.ch-3334-91-1408.lg-3596-91-1408.sh-3338-91.ha-3855-91.he-5088.ca-4037-91-1408.cc-5961-91-1408",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3519-45-45.hd-600-1.ch-3770-82-1408.lg-700-72.he-3329-1408-1408",
@@ -2063,7 +2063,7 @@
     "online": false,
     "gender": "f",
     "motto": "PPPPPPoveri",
-    "habboFigure": "hr-515-45.hd-626-1370.ch-4067-64-72.lg-4167-82.sh-3068-1408-1408.ea-1404-1408.ca-3973-84-66",
+    "habboFigure": "hr-515-45.hd-626-1370.ch-4067-64-72.lg-4167-82.sh-3068-1408-1408.ea-1404-1408.fa-3276-71.ca-3973-84-66",
     "memberSince": "2019-05-08T11:17:32.000+00:00",
     "uniqueId": "hhit-b88f2c9ab26a71570837d0cf6550bb43",
     "name": "GiulianaG",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-3526-64-64.sh-5464-64-64.ha-3857-64-64.cc-4300-64-64",
@@ -3250,10 +3250,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mio amore espresso macchiato por favor",
-    "habboFigure": "hr-5681-48-42.hd-4383-1-14.ch-3113-1408-1408.lg-695-1408",
+    "habboFigure": "hr-5681-48-36.hd-4383-1-14.ch-5595-75.lg-5970-75",
     "memberSince": "2023-12-27T23:19:19.000+00:00",
     "uniqueId": "hhit-04b1cc8121a24507e2c371778c7d9511",
     "name": "unicornfra",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4110-64.lg-3216-64.sh-5670-64.ca-5635-1408-1408.cc-5461-1408-64",
@@ -4310,10 +4310,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "At The Hotel",
-    "habboFigure": "hr-802-32.hd-209-8.ch-805-73.lg-3088-64-1408.sh-3068-73-1408.wa-2001",
+    "habboFigure": "hr-3090-32.hd-209-8.ch-805-73.lg-3088-64-1408.sh-3068-73-1408.wa-2001",
     "memberSince": "2025-03-25T09:45:20.000+00:00",
     "uniqueId": "hhit-af3f4e7484cd40194b403fd558a39645",
     "name": "FrankyRizardo",
