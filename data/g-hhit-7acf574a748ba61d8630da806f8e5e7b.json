@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "theabbot.itch.io/hogwarts",
     "habboFigure": "hr-892-42.hd-3845-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.ha-1013-1408.he-3833-1408.ea-1404-64.fa-1206-64.wa-2002",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
     "habboFigure": "hr-3768-42.hd-3845-1379.ch-3203-92.lg-280-100.he-5813-1324-86.fa-5601-110.cp-3205",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vedi",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-5088",
@@ -3250,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-828-1403.hd-205-2.ch-255-110.lg-280-110.sh-908-92.he-3660-110-110.fa-5835-1412.cc-5800-64-64",
