@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DS Corleone",
     "habboFigure": "hr-5331-1404-40.hd-190-1370.ch-5856.lg-5226.sh-5803-89.ha-3156-110.ea-5576-110-1408.ca-1816",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-115-45.hd-3845-8.ch-4111-73.lg-4167-1408.sh-3068-1408-64.ha-5854.fa-1201.ca-1801-1408.wa-5836-1408-1408",
@@ -2860,10 +2860,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1403.hd-5317-3-8.ch-3032-110-110.lg-280-110.sh-5247-1408-1408.ha-5512.ca-3414-1325",
+    "habboFigure": "hr-5791-61.hd-5317-3-30.ch-3032-110-110.lg-280-110.sh-5247-1408-1408.ha-5512.ca-3414-1325",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -6390,7 +6390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
