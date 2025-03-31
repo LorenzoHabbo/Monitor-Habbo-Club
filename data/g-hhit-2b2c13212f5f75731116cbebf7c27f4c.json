@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Slogga dai!",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-5997-110.fa-4044.ca-5981-1329-1329.cc-3867-110-110",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono Felicissima|",
     "habboFigure": "hr-5969-39.hd-4383-28-28.ch-665-1428.lg-4066-110.ha-3156-110.he-5808-96.fa-3276-92",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista g.d",
     "habboFigure": "hr-155-45.hd-209-1370.ch-875-82-1408.lg-270-64.sh-305-1408.wa-2001",
@@ -1340,10 +1340,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Forum Game e Moderat. HabboinHabbo.iit",
-    "habboFigure": "hr-5680-36.hd-3096-8.ch-665-96.lg-3526-81-1408.he-3805-92.ca-1812",
+    "habboFigure": "hr-5680-36.hd-3096-8.ch-5245-96.lg-3526-81-1408.he-3805-92.ca-1812",
     "memberSince": "2011-01-30T13:44:39.000+00:00",
     "uniqueId": "hhit-4a1f2cf4795ac4c9bcac56b0c55fc3f8",
     "name": "@.Lolita.@",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Vicario Esperto G.D º",
     "habboFigure": "hr-3746-34.hd-209-1.ch-3030-64.lg-3328-1408-1408.ea-1404-64",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "   |Scrittrice&Builder|",
     "habboFigure": "hr-5617-1397-49.hd-3956-1389-30.ch-3013-1422.lg-3526-1422-92.sh-725-110.ea-3170-110.fa-3276-1414.cc-3515-110-92",
