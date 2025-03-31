@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "gothic",
     "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-6039.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-3679-1326-1408.lg-5745-1326-1408.sh-5242-1414.ha-5730-63.ea-5626-1408.ca-5960-98-92.wa-5986-63.cc-5961-1326-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "F3N0M3N0 [E.W]",
     "habboFigure": "hr-3936-54-1403.hd-600-2.ch-3013-92.lg-5243-1425.sh-5247-92-92.he-3070-92.fa-3276-1414.wa-5599-110-92.cc-5800-1337-1337",
