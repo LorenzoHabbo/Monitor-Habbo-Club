@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-44-44.hd-209-2.ch-3185-1330.lg-5594-77",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-3786-40-40.hd-209-1.ch-4111-84.lg-280-1408.sh-3524-84-1408.ha-3494-1408-82.ea-1406",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Vicario Esperto G.D º",
     "habboFigure": "hr-3746-34.hd-209-1.ch-3030-64.lg-3328-1408-1408.ea-1404-64",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "A zonzo",
     "habboFigure": "hr-3531-34-40.hd-190-1.ch-3880-1408.lg-4066-64.ha-4050.he-3833-66.fa-3344-1320.ca-4115-1320-1408",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile!",
     "habboFigure": "hr-3499-37.hd-3103-1.ch-3323-110-1408.lg-3057-92.sh-3587-1322-1408.ha-3488.fa-3344-1325.ca-5026-63.cc-3532-92-1315",
@@ -8950,7 +8950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-10-12.ch-665-1408.lg-5594-81.sh-5274-1408-1408.ha-3620.fa-5467.cc-5800-1320-81",
