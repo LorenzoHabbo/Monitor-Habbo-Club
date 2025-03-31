@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5969-44.hd-600-2.ch-665-1330.lg-5594-77.he-5314-110-110.fa-3276-96.ca-5984-1409",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Hool Hoolligans",
     "habboFigure": "hr-3625-1404-40.hd-3536-10-10.ch-635-89.lg-720-1409.sh-725-89.he-5314-67-67.fa-5435.ca-5981-1409-67",
@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-5791-32.hd-3845-1.ch-5559-64.lg-3328-1408-1408.ea-3726.fa-5601-1408.cc-3917-64",
@@ -3703,7 +3703,7 @@
     "online": true,
     "gender": "m",
     "motto": "ºApprendista GDº",
-    "habboFigure": "hr-802-42.hd-209-10.ch-235-85.lg-3023-1408.sh-906-1408.ha-4006.wa-2002",
+    "habboFigure": "hr-3090-42.hd-209-1.ch-235-85.lg-3023-1408.sh-906-1408.ha-1018.fa-1205-64.wa-2001",
     "memberSince": "2017-04-06T20:12:55.000+00:00",
     "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
     "name": "ottaviano2",
@@ -7060,7 +7060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dottore SFH",
     "habboFigure": "hr-100.hd-180-14.ch-215-66.lg-270-82.sh-290-1408.ha-1002-73.he-1608.ea-1404-1408.wa-2007",
