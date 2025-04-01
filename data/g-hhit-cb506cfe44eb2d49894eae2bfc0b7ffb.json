@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3322-61.hd-180-10.ch-3032-110-1408.lg-285-1338.ha-1026.fa-5600-92.cc-3289-1338",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Felicissima di aver capito in tempo",
     "habboFigure": "hr-5898-1346-45.hd-4383-28-28.ch-5907-110-1408.lg-5243-110.he-5997-92.fa-3276-92.cc-5926-74-1408",
@@ -403,7 +403,7 @@
     "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
-    "habboFigure": "hr-4941-61-50.hd-180-1389.ch-4361-101-102.lg-3521-102-1315.sh-3587-92-93.he-3070-93.fa-1201",
+    "habboFigure": "hr-4941-61-50.hd-180-1389.lg-3078-64.he-3070-93.fa-1201",
     "memberSince": "2009-08-03T22:05:35.000+00:00",
     "uniqueId": "hhit-c79cf730fbcdde55c65a32605e94393d",
     "name": ".T-Money.",
@@ -473,7 +473,7 @@
     "online": true,
     "gender": "m",
     "motto": "Corleone",
-    "habboFigure": "hr-125-31.hd-5317-2-28.lg-275-92.sh-5718.ha-5832-93.he-3070-92.fa-5601-92.cc-5446",
+    "habboFigure": "hr-125-31.hd-5317-2-28.lg-275-92.sh-6042.ha-5832-93.he-3070-92.fa-5601-92.cc-5446",
     "memberSince": "2009-10-29T14:47:56.000+00:00",
     "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a",
     "name": "ric",
@@ -503,7 +503,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
-    "habboFigure": "hr-3602-61-31.hd-5696-10-1367.ch-5830-93.lg-280-93.sh-5247-92-93.ha-5832-93.fa-5600-68",
+    "habboFigure": "hr-3602-61-31.hd-5696-10-1367.ch-5830-93.lg-280-93.sh-3275-93.ha-5832-93.fa-5600-68",
     "memberSince": "2009-11-15T20:51:23.000+00:00",
     "uniqueId": "hhit-5d49f2bd4206cc9a30a16366e47ada36",
     "name": "DavideL98",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3768-1355.hd-3604-7.ch-3342-1413-102.lg-3023-110.sh-3275-1413.ha-4132.he-1608.fa-5122-96.ca-1815-1408.wa-5123-1421.cp-3125-96",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-63K <3",
     "habboFigure": "hr-3841-40.hd-208-1.ch-3030-88.lg-3290-64.cc-3326-91-73",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-31.hd-3102-2.ch-3030-1337.lg-3596-1421-1408.sh-5247-63-1408.he-3740.fa-3276-73.cc-3867-1337-1337",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1.ch-3806-84.lg-3078-64.sh-300-1408.ha-1009-66.fa-5601-66.cc-3825-64-1408",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CANCELLIERE EW",
     "habboFigure": "hr-4117-45-40.hd-3845-10.ch-665-73.lg-4369-73-64.sh-3354-73-1408.ha-5471-73-71.fa-3276-72.cc-5761-64-71",
@@ -1613,7 +1613,7 @@
     "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-3671-31-40.hd-605-28.ch-5831-92.lg-3006-1341-1341.sh-3089-94.ha-5832-1320.fa-5467.ca-3175-1427.cc-5926-1427-94",
+    "habboFigure": "hr-3671-31-40.hd-605-28.ch-5831-92.lg-3006-1341-1341.sh-3089-94.ha-5832-1320.fa-5467.ca-3292-93.cc-5926-1427-94",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Block soldier masarez [MSRZ]",
     "habboFigure": "hr-4117-1342-1342.hd-615-11.ch-3013-100.lg-710-110.sh-3252-110-1408.ha-3144-110-110.he-3070-1408.ea-1404-110.fa-5467.cc-3744-110-110",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5830-1321.lg-5363-92.sh-5803-92.ha-5832-1321.ca-5463.cc-5942-110",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in mezzo a questo temporale baciami",
     "habboFigure": "hr-5619-61.hd-600-2.ch-5831-110.lg-3526-92-92.sh-725-92.ha-5832-110",
@@ -1913,7 +1913,7 @@
     "online": true,
     "gender": "f",
     "motto": "ª Cannoniere - Black Pearl ª",
-    "habboFigure": "hr-5773-61.hd-3631-1370-30.ch-3165-110.lg-5594-82.sh-3035-110.ha-5832-110.ea-1402.ca-5983-92.wa-5986-110.cc-3010-89-110",
+    "habboFigure": "hr-5773-61.hd-3631-1370-30.ch-3165-110.lg-5594-82.sh-3035-110.ha-5832-110.ea-4161.ca-5983-92.wa-5986-110.cc-3010-89-110",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -1953,7 +1953,7 @@
     "online": false,
     "gender": "m",
     "motto": "sempre fresco e di cui fidarsi",
-    "habboFigure": "hr-145-34.hd-180-1.ch-5830-81.lg-280-64.sh-3068-1408-82.ha-1002-81.he-1608.ea-3925-81-64",
+    "habboFigure": "hr-893-34.hd-180-1.ch-5830-81.lg-280-64.sh-906-1408.ha-1002-81.he-1608.ea-3925-81-64",
     "memberSince": "2018-11-16T19:47:18.000+00:00",
     "uniqueId": "hhit-0a1ca4015a3ace093e142da4b9e0410a",
     "name": "87263bis",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-34-34.hd-190-8.ch-3334-91-1408.lg-3596-91-1408.sh-3338-91.ha-3855-91.he-5088.ca-4037-91-1408.cc-5961-91-1408",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " erede polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3419-64-1408.ha-5832-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2920,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "nonhoideadelperchéio",
     "habboFigure": "hr-5619-45.hd-600-10.ch-5560-1408-1408.lg-3483-64-64.sh-905-1408.ha-5620-1408.he-3557.fa-5624-76.cc-5926-76-1408",
@@ -2980,7 +2980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ETERNALºWARRIORS",
     "habboFigure": "hr-836-1342.hd-615-22.ch-665-110.lg-5594-64.sh-5729-110-64.he-5314-1331-1324.ea-3148-110-1408.ca-1801-92.wa-5986-64.cc-5926-1331-92",
@@ -2992,7 +2992,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Spia G.D.",
+    "motto": "Spia Esperta G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5559-64.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.cc-5926-1325-1325",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -3393,7 +3393,7 @@
     "online": false,
     "gender": "m",
     "motto": "      hypnotize",
-    "habboFigure": "hr-5019-1404.hd-205-4.ch-255-64.lg-275-64.sh-305-92.he-3070-92.cc-3420-110",
+    "habboFigure": "hr-5019-32.hd-205-1370.ch-255-64.lg-5594-1408.sh-305-1408.ha-5832-64.he-1608.cc-3420-64",
     "memberSince": "2024-04-23T19:59:56.000+00:00",
     "uniqueId": "hhit-dd387a731ac5b86067858eb40fd8074a",
     "name": "Illmatic",
@@ -3520,7 +3520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-655-64.lg-710-1408.sh-3068-64-1408.ha-1005-1408.he-5466.ea-3925-64-1408.fa-5467.wa-5836-1408-1408",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-3013-110.lg-5974-92-110.sh-5308-92.he-5314-110-110.fa-3276-1328",
@@ -3573,7 +3573,7 @@
     "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
-    "habboFigure": "hr-4363-61-61.hd-5840-1391-1362.ch-4087-1411.lg-5594-1341.sh-5308-1411.ha-3054-1341-1411.he-5827-71-1411.ca-5455-1411-1322.cc-5926-1341-94",
+    "habboFigure": "hr-5372-61.hd-5840-1391-1362.ch-4087-92.lg-5594-1341.sh-5308-1411.ha-5832-1341.he-5827-71-1411.ca-5455-1411-1322.cc-5926-1411-94",
     "memberSince": "2024-08-23T10:12:18.000+00:00",
     "uniqueId": "hhit-daebdaa9eb8fc692c88ce4c2461b40a2",
     "name": "AishaLaBisha",
@@ -3653,7 +3653,7 @@
     "online": false,
     "gender": "f",
     "motto": "Nulla è come appare",
-    "habboFigure": "hr-890-39.hd-600-10.ch-5831-66.lg-715-73.ha-1005-73.fa-3276-72",
+    "habboFigure": "hr-5617-45-48.hd-600-10.ch-5831-66.lg-3078-82.ha-5276-1408.fa-3276-72",
     "memberSince": "2024-10-15T14:37:37.000+00:00",
     "uniqueId": "hhit-abcefbc8d30d97654e0c0313c7d75614",
     "name": "Albertine",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Scagnozzo Esperto GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-85.lg-3290-85.ha-1013-85.fa-4168-71.cc-3294-85-85",
@@ -4023,7 +4023,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5971-34.hd-205-2.ch-3030-110.lg-5594-77.sh-3035-92.ha-5832-110.ea-1404-110.fa-3276-96.ca-1801-92.cc-5942-92",
+    "habboFigure": "hr-5971-34.hd-205-2.ch-3030-92.lg-5594-63.sh-3035-92.ha-5832-110.ea-1404-110.fa-3276-96.ca-1801-92.cc-5926-110-92",
     "memberSince": "2025-02-10T04:35:44.000+00:00",
     "uniqueId": "hhit-aa25be0bf4367410bc77cd253c3400fd",
     "name": "Rivo",
@@ -4292,7 +4292,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Snitch, don't kill my vibe",
+    "motto": "Donna d'Onore [FC]",
     "habboFigure": "hr-836-1394.hd-600-1370.ch-660-110.lg-720-82.ha-5832-102.ea-3196-1408.fa-3276-73",
     "memberSince": "2025-03-07T22:55:38.000+00:00",
     "uniqueId": "hhit-9b39e241a0d8af8e3554a3c159f8280a",
