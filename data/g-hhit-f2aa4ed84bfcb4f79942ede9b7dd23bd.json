@@ -1800,10 +1800,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "|",
-    "habboFigure": "hr-5772-34-40.hd-3631-10-12.ch-665-1408.lg-5594-71.sh-5803-1408.he-5808-1408.fa-3276-72.cc-5461-1408-71",
+    "habboFigure": "hr-5772-34-40.hd-3631-10-12.ch-210-1408.lg-270-64.ha-1023-1408.he-5808-1408.fa-3276-72",
     "memberSince": "2009-10-24T15:13:29.000+00:00",
     "uniqueId": "hhit-451428165cb5dc29b6eb1c8006de6dff",
     "name": "Ottimaely",
@@ -3761,9 +3761,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-1405.hd-4383-10-14.ch-5908-63-1408.lg-5909-1408-1408.sh-295-63.ha-5468-1326-95.he-5808-99.ea-1406.fa-5467",
+    "habboFigure": "hr-5773-1405.hd-4383-10-14.ch-5245-110.lg-5594-78.sh-5308-93.ha-5468-1326-95.he-5808-99.fa-5467.ca-5981-1326-92.wa-5370.cc-5926-1326-95",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -6390,7 +6390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
