@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A zonzo",
     "habboFigure": "hr-3531-34-40.hd-190-1.ch-3880-1408.lg-4066-64.ha-4050.he-3833-66.fa-3344-1320.ca-4115-1320-1408",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SuperBoss degli Albanesi",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1920,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uau",
     "habboFigure": "hr-3936-49-49.hd-600-1.ch-665-110.lg-3006-110-1408.ha-4196.fa-4168-92.cc-5461-92-92",
