@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-1330.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-92",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere G.D º",
     "habboFigure": "hr-3746-34.hd-209-1.ch-3030-64.lg-3328-1408-1408.ea-1404-64",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Chi Trova Un Tesoro Compra Un Amico",
     "habboFigure": "hr-893-31.hd-190-10.ch-3030-64.lg-3023-74.ha-1013-64",
@@ -500,10 +500,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-3768-1347.hd-3103-3.lg-270-64.ha-5832-1326.ea-5626-1408.ca-1804-63",
+    "habboFigure": "hr-3768-1347.hd-3103-3.ch-5830-1326.lg-5745-1326-1408.sh-5242-1414.ha-5832-1326.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5018-1404-49.hd-600-10.ch-665-92.lg-5927-77-1408.sh-3089-77.he-3070-92.fa-5467.cc-5926-1338-92",
@@ -743,7 +743,7 @@
     "online": true,
     "gender": "f",
     "motto": "bulle7prøøf ∞",
-    "habboFigure": "hr-5445-1347.hd-627-28.ch-5217-110-110.lg-5594-92.ha-6036.ea-4988.fa-4046.ca-3844-1327-92.cc-3744-1327-92",
+    "habboFigure": "hr-5898-49-1347.hd-627-28.ch-3669-92-1326.lg-5594-92.ha-6036.ea-4988.fa-4046.ca-3844-1327-92.cc-5926-1327-1408",
     "memberSince": "2016-03-05T01:07:53.000+00:00",
     "uniqueId": "hhit-079e5ada18d98cef4f5ba72a1e12719b",
     "name": ":NeverForgetYou",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "eat, sleep, habbo, repeat :')",
     "habboFigure": "hr-5791-49.hd-209-1370.ch-5394.lg-275-110.sh-5803-92.ha-5169-96.he-5808-107.ea-1404-110.fa-5435.cc-3360-67",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
@@ -1163,7 +1163,7 @@
     "online": true,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
-    "habboFigure": "hr-3829-45.hd-207-8.ch-266.lg-3116-64-1408.he-1608.ea-1404-64.cc-3917-64",
+    "habboFigure": "hr-3829-45.hd-207-8.ch-255-64.lg-3116-64-1408.he-1608.ea-1404-64",
     "memberSince": "2020-07-28T20:46:19.000+00:00",
     "uniqueId": "hhit-4202ee2ceaf657434a08158ffd538be2",
     "name": "p-p-calzelunghe",
@@ -1273,7 +1273,7 @@
     "online": false,
     "gender": "m",
     "motto": "il tuo panino preferito?",
-    "habboFigure": "hr-3163-1398.hd-6027-2.ch-3032-92-110.lg-280-110.ha-5832-93.he-3070-1408.ca-5136.cp-3315-110",
+    "habboFigure": "hr-3163-1398.hd-6027-2.ch-3032-92-110.lg-280-110.ha-5832-1321.he-3070-1408.ca-5136.cp-3315-110",
     "memberSince": "2021-05-06T00:02:19.000+00:00",
     "uniqueId": "hhit-adbbe013b3eb59df5ceef70c2e28eaf9",
     "name": "BurgerKing",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ETERNALºWARRIORS",
     "habboFigure": "hr-836-1342.hd-615-22.ch-665-110.lg-5594-64.sh-5729-110-64.he-5314-1331-1324.ea-3148-110-1408.ca-1801-92.wa-5986-64.cc-5926-1331-92",
@@ -1570,10 +1570,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.ha-5832-1320.he-3070-92.fa-5600-92.cc-5926-1428-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
