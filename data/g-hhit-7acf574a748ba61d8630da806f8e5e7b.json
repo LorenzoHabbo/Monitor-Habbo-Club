@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5772-34-40.hd-3631-10-12.ch-665-1408.lg-5594-71.sh-5803-1408.he-5808-1408.fa-3276-72.cc-5461-1408-71",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3168-93.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -1453,7 +1453,7 @@
     "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
-    "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
+    "habboFigure": "hd-180-1383.ch-3030-81.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
     "memberSince": "2016-12-26T18:35:55.000+00:00",
     "uniqueId": "hhit-45fbbfd17edc612b916516a6d07cf95a",
     "name": "M-Mirke",
@@ -1633,7 +1633,7 @@
     "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
-    "habboFigure": "hr-828-49.hd-3536-27-28.ch-5830-1321.lg-5363-92.sh-5803-92.ha-5832-1321.ca-5463.cc-5942-110",
+    "habboFigure": "hr-828-49.hd-3536-27-28.ch-5830-1321.lg-5363-92.sh-5803-92.ha-5832-1321.ca-5463",
     "memberSince": "2018-02-01T01:44:05.000+00:00",
     "uniqueId": "hhit-25cff609b6c5e80f363b18a686a61679",
     "name": "AnGeLsHoK",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pre edict",
     "habboFigure": "hr-155-45.hd-205-1.ch-5830-64.lg-275-66.sh-305-1408",
@@ -3513,7 +3513,7 @@
     "online": true,
     "gender": "f",
     "motto": "ue dannosa",
-    "habboFigure": "hr-5773-61.hd-5840-1391-1362.ch-4087-92.lg-5594-1341.sh-5308-1411.he-5827-71-1411.ca-5455-1411-1322.cc-5926-1411-94",
+    "habboFigure": "hr-4363-61-44.hd-5840-1391-1362.ch-4087-73.lg-5594-73.sh-5308-1411.he-5828.ca-5455-73-1322.cc-5926-73-94",
     "memberSince": "2024-08-23T10:12:18.000+00:00",
     "uniqueId": "hhit-daebdaa9eb8fc692c88ce4c2461b40a2",
     "name": "AishaLaBisha",
@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Scagnozzo Esperto GD~",
     "habboFigure": "hr-3673-1407.hd-4163-1383-14.ch-3214-96.lg-3290-110.ha-1013-96.he-3082-110.fa-4168-95.cc-3066-110",
