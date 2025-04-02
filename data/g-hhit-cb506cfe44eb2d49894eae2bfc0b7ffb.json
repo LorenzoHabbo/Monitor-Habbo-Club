@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.lg-5594-110.ha-5378-110-110.he-5088.fa-1209-93.ca-3292-93.cc-887-110",
@@ -663,7 +663,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-210-110.lg-280-110.sh-5247-1408-1408.ha-5510.ca-5983-92.cc-3420-1428",
+    "habboFigure": "hd-4023-3.ch-3032-110-110.lg-280-110.sh-5247-1408-1408.ca-5983-92.cc-3420-1428",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -953,7 +953,7 @@
     "online": true,
     "gender": "m",
     "motto": "º SHiKoMiZue º",
-    "habboFigure": "hd-180-22.ch-3438-81-1408.lg-270-1408.sh-3206-1408.ea-1406.fa-3345-110.cc-5942-110",
+    "habboFigure": "hd-180-8.ch-875-94-1408.lg-280-1419.sh-3524-110-1408.ea-3108-72-110.fa-1205-1408.ca-3916-75-75.cc-3827-94-1408",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-5245-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5078-63",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-1408.lg-3088-64-64.sh-3068-64-64",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-96-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ºmsrzº",
     "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1420.lg-710-1337.sh-5247-92-92.ha-5832-92.fa-5601-92.ca-3885-92-1408",
@@ -2050,10 +2050,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3860-34-34.hd-190-8.ch-4025-73-82.lg-4017-73-82.sh-4016-73-82.ha-4018-73-82.he-4019-1408-1408.ea-3887.fa-4014-1408-1408.ca-4037-91-1408.cc-4026-73-82",
+    "motto": "sono solo un guscio vuoto",
+    "habboFigure": "hr-3860-34-34.hd-190-8.ch-4025-73-82.lg-4017-73-66.sh-4016-73-66.ha-4018-73-66.he-4019-73-66.ea-3887.fa-4014-73-66.cc-4026-73-66",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "patriottico",
     "habboFigure": "hr-5465-43-45.hd-190-10.ch-5373-91-91.lg-5594-91.sh-295-64.he-4990-73.fa-5054",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|| Fedele Hooligans ||",
     "habboFigure": "hr-3163-49.hd-6072-1390-1365.ch-3779-93-92.lg-3058-93.sh-4016-92-110.he-3070-92.ea-3168-93.fa-3344-92",
@@ -3080,7 +3080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ETERNALºWARRIORS",
     "habboFigure": "hr-836-1342.hd-615-22.ch-665-110.lg-5594-64.sh-5729-110-64.he-5314-1331-1324.ea-3148-110-1408.ca-1801-92.wa-5986-64.cc-5926-1331-92",
@@ -3303,7 +3303,7 @@
     "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
-    "habboFigure": "hr-3674-45-40.hd-180-2.lg-3078-1408.sh-295-93.he-5578-1408.ea-1406.fa-1204.ca-1804-63",
+    "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
     "memberSince": "2023-11-08T16:40:54.000+00:00",
     "uniqueId": "hhit-87738591e8f965854080727e6c36bfc7",
     "name": "momo1",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pre edict",
     "habboFigure": "hr-155-45.hd-205-1.ch-5830-1320.lg-275-66.sh-305-1408",
@@ -3403,7 +3403,7 @@
     "online": false,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-5830-92.lg-5970-110.sh-305-92.ha-5832-110.he-3070-92.fa-3276-72.cc-3509-1428-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4100,7 +4100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Scagnozzo Esperto GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-85.lg-3290-85.ha-1013-85.fa-4168-71.cc-3294-85-85",

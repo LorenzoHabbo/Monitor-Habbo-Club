@@ -183,7 +183,7 @@
     "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3860-1403-1394.hd-3721-2.ch-3934-92-1409.lg-5594-64.sh-3035-92.ha-5597-1408.he-5578-92.fa-5982-110.ca-5768-110-92.wa-5599-1428-110.cc-5926-77-92",
+    "habboFigure": "hr-3860-1403-1394.hd-3721-2.ch-3934-92-1409.lg-5594-64.sh-3783-92-1408.ha-5597-1408.he-5578-92.fa-5982-110.ca-5768-110-92.wa-5599-1428-110.cc-5926-77-92",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Kebab Pirata - CEO of McDonald's",
     "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-5832-88.ea-4161.ca-5737-1325.cc-5826-63",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-5245-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5078-63",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "||",
     "habboFigure": "hr-4352-42.hd-3631-8-1371.ch-4368-1408.lg-4369-64-81.sh-3524-64-1408.cc-4979-81",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|| Fedele Hooligans ||",
     "habboFigure": "hr-3163-49.hd-6072-1390-1365.ch-3779-93-92.lg-3058-93.sh-4016-92-110.he-3070-92.ea-3168-93.fa-3344-92",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-3096-28.ch-685-110.lg-4092-110.sh-4064-110.he-5279.ca-4135-73-1408",
@@ -3053,7 +3053,7 @@
     "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
-    "habboFigure": "hr-3674-45-40.hd-180-2.lg-3078-1408.sh-295-93.he-5578-1408.ea-1406.fa-1204.ca-1804-63",
+    "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
     "memberSince": "2023-11-08T16:40:54.000+00:00",
     "uniqueId": "hhit-87738591e8f965854080727e6c36bfc7",
     "name": "momo1",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pre edict",
     "habboFigure": "hr-155-45.hd-205-1.ch-5830-1320.lg-275-66.sh-305-1408",
@@ -3253,7 +3253,7 @@
     "online": false,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-5830-92.lg-5970-110.sh-305-92.ha-5832-110.he-3070-92.fa-3276-72.cc-3509-1428-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3500,7 +3500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| PORTA MESSAGGI (B.P.) | NO CLONI",
     "habboFigure": "hr-5898-37-45.hd-4383-10-1370.ch-5167-1320.lg-5970-82.sh-5464-1408-1408.ha-5620-73.fa-5601-1408.cc-5926-73-73",
@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Scagnozzo Esperto GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-85.lg-3290-85.ha-1013-85.fa-4168-71.cc-3294-85-85",
