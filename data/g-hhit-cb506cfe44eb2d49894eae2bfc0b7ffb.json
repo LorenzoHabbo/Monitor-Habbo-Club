@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-600-14.ch-660-73.lg-695-1408.sh-3115-91-1408",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1405.hd-5317-3-1367.ch-3032-110-110.lg-280-110.sh-5247-1408-1408.ha-5510.fa-3276-96.ca-5983-92.cc-3420-1428",
@@ -962,16 +962,6 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "*Sbatte la porta e chiude urlando* [ª]",
-    "habboFigure": "hd-3845-14.ch-3432-1408-1408.lg-3434-1408-1408.sh-3435-1408-1408.ha-3431-1408-1408.ea-1404-64.ca-5278-66.wa-3359-66.cc-3360-1408",
-    "memberSince": "2011-09-03T10:56:36.000+00:00",
-    "uniqueId": "hhit-4d58c77d67fda1a50ffb64538ddbdc62",
-    "name": "KappaDiPikke",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-44-44.hd-209-2.ch-5830-93.lg-5594-77",
     "memberSince": "2011-09-24T14:54:58.000+00:00",
@@ -1203,7 +1193,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Cavaliere G.D º",
-    "habboFigure": "hr-4090-34.hd-209-1.ch-3030-64.lg-3328-1408-1408.ea-1404-64",
+    "habboFigure": "hr-4090-34.hd-190-1.ch-3030-82.lg-3328-1408-1408.sh-4112-64-1408",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2081,9 +2071,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "ª Nostromo - Black Pearl ª",
-    "habboFigure": "hr-100.hd-3631-1389-30.lg-3136-64.sh-295-1335.ha-1002-70",
+    "habboFigure": "hr-5773-44.hd-3631-1370-30.ch-665-89.lg-3596-110-110.sh-730-110.ha-1005-110.ea-1402.ca-5983-92.wa-5986-1329",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -2110,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-5331-49-40.hd-180-28.ch-3688-110.lg-5732-110-93.sh-3383-110-1408.ha-3463-110.ea-1402.fa-4048.ca-1816.cc-5800-110-93",
@@ -2350,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Madrina Corleone »",
     "habboFigure": "hr-5973-1404-61.hd-615-28.ch-665-110.lg-5974-110-1409.sh-5247-92-110.he-3070-1410.fa-5467",
@@ -2580,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-5969-31.hd-3845-10.ch-4368-75.lg-4066-72.sh-3180-64-1408.ha-5468-72-1408.fa-3276-73",
@@ -2660,7 +2650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "te dejo atras",
     "habboFigure": "hr-5619-31.hd-615-10.ch-665-64.lg-5594-64.sh-906-64.he-5578-73.fa-5835-73.wa-5836-64-64",
@@ -2873,7 +2863,7 @@
     "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-3163-1342.hd-180-1.ch-3668-92-93.lg-3526-1338-92.sh-5803-92.ha-5832-93.he-5074-92.fa-3276-72.ca-4183-93-93.cc-5800-93-93",
+    "habboFigure": "hr-3163-1342.hd-180-1.ch-3668-110-110.lg-3526-64-110.sh-5803-110.he-4977-64-110.fa-3276-72.ca-3485.cc-5800-110-110",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
@@ -2950,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "4:20",
     "habboFigure": "hr-105-45.hd-3604-14.ch-5833-1408-64.lg-4191-64-1408.sh-3115-64-64.ha-4188-1408.he-1609-64",
@@ -3190,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trainer Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-5453-64-1408.lg-3526-1408-1408.ha-3775",
@@ -3470,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
@@ -3563,7 +3553,7 @@
     "online": true,
     "gender": "m",
     "motto": "Prospect Masarez - UBI tu IBI ego-",
-    "habboFigure": "hr-3841-43.hd-209-1370.ch-215-72.lg-3787-64-64.sh-4112-82-82.he-3879-1408.cc-3874-64-82",
+    "habboFigure": "hr-3841-43.hd-209-1370.ch-215-72.lg-3787-64-64.sh-4112-82-82.he-3879-1408.cc-3874-73-73",
     "memberSince": "2024-01-14T13:45:22.000+00:00",
     "uniqueId": "hhit-33259e71a6154befcdf06ae313a4aec6",
     "name": "Danimothh",
@@ -3590,7 +3580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5898-1342-1342.hd-627-1383.ch-3013-110.lg-5927-77-92.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-100.cc-5926-1428-1428",
@@ -3880,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-1403.hd-4383-28-1393.ch-5560-68-110.lg-5594-1425.sh-5803-1338.he-3660-1426-1426.fa-5467",
@@ -4283,7 +4273,7 @@
     "online": true,
     "gender": "f",
     "motto": "~Scagnozzo Esperto GD~",
-    "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-85.lg-3290-85.ha-1013-85.fa-4168-71.cc-3294-85-85",
+    "habboFigure": "hr-3273-1407-48.hd-625-1383.ch-3214-96.lg-3290-110.sh-3180-110-110.ea-1401-110",
     "memberSince": "2025-02-09T23:31:32.000+00:00",
     "uniqueId": "hhit-0dcc03ee2ca90df5307435857daa5db0",
     "name": "Mokkanonnt",
@@ -4540,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Prima gli habbini italiani",
     "habboFigure": "hr-155-42.hd-209-10.ch-230-1408.lg-270-64.sh-300-91.fa-1201.ca-1804-84.wa-2001",
