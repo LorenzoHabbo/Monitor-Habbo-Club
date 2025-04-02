@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5898-1346-45.hd-4383-28-28.ch-5907-110-1408.lg-4369-110-75.he-5997-92.fa-3276-92.cc-5926-74-1408",
@@ -710,10 +710,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Hool Hoolligans",
-    "habboFigure": "hr-5898-1347-1403.hd-3536-10-10.ch-650-110.lg-5243-92.sh-3587-92-92.he-5721-98-98.fa-5435.ca-5309-98-98.cp-5886-1327",
+    "habboFigure": "hr-5898-1347-1403.hd-3536-10-10.ch-650-110.lg-5243-110.sh-3587-92-92.he-5816-98.fa-5435.wa-5123-1327.cp-5886-1327",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Cavaliere G.D º",
     "habboFigure": "hr-3746-34.hd-209-1.ch-3030-64.lg-3328-1408-1408.ea-1404-64",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "felicissima di non tornare indietro",
     "habboFigure": "hr-5680-45.hd-4383-28-1393.ch-665-110.lg-4114-110-1408.ha-5620-104.fa-3276-92",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello G.D (ginecologo)",
     "habboFigure": "hr-5019-48.hd-200-30.ch-5830-64.lg-270-64.sh-3348-66.ha-5832-64.fa-4185-72.ca-5502.cc-3360-64",
@@ -9720,7 +9720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato .G.D",
     "habboFigure": "hr-4117-48-40.hd-4163-10-20.ch-5245-74.lg-5974-80-81.ha-5468-75-74.wa-5599-82-80",
