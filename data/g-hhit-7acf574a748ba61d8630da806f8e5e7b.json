@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5898-1346-45.hd-4383-28-28.ch-5907-110-1408.lg-4369-110-75.he-5997-92.fa-3276-92.cc-5926-74-1408",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5830-1321.lg-5363-92.sh-5803-92.ha-5832-1321.ca-5463.cc-5942-110",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-5832-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -3503,7 +3503,7 @@
     "online": true,
     "gender": "f",
     "motto": "| PORTA MESSAGGI (B.P.) | NO CLONI",
-    "habboFigure": "hr-5898-37-45.hd-4383-10-1370.ch-5167-1320.lg-5970-82.sh-5464-1408-1408.fa-5601-1408.cc-5926-73-73",
+    "habboFigure": "hr-5898-37-45.hd-4383-10-1370.ch-5167-1320.lg-5970-82.sh-5464-1408-1408.ha-5620-73.fa-5601-1408.cc-5926-73-73",
     "memberSince": "2024-08-23T10:09:27.000+00:00",
     "uniqueId": "hhit-594f912ed71a83dc03d755ce884700b5",
     "name": "_ANIMALETTA_",
