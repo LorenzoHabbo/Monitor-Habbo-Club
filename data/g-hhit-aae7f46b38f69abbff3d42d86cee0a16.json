@@ -103,7 +103,7 @@
     "online": true,
     "gender": "m",
     "motto": "~ OSU",
-    "habboFigure": "hr-3746-61.hd-180-10.ch-3001-110-1408.lg-285-110.ea-1404-110.cc-3075-110",
+    "habboFigure": "hr-3746-61.hd-180-10.ch-3001-110-1408.lg-285-110.ea-1404-110",
     "memberSince": "2007-12-31T12:48:14.000+00:00",
     "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
     "name": "francesco97!",
@@ -383,7 +383,7 @@
     "online": true,
     "gender": "m",
     "motto": "º SHiKoMiZue º",
-    "habboFigure": "hr-3674-49-49.hd-207-28.ch-3981-110-81.lg-3364-110-110.sh-3206-110.fa-3345-110.ca-5028-92-110.wa-3366-110-110.cc-5942-80",
+    "habboFigure": "hr-3278-61-49.hd-207-28.ch-3981-110-94.lg-3364-110-110.sh-3206-110.fa-3345-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5926-1335-92",
@@ -513,7 +513,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-5245-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5078-63",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-5245-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-1428.ea-5626-110.fa-5835-73.cc-5078-63",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -797,16 +797,6 @@
     "memberSince": "2016-07-27T15:01:14.000+00:00",
     "uniqueId": "hhit-34325522445756af45328b5348c7eff7",
     "name": "Yeminem",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3829-34.hd-190-28.ch-3208-110-96.lg-3328-110-96.ha-3541",
-    "memberSince": "2016-12-16T07:51:15.000+00:00",
-    "uniqueId": "hhit-fe181fde9a6622e465453815647bbeaa",
-    "name": ".-Gold-.",
     "isAdmin": false
   },
   {
@@ -1430,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Vicario Semplice G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-64.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.ea-1404-110.cc-5926-1325-1325",
