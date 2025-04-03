@@ -840,10 +840,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1398.hd-190-7.ch-215-92.lg-280-1426.sh-5247-92-92.he-5088.cc-5800-1426-92",
+    "habboFigure": "hr-828-1398.hd-190-7.ch-215-92.lg-285-1426.sh-5247-92-92.he-5088.cc-5800-1426-92",
     "memberSince": "2011-11-26T16:03:53.000+00:00",
     "uniqueId": "hhit-b924b0493c185642a9e308d05f3607fc",
     "name": "TheWizard",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5830-1321.lg-5363-92.sh-5803-92.ha-5832-1321.ca-5463.cc-5942-110",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vedo ciò che altri non possono vedere.",
     "habboFigure": "hr-3829-45.hd-3845-10.ch-3030-1408.lg-285-82.fa-1212",
