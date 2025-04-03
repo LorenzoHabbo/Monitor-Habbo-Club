@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Hool Hoolligans",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3417-110-110.lg-720-1338.sh-3587-92-92.ha-5832-1321.fa-5435.cc-4356",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "A zonzo",
     "habboFigure": "hr-3531-34-40.hd-190-1.ch-3688-1408.lg-4066-64.ha-4050.he-3833-66.fa-3344-1320.ca-4115-1320-1408",
@@ -3700,10 +3700,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ºªCadetto G.D.ªº",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-235-73.lg-3023-1408.sh-3068-91-91.ha-1005-88.ca-1807",
+    "habboFigure": "hr-3090-42.hd-209-1.ch-235-73.lg-3078-1408.sh-3068-91-91.ha-1005-88.ca-1807",
     "memberSince": "2017-04-06T20:12:55.000+00:00",
     "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
     "name": "ottaviano2",
@@ -4050,7 +4050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fan del nu metal",
     "habboFigure": "hr-115-45.hd-209-1370.ch-255-64.lg-3078-82.sh-295-64.ha-3352-90-1408.fa-3276-72.wa-2007",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-3096-28.ch-685-110.lg-4092-110.sh-4064-110.he-5279.ca-4135-73-1408",

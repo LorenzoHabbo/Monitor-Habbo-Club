@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.lg-5594-110.ha-5378-110-110.he-5088.fa-1209-93.ca-3292-93.cc-887-110",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Hool Hoolligans",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3417-110-110.lg-720-1338.sh-3587-92-92.ha-5832-1321.fa-5435.cc-4356",
@@ -1870,16 +1870,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "ºªCadetto G.D.ªº",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-235-73.lg-3023-1408.sh-3068-91-91.ha-1005-88.ca-1807",
-    "memberSince": "2017-04-06T20:12:55.000+00:00",
-    "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
-    "name": "ottaviano2",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "",
@@ -1990,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5830-1321.lg-5363-92.sh-5803-92.ha-5832-1321.ca-5463.cc-5942-110",
@@ -2180,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "eat, sleep, habbo, repeat :')",
     "habboFigure": "hr-5791-49.hd-209-1370.ch-5394.lg-5398.sh-5247-92-110.ha-5169-110.he-5808-107.ea-1404-110.fa-5435.cc-3360-67",
@@ -3370,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Siamo qui,a scacciar la reciproca noia",
     "habboFigure": "hr-3090-36.hd-207-8.ch-210-1408.lg-3078-64.ha-1002-64",
@@ -3530,7 +3520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
