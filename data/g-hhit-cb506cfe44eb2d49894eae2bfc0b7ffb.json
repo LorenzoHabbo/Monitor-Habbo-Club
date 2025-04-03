@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-829-44.hd-6045-13.ch-215-110.lg-285-110.sh-300-110.ea-1403-110.fa-1204",
@@ -382,6 +382,16 @@
   {
     "online": true,
     "gender": "m",
+    "motto": "PESARO CAPITALE|",
+    "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72",
+    "memberSince": "2009-03-19T20:01:40.000+00:00",
+    "uniqueId": "hhit-acd52bbc2f23cad9d81a85f2ea6e8688",
+    "name": "007pat",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
     "motto": "no npc",
     "habboFigure": "hr-828-34.hd-180-18.ch-215-1408.lg-280-64.sh-3587-110-1408.ha-3586.ea-1404-110.cc-5926-1331-92",
     "memberSince": "2009-03-22T16:26:24.000+00:00",
@@ -663,7 +673,7 @@
     "online": false,
     "gender": "m",
     "motto": "Corleone",
-    "habboFigure": "hr-5962-61.hd-3091-1378.ch-5833-1408-1408.lg-3057-110.sh-3016-110.ea-1404-63.fa-1207",
+    "habboFigure": "hr-5962-61.hd-3091-1379.ch-5833-110-92.lg-3057-110.sh-3016-110.ea-1404-63.fa-1206-110",
     "memberSince": "2010-09-17T07:48:16.000+00:00",
     "uniqueId": "hhit-ca8852a0f27572b770191beb0943afb0",
     "name": ".Valerio.",
@@ -793,7 +803,7 @@
     "online": false,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-4363-1342-1342.hd-6072-1383-1365.ch-5245-110.lg-5594-78.sh-4159-1326-95.he-5808-108.fa-4046.ca-5444-1326-92.wa-5370.cc-5926-1326-95",
+    "habboFigure": "hr-5898-1342-1342.hd-6072-1383-1365.ch-5245-110.lg-5594-78.sh-4159-1326-95.he-5808-108.fa-4046.ca-5444-1326-92.wa-5370.cc-5926-1326-95",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -940,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1190,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere G.D º",
     "habboFigure": "hr-3746-34.hd-190-1.ch-3030-64.lg-3328-1408-1408.ea-1404-64",
@@ -1363,7 +1373,7 @@
     "online": true,
     "gender": "m",
     "motto": "si no es contigo [FB] » #0113",
-    "habboFigure": "hr-3163-61.hd-3091-28.ch-255-110.lg-5594-64.sh-295-110.he-3833-92.fa-1201.cc-5800-100-100",
+    "habboFigure": "hr-3163-61.hd-3091-28.ch-255-110.lg-5594-64.sh-295-110.he-3833-64.fa-1201.cc-5800-100-100",
     "memberSince": "2013-06-21T16:09:36.000+00:00",
     "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
     "name": "El.Vampiro",
@@ -1427,6 +1437,16 @@
     "memberSince": "2013-10-18T15:59:44.000+00:00",
     "uniqueId": "hhit-d284fec9f18b1f1edc966c8c34ae5cda",
     "name": "GTAtrevor",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "Snitch, don't kill my vibe",
+    "habboFigure": "hr-5973-1394-1395.hd-600-1370.ch-665-100.lg-5594-1429.he-5808-1408.fa-4014-1429-88.ca-5444-1429-1336.cc-5926-110-1408",
+    "memberSince": "2013-11-30T22:27:52.000+00:00",
+    "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
+    "name": "Moonkey",
     "isAdmin": false
   },
   {
@@ -1540,6 +1560,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "f",
+    "motto": "...Meticcio Particolare...",
+    "habboFigure": "hr-6035-59-49.hd-5682-10.ch-5245-92.lg-5594-88.he-5808-63.ea-5392.fa-4046.ca-5444-106-92.wa-5370.cc-5461-89-67",
+    "memberSince": "2014-10-01T18:28:54.000+00:00",
+    "uniqueId": "hhit-5560b6310c7dc8eff31c673730437989",
+    "name": "SeleneRyan",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "shushh",
@@ -1567,6 +1597,16 @@
     "memberSince": "2015-03-15T18:39:34.000+00:00",
     "uniqueId": "hhit-6beece15c419bbc0987b6048e21a7f6f",
     "name": "alessand8796",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "                       leader kanun",
+    "habboFigure": "hr-828-59.hd-205-28.ch-806-1323.lg-280-1320.sh-300-92.cc-3360-1323",
+    "memberSince": "2015-03-18T23:33:05.000+00:00",
+    "uniqueId": "hhit-a80dbb4bbbb5a804ffbb521ff1263b1b",
+    "name": ".:S.Triade:.",
     "isAdmin": false
   },
   {
@@ -2563,7 +2603,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-39.hd-180-1370.ch-3015-64.lg-3290-64.sh-3524-64-1408.he-1608.ea-1406.ca-1812",
+    "habboFigure": "hr-3090-39.hd-180-1370.ch-3015-64.lg-3290-64.sh-3524-64-1408.he-1608.ca-1812",
     "memberSince": "2020-04-12T01:02:07.000+00:00",
     "uniqueId": "hhit-c9770c710ab56ce7c1cbfffb5d83c40c",
     "name": "alexburk",
@@ -3423,7 +3463,7 @@
     "online": false,
     "gender": "m",
     "motto": "Open my bara dorata.",
-    "habboFigure": "hr-3670-40.hd-3845-10.ch-5596-1408.lg-3596-64-1408.ha-3709.he-5578-1408.fa-3276-76.cc-4979-64",
+    "habboFigure": "hr-3670-40.hd-3845-10.ch-5596-1408.lg-3596-64-1408.ha-3709.he-5578-1408.fa-3276-76.cc-4091-64",
     "memberSince": "2023-10-05T21:57:19.000+00:00",
     "uniqueId": "hhit-7bb48810b18f110578720e71d8232ffd",
     "name": "Kalos333x",
@@ -3590,7 +3630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-5962-34.hd-205-3.ch-255-92.lg-281-92.sh-906-92.ea-1404-110.ca-5936-92.cc-5926-77-92",
@@ -3673,7 +3713,7 @@
     "online": true,
     "gender": "m",
     "motto": "Youth Hooligans",
-    "habboFigure": "hr-5756-40-61.hd-3845-8.ch-3668-92-110.lg-3483-64-64.sh-4112-110-92.ha-4006.he-3070-68.ea-1404-110.ca-5934-1410.cc-5690-1408",
+    "habboFigure": "hr-125-40.hd-4174-8.ch-3203-92.lg-5594-89.sh-3016-110.ha-1002-110.he-5813-68-93.ea-1404-110.fa-1211.ca-5934-1410.cc-5400.cp-3204",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
@@ -3893,7 +3933,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5772-1403-58.hd-4383-2-1388.ch-5831-110.lg-3006-110-110.sh-5803-1338.he-3660-77-77.fa-5467.wa-5599-92-110",
+    "habboFigure": "hr-5772-1403-61.hd-4383-2-1388.ch-5831-110.lg-3006-110-110.sh-5803-1338.he-3660-77-77.fa-5467.wa-5599-92-110",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -3980,7 +4020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-71.lg-3216-64.sh-907-64.he-3274-71",
@@ -4627,6 +4667,16 @@
     "memberSince": "2025-04-02T06:41:58.000+00:00",
     "uniqueId": "hhit-ea22c914281a73cee301e11e9f0ac7fe",
     "name": "Pablito.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-155-39.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.ha-1002-64.he-1608",
+    "memberSince": "2025-04-03T14:04:47.000+00:00",
+    "uniqueId": "hhit-d04d6e19e789603caf2e149e67c53161",
+    "name": "Dybala-",
     "isAdmin": false
   }
 ]
