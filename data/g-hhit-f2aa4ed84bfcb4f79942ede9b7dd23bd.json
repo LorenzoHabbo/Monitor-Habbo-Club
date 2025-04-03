@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "no npc",
     "habboFigure": "hr-828-34.hd-180-18.ch-215-1408.lg-280-64.sh-3587-110-1408.ha-3586.ea-1404-110.cc-5926-1331-92",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-3013-1337.lg-3061-86.sh-5308-77.ha-5704.he-5578-77.fa-3276-96.ca-5769-67-86.wa-3263-1324-67.cc-5961-86-1337",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-600-14.ch-660-73.lg-695-1408.sh-3115-91-1408",
@@ -2860,10 +2860,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5285-1403-40.hd-205-3.ch-255-63.lg-280-110.sh-5247-1408-1408.he-3070-1408.ea-1404-110.ca-5983-92.cc-5926-77-77",
+    "habboFigure": "hr-5285-1403-40.hd-205-3.ch-3032-63-1408.lg-280-80.sh-5247-1408-1408.he-3070-1408.ea-1404-110.ca-5983-92.cc-3420-63",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3900,7 +3900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "»Donna d'onore Corleone»",
     "habboFigure": "hr-5617-1398-1398.hd-3099-1391.ch-660-92.lg-710-1337.sh-740-92.he-3218-92.ea-3925-1408-1408.fa-5601-89.ca-5673",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5933-1348.hd-4383-10-10.ch-3135-98.lg-3267-1409-89.sh-5308-89.ca-4965-1337-1326.cc-4108-89-1336",
