@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ay Amor, me duele tanto.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3185-1427.lg-4066-110.sh-3016-1416.ea-3169-1420.ca-3292-63",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-285-64.sh-305-64",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-3090-32.hd-4174-1366.ch-3203-91.lg-3136-1408.sh-5551.ha-3984-95-1418.ca-5502.wa-2004-97.cp-3310-92",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºªCadetto G.D.ªº",
     "habboFigure": "hr-3090-42.hd-209-1.ch-235-73.lg-3078-1408.sh-3068-91-91.ha-1005-88.ca-1807",
@@ -4712,7 +4712,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "apprendista novello G.G.",
+    "motto": "apprendista novello G.D.",
     "habboFigure": "hr-891-48.hd-209-8.ch-266.lg-3023-83.sh-905-83.ha-1008.ea-1404-1408.fa-1208-90.ca-1813.wa-2012",
     "memberSince": "2019-10-10T21:27:14.000+00:00",
     "uniqueId": "hhit-adf9227189004176f4499a4f6b9b45cb",
@@ -4842,7 +4842,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "",
+    "motto": "Scagnozzo Esperto G.D.",
     "habboFigure": "hr-3012-32.hd-3100-11.ch-3013-100.lg-3023-100.sh-3016-89.he-3329-1412-89.fa-3276-100.cc-3008-100-89",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
@@ -5620,10 +5620,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
-    "habboFigure": "hr-3163-1399.hd-209-1.ch-5488-96.lg-5594-92.he-5578-1408.fa-3276-96.ca-5770-1321",
+    "habboFigure": "hr-3163-1399.hd-209-1.ch-3683-92-1408.lg-5594-92.ha-3261-110.he-5578-1408.fa-3276-96.ca-5770-1321.cc-4184-110-1408",
     "memberSince": "2021-03-02T10:50:23.000+00:00",
     "uniqueId": "hhit-0640405577616f3a60e39a021f939d53",
     "name": "eivor12",
@@ -5670,7 +5670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-35.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-1320-1320.cc-5761-100-1329",
@@ -6020,7 +6020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Luogotenente Little Italy FC",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -6067,6 +6067,16 @@
     "memberSince": "2021-09-29T21:04:04.000+00:00",
     "uniqueId": "hhit-1e80baca4efe649377a5581270a7d4c0",
     "name": "Molestatore",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "NN",
+    "habboFigure": "hr-555-45.hd-625-14.ch-3446.lg-3216-1408.sh-907-64.ha-1006.he-1609-64.ea-1404-64.fa-3276-72",
+    "memberSince": "2021-10-01T15:39:30.000+00:00",
+    "uniqueId": "hhit-ef9a7753bfbc2644eb1bbd1bc3c79fb1",
+    "name": "MegaChica_mala",
     "isAdmin": false
   },
   {
@@ -6420,7 +6430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3342-66-66.lg-275-64.fa-3276-64.cc-4091-64",
@@ -7550,7 +7560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Vicario Semplice G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-64.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.ea-1404-110.cc-5926-1325-1325",
@@ -9700,7 +9710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
@@ -9730,7 +9740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ªsoldato scelto .G.Dª",
     "habboFigure": "hr-3852-44.hd-4163-10-20.ch-5245-74.lg-5974-80-81.he-5088.fa-3276-72.wa-5599-82-80",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-08T02:02:21.000+00:00",
     "uniqueId": "hhit-42dc6fe3ae321ad170270dc0c14cd503",
     "name": "Ciro1",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-540-42.hd-600-1.ch-665-76.lg-3078-73.he-1609-73.ea-1404-1408.wa-3074-73-85",
-    "memberSince": "2023-12-08T21:35:18.000+00:00",
-    "uniqueId": "hhit-e0866be99b895afee5a487e25af33633",
-    "name": "Lilith298",
     "isAdmin": false
   }
 ]
