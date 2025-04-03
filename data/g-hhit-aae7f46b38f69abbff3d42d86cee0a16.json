@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hoooooooooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-665-1324.lg-5545-110-110.sh-5308-92.he-3884-64-110.fa-4044.cc-5926-110-110",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L|",
     "habboFigure": "hr-3791-39.hd-3631-1-12.ch-5595-1408.lg-5594-81.sh-3354-64-64.he-3329-73-1408.fa-3276-72.cc-5461-1408-71",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
     "habboFigure": "hr-3829-45.hd-190-8.ch-804-64.lg-3116-64-1408.he-1608.ea-1404-64",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cavaliere degli eletti EW",
     "habboFigure": "hr-3278-42-40.hd-180-8.ch-3372-1323-1323.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-5942-1323",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",
