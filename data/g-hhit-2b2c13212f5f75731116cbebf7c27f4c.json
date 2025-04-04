@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3168-93.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.cc-5826-92",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5245-110.lg-5594-78.sh-5803-92.ha-5468-1326-95.he-5808-99.fa-5467.ca-5981-1326-92.wa-5370.cc-5926-1326-95",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
     "habboFigure": "hr-3673-32.hd-627-1.ch-5560-74-74.lg-3483-74-74.ha-3709.fa-3276-73.cc-4032",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "marinaio bp",
     "habboFigure": "hr-3531-34-40.hd-190-1.ch-3688-1408.lg-4066-64.ha-1004-64.he-5088.fa-3344-1320",
@@ -3700,10 +3700,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºªCadetto G.D.ªº",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-235-82.lg-3078-1408.sh-906-64.ha-1005-88",
+    "habboFigure": "hr-3090-42.hd-209-1.ch-235-73.lg-3023-1408.sh-906-64.ha-1013-85.ca-1807",
     "memberSince": "2017-04-06T20:12:55.000+00:00",
     "uniqueId": "hhit-2f9b2ac7316f2bcc478411793fd2f7ba",
     "name": "ottaviano2",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sono noioso....",
     "habboFigure": "hr-3860-34-40.hd-180-14.ch-3779-81-1408.lg-3407-81-1408.sh-305-81.ha-3709.he-5088.ea-3887.fa-4168-71.ca-4037-81-1408.wa-3773-81.cc-5961-81-1408",
@@ -8530,7 +8530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
