@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista G.d",
     "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4140-64.lg-4138-64.sh-3419-64-66.ha-3986.fa-3344-66.cc-3928",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3168-93.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -5680,9 +5680,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": " »Uomo D'onore L.I. Fam. Corleone »",
+    "motto": "",
     "habboFigure": "hr-3860-61-1407.hd-5838-11-1367.ch-3934-92-110.lg-5594-64.sh-3206-92.he-3740.fa-1204.ca-3885-1408-1408.cc-3867-110-64",
     "memberSince": "2011-12-22T22:14:33.000+00:00",
     "uniqueId": "hhit-b01772c35df1f2fe4a256423a1e355a9",
@@ -5980,7 +5980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "MasArez",
     "habboFigure": "hr-5969-33.hd-3100-1390.ch-665-92.lg-4114-99-92.ha-3156-99.fa-3276-97",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-34.hd-180-1.ch-255-64.lg-280-64.sh-908-64.fa-3276-71.cp-3128-73",
@@ -7250,7 +7250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "si no es contigo [FB] » #0113",
     "habboFigure": "hr-3163-61.hd-3091-28.ch-255-110.lg-5594-64.sh-295-110.he-3833-64.fa-1201.cc-5800-100-100",
@@ -9443,7 +9443,7 @@
     "online": true,
     "gender": "m",
     "motto": "ciao",
-    "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3709.ca-5807-1320-80",
+    "habboFigure": "hr-893-42.hd-180-10.ch-3486-1408-1408.lg-285-81.ha-3709.ea-3925-80-1408.ca-5807-1320-80",
     "memberSince": "2015-09-24T17:37:16.000+00:00",
     "uniqueId": "hhit-40fde95fcb03d0f10e613e0c87f880e2",
     "name": "J3Tears",
