@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5898-45-45.hd-4383-28-14.ch-5917-110.lg-3006-110-110.he-5997-1321.fa-3276-92.cc-4091-110",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Little Italy-Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-110.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-92",
@@ -5293,7 +5293,7 @@
     "online": true,
     "gender": "m",
     "motto": "- BLaCK PeaRL-",
-    "habboFigure": "hr-3674-61-61.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.ha-5832-110.fa-1205-110.wa-2002.cc-3509-110-110",
+    "habboFigure": "hr-3278-61-61.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-3345-110.wa-2002.cc-3509-110-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -8920,7 +8920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -9900,10 +9900,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hd-209-1369.ch-3030-71.lg-3418-71.sh-3419-71-72.ha-4103-71-72.cc-3850-71-72",
+    "habboFigure": "hr-135-47.hd-209-10.ch-3030-64.lg-3023-84.sh-300-91.wa-2001",
     "memberSince": "2016-01-31T03:11:43.000+00:00",
     "uniqueId": "hhit-5608226366e5b85323558a903129754e",
     "name": "Nikael",
