@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-3438-92-1423.lg-3483-92-64.he-3070-1410.wa-4060-110-64.cc-5926-64-93",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "A-Y-L per sempre|",
     "habboFigure": "hr-4131-1342-1342.hd-3631-1-12.ch-3013-92.lg-4369-92-110.sh-5803-92.he-5808-92.fa-5835-73",
@@ -7160,7 +7160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-10.ch-3668-110-92.lg-5594-110.sh-3587-92-92.ha-3488.he-3070-92.fa-5601-1408.cc-3420-110.cp-3310-92",
@@ -9790,10 +9790,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
-    "habboFigure": "hr-3871-40.hd-180-10.ch-3486-1408-1408.lg-285-81.sh-295-80.ha-3709.ea-3925-80-1408.ca-5807-1320-80",
+    "habboFigure": "hr-3871-40.hd-180-10.ch-3486-1408-1408.lg-285-81.sh-295-80.ha-3709.ea-3925-80-80.ca-5807-1320-80",
     "memberSince": "2015-09-24T17:37:16.000+00:00",
     "uniqueId": "hhit-40fde95fcb03d0f10e613e0c87f880e2",
     "name": "J3Tears",
