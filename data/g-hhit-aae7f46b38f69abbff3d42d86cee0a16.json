@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5933-1348.hd-4383-10-10.ch-3135-98.lg-3267-1409-89.sh-5308-89.ca-4965-1337-1326.cc-4108-89-1336",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3012-32.hd-3100-11.ch-3013-100.lg-3023-100.sh-3016-89.he-3329-1412-89.fa-3276-100.cc-3008-100-89",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
     "habboFigure": "hr-3163-1399.hd-209-1.ch-3683-92-1408.lg-5594-92.ha-3261-110.he-5578-1408.fa-3276-96.ca-5770-1321.cc-4184-110-1408",
@@ -1540,10 +1540,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "tu si nu far miez a nu mar agitat",
-    "habboFigure": "hr-3163-34.hd-205-13.ch-3032-1334-1408.lg-280-64.sh-908-92.he-3070-92.ea-1404-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-255-64.lg-275-110.sh-5803-92.he-3070-92.fa-5601-92.cc-3420-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-34.hd-205-28.ch-3030-92.lg-5594-110.sh-3035-110.ha-5677-110.ea-1404-110.fa-3276-96.ca-1801-92.cc-5926-110-92",
