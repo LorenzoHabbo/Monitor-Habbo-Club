@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1.ch-3806-64.lg-3078-64.sh-300-1408.ha-1004-76.fa-5601-76.cc-3917-76",
@@ -3450,7 +3450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "slogga-PEV5K",
     "habboFigure": "hr-4117-40-40.hd-4383-10-30.ch-665-1408.lg-710-64.sh-908-1408.he-1609-64.fa-4058-1408.ca-1804-64",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "tu si nu far miez a nu mar agitat",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-1428.sh-305-92.he-3070-92.fa-5600-92.cc-5926-89-92",
@@ -3793,7 +3793,7 @@
     "online": false,
     "gender": "f",
     "motto": "dimentica e guarisci",
-    "habboFigure": "hr-834-1394.hd-600-3.ch-3013-92.lg-695-1427.sh-3154-92-110.he-3070-93.fa-3276-1412",
+    "habboFigure": "hr-834-61.hd-600-3.ch-3013-92.lg-695-1427.sh-3154-92-110.he-3070-93.fa-3276-1412",
     "memberSince": "2024-07-31T23:15:23.000+00:00",
     "uniqueId": "hhit-d221d77549e5d6678dddea69ad3fea19",
     "name": "guest=29",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-655-64.lg-710-1408.sh-3068-64-1408.ha-1005-1408.he-5466.ea-3925-64-1408.fa-5467.wa-5836-1408-1408",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-34.hd-205-28.ch-3030-92.lg-5594-110.sh-3035-110.ha-5677-110.ea-1404-110.fa-3276-96.ca-1801-92.cc-5926-110-92",
