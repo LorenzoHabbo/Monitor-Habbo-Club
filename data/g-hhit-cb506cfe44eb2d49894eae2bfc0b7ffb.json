@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-45.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-1011-92.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92.ca-5463",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-3438-92-1423.lg-3483-92-64.he-3070-1410.wa-4060-110-64.cc-5926-64-93",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5772-34-49.hd-3631-10-12.ch-3013-92.lg-5594-1326.sh-5803-92.he-5808-92.cc-5461-92-1326",
@@ -553,7 +553,7 @@
     "online": true,
     "gender": "f",
     "motto": "Partner Hooligans",
-    "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5202-1326-1326.lg-720-1338.sh-6042.ha-5832-92.fa-5435.cc-5926-92-92",
+    "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5955-1326-1326.lg-720-1338.sh-6042.fa-5435",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -983,7 +983,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo Way !",
-    "habboFigure": "hr-831-61.hd-180-2.ch-215-110.lg-281-1427.sh-3035-1336.ha-1002-93.ea-3148-110-93.ca-1816",
+    "habboFigure": "hr-831-61.hd-180-2.ch-210-110.lg-280-1326.ha-1004-93.ea-3148-110-93.cp-3316-1408",
     "memberSince": "2011-09-30T17:45:26.000+00:00",
     "uniqueId": "hhit-7ea047ebae5b6c447b0f226b0f450b9a",
     "name": "muryou",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Hesitation is defeat",
     "habboFigure": "hr-3163-61.hd-205-10.ch-3668-110-92.lg-5594-110.sh-3587-92-92.ha-3488.he-3070-92.fa-5601-1408.cc-3420-110.cp-3310-92",
@@ -1433,7 +1433,7 @@
     "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-5973-1394-1395.hd-600-1370.ch-665-100.lg-5594-1429.he-5808-1408.fa-4014-1429-88.ca-5444-1429-1336.cc-5926-110-1408",
+    "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-665-1336.lg-5594-110.ha-4192.he-5808-104.ea-1404-110.fa-5624-1413.cc-5926-82-1408",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non c'è limite allo show",
     "habboFigure": "hr-155-31.hd-209-10.ch-262-64.lg-280-88.sh-305-1408.ha-1018",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-31.hd-209-10.ch-262-64.lg-280-88.sh-305-1408.ha-1018",
@@ -1930,10 +1930,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "polli e derivat ps.non sono napoletano",
-    "habboFigure": "hr-3673-40.hd-209-8.ch-3038-93.lg-3365-93.sh-3621-110-92.ha-4133-110.ea-3270-110-1408.fa-3462-1408.ca-4937.wa-2004-92.cc-4943-92.cp-3308-63-1408",
+    "habboFigure": "hr-3370-40.hd-209-8.ch-4299-1329-92.lg-3136-92.sh-3621-92-110.ha-4133-110.ea-3169-110.fa-3462-1408",
     "memberSince": "2017-06-22T21:53:05.000+00:00",
     "uniqueId": "hhit-f7a8da5d816a5050758feba83d14bb55",
     "name": "Barbatux",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "eat, sleep, habbo, repeat :')",
     "habboFigure": "hr-828-51.hd-209-1370.ch-5394.lg-3078-106.sh-3275-92.ha-3300-107.fa-1211.ca-1815-1327.wa-3798-94-1328.cc-3360-67",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-5962-1342.hd-180-1.ch-3668-1425-1324.lg-275-92.sh-5803-92.he-5466.fa-3276-72.cc-5800-1324-1324",
@@ -3480,7 +3480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Prospect Masarez - UBI tu IBI ego-",
     "habboFigure": "hr-3841-43.hd-209-1370.ch-215-72.lg-3787-64-64.sh-4112-82-82.he-3879-1408.ca-5770-64.cc-3874-82-82",
@@ -3593,14 +3593,14 @@
     "online": true,
     "gender": "m",
     "motto": "tu si nu far miez a nu mar agitat",
-    "habboFigure": "hr-3090-34.hd-205-3.ch-210-110.lg-280-110.sh-908-92.ha-3265-110-1408.he-3071-1408.ea-1404-64.fa-5600-92.ca-5936-63",
+    "habboFigure": "hr-3163-1403.hd-205-3.ch-3032-1427-80.lg-280-77.sh-908-92.he-3070-1408.ea-1404-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5898-1342-1342.hd-627-1383.ch-3013-110.lg-5927-77-92.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-100.cc-5926-1428-1428",
@@ -3890,7 +3890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-1403.hd-4383-28-1388.ch-3809-92-92.lg-5970-92.sh-5803-1326.he-3070-92.ea-3148-110-110.fa-5467.cc-5926-1326-1326",
