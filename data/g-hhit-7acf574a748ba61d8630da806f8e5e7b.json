@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3168-93.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -3060,7 +3060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trash queenna!",
     "habboFigure": "hr-3676-55.hd-3956-1383-1367.ch-5831-92.lg-5909-1417-1417.sh-5308-1417.ha-3952.fa-5600-92.ca-5770-96.cc-5926-71-1408",
@@ -3290,10 +3290,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "tu si nu far miez a nu mar agitat",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5624-1412.cc-3420-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-34.hd-205-14.ch-215-64.lg-280-1408.sh-908-1408.he-3858-1408.fa-3276-1408.ca-1801-1408.cc-5926-1408-1408",
@@ -4100,7 +4100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vedo ciò che altri non possono vedere.",
     "habboFigure": "hr-3829-45.hd-3845-10.ch-3030-1408.lg-285-82.fa-1212",
