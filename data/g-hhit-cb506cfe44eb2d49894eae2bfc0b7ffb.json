@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Partner Hooligans",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5923-92-1408.lg-720-1338.sh-6042.he-5314-92-92.fa-5435.cc-3744-92-92",
@@ -3430,7 +3430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-545-42.hd-627-1.ch-685-81.lg-3023-64.he-1609-81.cc-5926-64-81",
@@ -3580,7 +3580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
