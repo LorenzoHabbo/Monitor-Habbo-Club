@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HOT N COLD",
     "habboFigure": "hr-4193-42.hd-3956-1-14.ch-5030-64-64.lg-4012-1408.sh-3354-64-1320.ha-4192.he-3469-64.ea-3726.fa-1212.ca-3444-64.cc-3744-64-64",
@@ -2530,10 +2530,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3519-42-35.hd-209-1370.ch-3518-68-81.lg-3078-82.sh-3354-81-1408.ha-1001.fa-3590.wa-2001",
+    "habboFigure": "hr-3519-42-35.hd-209-1370.ch-3518-68-81.lg-3078-82.sh-3354-81-1408.fa-3590.wa-2001",
     "memberSince": "2022-01-26T20:26:02.000+00:00",
     "uniqueId": "hhit-64577c8143fd3dbbe616f5237b52a755",
     "name": "Habbino99",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "tu si nu far miez a nu mar agitat",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
@@ -3463,7 +3463,7 @@
     "online": true,
     "gender": "f",
     "motto": "|",
-    "habboFigure": "hr-5619-54.hd-615-28.ch-5919-1425-110.lg-5594-1425.sh-5464-92-92.ha-6037.fa-5467.ca-4372-1413",
+    "habboFigure": "hr-5619-54.hd-615-28.ch-5919-1425-92.lg-5594-1425.sh-5464-92-92.ha-6037.he-5808-63.fa-5467.ca-4372-1413",
     "memberSince": "2024-06-21T15:11:53.000+00:00",
     "uniqueId": "hhit-10a3d4728b893ec0767df6508496fa2d",
     "name": "mayflow3rs",
@@ -3543,7 +3543,7 @@
     "online": true,
     "gender": "f",
     "motto": "| PORTA MESSAGGI (B.P.) | NO CLONI",
-    "habboFigure": "hr-5898-37-45.hd-4383-10-1370.ch-5167-1320.lg-5970-82.sh-5464-1408-1408.ha-5620-73.fa-5601-1408.cc-5926-73-73",
+    "habboFigure": "hr-5898-37-45.hd-4383-10-1370.ch-5167-1320.lg-5970-82.sh-5308-64.ha-5620-73.fa-5601-1408.cc-5926-73-73",
     "memberSince": "2024-08-23T10:09:27.000+00:00",
     "uniqueId": "hhit-594f912ed71a83dc03d755ce884700b5",
     "name": "_ANIMALETTA_",
@@ -3840,7 +3840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Never mind",
     "habboFigure": "hr-4031-48-39.hd-627-10.ch-5302-75-64.lg-3116-81-1408.sh-3068-82-1408.ha-1005-64",
