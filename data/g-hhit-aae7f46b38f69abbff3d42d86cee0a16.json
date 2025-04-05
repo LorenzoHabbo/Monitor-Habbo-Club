@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5772-34-49.hd-3631-10-12.ch-3013-92.lg-5594-1326.sh-5803-92.he-5808-92.cc-5461-92-1326",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante EW",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-285-64.sh-305-64",
