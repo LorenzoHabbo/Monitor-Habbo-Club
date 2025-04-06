@@ -3900,7 +3900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "»Donna d'onore Corleone»",
     "habboFigure": "hr-5617-1398-1398.hd-3099-1391.ch-660-92.lg-710-1337.sh-740-92.he-3218-92.ea-3925-1408-1408.fa-5601-89.ca-5673",
@@ -4410,7 +4410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista scelto g.d",
     "habboFigure": "hr-3786-45-42.hd-209-8.ch-4111-73.lg-3023-64.sh-3524-73-1408.ea-3925-64-64.fa-3344-1408",
@@ -6400,7 +6400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
