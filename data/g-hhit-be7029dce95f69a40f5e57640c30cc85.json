@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3163-1407.hd-180-10.ch-210-110.lg-285-77.sh-3089-110.ha-1004-110.ea-3148-110-101",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-5791-1403.hd-3721-2.ch-3934-92-1409.lg-5594-64.sh-3783-92-1408.ha-5597-92.he-5578-92.ea-5897-110-92.ca-5768-110-92.wa-5599-1428-110.cc-5926-77-1408",
@@ -4020,7 +4020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5245-110.lg-5594-78.sh-5803-92.he-3082-98.fa-5467.ca-5981-98-92.wa-5370.cc-5926-98-110",
@@ -4850,10 +4850,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NO",
-    "habboFigure": "hr-125-40.hd-190-1.ch-210-74.lg-285-81.sh-908-1408.ha-1002-1408.cc-5800-1408-1408",
+    "habboFigure": "hr-125-40.hd-190-1.ch-210-74.lg-285-81.sh-908-1408.ha-5774-1408-1408.cc-5800-1408-1408",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "-sTOP",
@@ -7050,10 +7050,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "gothic",
-    "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-3013-110.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-5926-1418-110",
+    "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-5923-110-1418.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-5926-1418-110",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -9280,7 +9280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5681-45-40.hd-4163-1-1.ch-4299-82-64.lg-3408-1408-1408.sh-730-64",
