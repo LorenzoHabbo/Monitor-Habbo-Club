@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-4131-1404-1404.hd-600-10.ch-5923-1333-89.lg-3355-1333-89.sh-3206-92.he-3805-89.fa-5467.wa-5599-110-110.cc-5926-92-110",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Born to be rich - Iconic®",
     "habboFigure": "hr-5321-31-49.hd-4174-1.ch-3934-92-110.lg-5594-77.sh-3419-1409-67.he-3070-1410.ea-3493-1418-1410.fa-5384-92.wa-3211-1325-1325.cc-5926-1330-1408",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-3438-92-1423.lg-3483-92-64.he-3070-1410.wa-4060-110-64.cc-5926-64-93",
@@ -1803,7 +1803,7 @@
     "online": true,
     "gender": "f",
     "motto": "LPTNBDC",
-    "habboFigure": "hr-3012-1395.hd-3536-1-1.ch-3183.lg-3434-1430-110.sh-4159-110-92.ha-3150-110-1430.he-3660-1412-84.fa-5435.cc-5610-63",
+    "habboFigure": "hr-3012-1395.hd-3536-1-1.ch-3183.lg-3434-1430-110.sh-4159-110-92.ha-3150-110-1430.he-3660-1412-84.fa-5601-92.cc-5610-63",
     "memberSince": "2009-07-11T16:06:48.000+00:00",
     "uniqueId": "hhit-3cfa1724cf9f1b0601bd5b6c313a5b72",
     "name": "Powerenza",
@@ -2680,7 +2680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "speedy gonzalez",
     "habboFigure": "hr-831-61.hd-205-25.ch-3059-110.lg-285-1325.sh-3068-92-92.ha-1002-110.fa-5600-89.cc-3158-110",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bianca stop",
     "habboFigure": "hr-3163-1394.hd-180-2.ch-4171-1408-1408.lg-5584.sh-3089-82.ca-5193.cc-5485-110-110",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Masarez",
     "habboFigure": "hr-5898-1406-1399.hd-3100-1370.ch-5831-93.lg-5594-1323.sh-3089-1322.ha-4192.ea-3484.fa-5601-1323.cc-5926-92-1323",
@@ -5980,7 +5980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "MasArez",
     "habboFigure": "hr-5969-33.hd-3100-1390.ch-5917-92.lg-5970-1412.he-5314-1412-92.fa-3276-97.ca-5984-1412",
