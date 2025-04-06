@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-3438-92-1423.lg-3483-92-64.he-3070-1410.wa-4060-110-64.cc-5926-64-93",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Hesitation is defeat",
     "habboFigure": "hr-3163-61.hd-205-10.ch-3668-110-92.lg-5594-110.sh-3587-92-92.ha-3488.he-3070-92.fa-5601-1408.cc-3420-110.cp-3310-92",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-5619-1404.hd-605-28.ch-5831-92.lg-3192-110.sh-3089-92.ha-5832-1409.fa-5467.ca-3175-1427.cc-5926-1427-94",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sono noioso....",
     "habboFigure": "hr-3860-34-40.hd-5913-1.ch-3334-81-1408.lg-3596-81-1408.sh-3338-81.ha-3855-81.he-5088.ea-5897-72-81.ca-4037-81-1408.wa-3773-81.cc-5961-81-1408",
@@ -2563,7 +2563,7 @@
     "online": true,
     "gender": "m",
     "motto": "traguardo amici 700/3000 TRM supporter",
-    "habboFigure": "hr-6034-49-61.hd-5524-2-1365.ch-5830-110.lg-5398.sh-5639.ha-3759.he-5828.ea-5392.fa-5948-92.ca-5574-110-1413.wa-5370.cc-5690-110",
+    "habboFigure": "hr-6034-49-61.hd-5524-2-1365.ch-5830-110.lg-5398.sh-5639.ha-3759.he-5828.ea-5392.fa-5948-92.ca-5574-110-1413.cc-5690-110",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
     "name": "MVPsimo_",
@@ -3020,7 +3020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "grattaceli meteoriti gli angeli",
     "habboFigure": "hr-828-1347.hd-205-1370.ch-3032-110-92.lg-280-1335.sh-305-92.ha-1002-93.he-3833-71.fa-5624-1412.cp-3314-110",
@@ -3120,7 +3120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ti piace la mia beretta?",
     "habboFigure": "hr-3768-40.hd-180-1370.ch-255-1408.lg-270-1408.he-5137.fa-4046.ca-5278-71.cc-4300-1408-1408",
@@ -3553,7 +3553,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-828-34.hd-205-10.ch-215-92.lg-280-1426.sh-908-1408.he-3070-92.ea-1404-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-275-110.sh-5803-92.ea-1404-110.cp-3309-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4240,10 +4240,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3829-34.hd-205-1.ch-3030-74.lg-280-64.he-1608.ea-1404-64.fa-3276-72",
+    "habboFigure": "hr-3829-34.hd-205-1.ch-3030-81.lg-280-64.he-1608.ea-1404-64.fa-3276-72",
     "memberSince": "2025-02-08T01:42:56.000+00:00",
     "uniqueId": "hhit-2ab10b7119bf86a4e8bb72fe5f5dedb5",
     "name": "mietitrebbia",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non odiare il player, bro odia il game",
     "habboFigure": "hr-3841-34.hd-180-1.ch-5830-1408.lg-285-1408.sh-906-1408.ea-5897-76-64.ca-4115-64-1408.cc-3917-64",
