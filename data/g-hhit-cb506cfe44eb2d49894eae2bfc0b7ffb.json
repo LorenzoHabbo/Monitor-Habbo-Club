@@ -10,10 +10,10 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
-    "habboFigure": "hr-828-44.hd-6045-28.ch-803-110.lg-285-110.sh-300-110.ea-1402",
+    "habboFigure": "hr-828-44.hd-6045-28.ch-803-110.lg-285-110.sh-300-110.ha-4136-110.ea-1402",
     "memberSince": "2019-11-18T16:44:59.000+00:00",
     "uniqueId": "hhit-232c621c968acb2ba71f90ca9c0febc9",
     "name": "CrazySantana",
@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5907-110-92.lg-5545-110-110.sh-5308-92.he-3884-64-110.fa-4044.cc-5926-110-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-5351-110-1410.lg-3134-110-1408.sh-5803-1410.ha-5704.he-5578-1321.fa-5467.cc-5690-63",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-3438-92-1423.lg-3483-92-64.he-3070-1410.wa-4060-110-64.cc-5926-64-93",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-1347.hd-180-1389.ch-4361-99-98.lg-3521-98-99.sh-3587-92-93.he-3070-93.fa-1201",
@@ -600,10 +600,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4020-1406-51.hd-3098-10.ch-5831-88.lg-5970-1335.sh-906-1433.ea-3925-84-101",
+    "habboFigure": "hr-5973-1406-51.hd-3098-10.ch-5831-88.lg-5970-1335.sh-906-1433.ea-3925-84-101",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1405.hd-5317-18-14.ch-3032-110-110.lg-280-110.sh-5247-1408-1408.ha-5510.fa-5975.ca-5983-92.cc-3420-1428",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "since 2012",
     "habboFigure": "hr-5019-1407.hd-3604-1368.ch-3443.lg-3023-64.sh-3348-64.fa-3592-110.ca-4965-73-75",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5926-1335-92",
@@ -1803,7 +1803,7 @@
     "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-1342.hd-605-28.ch-5831-92.lg-3192-110.sh-3089-92.ha-5832-1322.he-1608.fa-5467.ca-3175-1427.cc-5926-107-94",
+    "habboFigure": "hr-5619-1404.hd-605-28.ch-5831-92.lg-3192-110.sh-3089-92.ha-5832-1409.fa-5467.ca-3175-1427.cc-5926-1427-94",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2163,7 +2163,7 @@
     "online": true,
     "gender": "m",
     "motto": "sono noioso....",
-    "habboFigure": "hr-3860-34-40.hd-5913-1.ch-3779-81-1408.lg-3407-81-1408.sh-305-81.ha-3709.he-5088.ea-3887.ca-4037-81-1408.wa-3773-81.cc-5961-81-1408",
+    "habboFigure": "hr-3860-34-40.hd-5913-1.ch-3334-81-1408.lg-3596-81-1408.sh-3338-81.ha-3855-81.he-5088.ea-3887.ca-4037-81-1408.wa-3773-81.cc-5961-81-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2673,7 +2673,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-1395.hd-3095-1.ch-5559-1416.lg-5594-77.sh-3089-110.he-5088.ea-3169-110.cc-4386-110-110",
+    "habboFigure": "hr-5791-1395.hd-3095-1.lg-4138-110.sh-5297.ha-5294.he-5088.ea-3169-1327.cc-5290",
     "memberSince": "2020-11-07T02:41:07.000+00:00",
     "uniqueId": "hhit-42e0885596dcd1b8695c74660706a511",
     "name": "ErMonky",
@@ -2691,9 +2691,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "|| Trainer Hooligans ||",
-    "habboFigure": "hr-3163-1407.hd-3102-2.ch-3688-110.lg-3391-92-110.sh-3016-92.he-5088.fa-3296.ca-3485",
+    "habboFigure": "hr-5962-1342.hd-6072-1391-1365.ch-3780-110-92.lg-3058-110.sh-5803-92.he-5088.ea-1401-110",
     "memberSince": "2020-11-19T21:10:20.000+00:00",
     "uniqueId": "hhit-47989af9d0f1ed2e1b4739aea84b550a",
     "name": "direttotrono",
@@ -2863,7 +2863,7 @@
     "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-3163-1342.hd-5913-1.ch-3668-1425-1324.lg-275-92.sh-5803-92.he-5466.fa-3276-72.cc-5800-1324-1324",
+    "habboFigure": "hr-5962-1342.hd-5913-18.ch-3668-110-110.lg-3526-64-110.sh-5803-110.ea-3978-64-64.fa-3276-64.ca-3485.cc-5800-110-110",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Siamo qui,a scacciar la reciproca noia",
     "habboFigure": "hr-3090-36.hd-207-8.ch-210-1408.lg-270-1408.ha-1002-90",
@@ -3433,7 +3433,7 @@
     "online": true,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-3768-51.hd-209-28.ch-5830-77.lg-5970-1335.sh-3338-92.ha-5832-1333.ea-3960.fa-4185-1335.ca-5960-1333-1432.cc-5826-1322",
+    "habboFigure": "hr-3768-51.hd-209-28.ch-3203-63.lg-5970-1335.sh-3338-92.he-3376-1409-110.ea-3959.fa-4185-1331.ca-5960-1333-1432.wa-3264-1333-110.cc-5826-1333",
     "memberSince": "2023-11-03T23:25:54.000+00:00",
     "uniqueId": "hhit-fec333ed2c090448eba7874a06d01270",
     "name": "ChazDrinking",
@@ -3480,7 +3480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " vice controllore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -3500,7 +3500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "pre edict",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-100.lg-275-110.sh-305-92.ea-1404-110.cc-3744-110-110",
@@ -3551,9 +3551,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-540-35.hd-600-1.ch-660-76.lg-710-1408.sh-905-76.fa-1210",
+    "habboFigure": "hr-5962-34.hd-205-3.ch-215-110.lg-3116-85-1412.sh-3206-110.ea-5576-110-110.cp-3122-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3563,7 +3563,7 @@
     "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
-    "habboFigure": "hr-5898-1342-1342.hd-627-1383.ch-3013-110.lg-5927-77-92.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-100.cc-5926-1428-1428",
+    "habboFigure": "hr-5619-1342.hd-627-1383.ch-3013-92.lg-5970-77.sh-5247-92-92.he-3820-110.ea-5576-110-110.fa-3276-100.cc-5926-110-92",
     "memberSince": "2024-02-05T00:48:41.000+00:00",
     "uniqueId": "hhit-4699dc56c922e002dd5dc302b7976058",
     "name": "Segretaria2ban",
@@ -3853,7 +3853,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5773-1403.hd-5913-28.ch-3809-92-92.lg-3267-110-110.sh-5803-92.ha-5620-110.he-3070-92.cc-5926-110-110",
+    "habboFigure": "hr-5773-1403.hd-5913-28.ch-3836-110-92.lg-3483-110-92.sh-5803-92.he-3660-92-92.cc-5926-110-110",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -4253,7 +4253,7 @@
     "online": true,
     "gender": "f",
     "motto": "~Scagnozzo Esperto GD~",
-    "habboFigure": "hr-838-61.hd-625-1370.ch-3213-92-1327.lg-3290-110.sh-3068-92-1327.he-3227-1327.ea-1401-110",
+    "habboFigure": "hr-836-1407.hd-625-1383.ch-3045-110.lg-3088-110-1408.sh-3180-110-110.ea-1401-110",
     "memberSince": "2025-02-09T23:31:32.000+00:00",
     "uniqueId": "hhit-0dcc03ee2ca90df5307435857daa5db0",
     "name": "Mokkanonnt",
