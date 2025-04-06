@@ -73,7 +73,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92.ca-5463",
+    "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
     "memberSince": "2007-05-16T15:56:01.000+00:00",
     "uniqueId": "hhit-c9ba292e49d9125cc03061609ce75906",
     "name": "Jvlian",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista G.d",
     "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4140-64.lg-4138-64.sh-3419-64-66.ha-3986.fa-3344-66.cc-3928",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3852-61.hd-4383-28-13.ch-5917-110.lg-5594-82.he-5997-81.ea-5897-110-110.fa-3276-92",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-34.hd-3631-1-12.ch-3013-110.lg-5594-110.sh-3089-110.ea-1404-110.fa-5835-96",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-280-1427.sh-290-92",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Partner Hooligans",
     "habboFigure": "hr-4363-1403-1403.hd-3536-10-10.ch-5919-1326-95.lg-720-95.sh-3587-92-92.ha-5511.fa-5435",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5898-1354-55.hd-629-1.ch-5831-93.lg-3136-93.sh-3275-93.ha-5832-1321",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1.ch-3806-64.lg-3078-64.sh-300-1408.ha-1004-76.fa-5601-76.cc-3917-76",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-828-61.hd-205-28.ch-3032-1420-92.lg-280-110.sh-3587-92-1420.ha-1005-110.he-3891.fa-5835-73.ca-3414-1329",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1395.hd-3095-1.ch-5559-1416.lg-5594-77.sh-3089-110.he-5088.ea-3169-110.cc-4386-110-110",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "dimentica e guarisci",
     "habboFigure": "hr-834-61.hd-600-3.ch-3013-92.lg-695-1427.sh-3154-92-110.he-3070-93.fa-3276-1412",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ue dannosa",
     "habboFigure": "hr-5773-61.hd-5840-1391-1362.ch-5917-1337.lg-5594-77.sh-5803-92.he-5827-71-1337.fa-3276-1329.ca-5936-1427.cc-5926-92-1410",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5681-42-48.hd-626-10.ch-822-1408.lg-3387-64-76.sh-3068-1408-1408.he-3469-76.fa-3276-72.cc-3373-64",
