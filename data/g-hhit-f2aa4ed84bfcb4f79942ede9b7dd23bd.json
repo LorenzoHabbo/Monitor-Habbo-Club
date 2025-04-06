@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "no npc",
     "habboFigure": "hr-828-1407.hd-180-18.ch-215-1408.lg-280-1427.sh-908-1428.he-3740.fa-5600-1408.cc-5942-1331",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAPO GOLDEN DEMONS",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -1203,7 +1203,7 @@
     "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
-    "habboFigure": "hr-5773-1404.hd-600-10.ch-665-92.lg-4138-1337.sh-5308-86.ha-3709.he-5577-86-94.ea-4021-80-80.fa-5467.wa-3263-89-1409.cc-5690-89",
+    "habboFigure": "hr-4131-1403-1404.hd-600-10.ch-5351-92-77.lg-3134-110-1408.sh-3206-77.he-3805-92.fa-5467.ca-1814.cc-4979-92",
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "95@Rosina@95",
@@ -2143,7 +2143,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5973-1406-40.hd-3098-10.ch-5831-110.lg-5970-110.sh-906-1433.he-3071-101.ea-3925-84-101",
+    "habboFigure": "hr-5973-1406-40.hd-3098-10.ch-5831-110.lg-5970-110.sh-906-1433.he-3071-101.ea-3925-84-101.cp-3310-101",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -7500,7 +7500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-665-1336.lg-5594-110.ha-4192.he-5808-104.ea-1404-110.fa-5624-1413.cc-5926-82-1408",
