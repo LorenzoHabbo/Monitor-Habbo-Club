@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio BP",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-5830-1408.lg-4066-64.ha-1003-1408.he-3833-66.fa-3344-1320.ca-1801-1408.wa-4317-1408.cc-3509-81-82",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-5245-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-1428.ea-5626-110.fa-5835-73.cc-5078-63",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Come la rabbia di amar, alegria. |",
     "habboFigure": "hr-9534-1402.hd-3100-1.ch-3046-1415.lg-3320-110-110.he-3081-68",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-3163-1342.hd-5913-1.ch-3668-1425-1324.lg-275-92.sh-5803-92.he-5466.fa-3276-72.cc-5800-1324-1324",
@@ -2441,9 +2441,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Leggenda Kanun",
-    "habboFigure": "hr-5756-61-61.hd-5696-1387-28.ch-807-110.lg-5594-82.sh-5803-64.fa-5601-1408.cp-5462",
+    "habboFigure": "hr-890-39.hd-629-1370.ch-817-82.lg-3216-64.he-3274-1408",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
