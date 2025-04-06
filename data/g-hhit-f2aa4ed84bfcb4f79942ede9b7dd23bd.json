@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "»Capo Regime Little Italy Corleone»",
     "habboFigure": "hr-5275-1407.hd-6045-1370.ch-3840-92-92.lg-4066-92.sh-3524-110-90.ea-3169-110.fa-3993-110.ca-3131-73-73.cc-3508-110-1408",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "consigliera corleone",
     "habboFigure": "hr-5579-49.hd-615-1.ch-5831-110.lg-3257-110.sh-3016-110.ha-5832-1321",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-5791-1403.hd-3721-2.ch-3934-92-1409.lg-5594-64.sh-3783-92-1408.ha-5597-92.he-5578-92.ea-5897-110-92.ca-5768-110-92.wa-5599-1428-110.cc-5926-77-1408",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3168-93.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -3903,7 +3903,7 @@
     "online": true,
     "gender": "f",
     "motto": "»Donna d'onore Corleone»",
-    "habboFigure": "hr-5617-1398-1398.hd-3099-1391.ch-660-92.lg-710-1337.sh-740-92.he-3218-92.ea-3925-1408-1408.fa-5601-89.ca-5673",
+    "habboFigure": "hr-5617-1398-1398.hd-3099-1391.ch-665-92.lg-710-110.sh-740-92.he-3218-92.ea-3925-1408-1408.fa-5601-89.ca-5673.cc-5926-1426-1408",
     "memberSince": "2011-03-30T14:04:24.000+00:00",
     "uniqueId": "hhit-7d14f78435f2213e5f5bd09e45c8a168",
     "name": "Blackandwhite!",
@@ -4450,10 +4450,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NO",
-    "habboFigure": "hr-125-1316.hd-3092-1.ch-255-1337.lg-280-80.sh-295-1408.cp-3312",
+    "habboFigure": "hr-5306-1354-49.hd-3092-1.ch-215-92.lg-281-81.sh-3035-1410.cc-5800-63-63",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "-sTOP",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5969-1351.hd-4383-10-10.ch-5560-106-106.lg-5594-106.sh-5671-1337.ha-5620-1339.he-5314-1339-92.cc-4108-1337-106",
@@ -4810,7 +4810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-59.hd-3845-28.ch-3185-110.lg-3058-110.he-1609-110.fa-1209-110.ca-5108-110-110.cc-5461-110-110",
@@ -5470,7 +5470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3278-61-31.hd-3092-10.ch-3022-110-110.lg-3058-1428.sh-3027-110-110.ha-3054-110-110.fa-3350.ca-3084-1428-64.wa-3212-110-110.cc-3075-110",
