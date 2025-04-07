@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "»Capo Regime Little Italy Corleone»",
     "habboFigure": "hr-5275-1407.hd-6045-1370.ch-3840-92-92.lg-4066-92.sh-3524-110-90.ea-3169-110.fa-3993-110.ca-3131-73-73.cc-3508-110-1408",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3925-93-1408.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-5899-106.lg-700-66.sh-5671-106.ha-3709",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-78.sh-5803-92.he-3082-1326.fa-5467.ca-5444-1326-92.wa-5370",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-61-61.hd-209-2.ch-5830-92.lg-5594-77",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere G.D º",
     "habboFigure": "hr-4090-34.hd-205-1.ch-3030-90.lg-3328-1408-1408.fa-5601-1408.cc-5926-82-1408",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " º Marinaio BP º",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-5830-1408.lg-4066-64.ha-1003-1408.he-3833-66.fa-3344-1320.ca-1801-1408.wa-4317-1408.cc-3509-81-82",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode-G.D 1 P|||||||||",
     "habboFigure": "hr-5606-1407-49.hd-629-19.ch-3045-110.lg-3078-110.sh-3089-1336.wa-3263-1408-1408.cc-3008-92-110",
@@ -2883,7 +2883,7 @@
     "online": true,
     "gender": "m",
     "motto": "Napoletano",
-    "habboFigure": "hr-5791-32.hd-3845-1.ch-5830-1408.lg-3328-1408-1408.ha-5832-64.fa-5601-1408",
+    "habboFigure": "hr-5791-32.hd-3845-1.ch-5559-1408.lg-3328-1408-1408.fa-5601-1408.cc-3917-64",
     "memberSince": "2015-04-15T22:02:22.000+00:00",
     "uniqueId": "hhit-9ceed277e0def43dfbe28cb7bbd949b5",
     "name": "AlertixOwna",
@@ -3270,10 +3270,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hd-209-10.ch-3987-72-82.lg-4138-82.sh-3419-82-72.ha-5027-72-82.he-5088.ca-3844-82-72.cc-4184-82-72",
+    "habboFigure": "hr-5306-1406-59.hd-209-1362.ch-3688-102.lg-3418-102.sh-3419-102-1413.ha-4103-102-1413.he-3070-92.ea-3484.fa-4058-92.ca-3187-1413.cc-3850-102-1413",
     "memberSince": "2016-01-31T03:11:43.000+00:00",
     "uniqueId": "hhit-5608226366e5b85323558a903129754e",
     "name": "Nikael",
@@ -3572,7 +3572,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "felicissima di non tornare indietro",
+    "motto": "",
     "habboFigure": "hr-5680-34.hd-4383-10-1393.ch-884-110.lg-4066-110.ha-3054-110-1409.he-3070-71.cc-5926-71-1408",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello g.d",
     "habboFigure": "hr-3519-55-40.hd-3096-1.ch-3013-95.lg-3088-95-1408.sh-3089-110.cc-3390-1408-1408",
@@ -4290,7 +4290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-3707-1404-1404.hd-3845-10.ch-5903-80-1414.lg-3136-110.ha-3620.fa-5467",
@@ -5620,7 +5620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
     "habboFigure": "hr-3163-1399.hd-209-1.ch-3683-92-1408.lg-5594-106.ha-5832-106.he-5578-1408.fa-3276-96.cc-4184-106-92",
@@ -7393,7 +7393,7 @@
     "online": false,
     "gender": "f",
     "motto": "Ho un sassolino nella scarpa, ahi",
-    "habboFigure": "hr-3673-1395.hd-600-10.ch-3293-100-92.lg-3174-100-100.sh-3354-100-92.ha-3054-73-1336.he-3218-110.fa-3276-70.ca-3219-1408",
+    "habboFigure": "hr-3673-1394.hd-600-10.ch-3214-100.lg-3174-100-100.sh-3354-100-92.ha-3054-73-1336.he-3218-92.fa-3276-70.ca-3219-1408",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -7910,10 +7910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Protettore della Cittadella 1p G.d.",
-    "habboFigure": "hr-5271-39-34.hd-600-10.ch-4158-82-1408.lg-4113-64-1408.sh-907-82",
+    "habboFigure": "hr-4118-39.hd-600-10.ch-4158-82-1408.lg-4113-64-1408.sh-907-82",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
     "name": "everblacknoemi",
@@ -9740,7 +9740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ªscagnozzo scelto .G.Dª",
     "habboFigure": "hr-5619-59.hd-4163-10-1372.ch-5245-92.lg-5974-110-1408.he-3155-110.fa-3276-96.wa-5599-110-92",
