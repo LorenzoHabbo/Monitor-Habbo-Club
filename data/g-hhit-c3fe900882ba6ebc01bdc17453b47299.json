@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "        Ecate º OBL",
     "habboFigure": "hr-5619-49.hd-615-28.ch-3935-92-1428.lg-710-110.sh-3035-110.ha-5620-110.he-3891.ea-1401-110.cc-5926-110-1408",
@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3925-93-1408.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " º Marinaio BP º",
     "habboFigure": "hr-515-37.hd-600-1.ch-635-73.lg-716-66-1408.sh-735-68",

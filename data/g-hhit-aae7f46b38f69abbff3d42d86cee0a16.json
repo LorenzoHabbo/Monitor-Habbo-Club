@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CAPO GOLDEN DEMONS",
     "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3925-93-1408.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1395.hd-180-1379.ch-3203-77.lg-3407-92-110.sh-3206-110.ha-3709.he-3070-92.ea-3108-110-110.fa-3276-1413.wa-3212-110-1428.cc-5926-96-92",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5828.ea-1404-1408.fa-5752.cc-5926-64-1408",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-5619-47.hd-627-1.ch-665-1408.lg-3526-82-1408.ha-5620-1408.fa-1212.ca-3876-1408-1408.cc-5926-64-1408",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5624-1412.cc-3420-110",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5773-1403.hd-4383-28-1388.ch-3809-92-92.lg-5970-92.sh-5803-1326.he-3070-92.ea-3148-110-110.fa-5467.cc-5926-1326-1326",
