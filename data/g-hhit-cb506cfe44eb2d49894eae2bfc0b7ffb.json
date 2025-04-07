@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Wired Developer",
     "habboFigure": "hr-3194-34-40.hd-180-1370.ch-3683-110-1408.lg-3202-110-1408.sh-295-110.ha-3494-110-1408",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467.cc-3744-1408-1408",
@@ -3850,10 +3850,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5773-1403.hd-615-18.ch-3133-92-92.lg-3483-110-92.sh-5803-92.he-3070-92.ea-3148-110-110.fa-5601-92.cc-5926-110-110",
+    "habboFigure": "hr-4131-61-61.hd-615-18.ch-3133-110-110.lg-3483-110-110.sh-5803-92.he-3070-92.ea-1404-110.fa-5467.cc-5926-110-110",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
