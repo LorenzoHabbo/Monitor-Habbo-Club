@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-3247-59.hd-4383-2-1372.ch-5245-92.lg-5974-110-92.sh-907-92.ha-1012-110.he-5698-96-92.ca-5981-1413-1413.wa-5599-110-92.cc-5961-92-96",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-4363-32-31.hd-3845-10.ch-5903-92-1414.lg-5974-77-92.he-5314-1414-1414.fa-5467",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Comandante 1p GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -473,7 +473,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3715-42-46.hd-600-10.ch-5831-110.lg-3018-1408.he-3070-72.ea-3108-110-110.fa-3276-96",
+    "habboFigure": "hr-3715-42-46.hd-600-10.ch-5831-110.lg-3018-1408.he-3070-72.ea-5897-110-110.fa-3276-96",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alla fine ne uscirai",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3058-110.sh-3089-1424.fa-1204.ca-3217-110-64.wa-2012.cc-3158-64",
@@ -1420,10 +1420,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-1342.hd-4383-10-1364.ch-5907-110-1408.lg-5594-77.sh-4159-98-98.he-5808-99.fa-5467.ca-5444-98-99.wa-5370.cc-5926-98-1327",
+    "habboFigure": "hr-5773-1342.hd-4383-10-1364.ch-5907-110-1408.lg-5594-77.he-5808-99.fa-5467.ca-5444-98-99.wa-5370.cc-5926-98-1327",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere 1p G.D º",
     "habboFigure": "hr-4090-34.hd-205-1.ch-3030-90.lg-3328-1408-1408.fa-5601-1320.cc-5926-82-1408",
@@ -2623,7 +2623,7 @@
     "online": true,
     "gender": "f",
     "motto": "Custode-G.D 1 P|||||||||",
-    "habboFigure": "hr-5606-61-55.hd-629-19.ch-3045-95.lg-3078-110.sh-3089-1336.wa-3263-1408-1408.cc-3008-1336-1328",
+    "habboFigure": "hr-5606-61-55.hd-629-19.ch-3045-95.lg-3078-110.sh-3089-1336.wa-2010.cc-3008-1336-1328",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -4940,7 +4940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato g.d",
     "habboFigure": "hr-3791-45.hd-3845-10.ch-3528-84-1320.lg-3526-64-64.sh-3524-85-1408.he-3821-85-84.fa-3276-73.cc-5826-85",
@@ -7323,7 +7323,7 @@
     "online": true,
     "gender": "m",
     "motto": "SEMP CA MAZZ TOST",
-    "habboFigure": "hr-5756-61-61.hd-5696-28-28.ch-220-110.lg-285-110.sh-300-92.ha-5854.fa-1204",
+    "habboFigure": "hr-5756-61-61.hd-190-28.ch-220-110.lg-285-110.sh-300-92.ha-1013-110.fa-1206-1408",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
