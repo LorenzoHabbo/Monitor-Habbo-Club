@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "consigliera corleone",
     "habboFigure": "hr-5579-49.hd-615-1.ch-3013-110.lg-3257-110.sh-3016-110.ha-4194.he-3070-93",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-3438-110-1322.lg-3483-92-64.ha-5591.he-3070-1410.wa-4060-110-64.cc-5926-64-94",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
