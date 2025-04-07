@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.cc-5826-92",
@@ -393,7 +393,7 @@
     "online": true,
     "gender": "m",
     "motto": "ª- BLaCK PeaRL-ª",
-    "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.ha-1005-110.ea-1402.fa-3462-110.wa-2002.cc-3509-110-110",
+    "habboFigure": "hr-3247-1353.hd-190-23.ch-3203-1408.lg-3915-110-110.sh-305-110.ha-3675-63-73.ea-3262-110-110.fa-1201.wa-2002.cc-3007-110-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -420,10 +420,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arci-Capo Golden Demons",
-    "habboFigure": "hr-3531-40-40.hd-190-10.ch-5830-1408.lg-5594-64.sh-3383-64-1408.ha-5557-64-64.he-1609-64.fa-5601-1408.ca-5981-64-1408.cc-5558-64-1408",
+    "habboFigure": "hr-3531-40-40.hd-190-10.ch-5830-1408.lg-5594-64.sh-3383-64-1408.ha-5832-64.fa-5601-1408.ca-5981-64-1408.cc-5558-64-1408",
     "memberSince": "2012-05-04T20:03:24.000+00:00",
     "uniqueId": "hhit-76cf6015b96ceb33ad0619f32fa119c5",
     "name": "SuperDavide2003",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aspirante RP",
     "habboFigure": "hr-155-42.hd-205-1.ch-230-64.lg-285-64.sh-305-64",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
     "habboFigure": "hr-3768-1347.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-6044.cp-3205",
@@ -830,9 +830,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "º Uomo Di Fiducia E.W. º",
+    "motto": "º R.P. º",
     "habboFigure": "hr-3829-42.hd-190-10.ch-3323-64-64.lg-3596-64-64.sh-3419-64-1408.he-3740.ea-3750.ca-3876-1408-64.cc-3420-64",
     "memberSince": "2017-05-19T12:26:31.000+00:00",
     "uniqueId": "hhit-c6911601905d7b6f4b15ca7329acdf4f",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Masarez YK º",
     "habboFigure": "hr-4131-1351-40.hd-3096-28.ch-660-110.lg-710-110.sh-3016-110.he-1609-1417.ea-3148-110-110.fa-3276-64.wa-3264-63-1408",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5828.ea-1404-1408.fa-5752.cc-5926-64-1408",
@@ -1293,7 +1293,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5841-1356.hd-5838-28-1367.ch-5559-1408.lg-5732-110-73.sh-3720-110-110.he-5828.fa-5492-73-73.ca-5702-110-92.wa-3264-73-1427.cc-5926-110-1408",
+    "habboFigure": "hr-5841-44.hd-5838-28-1367.ch-5559-1408.lg-5732-110-73.sh-3720-110-110.he-5828.fa-5492-73-73.ca-5702-110-92.wa-3264-73-1427.cc-5926-110-1408",
     "memberSince": "2021-11-18T16:02:21.000+00:00",
     "uniqueId": "hhit-218871d4f17d91b77b5dc2fdb52b2aa2",
     "name": "Jarchy",
@@ -1543,7 +1543,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5624-1412.cc-3420-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-280-63.sh-305-92.he-1604.fa-5601-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-665-92.lg-5594-77.sh-3089-92.he-5314-1341-1341.fa-3276-1328.cc-5926-1341-1325",
@@ -1633,7 +1633,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5773-1403.hd-4383-28-1388.ch-3809-92-92.lg-5970-92.sh-5803-1326.he-3070-92.ea-3148-110-110.fa-5467.cc-5926-1326-1326",
+    "habboFigure": "hr-5773-61.hd-4383-28-1393.ch-660-110.lg-3006-110-110.sh-5803-92.he-3070-92.fa-5601-92.cc-5926-110-110",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-31.hd-205-1.ch-215-91.lg-280-91.sh-908-91.ha-3173-1408.fa-3276-73",
