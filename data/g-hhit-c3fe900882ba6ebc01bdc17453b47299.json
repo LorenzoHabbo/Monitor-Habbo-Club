@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "        Ecate º OBL",
     "habboFigure": "hr-5619-49.hd-615-28.ch-3935-92-1428.lg-710-110.sh-3035-110.ha-5620-110.he-3891.ea-1401-110.cc-5926-110-1408",
@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Gloria fugace l’oscurità è per sempreº",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-665-110.lg-710-110.sh-725-92.he-4946-110.ea-1401-110.cc-5078-110",
@@ -740,9 +740,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": " º Mozzo BP º",
+    "motto": " ºGarzone Sottocoperta º",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-3688-1408.lg-4066-1408.ha-4050.he-5088.ea-5897-1408-1408.fa-3344-1320.ca-1801-1408.wa-4317-1408.cc-3509-80-82",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
@@ -883,7 +883,7 @@
     "online": false,
     "gender": "f",
     "motto": "\"Mi delirio y mi condena\".",
-    "habboFigure": "hr-5969-61.hd-4163-2-30.ch-5453-77-1414.lg-5970-1338.sh-5551.ha-5469-1327-1337.he-5802-92.fa-5601-1326.ca-5136.wa-5123-1327.cc-5926-1327-110",
+    "habboFigure": "hr-5969-1405.hd-4163-2-1361.ch-4063-110-1409.lg-3333-110.sh-5464-110-110.he-4946-110.fa-5703.ca-5771-110-110.wa-5836-110-110.cc-5307-101",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "EmyCatania12",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Consigliere Kanun",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-5832-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "per gli amici e-e a verità 18250",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-6043.he-4971.ea-4985.ca-5002.wa-5370",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sayonara",
     "habboFigure": "hr-3163-49.hd-190-2.ch-255-72.lg-4138-92.sh-905-72.ha-4348.he-3070-1408.ea-1404-110",
@@ -2000,17 +2000,17 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "oblivion ª",
-    "habboFigure": "hr-4941-1342-1342.hd-5913-18.ch-3668-110-110.lg-3526-64-110.sh-5803-110.he-4977-64-110.ea-3978-64-64.fa-3276-64.ca-3485.cc-5800-110-110",
+    "habboFigure": "hr-3163-1342.hd-5913-1.ch-3668-1425-1324.lg-275-92.sh-5803-92.he-5466.fa-3276-72.cc-5800-1324-1324",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  - ª Clan Oblivion ª -           ‘ƒA",
     "habboFigure": "hr-5124-61.hd-5317-28-1368.ch-3203-110.lg-5594-110.he-5828.fa-5601-1408.ca-5936-1408.cc-5926-76-110",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sentinella R.(i.)P.",
     "habboFigure": "hr-3278-42-40.hd-180-8.lg-3019-1323.sh-300-110.he-5088.fa-1209-110.wa-4317-70.cc-3692-1323-110",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-5544-42-40.hd-615-1.ch-3809-64-66.lg-5594-64.sh-3383-64-1408.he-3324-75-64.ca-5769-1408-1408.cc-4076",
