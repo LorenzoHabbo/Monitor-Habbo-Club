@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "F",
     "habboFigure": "hr-893-42.hd-190-1370.ch-265-1408.lg-3116-64-1408.sh-3068-1408-91.ha-1018.fa-3276-1408",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L’inferno int’a ll’anema♪",
     "habboFigure": "hr-4118-42.hd-626-10.ch-823-1408.lg-3387-64-76.sh-3068-76-1408.he-1605-76.fa-3276-72.ca-1804-76.cc-3373-64",
