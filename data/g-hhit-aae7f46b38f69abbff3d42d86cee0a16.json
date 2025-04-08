@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",
@@ -973,7 +973,7 @@
     "online": true,
     "gender": "m",
     "motto": "LE PRINCIPESSE BALLANO L'HAB-HOP",
-    "habboFigure": "hr-828-51.hd-209-1370.ch-5394.lg-3078-106.sh-3275-92.ha-4325.fa-1211.ca-1815-1327.wa-3798-94-1328.cc-3360-67",
+    "habboFigure": "hr-828-51.hd-209-1370.lg-3078-64.ha-4325.fa-1211.cc-5926-63-1408",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5828.ea-1404-1408.fa-5752.cc-5926-64-1408",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1395.hd-3095-1.lg-4138-110.sh-5297.ha-5294.he-5088.ea-3169-1327.cc-5290",
@@ -1550,10 +1550,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
-    "habboFigure": "hr-5619-1342.hd-627-1383.ch-3013-92.lg-5970-77.sh-5247-92-92.ha-3544.ea-5576-110-110.fa-3276-1412.cc-5926-110-92",
+    "habboFigure": "hr-5619-1342.hd-627-1383.ch-3013-92.lg-5970-77.sh-5247-92-92.ha-3544.he-3070-92.ea-5576-110-110.fa-3276-1412.cc-5926-110-92",
     "memberSince": "2024-02-05T00:48:41.000+00:00",
     "uniqueId": "hhit-4699dc56c922e002dd5dc302b7976058",
     "name": "Segretaria2ban",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5619-1397.hd-615-2.ch-665-1325.lg-5970-67.sh-5803-89.he-3082-1324.fa-5467.cc-5926-77-77",
