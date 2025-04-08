@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-1401-61.hd-3845-28.ch-5245-64.lg-5594-64.sh-3419-1408-1408.he-3660-110-1408.fa-5601-92.wa-5986-110.cc-5926-110-1408",
@@ -103,7 +103,7 @@
     "online": true,
     "gender": "m",
     "motto": "~ OSU",
-    "habboFigure": "hr-3746-61.hd-180-10.ch-3001-110-1408.lg-285-110.ea-3148-110-101",
+    "habboFigure": "hr-3163-1407.hd-180-10.ch-215-92.lg-285-77.sh-3089-110.ha-4094-110-110.ea-1404-110.fa-5600-1427",
     "memberSince": "2007-12-31T12:48:14.000+00:00",
     "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
     "name": "francesco97!",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5969-1351.hd-4383-10-10.ch-5560-106-106.lg-5594-106.sh-5671-1337.ha-5620-1339.he-5314-1339-92.cc-5926-1337-106",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TRP - PE - LA - OM",
     "habboFigure": "hr-125-61.hd-3092-1.ch-804-110.lg-280-92.sh-3206-110.fa-3344-110",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-2.ch-3668-92-110.lg-5594-110.sh-5247-92-110.he-3891.fa-5601-92.cc-5800-110-110",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3012-32.hd-605-28.ch-826-92-1326.lg-715-92.sh-725-92.ha-1008.he-5911-92.fa-5456-94",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
     "habboFigure": "hr-5619-1397.hd-615-2.ch-665-1325.lg-5970-67.sh-5803-89.he-3082-1324.fa-5467.cc-5926-77-77",
