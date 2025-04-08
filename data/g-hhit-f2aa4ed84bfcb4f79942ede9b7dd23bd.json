@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-830-40.hd-3845-8.ch-235-81.lg-285-90.sh-300-1408.fa-1201.ca-1801-1408",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-165-32.hd-190-1370.ch-808-1408.lg-285-81.sh-290-1408.ha-1002-73",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5973-1406-40.hd-3098-10.ch-5831-110.lg-5970-110.sh-906-1433.he-3071-101.ea-3925-84-101.cp-3310-101",
@@ -5810,7 +5810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Affiliato Corleone",
     "habboFigure": "hr-3499-45.hd-209-20.ch-3323-1408-64.lg-285-64.sh-3068-1408-76.fa-3344-91",
