@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "no npc",
     "habboFigure": "hr-828-1404.hd-180-22.ch-267-110.lg-280-110.sh-908-110.ha-3586.he-3070-1408.cc-5926-110-1408",
@@ -283,7 +283,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5360-1404.hd-3093-1.ch-5830-89.lg-4066-1409.sh-3016-110.ea-5641",
+    "habboFigure": "hr-3670-1404.hd-3093-1.ch-5830-89.lg-4066-1409.sh-3016-110.ea-5641",
     "memberSince": "2006-10-06T18:37:46.000+00:00",
     "uniqueId": "hhit-1e5ce1e418595d5b24ad5ba72c5b292c",
     "name": "diavoletto96",
@@ -1412,7 +1412,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Uomo d'onore Little Italy-Corleone",
+    "motto": "Uomo d'onore Fam. Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-110.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-92",
     "memberSince": "2009-04-01T19:42:14.000+00:00",
     "uniqueId": "hhit-92c7bb1c60e0da28a0fc29907e750bb5",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L|",
     "habboFigure": "hr-5772-34-49.hd-3631-1-12.ch-665-92.lg-5594-1326.sh-5803-92.he-5808-92.fa-3276-72.cc-5461-92-1326",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-165-32.hd-190-1370.ch-808-1408.lg-285-81.sh-290-1408.ha-1002-73",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5973-1406-40.hd-3098-10.ch-5831-110.lg-5970-110.sh-906-1433.he-3071-101.ea-3925-84-101.cp-3310-101",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "o, death. become my blade, once more.",
     "habboFigure": "hr-831-61.hd-205-10.ch-255-1418.lg-3596-110-110.sh-3035-1408.ha-3544.he-3716.cc-5461-64-1408",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sas",
     "habboFigure": "hr-170-42.hd-180-10.ch-3109-72-76.lg-280-64.sh-908-76.ha-3352-64-72.fa-3378-64-1408.cc-3389-64-64",
@@ -6410,7 +6410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
@@ -7113,7 +7113,7 @@
     "online": true,
     "gender": "m",
     "motto": "motto che non motta",
-    "habboFigure": "hr-3860-61-61.hd-180-2.ch-5488-110.lg-4138-110.sh-3587-110-110.ha-3585-92.he-1609-110.fa-3296",
+    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-110.ha-3586.he-1609-110.fa-3296",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -7170,7 +7170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Hesitation is defeat",
     "habboFigure": "hr-3163-61.hd-205-10.ch-3668-110-92.lg-5594-110.sh-3587-92-92.ha-3488.he-3070-92.fa-5601-1408.cc-3420-110.cp-3310-92",
@@ -9180,7 +9180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HJI Poli",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -9840,9 +9840,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Pezzo Grosso Corleone",
+    "motto": "Uomo d'onore Corleone",
     "habboFigure": "hr-3829-39.hd-209-1.ch-4165-64-73.lg-4066-64.sh-3524-64-1408.ea-3578.cc-3360-64",
     "memberSince": "2015-10-07T16:27:51.000+00:00",
     "uniqueId": "hhit-000a5b87bb69189c59417767420ac53c",
