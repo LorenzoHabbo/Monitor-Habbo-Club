@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
     "habboFigure": "hr-3163-1399.hd-209-1.ch-3683-92-1408.lg-5594-106.ha-5832-106.he-5578-1408.fa-3276-96.cc-4184-106-92",
@@ -1900,10 +1900,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-545-37.hd-625-1.ch-660-81.lg-695-82.he-1609-64.fa-1202-64",
+    "habboFigure": "hr-545-37.hd-625-1.ch-630-1408.lg-695-1408.he-1609-64.fa-1202-64",
     "memberSince": "2025-03-17T22:36:25.000+00:00",
     "uniqueId": "hhit-967e7a27aeae3b92ebf49060386a83cf",
     "name": ":DeliciOus.",
