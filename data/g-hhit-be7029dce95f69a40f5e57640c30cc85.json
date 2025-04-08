@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "»Capo Regime Little Italy Corleone»",
     "habboFigure": "hr-5275-1407.hd-6045-1370.ch-3840-92-92.lg-4066-92.sh-3524-110-90.ea-3169-110.fa-3993-110.ca-3131-73-73.cc-3508-110-1408",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-540-40.hd-600-10.ch-5831-1408.lg-700-90.ha-5832-1408.ea-3726.fa-3147-73.ca-4336-73-90.wa-3074-73-1408",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-685-81.lg-3526-1408-82.sh-3354-81-1408.he-3329-81-1408.fa-3276-73.ca-1813.wa-4317-1408.cc-4943-1408",
@@ -2940,10 +2940,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Sicario Corleone",
-    "habboFigure": "hr-5619-45.hd-3631-10-12.ch-3399-73-73.lg-3355-82-73.fa-3276-72",
+    "habboFigure": "hr-5619-45.hd-3631-10-12.ch-210-1408.lg-3078-64.fa-3276-72",
     "memberSince": "2010-06-30T15:24:10.000+00:00",
     "uniqueId": "hhit-160321256998d3649411e8c0ba0ab307",
     "name": "DolceEla",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -4023,7 +4023,7 @@
     "online": false,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-98-92.wa-5370",
+    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-1326-92.wa-5370",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -8840,7 +8840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",

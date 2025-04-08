@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "»Capo Regime Little Italy Corleone»",
     "habboFigure": "hr-5275-1407.hd-6045-1370.ch-3840-92-92.lg-4066-92.sh-3524-110-90.ea-3169-110.fa-3993-110.ca-3131-73-73.cc-3508-110-1408",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -2540,10 +2540,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Sicario Corleone",
-    "habboFigure": "hr-5619-45.hd-3631-10-12.ch-3399-73-73.lg-3355-82-73.fa-3276-72",
+    "habboFigure": "hr-5619-45.hd-3631-10-12.ch-210-1408.lg-3078-64.fa-3276-72",
     "memberSince": "2010-06-30T15:24:10.000+00:00",
     "uniqueId": "hhit-160321256998d3649411e8c0ba0ab307",
     "name": "DolceEla",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-125-1405.hd-4023-18.ch-3032-92-92.lg-275-92.sh-5247-92-92.ea-1406",
@@ -3783,7 +3783,7 @@
     "online": false,
     "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-98-92.wa-5370",
+    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-1326-92.wa-5370",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -6410,7 +6410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
@@ -6730,7 +6730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -7170,7 +7170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Hesitation is defeat",
     "habboFigure": "hr-3163-61.hd-205-10.ch-3668-110-92.lg-5594-110.sh-3587-92-92.ha-3488.he-3070-92.fa-5601-1408.cc-3420-110.cp-3310-92",
@@ -9060,7 +9060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",
