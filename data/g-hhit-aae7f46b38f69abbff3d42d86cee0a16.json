@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-3323-64-1408.lg-5594-1409.sh-5247-92-77.ha-1015.he-3732.fa-1203.ca-5737-64.cc-5077-77",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Fam. Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-110.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-92",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hd-180-1370.ch-3030-85.lg-285-1320.ha-1004-1320",
@@ -393,7 +393,7 @@
     "online": true,
     "gender": "m",
     "motto": "ª-Garzone di Coperta BP-ª",
-    "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.ha-1005-110.ea-3141.fa-3345-110.wa-2002.cc-3509-110-110",
+    "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -523,7 +523,7 @@
     "online": true,
     "gender": "m",
     "motto": "motto che non motta",
-    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-110.ha-3586.he-1609-110.fa-3296",
+    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-110.ha-3586.he-1609-110.fa-3296.cc-5942-110",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -693,7 +693,7 @@
     "online": true,
     "gender": "f",
     "motto": "sono apatica e antipatica",
-    "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1420.lg-710-1337.sh-5247-92-92.he-3891.fa-5601-92.ca-3885-92-1408",
+    "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1420.lg-710-1337.sh-5247-92-92.ha-3544.fa-5601-92.ca-3885-92-1408",
     "memberSince": "2015-12-11T16:11:14.000+00:00",
     "uniqueId": "hhit-6de415084834dc1589253227e0dda9c3",
     "name": "_itsnali",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-110.lg-5594-64.sh-5247-92-1408.ha-4094-1408-1408.he-3884-64-64.ea-5576-92-92.wa-5719",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "F3N0M3N0 [Sentinella - R.P]",
     "habboFigure": "hr-3936-1404-1404.hd-5913-28.ch-3013-92.lg-710-1409.sh-5247-92-92.he-3070-92.ea-5910-1322-92.fa-3276-1414.cc-5800-1322-1322",
@@ -1083,7 +1083,7 @@
     "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-5019-31.hd-205-2.ch-255-64.lg-280-80.sh-305-1408.ea-1404-110",
+    "habboFigure": "hr-828-52.hd-205-18.ch-215-110.lg-280-77.sh-305-1408",
     "memberSince": "2020-02-14T13:19:32.000+00:00",
     "uniqueId": "hhit-2e6d90d6c6b1bae3d0382e46355637fd",
     "name": "Accursed",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ºsono una capo regime della Masarezº",
     "habboFigure": "hr-5773-61.hd-627-1364.ch-3005-110-110.lg-3057-110.sh-906-110.ha-5832-1416.fa-3276-1417.cc-4106-110-1410",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Masarez YK º",
     "habboFigure": "hr-4131-1351-40.hd-3096-28.ch-660-110.lg-710-110.sh-3016-110.he-1609-1417.ea-3148-110-110.fa-3276-64.wa-3264-63-1408",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5619-1342.hd-627-1383.ch-3013-92.lg-5970-77.sh-5247-92-92.ha-3544.he-3070-92.ea-5576-110-110.fa-3276-1412.cc-5926-110-92",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-1371.ch-665-83.lg-3078-85.ha-1013-84.fa-3276-72.cc-5926-84-84",
