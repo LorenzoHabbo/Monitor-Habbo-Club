@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cp-5883-92",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LE PRINCIPESSE BALLANO L'HAB-HOP",
     "habboFigure": "hr-3674-33-1394.hd-209-1370.ch-5833-110-92.lg-285-67.sh-5247-110-92.ea-1401-89.fa-1206-67.wa-3211-92-92",
@@ -3730,7 +3730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "fara' male, guarirai",
     "habboFigure": "hr-834-1394.hd-615-2.ch-3013-92.lg-720-1427.sh-908-92.ha-5620-1415.he-3070-93.fa-3276-1412",
