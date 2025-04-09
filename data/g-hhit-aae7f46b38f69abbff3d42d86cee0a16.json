@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-61.hd-3095-9.ch-235-1408.lg-275-110.sh-295-1408.ea-3168-110.wa-2003",
@@ -393,7 +393,7 @@
     "online": true,
     "gender": "m",
     "motto": "ª-Guardia di Coperta BP-ª",
-    "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
+    "habboFigure": "hd-180-8.ch-875-94-1408.lg-280-1419.sh-3524-110-1408.ea-3108-72-110.fa-1205-1408.ca-3916-75-75.cc-3827-94-1408",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-31.hd-600-10.ch-824-96.lg-5970-1338.sh-3089-96.ha-3463-96.he-3974.fa-5467.ca-4959",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -1061,9 +1061,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "-",
-    "habboFigure": "hr-5019-31.hd-205-2.ch-255-64.lg-280-80.sh-305-1408.ea-1404-110",
+    "habboFigure": "hr-3090-45.hd-600-1.ch-685-91.lg-710-91.sh-3180-90-90.ha-1005-90.he-1608",
     "memberSince": "2020-02-14T13:19:32.000+00:00",
     "uniqueId": "hhit-2e6d90d6c6b1bae3d0382e46355637fd",
     "name": "Accursed",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Masarez YK º",
     "habboFigure": "hr-4131-1351-40.hd-3096-28.ch-660-110.lg-710-110.sh-3016-110.he-1609-1417.ea-3148-110-110.fa-3276-64.wa-3264-63-1408",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "NAPOLETANA CU L'UOCCHIJ A CINESIN",
     "habboFigure": "hr-4117-1403-1403.hd-615-2.ch-655-110.lg-710-110.sh-725-110.ha-1005-110.he-3070-1410.ea-1404-1408.fa-3276-72.cc-3744-110-110",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-5619-47.hd-627-1.ch-665-1408.lg-3526-82-1408.ha-5620-1408.fa-1212.ca-3876-1408-1408.cc-5926-64-1408",
