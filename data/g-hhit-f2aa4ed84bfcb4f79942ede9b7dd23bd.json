@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "consigliera corleone",
     "habboFigure": "hr-5579-49.hd-615-1.ch-3013-110.lg-3257-110.sh-3016-110.ha-4194.he-3070-93",
@@ -281,9 +281,9 @@
   },
   {
     "online": false,
-    "gender": "f",
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5360-61.hd-3997-1387.ch-6039.lg-716-110-1408.sh-740-110.ha-1011-91.ea-3108-110-64.fa-5211-1325",
+    "habboFigure": "hr-6034-1404-1396.hd-3093-1.ch-5830-89.lg-4066-1409.sh-3016-110.ea-5641",
     "memberSince": "2006-10-06T18:37:46.000+00:00",
     "uniqueId": "hhit-1e5ce1e418595d5b24ad5ba72c5b292c",
     "name": "diavoletto96",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5619-1404.hd-600-10.ch-3013-1322.lg-3017-89-110.sh-6043.ha-5591.he-3070-1321.fa-5467.ca-5916-64-64.wa-3263-89-67.cc-5926-1320-110",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Uomo d'Onore Fam. Corleone »",
     "habboFigure": "hr-3163-1405.hd-3721-26.ch-3688-64.lg-275-110.sh-3587-110-1331.he-1609-1331.fa-1203.ca-3844-110-110.cc-3509-1331-92",
@@ -2873,7 +2873,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-5317-3-28.ch-3934-92-110.lg-280-110.sh-5247-110-92.ha-5510.ca-3175-92.cc-3420-110",
+    "habboFigure": "hr-5791-1403.hd-5317-3-27.ch-3934-92-110.lg-280-110.sh-5247-110-92.ha-5512.he-3552.fa-4168-110.ca-5983-80.cc-3420-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-5136.wa-3263-110-1320.cc-3509-82-1408",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-1342.hd-3845-1.ch-5830-110.lg-3418-1409.sh-5247-92-64.he-5074-92.fa-5600-92.ca-5936-92.cc-5926-1425-92",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -5060,7 +5060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-61-1407.hd-5838-11-1367.ch-3934-92-110.lg-5594-64.sh-3206-92.he-3740.fa-1204.ca-3885-1408-1408.cc-3867-110-64",
@@ -6410,10 +6410,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
-    "habboFigure": "hr-5969-33.hd-3604-1367.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
+    "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
@@ -9593,7 +9593,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
-    "habboFigure": "hd-3603-1.ch-5021-110-110.lg-3136-68.sh-5729-96-108.ha-4294.he-1608.fa-4013.ca-3844-95-110.wa-5123-102",
+    "habboFigure": "hd-4174-27.ch-3203-110.lg-3136-1427",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -9800,7 +9800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non posso dirlo",
     "habboFigure": "hr-3871-40.hd-180-10.ch-3486-1408-1408.lg-285-81.sh-295-80.ha-3709.ea-3925-80-80.ca-5807-1320-80",
