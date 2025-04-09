@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3163-1407.hd-180-10.ch-215-92.lg-285-77.sh-3089-110.ea-1404-110.fa-5600-1427",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-540-40.hd-600-10.ch-5831-1408.lg-700-90.ha-5832-1408.ea-3726.fa-3147-73.ca-4336-73-90.wa-3074-73-1408",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-685-81.lg-3526-1408-82.sh-3354-81-1408.he-3329-81-1408.fa-3276-73.ca-1813.wa-4317-1408.cc-4943-1408",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª-Garzone di Coperta BP-ª",
     "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
@@ -490,10 +490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "gothic",
-    "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-5923-110-1418.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-5926-1418-110",
+    "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-630-1408.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-5926-1418-110",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "bulle7prøøf ∞",
     "habboFigure": "hr-5445-1347.hd-627-28.ch-665-110.lg-5594-92.he-5915.fa-4046.ca-5635-92-92.cc-5926-1327-92",
@@ -760,10 +760,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "in apnea",
-    "habboFigure": "hr-5619-1404.hd-605-28.ch-655-110.lg-710-110.sh-3035-1427.ha-1005-110.he-3070-92.fa-5467.ca-3292-86.cc-3744-110-110",
+    "habboFigure": "hr-5619-1404.hd-605-28.ch-655-92.lg-5594-77.sh-3206-92.ha-3026-92.he-3070-92.fa-5467.ca-3085-92.cc-5800-1324-1324",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1063,7 +1063,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3012-32.hd-5913-28.ch-826-92-1326.lg-715-92.sh-725-92.ha-1008.he-5911-92.fa-5456-94",
+    "habboFigure": "hr-3012-32.hd-5913-28.ch-826-92-1326.lg-715-92.ha-1008.he-3918.fa-5456-94",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -1133,7 +1133,7 @@
     "online": false,
     "gender": "m",
     "motto": "Fortis Fortuna Adiuvat",
-    "habboFigure": "hr-3829-45.hd-207-8.ch-255-64.lg-3418-64.he-1608.ea-3925-1408-1408.cc-3917-64",
+    "habboFigure": "hr-3829-45.hd-207-8.ch-255-64.lg-3078-64.he-1608.ea-3925-1408-1408.cc-3917-64",
     "memberSince": "2020-07-28T20:46:19.000+00:00",
     "uniqueId": "hhit-4202ee2ceaf657434a08158ffd538be2",
     "name": "p-p-calzelunghe",
@@ -1180,10 +1180,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-1395.hd-3095-1.lg-4138-110.sh-5297.ha-5294.he-5088.ea-4987.cc-5290",
+    "habboFigure": "hr-5791-1395.hd-3095-1.lg-4138-110.sh-5297.ha-5294.he-5088.ea-4987.ca-5592-110-106.cc-5290",
     "memberSince": "2020-11-07T02:41:07.000+00:00",
     "uniqueId": "hhit-42e0885596dcd1b8695c74660706a511",
     "name": "ErMonky",
@@ -1533,7 +1533,7 @@
     "online": false,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-275-110.sh-5803-92.ea-1404-110.cp-3309-92",
+    "habboFigure": "hr-3163-34.hd-205-2.ch-875-92-1408.lg-275-110.sh-5247-92-92.ha-5557-110-77.he-3070-92.cc-5485-92-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -1623,7 +1623,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ BARISTA G.D ¥",
-    "habboFigure": "hr-5619-1398.hd-615-10.ch-665-1325.lg-5970-1409.sh-5803-89.he-3082-1325.fa-5467.cc-5926-1324-1324",
+    "habboFigure": "hr-5619-1398.hd-615-1.ch-665-1325.lg-5970-1409.sh-5803-89.he-3082-1325.fa-5467.cc-5926-1324-1324",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-1371.ch-665-83.lg-3078-85.ha-1013-84.fa-3276-72.cc-5926-84-84",

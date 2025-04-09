@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3163-1407.hd-180-10.ch-215-92.lg-285-77.sh-3089-110.ea-1404-110.fa-5600-1427",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5679-61-61.hd-600-2.ch-5831-92.lg-5594-77.ea-5910-110-92.fa-3276-96",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-540-40.hd-600-10.ch-5831-1408.lg-700-90.ha-5832-1408.ea-3726.fa-3147-73.ca-4336-73-90.wa-3074-73-1408",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-685-81.lg-3526-1408-82.sh-3354-81-1408.he-3329-81-1408.fa-3276-73.ca-1813.wa-4317-1408.cc-4943-1408",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -4653,7 +4653,7 @@
     "online": false,
     "gender": "m",
     "motto": "Gangster Corleone",
-    "habboFigure": "hr-5791-45.hd-180-1.ch-5559-64.lg-281-64.sh-5803-1408.he-5578-1408.ea-1404-64.fa-5600-1408",
+    "habboFigure": "hr-5791-45.hd-180-1.ch-5559-64.lg-3116-82-1408.sh-5803-80.he-5578-1408.ea-1404-64.fa-5600-1408",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
@@ -4973,7 +4973,7 @@
     "online": true,
     "gender": "f",
     "motto": " - AD10S",
-    "habboFigure": "hr-3673-32.hd-600-1370.ch-4166-82-1408.lg-3320-82-1408.sh-4112-82-1408",
+    "habboFigure": "hr-3673-32.hd-600-1370.ch-3809-82-1408.lg-3320-82-1408.sh-4112-82-1408.cc-4108-82-1408",
     "memberSince": "2011-08-05T14:06:46.000+00:00",
     "uniqueId": "hhit-275260fa25473fa3b6742d33f14e557c",
     "name": "manullahotels",
@@ -5080,7 +5080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -5160,7 +5160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Masarez",
     "habboFigure": "hr-4031-1401-61.hd-3845-1363.ch-5735-110-1419.lg-4191-92-92.ha-4192.he-5314-110-1419.fa-5601-97.cc-5461-1419-110",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª-Garzone di Coperta BP-ª",
     "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
@@ -5630,10 +5630,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "forever MSRZ º",
-    "habboFigure": "hr-5619-1342.hd-3956-28-1377.ch-5560-110-110.lg-5594-88.sh-5308-1410.ha-5832-1321.ea-5576-110-64.fa-4058-92.ca-5604-110-92.cc-5926-110-92",
+    "habboFigure": "hr-5619-1342.hd-5913-28.ch-660-1414.lg-3502-92.sh-5803-92.he-5314-1414-1414.fa-5456-1408.cc-4300-1414-92",
     "memberSince": "2011-12-10T13:54:58.000+00:00",
     "uniqueId": "hhit-1aececd81b1ee6f57c05517a1b0f9eb4",
     "name": "Pioggia,",
@@ -5690,7 +5690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ay Amor, me duele tanto.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3185-1415.lg-4066-63.sh-3016-99.ea-3169-1416.ca-3292-63",
@@ -7030,10 +7030,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "gothic",
-    "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-5923-110-1418.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-5926-1418-110",
+    "habboFigure": "hr-6035-49-59.hd-5319-28-28.ch-630-1408.lg-3933-1418.sh-6043.ha-6037.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-5926-1418-110",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -7780,7 +7780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "             Anime e Manga |",
     "habboFigure": "hr-540-48.hd-625-10.ch-655-91.lg-3216-73.ha-1013-91.he-3274-73.fa-3276-73.ca-1807.cp-3288-73",
@@ -7873,7 +7873,7 @@
     "online": false,
     "gender": "f",
     "motto": "...",
-    "habboFigure": "hr-4363-49-1396.hd-6047-1390.ch-3689-89.lg-3596-89-1408.sh-3621-89-1424.ha-5832-89.he-5482.ea-5910-110-92.fa-5600-92.ca-3485.cc-5926-108-92",
+    "habboFigure": "hr-4363-49-1396.hd-6047-1390.ch-3689-89.lg-3596-89-1408.sh-3621-89-1424.ha-5832-89.he-5911-89.ea-5910-110-1408.fa-5600-92.ca-5916-110-92.cc-5926-110-92",
     "memberSince": "2014-02-23T12:43:53.000+00:00",
     "uniqueId": "hhit-fbfb9941548d16a65a422b5c66b08f29",
     "name": "MaryAlien",
@@ -8110,7 +8110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tell me what you really like",
     "habboFigure": "hr-3829-51.hd-207-10.ch-3167.lg-5594-110.sh-3089-110.ea-3169-110.fa-4058-92.wa-5676.cc-5077-77",
@@ -9000,7 +9000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Consigliere Kanun",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
