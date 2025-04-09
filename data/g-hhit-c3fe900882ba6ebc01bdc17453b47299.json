@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non è una favola, è una prigione.",
     "habboFigure": "hr-9534-59.hd-3100-1.ch-3046-1315.lg-3320-110-110.he-3081-68",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.lg-270-64.ha-1026.he-3069-1326-1326.ca-1804-63",
