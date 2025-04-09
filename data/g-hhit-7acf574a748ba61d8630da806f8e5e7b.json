@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-61.hd-3092-3.ch-5596-110.lg-5594-64.sh-5308-1410.ha-3352-64-92.he-5578-1408.fa-5601-68.ca-5769-92-92",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3925-93-1408.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -860,10 +860,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-5830-110.lg-5594-1338.sh-3419-1409-1409.he-3070-92.ca-5381-63",
+    "habboFigure": "hr-3531-1398-1398.hd-190-7.ch-5830-110.lg-5594-1338.sh-4112-92-110.he-3070-92.ca-5381-63",
     "memberSince": "2011-11-26T16:03:53.000+00:00",
     "uniqueId": "hhit-b924b0493c185642a9e308d05f3607fc",
     "name": "TheWizard",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-85.lg-5113-90.sh-305-64.ha-3591.he-5074-1408.fa-5280-73.ca-4036-88.cc-4091-64",
@@ -2013,7 +2013,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3800-1400-34.hd-5153-12.ch-4221-102.lg-5163-1430.sh-3089-1327.he-4261.cc-5150-93",
+    "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3841-42.hd-180-1.ch-210-1408.lg-3787-64-1408.cc-5761-64-73",
@@ -3110,7 +3110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
@@ -3313,7 +3313,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-34.hd-205-2.ch-875-92-1408.lg-275-110.sh-5247-92-92.ha-5557-110-77.he-3070-92.cc-5485-92-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3070-92.fa-5624-1412.cc-3420-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3473,7 +3473,7 @@
     "online": false,
     "gender": "f",
     "motto": "Scriba Celeste di Salathial G.D.",
-    "habboFigure": "hr-4352-45.hd-4383-1-8.ch-5919-81-81.lg-4369-81-64.sh-5308-81.he-5808-64.ca-5604-64-81",
+    "habboFigure": "hr-4352-45.hd-4383-1-12.ch-5919-71-81.lg-4369-71-64.sh-5308-71.he-5808-64.ca-5604-64-71",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -4180,7 +4180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-1371.ch-665-83.lg-3078-85.ha-1013-84.fa-3276-72.cc-5926-84-84",
