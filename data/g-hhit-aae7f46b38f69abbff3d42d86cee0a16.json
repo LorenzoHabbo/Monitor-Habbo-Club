@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5907-110-92.lg-5545-110-110.sh-5308-92.he-3884-64-110.fa-4044.cc-5926-110-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3925-93-1408.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-80.lg-3216-64.sh-907-64.he-3274-80",
