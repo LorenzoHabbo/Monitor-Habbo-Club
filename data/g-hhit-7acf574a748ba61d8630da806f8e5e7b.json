@@ -273,14 +273,14 @@
     "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
-    "habboFigure": "hr-125-1398.hd-180-1.ch-3438-110-1322.lg-3483-92-64.ha-5591.he-3070-1410.ea-5897-1424-110.wa-4060-110-64.cc-5926-64-94",
+    "habboFigure": "hr-125-1398.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-1410.ea-5897-1424-110.wa-4060-110-64.cc-5926-64-94",
     "memberSince": "2009-02-18T14:30:01.000+00:00",
     "uniqueId": "hhit-2324439fab9bf1743b5232868fe0eb77",
     "name": "Alibi,Mc",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-4383-28-14.ch-665-92.lg-5594-1326.he-4977-1321-1326.fa-3276-92",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Fam. Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5830-1321.lg-3138-93-1408.ha-5832-93.fa-1211.cc-3744-94-1322",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-61.hd-3095-3.ch-3779-110-1408.lg-5594-82.cc-3542-1423-92",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "speedy gonzalez",
     "habboFigure": "hr-155-1394.hd-180-1370.ch-3032-110-64.lg-270-110.sh-3524-92-92.ea-3108-1412-92.cc-3360-110",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio - BP",
     "habboFigure": "hr-829-42.hd-180-8.ch-3279-1327.lg-3023-1417.sh-3089-79.ha-1011-1416.fa-1204.wa-3211-64-73.cc-3075-1419",
@@ -701,9 +701,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Bobba!",
-    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-1326-92.wa-5370",
+    "habboFigure": "hr-3048-1399-59.hd-5682-1365.ch-5488-1315.lg-5909-82-1408.sh-905-95",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -810,10 +810,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
-    "habboFigure": "hd-180-8.ch-875-94-1408.lg-280-1419.sh-3524-110-1408.ea-3108-72-110.fa-1205-1408.ca-3916-75-75.cc-3827-94-1408",
+    "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1223,7 +1223,7 @@
     "online": true,
     "gender": "f",
     "motto": "LOL",
-    "habboFigure": "hr-6035-59-1406.hd-5840-10-14.ch-5245-92.lg-5594-88.ea-5392.fa-5391.ca-5444-64-92.wa-5370.cc-5926-70-1320",
+    "habboFigure": "hr-6035-59-1406.hd-5840-10-1365.ch-5245-92.lg-5594-88.ea-5392.fa-5391.ca-5444-110-92.wa-5370.cc-5926-70-93",
     "memberSince": "2014-10-01T18:28:54.000+00:00",
     "uniqueId": "hhit-5560b6310c7dc8eff31c673730437989",
     "name": "SeleneRyan",
@@ -1303,7 +1303,7 @@
     "online": true,
     "gender": "m",
     "motto": "Loading...",
-    "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-1321-110",
+    "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
     "memberSince": "2015-11-21T12:54:28.000+00:00",
     "uniqueId": "hhit-b7c33b11768cda68b7bf6ab7aa993889",
     "name": "salvo701",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Baila, baila con l’Oblivion ª",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-3934-92-110.lg-5594-1429.sh-3621-92-1408.ha-5597-110.he-3891.ea-5897-110-110.fa-5601-110.wa-2001.cc-5926-110-1408",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Musicista di bordo - BP ª",
     "habboFigure": "hr-3090-42.hd-209-1370.ch-5488-64.lg-270-1408.sh-3068-64-1408.ha-3605-64-64.fa-1201",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥",
     "habboFigure": "hr-3829-42.hd-180-1370.ch-225-64.lg-4138-64.sh-305-64.he-5088.ea-1404-64.ca-1805-64",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-64.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.ea-1404-110.ca-4336-96-110.cc-5926-1325-1325",
@@ -3483,7 +3483,7 @@
     "online": false,
     "gender": "f",
     "motto": "Scriba Celeste di Salathial G.D.",
-    "habboFigure": "hr-5680-1394.hd-4383-7-1363.ch-5901-92-1339.lg-4369-92-110.sh-5671-92.ha-5620-1339.cc-9865-1339",
+    "habboFigure": "hr-5680-1394.hd-4383-7-1363.ch-5901-92-1339.lg-4369-92-110.sh-5671-92.he-5314-1339-1339",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
