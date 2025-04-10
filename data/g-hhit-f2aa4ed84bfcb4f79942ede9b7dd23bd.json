@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Brooklyn • Luchino•",
     "habboFigure": "hr-3163-49.hd-209-1390.ch-3185-78.lg-275-1408.sh-3016-78.ha-3709.he-3070-1408.fa-5601-1408.ca-3175-1408.cc-5826-78",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5933-1404.hd-600-10.ch-5957-89-1333.lg-3017-89-1333.sh-6043.ha-5591.he-5578-1321.fa-5467.ca-5936-1335.wa-3263-89-67.cc-5926-1333-110",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-1410.ea-5897-1424-110.wa-4060-110-64.cc-5926-64-94",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "800A",
     "habboFigure": "hr-3163-61.hd-3092-1362.lg-3257-110.wa-3263-1336-1408.cc-5926-102-1408",
@@ -3800,10 +3800,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "m",
+    "online": true,
+    "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-3048-1399-59.hd-5682-1364.ch-5488-1315.lg-5909-82-1408.sh-905-95",
+    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-1326-92.wa-5370",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -5090,7 +5090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-34.hd-190-10.ch-3368-110-1408.lg-3057-1428.ha-3488.ea-3751.fa-3276-110.cc-3542-1336-1408",
@@ -7123,7 +7123,7 @@
     "online": true,
     "gender": "m",
     "motto": "motto che non motta",
-    "habboFigure": "hr-3860-42-42.hd-180-1370.ch-3030-64.lg-4138-64.sh-3587-64-1408.ha-5326.he-1609-1408.ca-5502.cc-5323",
+    "habboFigure": "hr-3860-61-42.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3612-110.he-1609-110.cc-3246-110",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -9092,7 +9092,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Builder Designer©®™ NaughtyDog!|",
+    "motto": "Builder Designer©®™ NaughtyDog",
     "habboFigure": "hr-5962-1343.hd-3721-1359.ch-3203-1327.lg-4017-89-89.sh-3252-1325-89.he-5765-1409.fa-5636-1320.cc-5077-1425.cp-3205",
     "memberSince": "2015-04-22T14:21:58.000+00:00",
     "uniqueId": "hhit-558183d112426b4f79f09868fe04e574",

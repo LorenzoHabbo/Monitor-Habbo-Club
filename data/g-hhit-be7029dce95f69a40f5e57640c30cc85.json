@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "curiosoni, andate via! ©",
     "habboFigure": "hr-5331-49-54.hd-190-10.ch-3683-1324-89.lg-5594-77.sh-3035-1428.he-3070-92.fa-5600-104.ca-5463.wa-5784.cc-5926-92-92",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5933-1404.hd-600-10.ch-5957-89-1333.lg-3017-89-1333.sh-6043.ha-5591.he-5578-1321.fa-5467.ca-5936-1335.wa-3263-89-67.cc-5926-1333-110",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-1410.ea-5897-1424-110.wa-4060-110-64.cc-5926-64-94",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-40.hd-205-10.ch-3323-1408-1408.lg-285-81.sh-300-1408.ha-1020.he-1606-81.ca-3844-64-1408.cc-5461-90-90",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mi siddia.",
     "habboFigure": "hr-831-56.hd-3845-25.ch-3688-1417.lg-5594-110.sh-3089-110.he-3070-1337.fa-5601-97.cc-4979-110",
@@ -3920,7 +3920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "800A",
     "habboFigure": "hr-3163-61.hd-3092-1362.lg-3257-110.wa-3263-1336-1408.cc-5926-102-1408",
@@ -4010,10 +4010,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "m",
+    "online": true,
+    "gender": "f",
     "motto": "Bobba!",
-    "habboFigure": "hr-3048-1399-59.hd-5682-1364.ch-5488-1315.lg-5909-82-1408.sh-905-95",
+    "habboFigure": "hr-5773-1342.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.he-5808-95.fa-5467.ca-5444-1326-92.wa-5370",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -7343,7 +7343,7 @@
     "online": true,
     "gender": "m",
     "motto": "motto che non motta",
-    "habboFigure": "hr-3860-42-42.hd-180-1370.ch-3030-64.lg-4138-64.sh-3587-64-1408.ha-5326.he-1609-1408.ca-5502.cc-5323",
+    "habboFigure": "hr-3860-61-42.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3612-110.he-1609-110.cc-3246-110",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -9660,10 +9660,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sono apatica e antipatica",
-    "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1420.lg-710-1337.sh-5247-92-92.ha-3544.fa-5601-92.ca-3885-92-1408",
+    "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1420.lg-710-1337.sh-5247-92-92.ha-3544.fa-5601-92.ca-3885-92-1408.cc-5926-1420-1408",
     "memberSince": "2015-12-11T16:11:14.000+00:00",
     "uniqueId": "hhit-6de415084834dc1589253227e0dda9c3",
     "name": "_itsnali",
