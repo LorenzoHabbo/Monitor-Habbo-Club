@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Gloria fugace l’oscurità è per sempreº",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-665-110.lg-710-110.sh-725-92.he-4946-110.ea-1401-110.cc-5078-110",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1352.hd-190-28.ch-210-1408.lg-4167-110.sh-908-1419.he-3891.ea-3750.cc-5733-110-1419",
@@ -1043,7 +1043,7 @@
     "online": true,
     "gender": "m",
     "motto": "lonely and empty",
-    "habboFigure": "hr-893-45.hd-180-1.ch-3030-73.lg-281-1408.sh-305-1408",
+    "habboFigure": "hr-893-45.hd-180-1.ch-3030-1408.lg-281-1408.sh-305-1408",
     "memberSince": "2016-06-22T19:58:17.000+00:00",
     "uniqueId": "hhit-0f4129a7492de483f4c4d2f6525c0d6a",
     "name": "FujitsuSenpai-",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-31.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-5832-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
