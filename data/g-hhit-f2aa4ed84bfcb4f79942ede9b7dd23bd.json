@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -480,10 +480,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "piedi",
-    "habboFigure": "hd-180-14.ch-215-73.lg-275-81.sh-290-64.ha-1017.he-1608.fa-1205-1408",
+    "habboFigure": "hr-892-40.hd-180-14.ch-215-73.lg-275-81.sh-290-64.ha-1017.fa-1205-1408",
     "memberSince": "2007-12-19T12:18:04.000+00:00",
     "uniqueId": "hhit-6473b64e688d6acd4c3c1234d955ce1e",
     "name": "il-rivoluzionario",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cp-5883-92",
