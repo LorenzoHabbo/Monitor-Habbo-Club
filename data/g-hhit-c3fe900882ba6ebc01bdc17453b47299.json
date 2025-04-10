@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non è una favola, è una prigione.",
     "habboFigure": "hr-9534-61.hd-3100-1.ch-3046-92.lg-3320-110-110.he-3081-68",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-3163-1342.hd-5913-1.ch-3668-64-92.lg-275-64.sh-5803-64.he-4977-92-1331.ea-3978-64-64.fa-3276-72.cc-5800-92-92",
@@ -3037,6 +3037,16 @@
     "memberSince": "2025-01-22T14:43:24.000+00:00",
     "uniqueId": "hhit-77c5d2600154cc4101f4618c9af802eb",
     "name": "nicolalalofi",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Recluta Oblivion",
+    "habboFigure": "hr-165-37.hd-209-1.ch-255-72.lg-285-64.sh-3180-64-1408.wa-2011",
+    "memberSince": "2025-03-03T22:15:45.000+00:00",
+    "uniqueId": "hhit-b611565af1d366e9767c8bf3ebe0feda",
+    "name": "Luca88",
     "isAdmin": false
   },
   {
