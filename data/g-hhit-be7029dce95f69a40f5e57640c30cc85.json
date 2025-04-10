@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-5791-1403.hd-3721-2.ch-3934-92-68.lg-5594-64.sh-3783-92-1408.ha-5597-92.he-5578-92.ea-5897-110-92.ca-5768-110-92.wa-5599-1428-110.cc-5926-77-1408",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-828-61.hd-205-28.ch-210-1409.lg-280-1427.sh-290-92",
@@ -2483,7 +2483,7 @@
     "online": true,
     "gender": "m",
     "motto": "crikey",
-    "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.cc-5826-92",
+    "habboFigure": "hr-829-61.hd-3095-3.ch-3779-110-1408.lg-5594-82.cc-3542-1423-92",
     "memberSince": "2010-02-20T20:43:33.000+00:00",
     "uniqueId": "hhit-4b1d63857591fd85de66adbc149c4ce8",
     "name": "darkpaolo95",
@@ -2493,7 +2493,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5973-40-40.hd-600-14.ch-5831-1408.lg-5970-1408.sh-906-1408.ea-3925-84-1408",
+    "habboFigure": "hr-5973-40-40.hd-600-14.ch-5831-1408.lg-5970-1408.sh-906-1408.he-5911-1408.ea-3925-84-1408",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1.ch-215-81.lg-275-90.sh-3524-90-1408.ea-1401-1408",
