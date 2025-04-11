@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "since 2009",
     "habboFigure": "hr-3786-58-57.hd-185-1365.lg-5970-77.sh-3383-80-80.fa-5760.ca-5759.wa-5674.cc-3874-1338-77",
@@ -1640,10 +1640,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".Oblivion.",
-    "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
+    "habboFigure": "hr-5933-1404.hd-600-10.ch-5245-1321.lg-5927-1338-93.sh-3089-68.he-3329-1321-93.fa-5467.ca-4958",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "hool hooligans",
     "habboFigure": "hr-5306-48-42.hd-5913-1.ch-3688-73.lg-5594-64.ha-3709.he-5088.ea-5897-76-1408.ca-4037-73-64.cc-5961-73-64",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
