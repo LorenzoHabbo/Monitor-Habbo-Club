@@ -180,10 +180,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-5791-1403.hd-3721-2.ch-3934-92-68.lg-5594-64.sh-3783-92-1408.ha-5597-92.he-5578-92.ea-5897-110-92.ca-5768-110-92.wa-5599-1428-110.cc-5926-77-1408",
+    "habboFigure": "hr-5602-1403.hd-3721-2.ch-3728-92-110.lg-5594-64.sh-3783-92-1408.ha-3662-92-1408.ca-3702-92-92.cc-6077",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5917-110.lg-5594-64.ha-3586.he-5808-63.ea-5897-110-110.fa-3276-92",
@@ -483,7 +483,7 @@
     "online": true,
     "gender": "m",
     "motto": "crikey",
-    "habboFigure": "hr-829-61.hd-3095-3.ch-3779-110-1408.lg-5594-82.cc-3542-1423-92",
+    "habboFigure": "hr-829-61.hd-3095-3.ch-3779-110-1408.lg-5594-82.sh-3089-110.cc-3542-110-92",
     "memberSince": "2010-02-20T20:43:33.000+00:00",
     "uniqueId": "hhit-4b1d63857591fd85de66adbc149c4ce8",
     "name": "darkpaolo95",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
     "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-40.hd-205-10.ch-255-64.lg-285-81.sh-908-1408.ha-1002-1408",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " ºGuardia Di Coperta º",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-3688-1408.lg-4066-1408.ha-4050.he-5088.fa-3344-1320.ca-1801-1408.wa-4317-1408.cc-3509-80-82",
@@ -1330,10 +1330,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Baila, baila con l’Oblivion ª",
-    "habboFigure": "hr-3163-61.hd-3721-18.ch-3934-92-110.lg-5594-1429.sh-3621-92-1408.ha-5597-110.he-3891.ea-5897-110-110.fa-5601-110.wa-2001.cc-5926-110-1408",
+    "habboFigure": "hr-3163-61.hd-3721-18.ch-3934-92-110.lg-5594-1429.sh-3621-92-1408.ha-5597-110.he-3891.ea-5897-110-110.fa-5601-110.cc-5926-110-110",
     "memberSince": "2015-12-08T23:06:35.000+00:00",
     "uniqueId": "hhit-56f2614f980c484781cbdedc16f6b262",
     "name": "Duki_",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Madrina Corleone »",
     "habboFigure": "hr-515-1407.hd-615-28.ch-665-110.lg-3018-1427.sh-5247-92-110.he-3070-1321.fa-5467.cc-5926-1430-92",
@@ -3320,7 +3320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-1426.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3013-110.lg-5594-77.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-1412.ca-3885-92-92.cc-6077",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "voglia di drink e di venerdi",
     "habboFigure": "hr-5619-1404.hd-615-2.ch-3501-92.lg-5594-1338.sh-740-92.ha-5620-92.fa-5600-92",
