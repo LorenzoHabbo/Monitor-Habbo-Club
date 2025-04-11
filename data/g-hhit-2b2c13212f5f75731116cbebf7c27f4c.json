@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-4363-32-31.hd-3845-10.ch-5903-92-1414.lg-5974-77-92.he-5314-1414-1414.fa-5467.cc-6077",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3372-1408-1408.lg-3365-1408.sh-290-1408.ha-4133-91.ca-5028-66-91.cc-5826-64",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-61.hd-3095-3.ch-3779-110-1408.lg-5594-82.sh-3089-110.cc-3542-110-92",
@@ -7450,7 +7450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "il mondo cade a pezzi noi compresi",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-665-110.lg-5974-110-110.sh-5247-92-110.ha-4050.he-5199.fa-3276-96.ca-3828-92-110.cc-6077",
