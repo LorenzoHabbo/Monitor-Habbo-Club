@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-37.hd-3095-1370.ch-3185-81.lg-3023-92.sh-906-1408.ha-3026-92.he-5088.ea-3925-93-1408.fa-4168-92.ca-1802.wa-5123-80.cp-3125-96",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
     "habboFigure": "hr-3048-1400-1402.hd-180-1.ch-235-91.lg-280-108.sh-3154-70-1323.ea-3169-1322.fa-1201.cc-887-108",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Appocundria",
     "habboFigure": "hr-5619-1404.hd-605-28.ch-655-110.lg-710-110.sh-3035-1427.ha-1005-110.he-3070-92.fa-5467.ca-3292-86.cc-3744-110-110",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "SM4CK TH4T [Maestra D’Armi - R.P]",
     "habboFigure": "hr-3936-55-55.hd-5913-10.ch-3013-110.lg-710-110.sh-5247-92-92.he-3070-92.ea-5910-110-92.fa-3276-1414.cc-5800-110-110",
@@ -1120,10 +1120,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
-    "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5828.ea-1404-1408.fa-5752.cc-5926-64-1408",
+    "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5828.ea-1404-1408.fa-5752.cc-6077",
     "memberSince": "2020-07-30T19:13:23.000+00:00",
     "uniqueId": "hhit-67b75c5e1842a089bad6b3951c98ea72",
     "name": "michelinus",
@@ -1500,10 +1500,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-255-1408.lg-280-63.sh-5803-92.fa-5601-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-280-63.sh-5803-92.he-3070-92.fa-5601-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
