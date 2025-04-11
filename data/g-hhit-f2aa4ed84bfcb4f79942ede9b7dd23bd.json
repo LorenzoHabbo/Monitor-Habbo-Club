@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DS Corleone",
     "habboFigure": "hr-5331-1404-40.hd-190-1370.ch-5830-110.lg-5226.sh-5803-92.ha-3156-110.ea-5576-110-1408.ca-1816.cc-3420-64",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Wired Developer",
     "habboFigure": "hr-828-1397.hd-180-3.ch-3208-110-82.lg-3058-110.sh-295-110.ea-3484",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -2893,7 +2893,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5285-1405-40.hd-5317-18-27.ch-3934-92-110.lg-5594-110.sh-5247-1408-1408.he-3884-110-1428.fa-5975.cc-5926-110-110.cp-5946",
+    "habboFigure": "hr-5285-1405-40.hd-205-18.ch-3934-92-110.lg-280-110.sh-5247-1408-1408.he-3070-1408.ea-1404-110.fa-5975",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "800A",
     "habboFigure": "hr-3163-61.hd-3092-1362.lg-3257-110.wa-3263-1336-1408.cc-5926-102-1408",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.he-3082-1326.fa-5467.ca-5444-92-95.wa-5370.cc-6077",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NO",
     "habboFigure": "hr-5306-1354-49.hd-3092-1.ch-215-92.lg-5594-81.sh-3035-1410.ha-3362.cc-5800-63-63",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I valorosi salgono alle vette.",
     "habboFigure": "hr-115-42.hd-190-1.ch-225-73.lg-270-68.sh-3621-1408-82.wa-2011",
@@ -9190,7 +9190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-1408.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3075-110",
