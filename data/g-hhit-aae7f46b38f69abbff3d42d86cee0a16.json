@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5907-110-92.lg-5545-110-110.sh-5308-92.he-3884-64-110.fa-4044.cc-5926-110-110",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1425-1330.lg-3057-82.sh-3089-1330.ha-1013-100.ea-3108-110-110.fa-3344-110.wa-5676.cc-5826-1330",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-61.hd-3095-3.ch-3779-110-1408.lg-5594-82.cc-3542-1423-92",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
     "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.fa-1205-110.wa-2002.cc-3509-110-110",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1407.hd-205-2.ch-267-1408.lg-280-110.sh-5803-92.he-3070-1408.fa-5601-1408.cc-6077",
@@ -1050,9 +1050,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "º Eternal Warriors - In Pensione º",
+    "motto": "º Leggenda Spartana R.P. In Pensioneº",
     "habboFigure": "hr-125-42.hd-190-1.ch-3030-64.lg-3116-64-1408.sh-295-1408.ha-1004-64",
     "memberSince": "2020-03-14T11:39:26.000+00:00",
     "uniqueId": "hhit-b53a6e5fbd6c306faf48e0934a39bdb4",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5828.ea-1404-1408.fa-5752.cc-6077",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " Controllore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
