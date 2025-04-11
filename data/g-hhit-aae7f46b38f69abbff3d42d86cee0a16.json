@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",
@@ -823,7 +823,7 @@
     "online": true,
     "gender": "f",
     "motto": "SM4CK TH4T [Maestra D’Armi - R.P]",
-    "habboFigure": "hr-3936-55-55.hd-5913-10.ch-3013-110.lg-710-110.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-1414.cc-5800-110-110",
+    "habboFigure": "hr-3936-55-55.hd-5913-10.ch-3013-110.lg-710-110.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-1414.cc-5800-92-92",
     "memberSince": "2018-01-06T13:23:25.000+00:00",
     "uniqueId": "hhit-35547eca94a0fce9dd9bb1af158e0b61",
     "name": ",auro",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5619-1342.hd-627-1383.ch-3013-92.lg-5970-77.sh-5247-92-92.ha-3544.he-3070-92.ea-5576-110-110.fa-3276-1412.cc-5926-110-92",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-1371.ch-665-83.lg-3078-85.ha-1013-84.he-3918.fa-3276-72.cc-5926-84-84",
