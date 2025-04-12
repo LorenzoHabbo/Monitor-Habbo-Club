@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5907-110-92.lg-5545-110-110.sh-5308-92.he-3884-64-110.fa-4044.cc-5926-110-110",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -1660,10 +1660,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
-    "habboFigure": "hr-830-40.hd-3845-8.ch-230-73.lg-3088-64-64.sh-3068-64-1408.fa-3344-64",
+    "habboFigure": "hr-830-40.hd-3845-8.ch-230-1408.lg-3088-64-64.sh-3068-64-1408.fa-3344-64.ca-1815-64",
     "memberSince": "2009-08-09T22:58:14.000+00:00",
     "uniqueId": "hhit-adffc83317c2eb163c765a55afea1ed2",
     "name": "PazzoDr.Alex",
@@ -2890,10 +2890,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-205-3.ch-3934-92-110.lg-280-110.sh-5247-110-92.ha-5510.ea-1404-110.fa-5975.ca-5574-110-1428.cc-5926-110-110",
+    "habboFigure": "hr-5791-1405.hd-5317-18-14.ch-3934-110-110.lg-280-110.sh-5247-110-1408.ha-5512.fa-5975.ca-5983-1321.cc-3420-1428",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bobba!",
     "habboFigure": "hr-5773-1405.hd-4383-10-14.ch-5907-110-1408.lg-5594-77.sh-5803-92.ha-5301-1326.he-5802-77.fa-5467.ca-5807-93-1326.wa-5370.cc-5461-1326-77",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NO",
     "habboFigure": "hr-5791-1405.hd-3092-1.ch-3032-1331-1408.lg-5594-81.sh-3035-1410.ha-3495-92-100.he-5088.ea-3640.cc-5800-110-110",
@@ -5113,7 +5113,7 @@
     "online": false,
     "gender": "m",
     "motto": "Zingaro Corleone",
-    "habboFigure": "hr-889-48.hd-4174-1.ch-3934-92-110.lg-4167-85.sh-4112-1322-1322.ha-5832-1321.fa-3993-110.ca-3187-96.cc-5826-96.cp-3126-92",
+    "habboFigure": "hr-4162-33.hd-4174-1.ch-3934-92-110.lg-4167-85.sh-4112-1322-1322.ha-5832-1321.fa-3993-110.ca-3187-96.cc-5826-96.cp-3126-92",
     "memberSince": "2011-12-28T19:04:38.000+00:00",
     "uniqueId": "hhit-9bc943caf216aaef328288a622dcdd00",
     "name": "tom.boom",
@@ -6970,7 +6970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "/ Segretaria Corleone",
     "habboFigure": "hr-3852-45.hd-4383-1-30.ch-665-73.lg-3320-81-80.he-5314-73-73.ca-5463.cc-5926-64-64",
@@ -7180,7 +7180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "it drives me so far",
     "habboFigure": "hr-3163-40.hd-205-10.ch-3668-110-92.lg-5594-110.sh-3587-92-92.ha-3488.he-3070-92.fa-5601-1408.cc-3420-64",
@@ -7520,7 +7520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-45-40.hd-600-1370.ch-3669-1336-1408.lg-5594-110.he-5808-104.ea-3148-110-1408.fa-5624-1413",
