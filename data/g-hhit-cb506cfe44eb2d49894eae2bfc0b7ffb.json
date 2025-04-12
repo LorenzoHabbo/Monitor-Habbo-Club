@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-3322-42.hd-180-10.ch-210-1408.lg-3023-64.fa-5600-1408",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cc-6070.cp-5883-92",
@@ -3250,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3791-1348.hd-3096-2.ch-665-63.lg-3361-97.sh-3435-63-92.ha-1009-92.he-3070-63.fa-3276-96.cc-5926-92-97",
