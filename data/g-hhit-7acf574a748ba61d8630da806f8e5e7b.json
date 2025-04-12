@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.cc-5926-64-92",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3013-110.lg-5594-77.sh-5247-92-92.he-3070-92.ea-5576-110-110.fa-3276-1412.ca-3885-92-92.cc-6077",
@@ -4210,7 +4210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "L’inferno int’a ll’anema♪",
     "habboFigure": "hr-5681-42-40.hd-626-10.ch-4385-76.lg-3078-82.sh-3068-1408-1408.ha-5709-76.fa-3276-72",
