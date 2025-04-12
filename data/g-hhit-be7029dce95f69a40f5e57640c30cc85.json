@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-1397-33.hd-3091-10.ch-3222-92.lg-3019-64.sh-3016-1323.he-5915.ea-1406.fa-1205-67.cc-5926-1323-94",
@@ -7390,7 +7390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SICILIAN LOVE!",
     "habboFigure": "hr-828-46.hd-5696-28-1365.ch-3806-77.lg-270-110.he-5348.fa-1212.ca-5981-77-110.cc-3289-110",
@@ -8800,7 +8800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-31.hd-209-10.ch-255-73.lg-281-81.sh-305-1408.ha-1018",
