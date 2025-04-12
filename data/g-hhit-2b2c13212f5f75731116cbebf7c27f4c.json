@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5907-110-92.lg-5545-110-110.sh-5308-92.he-3884-64-110.fa-4044.cc-5926-110-110",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-3786-36-36.hd-209-1.ch-5830-1408.lg-3521-82-1408.sh-3524-1408-81.ha-1004-81.he-1608.ea-1404-64",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere Fidato G.D º",
     "habboFigure": "hr-4090-1398.hd-3102-1.ch-3323-92-92.lg-3328-1426-82.sh-3035-92.he-3070-1321.fa-5601-1320.ca-3219-110.cc-5926-110-1321",
@@ -2643,7 +2643,7 @@
     "online": true,
     "gender": "f",
     "motto": "cancelliere dell' eden | G.D",
-    "habboFigure": "hr-3810-61.hd-600-14.ch-885-100-92.lg-3200-66.he-3181-99",
+    "habboFigure": "hr-3810-61.hd-3100-19.ch-3045-95.lg-4066-95.he-3181-99.wa-2010.cc-3373-99",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -5040,7 +5040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-5969-31.hd-3845-10.ch-3135-96.lg-3006-73-92.sh-3089-96.he-3274-73.fa-3276-73",
@@ -6520,10 +6520,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "...e tu sei il mio cuore|",
-    "habboFigure": "hr-3673-42.hd-629-10.ch-4067-85-85.lg-715-73.sh-907-64.fa-3276-73",
+    "habboFigure": "hr-3673-42.hd-629-10.ch-4067-85-85.lg-715-73.sh-907-64.he-3274-85.fa-3276-72",
     "memberSince": "2022-04-04T17:36:16.000+00:00",
     "uniqueId": "hhit-44e614b9d30c1a2a5d7894b691522dc4",
     "name": "Margherita-94",
@@ -8190,7 +8190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-100.hd-209-10.ch-215-64.lg-275-64.sh-906-64",
