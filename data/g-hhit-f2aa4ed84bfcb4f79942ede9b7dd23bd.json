@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-1410.ea-5897-1424-110.wa-4060-110-64.cc-5926-64-1408",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Consigliere Corleone.",
     "habboFigure": "hr-5756-1394-1394.hd-5838-1-19.ch-4361-110-1408.lg-5594-80.sh-5871-110-92.he-3070-93.ea-5392.fa-5387.ca-3175-63.cc-5926-92-1408",
@@ -7520,7 +7520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-45-40.hd-600-1370.ch-3669-1336-1408.lg-5594-110.he-5808-104.ea-3148-110-1408.fa-5624-1413",
