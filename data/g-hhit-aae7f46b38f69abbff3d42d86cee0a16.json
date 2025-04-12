@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5681-60-40.hd-4383-10-10.ch-3013-104.lg-5594-110.sh-5671-104.ha-5620-1422.cc-5926-110-1422",
@@ -390,10 +390,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
-    "habboFigure": "hd-180-27.ch-3059-110.lg-3017-110-64.sh-3419-110-110.ha-4094-110-110.ea-5897-1408-1408.fa-1205-110.cc-5926-110-110",
+    "habboFigure": "hd-180-27.ch-3059-110.lg-3017-110-64.sh-3419-110-110.ha-3415-110-110.ea-5897-1408-1408.fa-1205-110.cc-5926-110-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
