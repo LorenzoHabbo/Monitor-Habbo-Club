@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-1410.ea-5897-1424-110.wa-4060-110-64.cc-5926-64-1408",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-1394-1354.hd-180-1370.ch-4361-1432-92.lg-3787-1413-96.sh-3587-92-92.he-3070-93.fa-1201",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cc-6070.cp-5883-92",
@@ -653,7 +653,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-3163-1405.hd-205-18.ch-3934-92-110.lg-280-110.sh-5247-1408-1408.he-3070-1408.ea-1404-110.fa-5975.cc-3420-64",
+    "habboFigure": "hr-3163-1405.hd-205-18.ch-3934-92-110.lg-280-110.sh-5247-1408-1408.he-3740.ea-1404-110.fa-5975.cc-3420-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -953,7 +953,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo Way !",
-    "habboFigure": "hr-3664-1342.hd-205-2.ch-5954-110-86.lg-3418-110.sh-4112-63-110.he-3070-110.cc-6077",
+    "habboFigure": "hr-3664-1342.hd-205-2.ch-5596-1427.lg-3418-110.sh-4112-63-110.he-3070-110.cc-6077",
     "memberSince": "2011-09-30T17:45:26.000+00:00",
     "uniqueId": "hhit-7ea047ebae5b6c447b0f226b0f450b9a",
     "name": "muryou",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fan del nu metal",
     "habboFigure": "hr-115-37.hd-208-1370.ch-255-64.lg-3078-82.sh-295-64.ha-3352-90-1408.he-1609-1408.fa-3276-72.wa-2007",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cerco calma negli scoli di peroni",
     "habboFigure": "hr-802-45.hd-180-1.ch-3342-91-1320.lg-285-1320.sh-3524-91-1408.ha-1002-1320.ea-1404-64",
@@ -3133,7 +3133,7 @@
     "online": false,
     "gender": "f",
     "motto": "Ho un sassolino nella scarpa, ahi",
-    "habboFigure": "hr-3673-1401.hd-600-10.ch-3250-1429.lg-3190-1429-1410.he-3082-1331.fa-3276-70.wa-3263-70-66",
+    "habboFigure": "hr-3673-49.hd-600-10.ch-3005-92-110.lg-3174-110-92.sh-3354-110-92.he-3082-92.fa-3276-70",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "NAPOLETANA CU L'UOCCHIJ A CINESIN",
     "habboFigure": "hr-4117-1403-1403.hd-615-2.ch-655-110.lg-710-110.sh-725-110.ha-1005-110.he-3070-1410.ea-1404-1408.fa-3276-72.cc-3744-110-110",
@@ -3533,7 +3533,7 @@
     "online": true,
     "gender": "m",
     "motto": "sciamn",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-255-110.lg-275-110.sh-5247-92-1408.he-3071-92.ea-1404-110.fa-3276-110.cc-5926-1428-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3071-92.ea-1404-110.fa-3276-110.cc-3420-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3610,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "siamo in 30 nel back",
     "habboFigure": "hr-4117-1404-1404.hd-625-2.ch-3836-92-92.lg-3200-110.sh-4112-110-110.he-1606-1338.fa-5600-92.cc-4108-110-110",
