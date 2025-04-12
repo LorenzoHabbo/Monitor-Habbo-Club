@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-6077",
@@ -1503,7 +1503,7 @@
     "online": true,
     "gender": "m",
     "motto": "sciamn",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-255-92.lg-5970-110.sh-305-92.he-3070-92.fa-5600-92.cc-5926-1428-92",
+    "habboFigure": "hr-3163-61.hd-205-14.ch-807-110.lg-281-64.sh-305-1408.he-1609-1321.fa-5601-1408",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
