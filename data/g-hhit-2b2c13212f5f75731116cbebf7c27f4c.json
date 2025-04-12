@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "_Oni01_",
     "habboFigure": "hr-5680-1407.hd-4383-10-14.ch-824-110.lg-3018-92.ha-5709-97.he-3070-97.ea-3169-110.cc-4091-110",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello g.d",
     "habboFigure": "hr-893-34.hd-180-1.ch-804-85.lg-280-82.sh-300-1408.ha-5832-66",
@@ -9550,7 +9550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "demone guardiano di cerbero g.d.",
     "habboFigure": "hr-893-44.hd-209-19.ch-878-76-74.lg-3078-64.he-1608.fa-1201.ca-1801-76.cp-3127-73",
