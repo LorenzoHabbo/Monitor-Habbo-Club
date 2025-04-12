@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I was dancing in the rain",
     "habboFigure": "hr-3163-37.hd-190-1390.ch-3342-100-1410.lg-4138-110.sh-3524-67-92.fa-3276-72.cc-5441-100-1410",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1404-1404.hd-209-2.ch-5830-93.lg-3483-106-106.he-3918.ca-5463",
@@ -860,10 +860,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-1398.hd-190-7.ch-4286-1409-110.lg-3626-1409-110.sh-3089-110.ea-3727.wa-3798-1408-1408",
+    "habboFigure": "hr-5791-1398.hd-190-7.ch-4286-1409-110.lg-3626-1409-110.sh-3089-110.ea-3727",
     "memberSince": "2011-11-26T16:03:53.000+00:00",
     "uniqueId": "hhit-b924b0493c185642a9e308d05f3607fc",
     "name": "TheWizard",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-1371.ch-665-83.lg-3078-85.ha-1013-84.he-3918.fa-3276-72.cc-5926-84-84",
@@ -4210,7 +4210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "L’inferno int’a ll’anema♪",
     "habboFigure": "hr-4118-42.hd-626-10.ch-4385-76.lg-3078-82.sh-3068-1408-1408.ha-5709-76.fa-3276-72.cc-3373-64",
