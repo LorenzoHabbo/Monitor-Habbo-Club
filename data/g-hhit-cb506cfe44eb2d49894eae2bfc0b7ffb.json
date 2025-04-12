@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-45.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-1011-92.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1404-1404.hd-209-2.ch-5830-93.lg-3483-106-106.he-3918.ca-5463",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non c'è limite allo show",
     "habboFigure": "hr-155-31.hd-209-10.ch-210-1408.lg-281-81.sh-305-1408.ha-5832-64",
@@ -2130,10 +2130,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "hool hooligans",
-    "habboFigure": "hr-5306-48-42.hd-5913-1.ch-3688-73.lg-5594-64.ha-3709.he-5088.ea-5897-76-1408.ca-4037-73-64.cc-5961-73-64",
+    "habboFigure": "hr-5306-48-42.hd-5913-1.ch-3688-73.lg-5594-64.ha-3709.he-5088.ea-5897-76-1408.cc-5961-73-64",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-4165-1416-110.lg-4167-1416.sh-3524-110-1408.he-1608.ca-1812",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "L’inferno int’a ll’anema♪",
     "habboFigure": "hr-4118-42.hd-626-10.ch-4385-76.lg-3078-82.sh-3068-1408-1408.ha-5709-76.fa-3276-72.cc-3373-64",
