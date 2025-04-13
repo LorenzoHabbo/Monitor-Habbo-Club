@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hd-195-12.ch-210-81.lg-270-81.fa-1205-81.ca-5604-81-81",
@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ PAPPONE FAMIGLIA BATTAGLIA ¥",
     "habboFigure": "hr-3871-40.hd-180-10.ch-3486-1408-1408.lg-285-81.sh-295-80.ha-3709.he-5808-83.ea-3925-80-80.ca-5807-1320-80.cc-4979-1408",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-828-61.hd-180-8.ch-3688-110.lg-5732-110-93.sh-295-110.he-5348.ea-1402.ca-1816.cc-5800-110-93",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-831-1395.hd-3095-1.ch-3015-106.lg-4138-110.sh-5297.ha-4136-1410.ea-3169-110.ca-5592-110-1410.cc-5800-110-110",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sciamn",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-5970-110.sh-305-92.he-3071-92.fa-3276-73.ca-4115-1430-1412",
