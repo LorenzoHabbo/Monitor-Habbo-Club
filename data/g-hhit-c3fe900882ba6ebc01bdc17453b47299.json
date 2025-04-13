@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cc-6070.cp-5883-92",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3163-61.hd-180-1385.ch-255-110.lg-3483-1331-1331.ha-1004-110.he-3070-92",
