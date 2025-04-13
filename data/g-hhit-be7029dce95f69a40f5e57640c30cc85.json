@@ -4840,7 +4840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Universale!",
     "habboFigure": "hd-5913-28.ch-3498-92.lg-5594-1425.sh-3035-1425.ha-4195.he-3070-1408.ca-3175-1408.cc-5926-1427-64",
@@ -5160,7 +5160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Masarez",
     "habboFigure": "hr-5579-1401.hd-3100-1370.ch-3045-1429.lg-5594-1429.sh-3089-110.ha-4192.fa-5601-1335.cc-5926-67-92",
@@ -7690,7 +7690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-45-40.hd-600-1370.ch-3669-1336-1408.lg-5594-110.he-5808-104.ea-3148-110-1408.fa-5624-1413",
@@ -8310,10 +8310,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "back after 8 y",
-    "habboFigure": "hr-3520-40.hd-3604-10.ch-3438-1408-1408.lg-3483-82-1408.sh-3587-64-1408.ha-3649.he-3580.ea-3575.ca-3414-1408",
+    "habboFigure": "hr-3520-40.hd-205-10.ch-3438-1408-1408.lg-3483-82-1408.sh-3587-64-1408.ha-3649.he-3580.ea-3575.ca-3414-1408",
     "memberSince": "2014-10-04T14:35:23.000+00:00",
     "uniqueId": "hhit-e8814fe64f1d67c47a5bc99881735c8b",
     "name": "Bellial",
