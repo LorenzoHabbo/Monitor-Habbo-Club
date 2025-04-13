@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hd-195-12.ch-210-81.lg-270-81.fa-1205-81.ca-5604-81-81",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Universale!",
     "habboFigure": "hr-3260-49.hd-5913-28.ch-3498-92.lg-5594-1425.sh-3035-1425.ha-4195.he-3070-1408.ca-3175-1408.cc-5926-1427-64",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "          | UwU |       F.Corleone",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
@@ -6730,7 +6730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-6077",
@@ -7351,9 +7351,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
-    "habboFigure": "hr-125-1395.hd-3092-8.ch-3185-104.lg-3019-63.sh-3206-1409.ea-3484.fa-5636-1325.ca-3225-1338-92.cc-5825",
+    "habboFigure": "hr-545-45.hd-627-10.ch-685-1320.lg-720-82.he-3274-1320.ca-1807",
     "memberSince": "2013-10-14T19:08:30.000+00:00",
     "uniqueId": "hhit-16e8bfb7bbe99b9bbf193923136cf672",
     "name": "A-N-D-R-E-Z",
@@ -9083,7 +9083,7 @@
     "online": true,
     "gender": "m",
     "motto": "Builder Designer©®™ NaughtyDog",
-    "habboFigure": "hr-5962-1343.hd-3721-1359.ch-3203-106.lg-4017-89-89.sh-3089-110.he-5765-1409.ea-5897-110-110.fa-5636-1320.cc-5077-1341",
+    "habboFigure": "hr-5962-1403.hd-3721-1359.ch-3185-92.lg-285-89.sh-3206-110.he-5765-1409.ea-5897-110-110.fa-5636-91.ca-5769-110-1410.cc-5077-1330",
     "memberSince": "2015-04-22T14:21:58.000+00:00",
     "uniqueId": "hhit-558183d112426b4f79f09868fe04e574",
     "name": "-Uzumaki",
@@ -9180,7 +9180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
