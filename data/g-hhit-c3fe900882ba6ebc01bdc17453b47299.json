@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
     "habboFigure": "hr-3278-61-49.hd-3094-22.ch-4190-110-110.lg-4191-110-110.ha-1005-110.ea-1402.fa-3345-110.cc-3509-92-92",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " ºCapo Di Coperta ºBP",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-3688-1408.lg-4066-1408.ha-4050.he-5088.ea-5897-1408-1408.fa-3344-1320.ca-1801-1408.wa-4317-1408.cc-3509-80-82",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-665-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5926-1334-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHFNS-VER-d1bG1a",
     "habboFigure": "hr-5969-61.hd-4163-2-30.ch-5453-77-1414.lg-5970-1338.sh-5551.ha-5469-1327-1337.he-5802-92.ea-5910-92-92.fa-5601-1326.ca-3937.wa-5123-1327.cc-5926-1327-110",
@@ -2000,10 +2000,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-3163-1342.hd-5913-1.ch-3668-64-92.lg-275-64.sh-5803-64.he-4977-92-1331.ea-3978-64-64.fa-3276-72.cc-5800-92-92",
+    "habboFigure": "hr-3163-1342.hd-5913-1.ch-3668-94-1322.lg-5594-101.sh-5803-92.ha-5301-1423.fa-3276-72.cc-5800-92-92",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
