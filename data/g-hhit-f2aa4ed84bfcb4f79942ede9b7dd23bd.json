@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3602-61-31.hd-5696-10-1367.ch-3934-110-110.lg-5594-1334.sh-4112-110-92.he-3070-66.ea-3169-110.fa-5600-68.ca-5603-1417-98.wa-2001",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Universale!",
     "habboFigure": "hr-3260-49.hd-5913-28.ch-3498-92.lg-5594-1425.sh-3035-1425.ha-4195.he-3070-1408.ca-3175-1408.cc-5926-1427-64",
@@ -6410,7 +6410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5969-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-3778-92",
@@ -7110,7 +7110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "motto che non motta",
     "habboFigure": "hr-3860-61-42.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3586.he-4059-110-110.ea-3640.fa-5975.wa-4060-110-110.cc-6077",
