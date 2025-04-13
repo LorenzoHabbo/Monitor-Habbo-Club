@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Fam. Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-1330.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-1408",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-828-61.hd-205-28.ch-210-1409.lg-280-1427.sh-290-92",
@@ -5470,7 +5470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3673-40.hd-600-10.ch-685-71.lg-695-71.ha-3986.fa-3276-1408.cc-3326-1408-1408",
@@ -5970,7 +5970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "MasArez",
     "habboFigure": "hr-5969-33.hd-3100-1390.ch-5831-110.lg-4138-110.ha-4052.fa-3276-97",
@@ -7690,7 +7690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-45-40.hd-600-1370.ch-3669-1336-1408.lg-5594-110.he-5808-104.ea-3148-110-1408.fa-5624-1413",
