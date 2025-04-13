@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cc-6070.cp-5883-92",
@@ -1930,7 +1930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[SINCE 2009] EX POKERISTA",
     "habboFigure": "hr-3090-42.hd-190-10.ch-5830-81.lg-285-1408.sh-305-1408.he-1608.ea-1401-81.fa-1201.cc-3280-1408-1408",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-3208-81-1408.lg-3078-110.sh-906-1408.he-3833-92.ea-3107-64-1408.fa-1201.ca-1816.wa-5123-80.cp-3125-96",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hd-195-12.ch-210-81.lg-270-81.fa-1205-81.ca-5604-81-81",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -4470,10 +4470,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Universale!",
-    "habboFigure": "hd-5913-28.ch-3498-92.lg-5594-1425.sh-3035-1425.ha-4195.he-3070-1408.ca-3175-1408.cc-5926-1427-64",
+    "habboFigure": "hr-5791-49.hd-5913-28.ch-4165-92-1408.lg-3596-92-82.sh-3035-1427.ha-4195.ea-5910-110-1408",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Universal,",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -7172,7 +7172,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "it drives me so far",
+    "motto": "",
     "habboFigure": "hr-3163-41.hd-207-10.ch-3668-64-92.lg-5594-110.sh-3587-92-92.he-3579.fa-1209-110.wa-5986-110.cc-3420-110",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
@@ -7510,7 +7510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-45-40.hd-600-1370.ch-3669-1336-1408.lg-5594-110.he-5808-104.ea-3148-110-1408.fa-5624-1413",
