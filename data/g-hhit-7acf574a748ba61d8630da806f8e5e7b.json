@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hd-180-1370.ch-3030-85.lg-285-1320.ha-1004-1320",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ªGuardia di Coperta BPª",
     "habboFigure": "hr-3278-61-49.hd-3094-22.ch-4190-110-110.lg-4191-110-110.ha-1005-110.ea-1402.fa-3345-110.cc-3509-92-92",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " ºCapo Di Coperta ºBP",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-3688-1408.lg-4066-1408.ha-4050.he-5088.ea-5897-1408-1408.fa-3344-1320.ca-1801-1408.wa-4317-1408.cc-3509-80-82",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.ca-5463.cc-6077",
