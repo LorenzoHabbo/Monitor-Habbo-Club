@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "_Oni01_",
     "habboFigure": "hr-5680-1355.hd-4383-10-28.ch-665-92.lg-3787-1425-1425.ha-3586.he-5808-1408.ea-5897-63-110",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-1394-1354.hd-180-1370.ch-4361-1432-92.lg-3787-1413-96.sh-3587-92-92.he-3070-93.fa-1201",
@@ -653,7 +653,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-61.hd-5317-18-27.ch-3934-110-110.lg-5594-110.sh-5247-110-110.ha-5512.he-3884-110-110.fa-5975.ca-5574-110-64.cc-5926-110-110",
+    "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-3934-92-110.lg-280-110.sh-5247-110-92.ha-5510.ca-3175-92.cc-3420-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -1190,16 +1190,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "Arci-Capo Golden Demons",
-    "habboFigure": "hr-3531-40-40.hd-190-10.ch-3806-1408.lg-5594-64.sh-3383-64-1408.fa-5601-1408.ca-5984-64.cc-5926-64-1408",
-    "memberSince": "2012-05-04T20:03:24.000+00:00",
-    "uniqueId": "hhit-76cf6015b96ceb33ad0619f32fa119c5",
-    "name": "SuperDavide2003",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "IAmReDesk™",
@@ -1320,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-1408.lg-3088-64-64.sh-3068-64-64",
@@ -1400,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fa caldo",
     "habboFigure": "hr-3674-34-40.hd-185-1370.ch-3438-80-84.lg-270-64.sh-295-1408.fa-3590.cc-5942-85",
@@ -1760,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Appocundria",
     "habboFigure": "hr-5619-1404.hd-605-28.ch-655-110.lg-710-110.sh-3035-1427.ha-1005-110.he-3070-92.fa-5467.ca-3292-1334.cc-3744-110-110",
@@ -1800,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -1980,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fan del nu metal",
     "habboFigure": "hr-115-37.hd-3845-1370.ch-255-64.lg-3078-82.sh-295-64.ha-3352-64-73.he-1609-84.fa-3276-80.wa-2001",
@@ -2073,7 +2063,7 @@
     "online": true,
     "gender": "m",
     "motto": "Nel mio Motto ci sono motto(crikey)",
-    "habboFigure": "hr-3670-1407.hd-3721-1383.ch-3728-1428-100.lg-3596-1325-1408.sh-3587-1335-1324.ha-3570.he-3070-64.ca-5635-64-110.cc-3867-1427-1408",
+    "habboFigure": "hr-3670-1407.hd-3721-1383.ch-3506-92-100.lg-275-110.sh-3587-110-92.ha-3570.he-3070-64.ca-5635-64-110.cc-3867-1427-1408",
     "memberSince": "2018-07-06T23:17:03.000+00:00",
     "uniqueId": "hhit-23480bf66e562bf1fc514c6979391272",
     "name": "..Harley..",
@@ -2130,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "hool hooligans",
     "habboFigure": "hr-5306-40-45.hd-5913-1.ch-3688-1408.lg-5594-64.sh-4016-73-1408.ha-3709.he-5088.ea-5897-85-75.ca-4037-64-1408.cc-5961-64-1408",
@@ -2220,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sono dario",
     "habboFigure": "hr-893-40.hd-208-1.ch-255-1408.lg-3078-1408.sh-300-64",
@@ -2341,9 +2331,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "» Madrina Corleone »",
-    "habboFigure": "hr-100.hd-180-7.lg-270-64.ha-1023-70",
+    "habboFigure": "hr-515-1342.hd-610-28.ch-665-92.lg-710-77.sh-3035-92.he-5088.fa-5467.ca-3844-92-92",
     "memberSince": "2019-12-04T23:46:57.000+00:00",
     "uniqueId": "hhit-8e8195b4c9cb0c2927d1823a2241b58e",
     "name": "dory???",
@@ -2430,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " erede polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2520,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -2560,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Shut the .... up.",
     "habboFigure": "hr-3852-49.hd-627-1.ch-5595-1408.lg-5594-1427.he-5088.fa-5601-92.cc-5800-92-77",
@@ -2600,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.he-5827-68-110.ea-1404-1408.fa-5752.cc-6077",
@@ -2840,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -2870,7 +2860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cerco calma negli scoli di peroni",
     "habboFigure": "hr-802-45.hd-180-1.ch-3342-91-1320.lg-285-1320.sh-3524-91-1408.ha-1002-1320.ea-1404-64",
@@ -3090,7 +3080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ti piace la mia beretta?",
     "habboFigure": "hr-3768-40.hd-5913-1370.ch-5908-1408-1408.lg-270-1408.he-5137.fa-5601-71.ca-5278-71.cc-4300-1408-1408",
@@ -3180,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-1325.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.fa-5601-1408.cc-5441-67-67",
@@ -3270,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "forse una fatina di habbo",
     "habboFigure": "hr-5579-55.hd-615-10.ch-5921-92-92.lg-5594-89.sh-5803-92.ha-5169-110.he-5808-63.ea-1404-110.fa-3276-1414.cc-6077",
@@ -3523,7 +3513,7 @@
     "online": true,
     "gender": "m",
     "motto": "sciamn",
-    "habboFigure": "hr-5962-34.hd-205-2.ch-255-64.lg-5970-110.sh-305-92.he-3070-92.ea-1404-110.cc-3420-110",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-255-64.lg-5970-110.sh-305-92.he-3070-92.ea-1404-110.cc-3420-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3750,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-5831-64.lg-710-1408.sh-3068-64-1408.ha-1005-1408.he-5466.ea-3925-64-1408.fa-5467.wa-5836-1408-1408",
@@ -4553,7 +4543,7 @@
     "online": true,
     "gender": "f",
     "motto": "Barista g.d",
-    "habboFigure": "hr-5619-61.hd-615-28.ch-660-92.lg-710-110.sh-3206-92.he-1603-92.ea-3148-110-110.fa-3276-100.cc-6077",
+    "habboFigure": "hr-5619-1404.hd-615-28.ch-660-92.lg-710-110.sh-3206-92.he-3070-92.fa-5601-92.cc-5440-1428-92",
     "memberSince": "2025-03-14T01:58:50.000+00:00",
     "uniqueId": "hhit-69526264cb6343e7f93f61ec0dcc2ba5",
     "name": "kalashnikov.",
