@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5907-110-92.lg-5545-1335-92.sh-5308-92.he-3884-92-1337.fa-4044.cc-5926-92-1337",
@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3768-40.hd-185-12.ch-4165-76-64.lg-3088-73-64.sh-3383-64-1408.ha-5116-82.he-3561.fa-3276-73.wa-3661-64-1408.cc-5826-64",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-3208-81-1408.lg-3078-110.sh-906-1408.he-3833-92.ea-3107-64-1408.fa-1201.ca-1816.wa-5123-80.cp-3125-96",
@@ -9300,6 +9300,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista Shamano G.D",
+    "habboFigure": "hr-802-42.hd-209-1.ch-210-1408.lg-3290-64.sh-290-64.ha-1021-64.he-1609-64.ea-1401-64.ca-1804-64.wa-2012.cc-260-64.cp-3120-64",
+    "memberSince": "2023-09-12T08:44:24.000+00:00",
+    "uniqueId": "hhit-f5527854c0c580f6acd80b4962888452",
+    "name": "Guerr1ero",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "f",
     "motto": "apprendista novella G.D.",
@@ -9360,7 +9370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-165-34.hd-209-19.ch-215-1408.lg-275-82.sh-906-64.ea-1406",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-08T01:40:41.000+00:00",
     "uniqueId": "hhit-c5f33d694ec17e4a6e0e32ed0f130211",
     "name": "EmilyZar",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista novello g.d.",
-    "habboFigure": "hr-170-39.hd-180-1370.ch-807-1408.lg-3078-1408.ca-5463",
-    "memberSince": "2023-12-08T02:02:21.000+00:00",
-    "uniqueId": "hhit-42dc6fe3ae321ad170270dc0c14cd503",
-    "name": "Ciro1",
     "isAdmin": false
   }
 ]
