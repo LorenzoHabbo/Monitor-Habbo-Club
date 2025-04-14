@@ -1830,10 +1830,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NPC Corleone\rNon Player Character",
-    "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cc-6070.cp-5883-92",
+    "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92.cc-6070",
     "memberSince": "2009-10-29T14:47:56.000+00:00",
     "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a",
     "name": "ric",
@@ -6920,7 +6920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-1408.lg-3088-64-64.sh-3068-64-64",
