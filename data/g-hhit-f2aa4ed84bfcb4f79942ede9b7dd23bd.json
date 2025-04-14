@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-4299-1430-1322.lg-5594-110.sh-3524-110-92.ha-1004-1430.he-4946-1322.fa-3296.cc-6077",
@@ -1833,7 +1833,7 @@
     "online": true,
     "gender": "m",
     "motto": "Corleone",
-    "habboFigure": "hr-5039-1405.hd-5317-2-1362.ch-215-110.lg-280-1430.sh-5718.he-3070-92.fa-5601-92",
+    "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92",
     "memberSince": "2009-10-29T14:47:56.000+00:00",
     "uniqueId": "hhit-0b383407c7297558563011ccc3d8375a",
     "name": "ric",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-3208-81-1408.lg-3078-110.sh-906-1408.he-3833-92.ea-3107-64-1408.fa-1201.ca-1816.wa-5123-80.cp-3125-96",
@@ -2883,7 +2883,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-3934-89-110.lg-5594-1325.sh-5247-92-92.ha-5510.he-3884-1409-89.fa-5975.cc-5926-1409-89",
+    "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-3934-89-110.lg-5594-1325.sh-5247-92-92.ha-5510.he-3884-1409-89.ea-5490.fa-5975.cc-5926-1409-89",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ministro Nevada FC     Ohime-sama",
     "habboFigure": "hr-5772-61-61.hd-627-1.ch-4158-110-1331.lg-3364-89-1408.sh-907-110.ha-3488.he-3069-1330-1330.fa-3193-110.cc-4106-110-110",
@@ -4523,7 +4523,7 @@
     "online": true,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-5681-60-40.hd-4383-10-10.ch-3013-104.lg-5594-110.sh-5671-104.ha-5620-1422.cc-6077",
+    "habboFigure": "hr-5969-1348.hd-4383-10-5.ch-5560-1414-1414.lg-5594-1413.sh-5671-1414.ha-5620-1413.fa-1209-1413.cc-6077",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -7170,9 +7170,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "",
+    "motto": "radiante corleone",
     "habboFigure": "hr-3163-41.hd-207-10.ch-3668-64-92.lg-5594-110.sh-3587-92-92.he-3579.fa-1209-110.wa-5986-110.cc-3420-110",
     "memberSince": "2013-08-24T20:09:26.000+00:00",
     "uniqueId": "hhit-ef3c2471cad454e751e4e60e4fb0b4a7",
@@ -9840,7 +9840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone",
     "habboFigure": "hr-3829-39.hd-209-1.ch-4165-64-73.lg-4066-64.sh-3524-64-1408.ea-3578.cc-3360-64",
