@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-5773-59.hd-4383-2-1372.ch-5901-92-1408.lg-5974-110-92.sh-5943-92-92.ha-5620-92.he-5698-110-64.wa-5599-110-92.cc-6077",
@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3768-40.hd-185-12.ch-4165-76-64.lg-3088-73-64.sh-3383-64-1408.ha-5116-82.he-3561.fa-3276-73.wa-3661-64-1408.cc-5826-64",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-3208-81-1408.lg-3078-110.sh-906-1408.he-3833-92.ea-3107-64-1408.fa-1201.ca-1816.wa-5123-80.cp-3125-96",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Cavaliere Fidato G.D º",
     "habboFigure": "hr-4090-1398.hd-3102-1.ch-3323-92-92.lg-280-1426.sh-3035-110.he-3070-1321.fa-5601-1320.ca-3219-110.cc-5926-110-1321",
@@ -9350,7 +9350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ehi tu! Si tu!",
     "habboFigure": "hr-802-39.hd-209-8.ch-255-82.lg-3088-1408-82.sh-300-64",
