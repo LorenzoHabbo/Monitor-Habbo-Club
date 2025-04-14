@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "curiosoni, andate via! ©",
     "habboFigure": "hr-4024-49.hd-3845-28.ch-3059-1324.lg-5594-77.sh-3035-110.ea-3108-92-106.fa-5280-92.ca-4390.wa-5784",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-91-1320.cc-3360-64",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-6077",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-4117-45-40.hd-3845-10.ch-665-73.lg-4369-73-64.sh-3354-73-1408.ha-5471-73-71.fa-5467.ca-5051-73-71.cc-5761-64-1408",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "polli e derivat ps.non sono napoletano",
     "habboFigure": "hr-3357-40.hd-209-8.ch-210-1322.lg-3202-110-1408.sh-3621-92-110.ha-3086-110-110.ea-3270-110-92.fa-3462-1408.wa-3211-92-92",
@@ -1903,7 +1903,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
+    "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3001-92-100.lg-280-110.sh-3064-110.ha-3261-100.fa-1204.wa-2009-100",
     "memberSince": "2017-07-26T17:40:08.000+00:00",
     "uniqueId": "hhit-90edcf9be2787a122236d9b5934ad5b4",
     "name": ".Gerri.",
@@ -2820,10 +2820,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-893-40.hd-209-1.ch-210-1408.lg-3088-1408-1408.sh-300-1408",
+    "habboFigure": "hr-4941-1342-1342.hd-5913-18.ch-3668-110-110.lg-3526-64-110.sh-5803-110.he-4977-64-110.ea-3978-64-64.fa-3276-64.ca-3485.cc-5800-110-110",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
@@ -2860,7 +2860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cerco calma negli scoli di peroni",
     "habboFigure": "hr-802-45.hd-180-1.ch-3342-91-1320.lg-285-1320.sh-3524-91-1408.ha-1002-1320.ea-1404-64",
@@ -3513,7 +3513,7 @@
     "online": true,
     "gender": "m",
     "motto": "sciamn",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-280-63.sh-305-92.he-3070-92.fa-5601-92.cc-5926-110-110",
+    "habboFigure": "hr-828-61.hd-205-18.ch-255-64.lg-280-64.sh-305-92.ea-1404-64.cc-5926-110-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3603,7 +3603,7 @@
     "online": true,
     "gender": "m",
     "motto": "Troublemaker Hooligans",
-    "habboFigure": "hr-5019-61.hd-3845-1390.ch-5596-92.lg-3787-110-110.sh-4112-92-92.he-3070-1410.ea-5897-110-110.fa-4168-95.ca-5934-1410",
+    "habboFigure": "hr-3281-61.hd-3845-1390.ch-3498-92.lg-3483-83-83.sh-300-92.ha-1005-83.he-3297-92.ea-3169-92.ca-1819.cc-3723-1408",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
@@ -3693,7 +3693,7 @@
     "online": false,
     "gender": "f",
     "motto": "no uomini pelati !!!",
-    "habboFigure": "hr-5773-49.hd-615-28.ch-3005-110-110.lg-5974-92-110.sh-5670-64.ha-3495-92-1330.fa-5467.ca-4372-92.wa-3264-110-1408.cc-5961-92-110",
+    "habboFigure": "hr-5773-49.hd-615-28.ch-3005-110-110.lg-5974-92-110.sh-5670-64.ha-3495-92-1330.fa-5467.ca-4372-92.wa-3264-110-1408.cc-3975-110-92",
     "memberSince": "2024-06-21T15:11:53.000+00:00",
     "uniqueId": "hhit-10a3d4728b893ec0767df6508496fa2d",
     "name": "mayflow3rs",
@@ -3720,7 +3720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "new york, new york, scommessa d'amore|",
     "habboFigure": "hr-834-61.hd-615-1359.ch-3013-110.lg-3006-110-1408.sh-3275-92.ha-5620-92.he-3070-93.ea-5897-1427-110.fa-3276-1412.wa-2011.cp-3207-1414-1423",
@@ -4030,7 +4030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE",
     "habboFigure": "hr-145-35.hd-208-10.ch-5488-75.lg-280-71.sh-5803-71.he-1610.fa-3276-72.ca-5049-71.wa-2004-71.cc-4179",
