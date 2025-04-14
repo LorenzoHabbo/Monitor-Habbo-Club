@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-1.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Elizabeth Swann BLACK PEARL",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-110.lg-3192-92.sh-3206-110.ha-1005-110.ea-1402.fa-3276-110",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-3208-81-1408.lg-3078-110.sh-906-1408.he-3833-92.ea-3107-64-1408.fa-1201.ca-1816.wa-5123-80.cp-3125-96",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "So esaurita.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-74.lg-695-81.he-5553.fa-3276-73.ca-3799-1408-1408.cc-5461-1408-75",
@@ -4840,7 +4840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Universale!",
     "habboFigure": "hr-5306-49-49.hd-3092-27.ch-3438-63-1408.lg-280-63.sh-3035-63.ha-3708.cc-5800-92-92",
@@ -4873,7 +4873,7 @@
     "online": true,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-5681-60-40.hd-4383-10-10.ch-3013-104.lg-5594-110.sh-5671-104.ha-5620-1422.cc-5926-110-1422",
+    "habboFigure": "hr-5681-60-40.hd-4383-10-10.ch-3013-104.lg-5594-110.sh-5671-104.ha-5620-1422.cc-6077",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -4970,7 +4970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " - AD10S",
     "habboFigure": "hr-3673-32.hd-600-1370.ch-3809-82-1408.lg-3320-82-1408.sh-4112-82-1408.cc-4108-82-1408",
@@ -5290,7 +5290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-3354-1408-1408.ca-1801-74.cc-3975-71-1408",
@@ -7230,10 +7230,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Pezzo Grosso [FB] » #0113",
-    "habboFigure": "hr-828-41.hd-180-18.ch-210-92.lg-280-1428.sh-295-110.he-3070-1408.cc-5800-1428-1428",
+    "habboFigure": "hr-828-41.hd-180-18.ch-210-92.lg-280-1428.sh-295-92.he-3070-1408.cc-5800-1428-1428",
     "memberSince": "2013-06-21T16:09:36.000+00:00",
     "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
     "name": "El.Vampiro",
@@ -8903,7 +8903,7 @@
     "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.ca-3217-73-73.wa-3773-110.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -9440,7 +9440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "miao",
     "habboFigure": "hr-5619-42.hd-3536-1-1.ch-3598-64-73.lg-3596-64-73.sh-3587-73-1408.ha-3544.he-3716.fa-3276-73",
