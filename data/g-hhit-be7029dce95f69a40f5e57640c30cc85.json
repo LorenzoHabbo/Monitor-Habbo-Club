@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hd-195-12.ch-210-81.lg-270-81.fa-1205-81.ca-5604-81-81",
@@ -4870,7 +4870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.ca-5455-1409-93.cc-6077",
@@ -4970,7 +4970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " - AD10S",
     "habboFigure": "hr-3673-32.hd-600-1370.ch-3809-82-1408.lg-3320-82-1408.sh-4112-82-1408.cc-4108-82-1408",
@@ -6230,7 +6230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
     "habboFigure": "hr-4363-32-32.hd-4383-1-14.ch-5560-75-71.lg-3483-71-71.fa-4046.cc-4032",
@@ -8793,7 +8793,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-155-31.hd-180-8.ch-210-88.lg-281-81.sh-290-91",
+    "habboFigure": "hr-155-31.hd-180-8.ch-210-88.lg-281-81.sh-305-1408",
     "memberSince": "2015-04-14T14:08:53.000+00:00",
     "uniqueId": "hhit-5cfea23ee1416515eb764b385c9b3da6",
     "name": "Operatory",
