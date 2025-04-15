@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
     "habboFigure": "hr-3673-32.hd-627-1.ch-5560-68-68.lg-3483-68-68.ha-3709.fa-5601-68.cc-4032",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "||\\",
     "habboFigure": "hr-3957-1401-55.hd-629-19.ch-3045-95.lg-3078-110.sh-3089-1336.wa-2010.cc-3373-110",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Consigliere Kanun",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
