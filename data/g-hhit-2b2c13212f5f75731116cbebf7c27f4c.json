@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere Fidato 1p G.D º",
     "habboFigure": "hr-4090-1398.hd-3102-1.ch-3203-92.lg-3138-1426-73.he-3070-1321.ea-3170-110.fa-5601-1320",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -8590,7 +8590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
