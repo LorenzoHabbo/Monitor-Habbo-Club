@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-3437-105.cc-5926-64-92",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-1413-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ PAPPONE FAMIGLIA BATTAGLIA ¥",
     "habboFigure": "hr-3871-40.hd-180-10.ch-3486-1408-1408.lg-285-81.sh-295-80.ha-3709.he-5808-83.ea-3925-80-80.ca-5807-1320-80.cc-4979-1408",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "SM4CK TH4T [Maestra D’Armi - R.P]",
     "habboFigure": "hr-5973-1342-61.hd-615-10.ch-5560-92-92.lg-710-110.sh-5247-92-92.he-3070-92.fa-3276-1411.ca-5936-92.cc-5926-110-92",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-3935-110-110.lg-5594-110.sh-5247-92-92.he-3891.ea-5576-110-110.fa-4044.ca-3844-1410-92.cc-5800-110-110",
