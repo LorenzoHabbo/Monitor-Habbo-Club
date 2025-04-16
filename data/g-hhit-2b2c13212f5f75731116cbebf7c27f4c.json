@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cadetto G.D                 XDù",
     "habboFigure": "hr-831-61.hd-180-1370.ch-255-107.lg-281-110.sh-295-110",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cancelliere dell' eden G.D|||",
     "habboFigure": "hr-5680-36.hd-629-1370.ch-5351-110-92.lg-3190-92-1328.sh-3277-110-92.he-1610.ca-1812",
@@ -3270,7 +3270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-61-61.hd-209-28.ch-3030-92.lg-3057-110.sh-3016-110.cc-3153-110-92",
