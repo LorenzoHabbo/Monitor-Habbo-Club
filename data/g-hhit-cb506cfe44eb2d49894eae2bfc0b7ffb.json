@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1405.hd-5317-3-15.ch-3934-110-110.lg-5594-110.sh-5247-92-92.ha-5510.he-1604.fa-5435.cp-5946",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-66-85.lg-5113-90.sh-305-64.ha-3591.he-5074-1408.fa-3276-64.ca-4036-1408.cc-4091-64",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-34.hd-190-2.ch-3001-92-1408.lg-280-77.sh-295-1408.ha-3656.he-3891.ea-3887.fa-5057.cc-5800-77-77",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
     "habboFigure": "hr-3768-49.hd-5799-1379.lg-280-110.sh-6042.he-5813-1324-105.fa-5601-110.ca-6044.cp-3205",
@@ -2821,9 +2821,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "-",
-    "habboFigure": "hr-3161-31.hd-190-29.ch-3203-1408.lg-5582-82-1408.sh-3180-106-1408.he-5088.ea-1404-64.fa-1211.wa-3211-1320-1320",
+    "habboFigure": "hr-3714-50-50.hd-5913-1.ch-635-70.lg-716-66-1408.sh-3375-68-1408.he-4345-106",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
@@ -3120,7 +3120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trainer Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-884-64.lg-3078-1408.sh-740-64.ha-3775.he-1608.ea-1404-64",
@@ -3240,7 +3240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "forse una fatina di habbo",
     "habboFigure": "hr-5579-55.hd-615-10.ch-5921-92-92.lg-5594-89.sh-5803-92.ha-5169-110.he-5808-63.ea-1404-110.fa-3276-1414.ca-5455-92-1321.cc-6077",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "pre edict hool holigans",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-110.lg-275-110.sh-305-1408.he-1609-1427.ca-5278-1427",
@@ -3692,7 +3692,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "torneremo a raccontarci",
+    "motto": "we'll cross the starry sky together",
     "habboFigure": "hr-834-61.hd-615-1359.ch-3013-92.lg-3018-110.sh-908-92.ha-5620-92.he-3070-93.fa-3276-1412.cp-3207-1414-1423",
     "memberSince": "2024-07-31T23:15:23.000+00:00",
     "uniqueId": "hhit-d221d77549e5d6678dddea69ad3fea19",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-5831-64.lg-710-1408.sh-3068-64-1408.ha-1005-1408.he-5466.ea-3925-64-1408.fa-5467.wa-5836-1408-1408",
@@ -4150,7 +4150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-540-39.hd-627-1370.ch-820-76-74.lg-695-88.sh-3068-64-64.ha-3298-75-64.he-1608.fa-1212.ca-1807.wa-2004-64",
@@ -4270,7 +4270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cerchi diamanti in mezzo a cocci",
     "habboFigure": "hr-3841-34.hd-180-1.ch-5830-1408.lg-285-1408.sh-906-1408.ea-5897-76-64.ca-4115-64-1408.cc-5485-91-1408",
