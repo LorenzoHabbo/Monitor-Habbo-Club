@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-828-61.hd-205-28.ch-210-1409.lg-280-1427.sh-290-92",
@@ -650,10 +650,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-92-110.lg-280-110.sh-5247-92-92.ha-5510.fa-5975.ca-3175-92.cc-3420-64",
+    "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-3934-92-110.lg-280-110.sh-5247-110-92.ha-5510.ca-3175-92.cc-3420-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
