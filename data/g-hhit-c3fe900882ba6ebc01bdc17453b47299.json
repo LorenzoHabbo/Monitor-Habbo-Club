@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cerco fida",
     "habboFigure": "hr-3468-45.hd-209-1.ch-210-73.lg-275-64.sh-3180-1408-64.ha-1017.fa-1210.cc-3405-81-1408",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "lonely and empty",
     "habboFigure": "hr-893-45.hd-180-1.ch-3030-66.lg-281-1408.sh-305-1408",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3668-1331-92.lg-3596-110-1408.he-3740.fa-3276-72.ca-3485.cc-5800-110-110",
