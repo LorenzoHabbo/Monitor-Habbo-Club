@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "speedy gonzalez",
     "habboFigure": "hr-831-61.hd-205-25.ch-3059-110.lg-285-1325.sh-3068-92-92.ha-1002-110.fa-5600-89.cc-3158-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-3437-105.cc-5926-64-92",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Affiliato in prova Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-1330.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-1408",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "motto che non motta",
     "habboFigure": "hr-3860-61-42.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-5483-110-1408.he-4059-110-110.fa-5975.wa-4060-110-110.cc-6077",
@@ -813,7 +813,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5756-61-61.hd-5913-28.ch-3030-110.lg-4114-110-110.sh-295-110.he-3894-92.fa-3276-100.wa-3895-1409.cp-3315-92",
+    "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
     "memberSince": "2017-07-26T17:40:08.000+00:00",
     "uniqueId": "hhit-90edcf9be2787a122236d9b5934ad5b4",
     "name": ".Gerri.",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "999666",
     "habboFigure": "hr-105-45.hd-3604-14.ch-4190-64-64.lg-4191-64-64.sh-3068-64-64.ha-1021-64.he-1609-64",
