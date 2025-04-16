@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-4050.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5926-74-1320",
@@ -2367,6 +2367,16 @@
     "memberSince": "2012-12-21T14:31:51.000+00:00",
     "uniqueId": "hhit-85a5e116895a72d99a5aec756784a41d",
     "name": "Gladiatore-x",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-890-37.hd-629-1370.ch-685-1408.lg-715-74.sh-3068-76-1408",
+    "memberSince": "2012-12-28T19:41:07.000+00:00",
+    "uniqueId": "hhit-358db96fef7b971d1806bd4753232a96",
+    "name": "Darksol",
     "isAdmin": false
   },
   {
@@ -3710,7 +3720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ºScagnozzo Esperto G.D.º",
     "habboFigure": "hr-3386-42.hd-209-1.ch-3538-73.lg-3023-82.sh-3524-64-1408.ha-3352-88-73.wa-2009-1408.cp-3286",
@@ -4060,7 +4070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fan del nu metal",
     "habboFigure": "hr-115-37.hd-3845-1370.ch-255-64.lg-3078-82.sh-295-64.ha-3352-64-73.he-1609-84.fa-3276-80.wa-2001",
@@ -4850,7 +4860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ººloading...ºº",
     "habboFigure": "hr-515-49.hd-5913-28.ch-635-80.lg-3006-80-92.sh-3277-80-1326.he-3082-80.fa-3276-1329.cc-3289-92",
@@ -7340,7 +7350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao corleone",
     "habboFigure": "hr-5756-61-61.hd-5696-17-1357.ch-215-1408.lg-275-92.sh-5803-92.fa-5601-92.cp-5462",
@@ -9740,7 +9750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-2.ch-3030-92.lg-4066-110.sh-3524-92-92.he-5578-1408.ea-1404-64.fa-1204.cc-3002-77",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-06T20:04:32.000+00:00",
     "uniqueId": "hhit-37dfd9936457140e68e15ca27794eff8",
     "name": "Bros23",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-802-32.hd-209-8.ch-235-84.lg-285-1320.sh-295-91.he-1608",
-    "memberSince": "2023-12-07T11:28:46.000+00:00",
-    "uniqueId": "hhit-fb040b1b638b1bcf2a7e8cd2e4253240",
-    "name": "Erfreddo00",
     "isAdmin": false
   }
 ]
