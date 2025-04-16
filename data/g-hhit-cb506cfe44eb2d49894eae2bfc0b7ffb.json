@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-3322-45.hd-205-13.ch-220-110.lg-270-110.sh-300-110.fa-3462-91",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-110-110.lg-280-110.sh-5247-92-92.ha-5510.fa-5975.ca-3175-92",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-5189-1423-92.lg-3058-1422.sh-3587-92-1427.ha-5141-1423-96.he-3082-92.fa-3276-96",
@@ -1463,7 +1463,7 @@
     "online": false,
     "gender": "f",
     "motto": "Nell'abbandono nutriamo amore",
-    "habboFigure": "hr-4117-49-49.hd-4023-27.ch-660-110.lg-3018-110.ha-5620-110.he-5577-101-1408.fa-4058-92",
+    "habboFigure": "hr-4117-49-49.hd-4023-28.ch-3935-110-110.lg-3353-63.ha-5620-110.he-5577-89-1408.fa-4058-92.cc-5078-110",
     "memberSince": "2014-09-19T12:53:03.000+00:00",
     "uniqueId": "hhit-b1dfe28796c9679dd867161491f08f84",
     "name": "Annika",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "hool hooligans",
     "habboFigure": "hr-5306-40-45.hd-5913-1.ch-3688-1408.lg-5594-64.sh-4016-73-1408.ha-3382-64-64.he-5088.ea-5897-85-75.fa-5624-1408.ca-4037-64-1408.cc-5961-64-1408",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Madrina Corleone »",
     "habboFigure": "hr-515-1404.hd-615-28.ch-660-1427.lg-710-64.sh-3035-1326.he-3884-1409-1326.fa-5467.cc-5926-1409-1427",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3163-61.hd-180-1385.ch-255-110.lg-3483-1331-1331.ha-1004-110.he-3070-92",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.ea-1404-1408.cc-6077",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vicario Non Dirittato [FC]®",
     "habboFigure": "hr-5556-1403-1394.hd-3997-2.ch-4286-1325-1429.lg-3058-91.sh-4065-110-110.ea-5897-1428-110.fa-5387.cc-6079",
@@ -2830,10 +2830,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-893-40.hd-209-14.ch-804-64.lg-3088-1408-1408.ha-3709.he-1608",
+    "habboFigure": "hr-893-40.hd-209-14.ch-804-64.lg-3088-1408-1408.ha-3709",
     "memberSince": "2021-07-14T12:47:48.000+00:00",
     "uniqueId": "hhit-c121eda2ef91fdca6f910de544d6f720",
     "name": "kevinjunior7833",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-5831-64.lg-710-1408.sh-3068-64-1408.ha-1005-1408.he-5466.ea-3925-64-1408.fa-5467.wa-5836-1408-1408",
@@ -3823,7 +3823,7 @@
     "online": true,
     "gender": "f",
     "motto": "||",
-    "habboFigure": "hr-500-43.hd-600-1.ch-660-71.lg-710-68.sh-906-71.he-1608.ea-1404-1408",
+    "habboFigure": "hr-890-31.hd-629-10.ch-665-82.lg-3023-81.sh-3180-64-81",
     "memberSince": "2024-10-15T12:05:52.000+00:00",
     "uniqueId": "hhit-31ebc63289f78ad2d00dc60c4fe11026",
     "name": ".:Matilde:.",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "anche tre",
     "habboFigure": "hr-5773-45.hd-615-1.ch-665-80.lg-5594-82.sh-735-68.ha-5620-80.ca-3973-64-64",
@@ -4410,7 +4410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Hitachi",
     "habboFigure": "hr-3791-44.hd-629-1370.ch-665-88.lg-720-82.sh-906-88.fa-3276-72.wa-2001",
