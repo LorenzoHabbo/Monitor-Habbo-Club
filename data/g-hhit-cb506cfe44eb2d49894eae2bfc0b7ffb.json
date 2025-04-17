@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-1398.hd-180-1.ch-804-1408.lg-280-110.sh-305-1408.fa-1204",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-828-1405.hd-5317-18-15.ch-3934-92-110.lg-280-110.sh-5247-92-92.ha-5980-1408.fa-5435.ca-3175-92.cc-3420-64",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-1408.lg-3088-64-64.sh-3068-64-64",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".Oblivion.",
     "habboFigure": "hr-4117-1403-1316.hd-600-10.ch-665-83.lg-3418-83.sh-3089-1326.ha-4103-102-1326.fa-5467.ca-5960-102-92.cc-3515-110-92",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "‘ N - ƒ.ƒ",
     "habboFigure": "hr-3791-31.hd-3631-10-14.ch-4067-83-82.lg-3391-1320-1408.fa-3276-73.ca-3973-82-1408",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-61.hd-190-1.ch-5830-64.lg-280-110.sh-5247-92-110.ea-1404-1408.cc-6077",
@@ -3240,7 +3240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "forse una fatina di habbo",
     "habboFigure": "hr-5579-55.hd-615-10.ch-5921-92-92.lg-5594-89.sh-5803-92.ha-5169-110.he-5808-63.ea-1404-110.fa-3276-1414.ca-5455-92-1321.cc-6077",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-92.lg-5970-110.sh-305-92.he-3070-92.ea-5897-110-110.cc-5926-110-1408",
@@ -4150,7 +4150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-540-39.hd-627-1370.ch-820-76-74.lg-695-88.sh-3068-64-64.ha-3298-75-64.he-1608.fa-1212.ca-1807.wa-2004-64",
