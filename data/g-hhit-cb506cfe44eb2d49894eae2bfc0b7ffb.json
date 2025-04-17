@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "_Oni01_",
     "habboFigure": "hr-4186-45.hd-4383-28-10.ch-5917-110.lg-3787-1425-110.he-5997-1410",
@@ -650,10 +650,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-3934-92-110.lg-280-110.ha-5510.ca-5983-1410.cc-5810-64",
+    "habboFigure": "hr-5791-1405.hd-5317-3-15.ch-3934-110-110.lg-5594-110.sh-5247-92-92.ha-5510.he-1604.fa-5975.cp-5946",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-1327",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "hool hooligans",
     "habboFigure": "hr-5306-40-45.hd-5913-1.ch-3688-1408.lg-5594-64.sh-4016-73-1408.ha-3382-64-64.he-5088.ea-5897-85-75.fa-5624-1408.ca-4037-64-1408.cc-5961-64-1408",
@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-831-1395.hd-3095-1.ch-3015-106.lg-4138-110.sh-5297.ha-4136-1410.ea-3169-110.ca-5592-110-1410.cc-5800-110-110",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-1325.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.fa-5601-1408.cc-5441-67-67",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-5773-61.hd-5840-1391-1362.ch-5919-1426-1322.lg-5594-1426.sh-5308-1334.he-5827-71-1333.fa-3276-1329.ca-5936-94.wa-5676.cc-5926-1334-94",
@@ -4540,7 +4540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mica isaksen",
     "habboFigure": "hr-155-45.hd-205-1369.ch-255-64.lg-280-64.sh-305-1408.ha-1002-64.he-1608",
