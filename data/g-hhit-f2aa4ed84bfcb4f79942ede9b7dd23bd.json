@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3436-61-61.hd-5913-28.ch-805-110.lg-280-1409.sh-3693-1409-1325.he-5458-110-1431.ea-5576-110-110.fa-1202-1412.ca-5455-110-64.wa-4060-1409-1325",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-1404.hd-3093-1.ch-5830-89.lg-4066-1409.sh-3016-110.ea-5641.cc-6077",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5928.ha-3488.fa-5600-92.ca-5625-92-1408.cc-6077",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1405.hd-5317-3-27.ch-3934-92-110.lg-280-110.ha-5510.ca-5983-1410.cc-5810-64",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -9040,7 +9040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-5791-32.hd-3845-1.ch-5559-1408.lg-3328-1408-1408.fa-5601-64.cc-3917-64",
