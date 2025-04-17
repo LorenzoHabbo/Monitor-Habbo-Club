@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5679-1404-1403.hd-600-2.ch-5453-1422-1408.lg-3483-98-92.sh-3035-1428.he-5915.fa-3276-100",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-1409.lg-280-1427.sh-290-92",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MAMA UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
     "habboFigure": "hr-5679-1400-1400.hd-3100-10.ch-3183.lg-3018-110.sh-3383-110-110.ea-3107-110-92.fa-3276-63",
@@ -1753,7 +1753,7 @@
     "online": false,
     "gender": "f",
     "motto": "Appocundria",
-    "habboFigure": "hr-5619-1342.hd-605-28.ch-665-86.lg-5970-1428.sh-3089-1427.ha-1005-110.he-3070-92.fa-5467.ca-5455-86-93.cc-5926-110-1408",
+    "habboFigure": "hr-5619-1342.hd-605-28.ch-665-92.lg-3018-1426.sh-3206-92.he-3082-92.ea-3196-1408.fa-5467.ca-5455-92-93.cc-5926-1426-1408",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fan del nu metal",
     "habboFigure": "hr-115-37.hd-3845-1370.ch-255-64.lg-3078-82.sh-295-64.ha-3352-64-73.he-1609-84.fa-3276-80.wa-2001",
@@ -3100,7 +3100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-77.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
