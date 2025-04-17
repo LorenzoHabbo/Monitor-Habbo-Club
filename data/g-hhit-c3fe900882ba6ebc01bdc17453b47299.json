@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sic Mundus creatus est ª Oblivion",
     "habboFigure": "hr-828-54.hd-207-28.ch-3030-110.lg-5732-110-110.he-1609-110.ea-3639",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "leggenda kanun",
     "habboFigure": "hr-5756-61-61.hd-5696-17-1368.ch-5585.lg-281-1418.sh-5803-92.fa-5601-1410.cp-5462",
