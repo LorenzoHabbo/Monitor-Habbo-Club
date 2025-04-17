@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Esprimi un desiderio e non dirmelo mai",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.ca-5455-1409-93.cc-6077",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|.",
     "habboFigure": "hr-4363-55-49.hd-3956-1391-1367.ch-3137-92-1408.lg-5594-1338.he-5279.ea-3170-99.fa-4168-95.wa-5370.cc-5926-99-92",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-4117-45-40.hd-3845-10.ch-665-73.lg-4369-73-64.sh-3354-73-1408.ha-5471-73-71.fa-5467.ca-5051-73-71.cc-5761-64-1408",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.ca-5463.cc-6077",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alastor G.D.",
     "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-5836-89-89.cc-5761-100-100",
@@ -1250,16 +1250,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "UOMO D’ONORE FC",
-    "habboFigure": "hr-3531-40-40.hd-3845-1370.ch-5029-72-71.lg-5594-1408.sh-5803-71.fa-3700",
-    "memberSince": "2022-02-14T09:27:02.000+00:00",
-    "uniqueId": "hhit-48597daf24a8bb3fdbb50f5f32c2d5f9",
-    "name": "Mexiwano",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
@@ -1320,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "il mondo cade a pezzi noi compresi",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-665-110.lg-5974-110-110.sh-5247-92-110.he-5199.ea-5576-110-110.fa-3276-96.ca-3828-92-110.cc-6077",
@@ -1700,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Idgaf",
     "habboFigure": "hr-5971-34.hd-205-28.ch-3030-92.lg-5594-77.sh-3035-110.ea-1404-110.fa-3276-96.ca-1801-92.cc-5926-1334-92",
