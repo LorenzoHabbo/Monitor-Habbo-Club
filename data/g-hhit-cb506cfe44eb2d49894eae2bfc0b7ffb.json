@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Boss indiscusso Golden Demons",
     "habboFigure": "hr-155-40.hd-180-10.ch-255-82.lg-275-80.sh-6042",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5928.ha-3488.fa-5600-92.ca-5625-92-1408.cc-6077",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-1394-1345.hd-180-1370.ch-4361-1424-92.lg-3787-1432-96.sh-3587-92-92.he-3070-93.fa-1201",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-3852-33.hd-629-1.ch-3836-92-92.lg-4341-1426.sh-3206-92.he-5915",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-125-1395.hd-3092-8.ch-3185-104.lg-3019-63.sh-3206-1409.ea-3484.fa-5636-1325.ca-3225-1338-92.cc-5825",
@@ -2063,7 +2063,7 @@
     "online": true,
     "gender": "m",
     "motto": "Nel mio Motto ci sono motto(crikey)",
-    "habboFigure": "hr-5962-49.hd-180-1383.ch-3688-1336.lg-275-110.sh-3524-1336-85.he-3070-64.fa-3276-1323.ca-5635-64-110.cc-3867-110-110",
+    "habboFigure": "hr-5962-49.hd-180-1383.ch-3438-1336-110.lg-275-110.sh-3524-1336-110.he-3070-64.fa-3276-1323.ca-5635-64-110.cc-3158-110",
     "memberSince": "2018-07-06T23:17:03.000+00:00",
     "uniqueId": "hhit-23480bf66e562bf1fc514c6979391272",
     "name": "..Harley..",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "tagliare i rapporti  finti...",
     "habboFigure": "hr-5306-42-49.hd-3604-1381.ch-3688-92.lg-5594-110.sh-4016-110-92.ha-3382-110-1408.he-5088.ea-5897-110-110.fa-5624-1408.ca-4037-110-92.wa-3895-64.cc-5961-110-92",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ehi, uff, hai programmi stasera? |",
     "habboFigure": "hr-3163-1404.hd-190-1.ch-215-110.lg-275-64.sh-5247-92-110.he-5827-68-1431.ea-3148-110-110.ca-1801-1432",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Idgaf",
     "habboFigure": "hr-5971-34.hd-205-2.ch-215-63.lg-5594-110.sh-3035-110.ea-1404-110.fa-3276-96.cp-3309-92",
