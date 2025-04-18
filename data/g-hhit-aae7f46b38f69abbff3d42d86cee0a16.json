@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5921-92-1321.lg-5545-110-110.sh-5308-92.he-3884-92-1337.fa-4044",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "So crisciute miez a vije.",
     "habboFigure": "hr-165-1395.hd-180-3.ch-250-78.lg-285-83.sh-300-92",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-540-40.hd-600-10.ch-5831-1408.lg-700-90.ha-5832-1408.he-1601.ea-3726.fa-1202-73.ca-4336-73-90.wa-3074-73-1408",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-3791-45.hd-600-8.ch-4067-81-1408.lg-3526-1408-82.sh-3354-81-1408.ha-1013-1408.he-4318-81.fa-3276-73.wa-4317-1408.cc-4943-1408.cp-3285-80",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥",
     "habboFigure": "hr-3531-44-44.hd-205-28.ch-215-110.lg-285-110.sh-300-110.fa-1201",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-275-110.sh-5803-92.ea-1404-110.cp-3309-92",

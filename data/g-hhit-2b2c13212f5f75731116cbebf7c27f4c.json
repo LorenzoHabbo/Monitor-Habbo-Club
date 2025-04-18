@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5921-92-1321.lg-5545-110-110.sh-5308-92.he-3884-92-1337.fa-4044",
@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Comandante 1p GD",
     "habboFigure": "hr-5019-1394.hd-3997-2.ch-5608-92.lg-3078-110.sh-3089-92.he-3070-1408.ea-1404-110.fa-3344-1336.ca-3292-110",
@@ -8070,7 +8070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "AGENTE PDH",
     "habboFigure": "hd-209-8.ch-225-73.lg-3023-64.sh-3068-64-1408.ea-1404-73.ca-1813.wa-2001.cp-3119-90",
