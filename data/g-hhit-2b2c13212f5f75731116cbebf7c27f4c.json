@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3058-110.sh-3089-1424.fa-1204.ca-3217-110-64.wa-2012.cc-3158-64",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-3786-36-36.hd-209-1.ch-5830-1408.lg-3521-82-1408.sh-3524-1408-81.ha-1004-81.he-1608.ea-1404-64",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Cavaliere Fidato 1p G.D º",
     "habboFigure": "hr-4090-1398.hd-3102-1.ch-3323-92-1408.lg-280-1426.sh-3035-92.he-3070-1321.ea-1404-110.fa-5601-1320.cc-5926-110-1408",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
     "habboFigure": "hr-4363-31-32.hd-4383-10-14.ch-5560-75-71.lg-3483-71-71.fa-4046.cc-4032",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto g.d",
     "habboFigure": "hr-893-34.hd-180-1.ch-804-85.lg-280-82.sh-300-1408.ha-5832-66",
@@ -7382,8 +7382,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "EREDE IMPERIAL YKZ",
-    "habboFigure": "hr-828-61.hd-5799-28.ch-875-110-1408.lg-280-110.sh-305-110.ea-1403-110.wa-5599-1412-100",
+    "motto": "ºIMºPEºRIºALººYAºKUºZAº",
+    "habboFigure": "hr-828-61.hd-5798-28.ch-875-110-1408.lg-280-110.sh-305-110.ea-1404-110.wa-5599-1412-100",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
