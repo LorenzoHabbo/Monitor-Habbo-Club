@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Hai realizzato il tuo sogno Feliciss",
     "habboFigure": "hr-5773-42.hd-4383-28-10.ch-5917-1326.lg-3006-110-110.he-5997-1326",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1404-1404.hd-209-2.ch-5452-1422-92.lg-3483-106-106.sh-3035-63.he-5915",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-1327",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-44.hd-3631-1-14.ch-3836-71-1408.lg-3391-72-1408.sh-3621-71-72.ea-1401-71.cc-4106-73-1408",
