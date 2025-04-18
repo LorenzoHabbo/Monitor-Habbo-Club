@@ -103,7 +103,7 @@
     "online": true,
     "gender": "m",
     "motto": "~ OSU",
-    "habboFigure": "hr-125-42.hd-180-10.ch-255-64.lg-280-64.ha-4094-64-64",
+    "habboFigure": "hr-125-42.hd-180-10.ch-255-80.lg-280-64.ha-1004-1408.fa-5600-1408.cc-4105-64-1408",
     "memberSince": "2007-12-31T12:48:14.000+00:00",
     "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
     "name": "francesco97!",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hd-180-1370.ch-3030-85.lg-285-1320.ha-1004-1320",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Porta Messaggi BLaCK PeaRLª",
     "habboFigure": "hr-3278-61-1342.hd-3091-28.ch-3237-92-110.lg-3596-110-73.sh-3206-110.ha-1005-110.ea-1402.fa-1205-110.wa-2002.cc-3509-110-110",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "motto che non motta",
     "habboFigure": "hr-3860-61-42.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-92-110.ha-3620.he-1609-110.fa-5975.ca-5502.cc-6077",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MARESCIALLO TRP¥ADD.¥S.L.F",
     "habboFigure": "hr-3056-39.hd-3845-10.ch-3234-110.lg-4092-110.sh-3089-110.he-1608.ca-3219-110.cc-3269-110-1408",
@@ -1463,7 +1463,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-275-1335.sh-305-92.he-3070-92.cc-5926-110-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3934-92-110.lg-275-1335.sh-305-92.he-3070-92.ea-3170-92.cc-5926-110-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-49.hd-627-1393.ch-665-92.lg-5594-63.sh-4112-110-92.ha-1005-63.he-3070-92.fa-5835-73.wa-5836-110-110.cc-5926-1334-110",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".: Fante TRP :.",
     "habboFigure": "hr-115-37.hd-180-1.ch-262-73.lg-280-73.sh-908-85.ha-1002-85",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-76.lg-3078-76.he-3274-74.fa-1202-64.cc-5926-74-1408",
@@ -1693,7 +1693,7 @@
     "online": true,
     "gender": "m",
     "motto": "Idgaf",
-    "habboFigure": "hr-5971-34.hd-205-2.ch-240-93.lg-275-108.sh-908-93.ea-1404-110.fa-3276-96.ca-1807.wa-3080-104.cc-3246-1413.cp-3309-92",
+    "habboFigure": "hr-3163-34.hd-205-2.ch-215-63.lg-5594-77.sh-3035-110.ea-1404-110.fa-3276-96.cp-3309-92",
     "memberSince": "2025-02-10T04:35:44.000+00:00",
     "uniqueId": "hhit-aa25be0bf4367410bc77cd253c3400fd",
     "name": "Rivo",
