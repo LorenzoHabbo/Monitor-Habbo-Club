@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-3322-45.hd-205-13.ch-220-110.lg-270-110.sh-300-110.fa-3462-91",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-215-90.lg-275-1408",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Partner Hooligans             omg",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3836-110-110.lg-3006-110-110.sh-6042.ha-3745-110-92.he-3070-92.fa-5435.cc-6077.cp-5886-92",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1394.hd-5317-3-14.ch-3934-1408-110.lg-280-110.sh-5247-92-92.ha-5512.fa-3276-110.cc-3420-110",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "tagliare i rapporti  finti...",
     "habboFigure": "hr-3860-48-48.hd-3604-1381.ch-3688-92.lg-5594-88.sh-295-1408.ha-3710.he-5088.ea-5897-76-76.fa-5624-1408.ca-4037-70-1408.cc-5926-70-1408",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Idgaf",
     "habboFigure": "hr-5971-34.hd-205-14.ch-215-1408.lg-5594-1408.ea-1404-1408.fa-3276-1408",
