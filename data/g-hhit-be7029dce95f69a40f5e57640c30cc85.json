@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "      º º",
     "habboFigure": "hr-828-31.hd-3092-8.ch-5559-110.lg-280-110.sh-3206-110.ea-5897-110-110.ca-1816.cc-3158-110",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4186-42.hd-4383-28-10.ch-665-110.lg-3006-1408-110.he-5997-63.fa-3276-92",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª BoTTaio BLaCK PeaRLª",
     "habboFigure": "hd-180-27.ch-3059-110.lg-3017-63-1408.sh-3419-1428-64.ha-4094-64-63.ea-5897-1408-1408.fa-1205-71.cc-5926-63-1408",
@@ -8780,10 +8780,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-31.hd-180-8.ch-210-1408.lg-281-81.sh-305-1408",
+    "habboFigure": "hr-125-31.hd-180-8.ch-210-1408.lg-281-81.sh-305-1408.ha-1006",
     "memberSince": "2015-04-14T14:08:53.000+00:00",
     "uniqueId": "hhit-5cfea23ee1416515eb764b385c9b3da6",
     "name": "Operatory",
