@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-1397-33.hd-5913-10.ch-3208-94-1408.lg-3018-64.sh-3089-63.he-5915.ea-6073.cc-6077",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~ OSU",
     "habboFigure": "hr-125-42.hd-180-10.ch-255-80.lg-280-64.ha-1004-1408.fa-5600-1408.cc-4105-64-1408",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5928.ha-3488.fa-5600-92.ca-5625-92-1408.cc-6077",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "So esaurita.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-695-64.he-5802-64.fa-3276-73.ca-3799-1408-1408.cc-5461-1408-1408",
