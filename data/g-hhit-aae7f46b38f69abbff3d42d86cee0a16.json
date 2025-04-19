@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-215-90.lg-275-1408",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -597,16 +597,6 @@
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Even if it kills me... OºM",
-    "habboFigure": "hd-180-10.ch-215-92.lg-3058-1341.sh-3016-110.ha-1002-110.ea-3169-110.fa-3462-110.cc-3075-110",
-    "memberSince": "2015-06-09T15:16:40.000+00:00",
-    "uniqueId": "hhit-6e6fcb1f0cfdfe8d68736690f4f866f5",
-    "name": "_Thomas_",
     "isAdmin": false
   },
   {
@@ -1460,10 +1450,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-110-110.lg-275-64.sh-305-92.he-3071-92",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-110-110.lg-280-64.sh-5247-92-64.he-3071-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
