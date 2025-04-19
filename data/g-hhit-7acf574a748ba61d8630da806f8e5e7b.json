@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1404-1404.hd-209-2.ch-5452-1422-92.lg-3483-106-106.sh-3035-63.he-5915",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MAMA UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
     "habboFigure": "hr-5679-47-42.hd-3956-14-14.ch-5831-1408.lg-700-64.sh-3383-64-1408.ha-4192.he-1608.ea-1401-1408.fa-3276-1408",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capitano Bp",
     "habboFigure": "hr-3260-45.hd-209-8.ch-3279-96.lg-3257-108.sh-3089-110.ha-3709.he-1608.cc-3158-110",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
@@ -3430,10 +3430,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-36.hd-209-1.ch-255-66.lg-3088-66-64.sh-3068-64-66",
+    "habboFigure": "hr-3090-36.hd-209-1.ch-255-66.lg-3088-66-64.sh-3068-64-66.ca-1801-66",
     "memberSince": "2024-03-16T09:18:20.000+00:00",
     "uniqueId": "hhit-62e02538dac7fbce3d21b79ad527ac1d",
     "name": "Lucepirata",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
