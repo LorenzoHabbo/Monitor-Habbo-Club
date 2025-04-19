@@ -40,10 +40,10 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guardia di coperta BP Arrr!",
-    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3354-82-1408.ha-3675-64-1408.ea-5910-64-1408.ca-5455-82-66",
+    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3354-82-1408.ha-1005-82.ea-5910-64-1408.ca-5455-82-66",
     "memberSince": "2006-02-05T19:06:27.000+00:00",
     "uniqueId": "hhit-b2be57d2196743d6e0f3986336c5d580",
     "name": "Cici.",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-1409-110.lg-275-63.sh-5803-92.ha-4132.he-3070-92",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",

@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Till the end",
     "habboFigure": "hr-5210-40-40.hd-4015-30.ch-3030-1408.lg-3078-82.sh-3375-1408-64.cc-5485-1408-1408",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-61.hd-4383-10-14.ch-3005-1326-1408.lg-3006-110-110.ha-5709-1326.he-3070-1328.cc-5926-1326-1408",
@@ -6090,7 +6090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza. S |",
     "habboFigure": "hr-3163-34.hd-190-2.ch-3001-92-1408.lg-280-77.sh-295-1408.ha-3656.he-3891.ea-3887.fa-5057.cc-5800-77-77",

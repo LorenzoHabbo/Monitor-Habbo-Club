@@ -10,10 +10,10 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guardia di coperta BP Arrr!",
-    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3354-82-1408.ha-3675-64-1408.ea-5910-64-1408.ca-5455-82-66",
+    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3354-82-1408.ha-1005-82.ea-5910-64-1408.ca-5455-82-66",
     "memberSince": "2006-02-05T19:06:27.000+00:00",
     "uniqueId": "hhit-b2be57d2196743d6e0f3986336c5d580",
     "name": "Cici.",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-61.hd-4383-10-14.ch-3005-1326-1408.lg-3006-110-110.ha-5709-1326.he-3070-1328.cc-5926-1326-1408",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3163-61.hd-180-1385.ch-255-110.lg-3483-1331-1331.ha-1004-110.he-3070-92",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3342-66-66.lg-275-64.fa-3276-64.cc-4091-64",
@@ -3370,7 +3370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-1409-110.lg-275-63.sh-5803-92.ha-4132.he-3070-92",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",
