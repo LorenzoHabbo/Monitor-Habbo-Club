@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Un piantino alla volta",
     "habboFigure": "hr-5619-1401.hd-627-10.ch-3013-110.lg-3483-110-110.sh-3587-92-92.ha-5620-110.he-3579.fa-3276-72.cc-3360-92",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MOMMY",
     "habboFigure": "hr-4117-58-1407.hd-3956-28-30.ch-5560-110-1428.lg-3116-110-1408.sh-3016-1336.he-1609-64.ea-3169-63.cc-5926-64-64",
@@ -4270,7 +4270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cerchi diamanti in mezzo a cocci",
     "habboFigure": "hr-3841-34.hd-180-1.ch-5830-1408.lg-285-1408.sh-3524-64-1408.ea-5897-76-64.ca-4115-64-1408.cc-5485-64-1408",
@@ -4390,7 +4390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "_",
     "habboFigure": "hr-500-45.hd-600-1.ch-685-1408.lg-3023-64.sh-735-1408.ha-1005-1408",
