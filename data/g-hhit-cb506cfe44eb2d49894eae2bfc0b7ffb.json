@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cambia il tuo motto...~",
     "habboFigure": "hr-3841-45.hd-200-1.ch-5488-68.lg-3460.ha-3620.he-1601.fa-1202-68.ca-1806-68.cc-5826-68",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tris di 666",
     "habboFigure": "hr-3090-32.hd-190-20.ch-255-80.lg-275-64.sh-295-1408.he-1609-1408.ea-3726.fa-3276-1408",
