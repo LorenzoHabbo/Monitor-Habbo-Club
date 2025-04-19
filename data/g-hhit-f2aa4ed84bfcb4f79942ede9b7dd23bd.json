@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3602-1403-45.hd-3721-2.ch-3934-110-1409.lg-5594-92.sh-5247-92-110.ea-5626-110.fa-3296.ca-5768-92-1408.wa-5599-110-110.cc-5926-1334-110",
@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-1408-110.lg-5594-63.sh-290-92.ha-5510.he-3740.fa-5975",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-890-37.hd-629-1.ch-5831-68.lg-3023-68.sh-3068-64-64.ha-5832-68.fa-3276-73",
@@ -4813,7 +4813,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hd-180-14.ch-804-1408.lg-275-92.sh-5803-1408.ha-5847",
+    "habboFigure": "hr-6034-1342-61.hd-180-1359.ch-4361-100-92.lg-3418-110.sh-300-92.ha-1004-110.he-3884-110-1412.ea-3978-110-110.fa-3276-1415.ca-3844-110-100.wa-5370.cc-3867-110-110",
     "memberSince": "2011-10-08T20:16:19.000+00:00",
     "uniqueId": "hhit-728fdcdddce98ccbbc0b2c7df0974118",
     "name": "ecco",
@@ -5100,10 +5100,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Contabile (Zingaro) Corleone",
-    "habboFigure": "hr-145-1395.hd-4174-1.ch-5596-92.lg-3116-110-92.sh-3275-92.ha-1006.fa-3592-1325.cc-5826-96",
+    "habboFigure": "hr-145-1395.hd-4174-1.ch-5596-92.lg-3116-110-92.sh-3275-92.fa-3592-1325.cc-5826-96",
     "memberSince": "2011-12-28T19:04:38.000+00:00",
     "uniqueId": "hhit-9bc943caf216aaef328288a622dcdd00",
     "name": "tom.boom",
@@ -5600,7 +5600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
     "habboFigure": "hr-4363-31-32.hd-4383-10-14.ch-5560-71-71.lg-3483-71-71.fa-4046.cc-4032",
@@ -6910,7 +6910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-83.lg-3078-1320",
