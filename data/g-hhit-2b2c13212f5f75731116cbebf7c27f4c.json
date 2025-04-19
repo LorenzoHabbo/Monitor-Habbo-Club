@@ -2120,9 +2120,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "since 2009",
+    "motto": "",
     "habboFigure": "hr-3163-33.hd-3103-1370.ch-3215-92.lg-3078-1426.sh-3089-110.ca-3175-1427",
     "memberSince": "2012-04-02T18:08:38.000+00:00",
     "uniqueId": "hhit-be2069421fedbf37680ea069ce1d9d70",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
