@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-145-45.hd-3845-8.ch-220-90.lg-3201-1408-1408.sh-300-1408.he-1608.ea-1404-1408.fa-3344-64",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Universale!",
     "habboFigure": "hr-5019-41.hd-190-17.ch-3050-1324-110.lg-285-80.sh-3035-63.ha-4054.he-5088.fa-3345-63.cc-5461-1409-1409",
