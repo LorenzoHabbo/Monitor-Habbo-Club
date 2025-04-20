@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3372-1408-1408.lg-3365-1408.sh-290-1408.ha-4133-91.ca-5028-66-91.cc-5826-64",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-34.hd-180-10.ch-210-1408.lg-4125.ha-4324.fa-5467",
