@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "speedy gonzalez",
     "habboFigure": "hr-831-61.hd-205-25.ch-3032-110-100.lg-285-110.sh-3419-110-110.ha-1003-110.fa-5600-1409.wa-3264-110-100.cc-3360-110",
@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "LETTERA Q",
     "habboFigure": "hr-515-42.hd-615-28.ch-3033-110-110.lg-710-63.sh-725-92.he-3082-92.fa-5601-1408.ca-3225-110-110.cc-4041-1427.cp-3310-63",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
     "habboFigure": "hr-3163-59.hd-209-1.ch-3203-96.lg-5594-1412.sh-3206-110.he-5915.ea-3169-110.ca-5737-110.wa-5478-110-1408.cc-4184-1412-1412",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "grattaceli meteoriti gli angeli",
     "habboFigure": "hr-828-1347.hd-205-1370.ch-3032-110-92.lg-280-1335.sh-305-92.ha-1002-93.he-3833-71.fa-5624-1412.cp-3314-110",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-76.lg-3078-76.he-3274-74.fa-1202-64.cc-5926-74-1408",
