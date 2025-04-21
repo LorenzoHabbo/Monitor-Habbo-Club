@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Vice Leader Hooligans",
     "habboFigure": "hr-3322-45.hd-205-13.ch-220-110.lg-270-110.sh-300-110.fa-3462-91",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio dx » Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604.cc-5926-63-1408",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-4050.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -760,10 +760,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3676-1395.hd-629-1.ch-630-1408.lg-3526-99-95.sh-907-99.fa-3276-72.ca-5604-99-95.cc-6077",
+    "habboFigure": "hr-3676-1395.hd-629-1.ch-3868-95-99.lg-3526-99-95.sh-907-99.fa-3276-72.ca-5604-99-95.cc-6077",
     "memberSince": "2011-02-25T15:58:53.000+00:00",
     "uniqueId": "hhit-97317f64f9e96b20c42074c9e86eb058",
     "name": "saraemilie95",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato di Freezer-rivale di Vegeta",
     "habboFigure": "hd-208-10.ch-3030-68.lg-3216-76.ea-1401-76.fa-1205-76.ca-1805-76.wa-3211-76-64",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "l\\_/l\"\"\"'\"\\_====_ \\_(‡).__I_.(‡)_]",
     "habboFigure": "hr-4193-47.hd-185-30.ch-3342-64-72.lg-3290-72.he-1609-73.ea-1404-73.fa-4013.ca-3444-73.cc-3509-64-72",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "fa caldo",
     "habboFigure": "hr-3674-34-40.hd-185-1370.ch-3438-80-84.lg-270-64.sh-295-1408.he-3552.fa-3590.cc-5942-85",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5361-1416.lg-5363-93.sh-5803-92.ha-3570.he-5915.ca-3885-96-92.cc-5800-1432-1432",
@@ -1977,16 +1977,6 @@
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "f",
-    "motto": ".",
-    "habboFigure": "hr-5579-61.hd-600-18.ch-665-1324.lg-5974-1410-1410.he-3070-1321.fa-3276-1330",
-    "memberSince": "2018-02-13T18:00:06.000+00:00",
-    "uniqueId": "hhit-57ac1215aeec2c35fe53b0a45430cf34",
-    "name": ",Ayana",
     "isAdmin": false
   },
   {
@@ -3400,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
@@ -3410,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " Supervisore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-64-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -3580,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",
@@ -3750,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-5914-1407-1407.hd-5840-1391-1362.ch-4087-110.lg-5594-1341.sh-5308-97.he-3070-1322.fa-3276-97.wa-5676.cc-6070.cp-5882-97",
