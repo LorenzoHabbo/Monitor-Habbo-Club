@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3372-1408-1408.lg-3365-1408.sh-290-1408.ha-4133-91.ca-5028-66-91.cc-5826-64",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
@@ -1013,7 +1013,7 @@
     "online": false,
     "gender": "f",
     "motto": "Apprendista novello g.d",
-    "habboFigure": "hr-3012-32.hd-3100-8.ch-3807-92-1331.lg-3058-82.ha-5620-1330.cc-5926-1429-88",
+    "habboFigure": "hr-3673-37.hd-3100-8.ch-3807-92-1331.lg-3058-82.ha-5620-1331.cc-5926-1429-88",
     "memberSince": "2010-09-20T14:04:57.000+00:00",
     "uniqueId": "hhit-6290b7e4babec900deb96332d6755bad",
     "name": "Charlene",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -2693,7 +2693,7 @@
     "online": true,
     "gender": "f",
     "motto": "Cancelliere dell' eden .1p G.D|||",
-    "habboFigure": "hr-3957-1407-1345.hd-629-19.ch-3045-95.lg-3787-110-1408.sh-907-96.wa-2010.cc-3008-1336-1328",
+    "habboFigure": "hr-3957-1407-1345.hd-629-19.ch-3045-95.lg-3787-110-1408.sh-3089-1328.wa-2010.cc-3008-1336-1328",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -4422,8 +4422,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "tagliare i rapporti  finti...",
-    "habboFigure": "hr-3860-1345-1345.hd-3604-19.ch-3688-92.lg-5594-88.sh-295-1408.ha-3709.he-5088.ea-3961.fa-5624-1408.ca-4037-1408-1408.cc-5926-70-70",
+    "motto": "leave hurry",
+    "habboFigure": "hr-3860-1345-1345.hd-3604-28.ch-3688-92.lg-5594-88.sh-295-1408.ha-3709.he-5088.cc-5926-70-110",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -4710,6 +4710,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista novello g.d.",
+    "habboFigure": "hr-3090-40.hd-209-1.ch-255-81.lg-270-80.sh-305-1408.wa-3211-1408-1408",
+    "memberSince": "2019-08-20T11:55:48.000+00:00",
+    "uniqueId": "hhit-1369a7a2b23c89475a3d7a757e650aa0",
+    "name": "gianfracasso",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "f",
     "motto": "Apprendista novella gd",
@@ -4923,7 +4933,7 @@
     "online": true,
     "gender": "f",
     "motto": "ººloading...ºº",
-    "habboFigure": "hr-515-61.hd-5913-28.ch-655-110.lg-3006-1428-110.sh-730-110.he-5915.ea-1404-1408.fa-3276-1329",
+    "habboFigure": "hr-3673-61.hd-5913-28.ch-3013-110.lg-3018-1428.sh-3016-110.he-3329-64-1428.ea-3168-110",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -6110,7 +6120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FC",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -9070,7 +9080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-5696-10-12.ch-665-1408.lg-5594-1408.sh-5274-1408-1408.ha-3620.fa-5467.cc-5800-72-72",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-03T00:46:10.000+00:00",
     "uniqueId": "hhit-89a994adc1e00337a6b07040a01ef7d6",
     "name": "TonioNapoli.M98",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-165-42.hd-209-10.ch-878-73-64.lg-3023-81.sh-3068-83-1408.ea-1401-1408",
-    "memberSince": "2023-12-03T08:42:05.000+00:00",
-    "uniqueId": "hhit-0dc16c78baad1675dbf76541d74c894c",
-    "name": "Annulus91",
     "isAdmin": false
   }
 ]
