@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-891-48.hd-180-1.ch-3111-73-1408.lg-3201-73-73.sh-906-1408.fa-1201",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-1326.lg-4341-92.sh-5671-1327.ha-3709",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-890-37.hd-629-1.ch-5831-68.lg-3023-68.sh-3068-64-64.ha-5832-68.fa-3276-73",
@@ -4410,7 +4410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "leave hurry",
     "habboFigure": "hr-3860-1345-1345.hd-3604-28.ch-3688-92.lg-5594-88.sh-5928.ha-3710.he-5088.cc-5926-70-110",
