@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ ¥",
     "habboFigure": "hd-195-12.ch-210-81.lg-270-81.fa-1205-81.ca-5604-81-81",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-1395.hd-3100-2.ch-4087-110.lg-3019-110.sh-3089-110.he-3070-93.fa-3276-72.cc-5078-1333",
@@ -913,7 +913,7 @@
     "online": true,
     "gender": "m",
     "motto": "LE PRINCIPESSE BALLANO L'HAB-HOP",
-    "habboFigure": "hr-3004-1354.hd-208-1390.ch-4981.lg-5909-92-92.sh-5928.he-3070-92.fa-1211.ca-5550.cc-3975-95-1408",
+    "habboFigure": "hr-3004-1354.hd-208-1390.ch-4981.lg-5909-92-92.sh-5928.he-5997-92.fa-1211.ca-5550.cc-3975-95-1408",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
