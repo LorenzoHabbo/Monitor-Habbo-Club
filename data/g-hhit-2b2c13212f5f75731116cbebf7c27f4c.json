@@ -1753,7 +1753,7 @@
     "online": true,
     "gender": "f",
     "motto": "APPRENDISTA NOVELLA GD",
-    "habboFigure": "hr-3673-32.hd-600-1370.ch-4087-82.lg-3320-82-1408.sh-4112-82-1408.ca-3973-82-1408",
+    "habboFigure": "hr-3673-32.hd-600-1370.ch-4087-82.lg-3320-82-1408.sh-4112-82-1408.ca-1802",
     "memberSince": "2011-08-05T14:06:46.000+00:00",
     "uniqueId": "hhit-275260fa25473fa3b6742d33f14e557c",
     "name": "manullahotels",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -6760,7 +6760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cadetta g.d",
     "habboFigure": "hr-890-45.hd-629-1.ch-4099-73-1408.lg-3088-1408-82.sh-3068-1408-64.ha-3173-91.he-1601.fa-3276-73.ca-1807",
@@ -8620,7 +8620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
