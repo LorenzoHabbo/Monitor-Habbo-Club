@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-4050.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-5189-1423-92.lg-3058-1422.sh-3587-92-1427.ha-5141-1423-96.he-3082-92.fa-3276-96.ca-5737-92",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-92.ha-3612-100.he-1609-110.fa-5975.cc-3246-100",
@@ -1533,7 +1533,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-125-31.hd-185-8.ch-210-1408.lg-281-81.sh-305-1408.ha-1006.ca-1802",
+    "habboFigure": "hr-125-31.hd-195-8.ch-210-1408.lg-281-81.sh-305-1408.ha-1020.ca-1815-73",
     "memberSince": "2015-04-14T14:08:53.000+00:00",
     "uniqueId": "hhit-5cfea23ee1416515eb764b385c9b3da6",
     "name": "Operatory",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.ca-5455-110-1410.cc-6077",
@@ -1733,7 +1733,7 @@
     "online": false,
     "gender": "f",
     "motto": "Appocundria",
-    "habboFigure": "hr-5619-1404.hd-5913-28.ch-5831-92.lg-5970-1427.sh-3035-86.ha-1005-92.he-5577-86-110.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-5440-86-92",
+    "habboFigure": "hr-5619-1404.hd-5913-28.ch-5831-92.lg-5970-1427.sh-3035-86.ha-1005-92.he-5577-86-86.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-5440-86-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-5773-34.hd-615-22.ch-3013-110.lg-700-1427.sh-908-64.ha-4349.fa-5467.cc-5800-1415-92",
@@ -2700,10 +2700,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Starting...%",
-    "habboFigure": "hr-5556-1403-1394.hd-3997-2.ch-4286-1325-1429.lg-3058-91.sh-4065-110-110.ea-5897-1428-110.fa-5387.cc-6079",
+    "habboFigure": "hr-5556-1403-1394.hd-3997-2.ch-4286-1325-1429.lg-3058-91.sh-4065-110-110.ha-1014.ea-5897-1428-110.fa-5387.cc-6079",
     "memberSince": "2021-05-04T19:35:01.000+00:00",
     "uniqueId": "hhit-d36da01536a0b4de434b9afe2876a4b1",
     "name": "Davez",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-828-61.hd-190-24.ch-255-110.lg-280-1408.sh-908-110.ha-5704.cp-3315-1330",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mah",
     "habboFigure": "hr-5619-1404.hd-600-2.ch-665-92.lg-5594-1427.sh-4112-92-92.ha-5620-92.fa-3276-95.cc-5926-1427-92",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE",
     "habboFigure": "hr-145-35.hd-208-10.ch-5488-75.lg-280-71.sh-5803-71.he-1610.fa-3276-72.ca-5049-71.wa-2004-71.cc-4179",
