@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ho visto un bel mondo.",
     "habboFigure": "hr-4118-42.hd-629-1.ch-665-73.lg-3320-64-1408",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-5773-34.hd-615-22.ch-3013-110.lg-700-1427.sh-908-64.ha-4349.fa-5467.cc-5800-1415-92",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
