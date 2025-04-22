@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guardia di coperta BP Arrr!",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3354-82-1408.ha-3675-64-1408.ea-5910-64-1408.ca-5455-82-66",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-110.sh-5247-92-92.he-3740.ea-3108-63-1408.ca-3844-92-92",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-5913-28.ch-3030-110.lg-4114-110-110.sh-295-110.he-3894-92.fa-3276-100.wa-3895-1409.cp-3315-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ª Capitano - Black Pearl ª",
     "habboFigure": "hr-4131-61-54.hd-3631-1370-30.ch-665-92.lg-5594-110.sh-3035-110.ea-1402.ca-5983-92.wa-5986-1428",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " Supervisore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-64-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
