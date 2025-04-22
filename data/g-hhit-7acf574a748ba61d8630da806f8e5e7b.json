@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-3437-105.cc-5926-64-92",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Qui Quo Qua",
     "habboFigure": "hr-5914-37-32.hd-4383-28-28.ch-5917-1414.lg-4066-110.ha-3054-64-110.he-3070-96.fa-3276-92",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leader di Ermal - CEO of McDonald's",
     "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-5460-66-88.ea-4161.ca-5454-88.cc-5826-63",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "crikey",
     "habboFigure": "hr-3676-42.hd-629-1370.ch-5607-64.lg-3526-64-1408.he-5750-64.ea-5897-64-64.fa-5601-1408.ca-5916-66-64.cc-5826-64",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.he-5915.ca-5455-1409-93.cc-6077",
@@ -820,9 +820,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "ª BoTTaio BLaCK PeaRLª",
+    "motto": "ªCaPo CaMBuSa BLaCK PeaRLª",
     "habboFigure": "hr-3278-1347-61.hd-3091-1370.ch-3323-92-92.lg-3078-110.sh-3035-110.ea-1402.fa-1205-110.wa-3263-90-91",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "F",
     "habboFigure": "hr-893-42.hd-190-1370.ch-265-76.lg-3116-64-1408.sh-3068-64-1408.ha-1018.fa-3276-1408",
@@ -1042,8 +1042,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": " ºBottaio ºBP",
-    "habboFigure": "hr-3531-34-40.hd-180-14.ch-3688-1408.lg-4066-64.ha-3709.he-5088.ea-5897-1408-1408.fa-3344-1320.ca-1801-1408.wa-4317-1408",
+    "motto": " ºCapo Cambusa ºBP",
+    "habboFigure": "hr-3531-34-40.hd-180-14.ch-3688-1408.lg-4066-64.ha-4050.he-5088.ea-5897-1408-1408.fa-3344-1320.ca-1801-1408.wa-4317-1408",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
     "name": "trey6949",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-665-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5926-1334-92",
@@ -1112,8 +1112,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-92.ha-3612-100.he-1609-110.fa-5975.cc-3246-100",
+    "motto": "Biscotto BP",
+    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-92.ha-3620.he-1609-110.fa-5975.cc-5810-1408",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[¥] Presidente S.W.A.T. [¥]",
     "habboFigure": "hr-3322-31.hd-180-1.ch-3323-1408-1408.lg-280-82.sh-3621-1408-64.ha-3709.fa-3276-73.cc-3326-64-1408",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-31.hd-627-10.ch-818-1408.lg-710-64.sh-725-1408.fa-1212",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Tu hai il gramo º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-5594-1427.he-3740.ca-3885-1410-110",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -3280,7 +3280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " Supervisore BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-64-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -3452,7 +3452,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Velaio  B.P.",
+    "motto": "Aiutante di bordo  B.P.",
     "habboFigure": "hr-802-40.hd-180-14.ch-255-73.lg-3078-82.sh-3068-1408-1408.ha-3117-73.wa-2007",
     "memberSince": "2024-03-27T09:11:14.000+00:00",
     "uniqueId": "hhit-c7a6ab1c90bb7e2b83bc710a8a9d7a18",
@@ -4020,7 +4020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-71.lg-3216-64.sh-907-64.he-3274-71",
@@ -4392,7 +4392,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Marinaio BP",
+    "motto": "Garzone di Coperta BP",
     "habboFigure": "hr-125-48.hd-205-1370.ch-235-73.lg-3078-82.sh-305-1408.ha-1013-64.he-1609-73.ca-1807.wa-2002",
     "memberSince": "2025-04-02T21:48:37.000+00:00",
     "uniqueId": "hhit-8f3a1ff1572ba3ff3f760c8f4b4a8bdc",
@@ -4400,7 +4400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ª - Black Pearl - ª",
     "habboFigure": "hr-890-45.hd-627-1.ch-665-71.lg-710-71.sh-906-71.ha-1004-71",
@@ -4410,7 +4410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "BLaCK PeaRL",
     "habboFigure": "hr-165-40.hd-180-10.ch-875-64-91.lg-280-91.sh-295-64.ha-1005-64.fa-1205-1408",
