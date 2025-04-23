@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "uno",
     "habboFigure": "hr-3525-34.hd-207-1370.ch-3022-96-110.lg-5226.sh-305-92.ha-4095-1418-1413.ea-5897-110-1327.cp-3128-96",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-630-1408.lg-3116-1326-1423.sh-5308-1338.ha-1005-1326.he-3376-110-1337.fa-5467.cc-5518-1337-86",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-4050.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -2870,10 +2870,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5887-61.hd-5317-18-15.ch-3934-110-110.lg-280-110.sh-5247-110-110.he-3884-110-110.ea-3148-110-110.fa-5975.cc-5926-110-110",
+    "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-1408-110.lg-280-63.sh-290-92.ha-5510.fa-3276-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -4670,7 +4670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -8870,7 +8870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[¥] Presidente S.W.A.T. [¥]",
     "habboFigure": "hr-3322-31.hd-180-1.ch-3323-1408-1408.lg-280-82.sh-3621-1408-64.ha-3709.fa-3276-73.cc-3326-64-1408",

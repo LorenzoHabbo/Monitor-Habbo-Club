@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.lg-5594-110.ha-5378-110-110.he-5088.fa-1209-93.ca-3292-93.cc-887-110",
@@ -163,7 +163,7 @@
     "online": true,
     "gender": "m",
     "motto": "~ OSU",
-    "habboFigure": "hr-3829-34.hd-180-10.ch-5830-64.lg-3116-64-84.sh-908-64.ea-1404-64.fa-5600-1408",
+    "habboFigure": "hr-3829-34.hd-180-10.ch-5830-64.lg-3116-64-83.sh-908-64.ea-1404-64.fa-5600-1408",
     "memberSince": "2007-12-31T12:48:14.000+00:00",
     "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
     "name": "francesco97!",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-630-1408.lg-3116-1326-1423.sh-5308-1338.ha-1005-1326.he-3376-110-1337.fa-5467.cc-5518-1337-86",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-831-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-4050.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -650,10 +650,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5887-61.hd-5317-18-15.ch-3934-110-110.lg-280-110.sh-5247-110-110.he-3884-110-110.ea-3148-110-110.fa-5975.cc-5926-110-110",
+    "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-1408-110.lg-280-63.sh-290-92.ha-5510.fa-3276-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-190-2.ch-3001-92-1408.lg-280-77.sh-295-1408.ha-3656.he-3891.ea-3887.fa-5057.cc-5800-77-77",
@@ -1370,10 +1370,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "e oggi è come ieri",
-    "habboFigure": "hr-831-34.hd-180-18.ch-5559-1334.lg-281-77.sh-3035-1335.ha-1024.he-3070-92.ca-4115-63-92.cc-3158-110",
+    "habboFigure": "hr-828-34.hd-180-18.ch-5559-1334.lg-281-77.sh-3035-1335.ha-1024.he-3070-92.ca-4115-63-92.cc-3158-110",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[¥] Presidente S.W.A.T. [¥]",
     "habboFigure": "hr-3322-31.hd-180-1.ch-3323-1408-1408.lg-280-82.sh-3621-1408-64.ha-3709.fa-3276-73.cc-3326-64-1408",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-170-31.hd-180-8.ch-805-1408.lg-280-73.sh-295-1408.he-1608.ea-1401-81",
@@ -1723,7 +1723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Appocundria",
-    "habboFigure": "hr-5517-1342-49.hd-605-28.ch-660-110.lg-710-110.sh-3035-1427.he-3070-92.fa-5467.ca-3292-1334.cc-6077",
+    "habboFigure": "hr-5517-1403-1405.hd-605-28.ch-660-110.lg-710-110.sh-3035-1408.he-3070-92.fa-5467.ca-3292-1428.cc-6077",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
@@ -2060,17 +2060,17 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "leave hurry",
-    "habboFigure": "hr-5306-1355-59.hd-3102-11.ch-3498-1424.lg-5594-1424.ha-3662-107-96.he-3893.ea-3887.ca-3883.cc-5926-96-107",
+    "habboFigure": "hr-3860-1345-1345.hd-3604-28.ch-3688-92.lg-5594-88.sh-5928.ha-3710.he-5088.cc-5926-70-110",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-6034-1407-40.hd-5525-18-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.he-5643.ca-5936-92",
@@ -2220,7 +2220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "        Ecate º OBL",
     "habboFigure": "hr-5619-49.hd-615-28.ch-3935-92-1428.lg-5594-110.sh-3035-110.ha-5620-110.he-3891.ea-5897-110-110.cc-5926-110-1408",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vivo ma non ho scelta ne motivo",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2440,10 +2440,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-39.hd-180-1370.ch-267-85.lg-3023-85.sh-3524-64-85",
+    "habboFigure": "hr-3090-39.hd-180-1370.ch-267-85.lg-3023-85.sh-3524-64-85.ha-1014",
     "memberSince": "2020-04-12T01:02:07.000+00:00",
     "uniqueId": "hhit-c9770c710ab56ce7c1cbfffb5d83c40c",
     "name": "alexburk",
@@ -2610,10 +2610,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "MCMNF",
-    "habboFigure": "hr-5680-32.hd-5913-10.ch-4063-73-1408.lg-3391-81-1408.he-5458-73-73.ea-1404-64.fa-3276-73.ca-5455-73-1320",
+    "habboFigure": "hr-5605-32.hd-5913-10.ch-4067-72-72.lg-3391-81-1408.ea-1406.fa-3276-73.ca-5455-72-1320",
     "memberSince": "2021-01-02T17:45:56.000+00:00",
     "uniqueId": "hhit-047fc3b68356848ba32ede0bf22ea0c2",
     "name": "Aliiiis.",
@@ -3433,14 +3433,14 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-34.hd-205-28.ch-210-110.lg-281-92.sh-5803-110.fa-3276-110.ca-3844-92-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-275-110.sh-305-92.he-3070-92.fa-5601-92.ca-3844-110-64.cc-3158-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-3935-110-110.lg-5243-77.sh-5247-92-92.he-3891.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",
@@ -3650,7 +3650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-5831-64.lg-710-1408.sh-3068-64-1408.ha-1005-1408.he-5466.ea-3925-64-1408.fa-5467.wa-5836-1408-1408",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-49.hd-627-1393.ch-665-92.lg-5594-63.sh-4112-110-92.ha-1005-63.he-3070-92.fa-5835-73.wa-5836-110-110.cc-5926-1334-110",
@@ -3793,7 +3793,7 @@
     "online": false,
     "gender": "f",
     "motto": "anche tre",
-    "habboFigure": "hr-5680-45.hd-615-1.ch-665-68.lg-5594-1408.sh-5464-68-1408.ha-5832-1408.fa-3276-72.ca-3973-71-72",
+    "habboFigure": "hr-5773-45.hd-615-1.ch-665-68.lg-5594-1408.sh-5464-68-1408.ha-5620-1408.fa-3276-72.ca-3973-71-72",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
@@ -3870,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-34.hd-180-1.ch-235-91.lg-285-64.sh-295-64.he-1608.ea-1404-64.fa-1201",
