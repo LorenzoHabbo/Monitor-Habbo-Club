@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-5189-1423-92.lg-3058-1422.sh-3587-92-1427.ha-5141-1423-96.he-3082-92.fa-3276-96.ca-5737-92",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Consigliere Kanun",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1723,7 +1723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Appocundria",
-    "habboFigure": "hr-5517-61-1346.hd-5913-28.ch-660-110.lg-3502-1428.sh-5928.ea-5576-1408-1408.fa-5467.ca-3292-63.cc-6077",
+    "habboFigure": "hr-5619-1404.hd-605-28.ch-655-110.lg-710-110.sh-3035-1427.ha-1005-110.he-3070-92.fa-5467.ca-3292-1334.cc-3744-110-110",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "*.,.*Dammi soldi, ti offro gelato*.,.*",
     "habboFigure": "hd-180-1383.ch-3030-95.lg-275-110.sh-295-110.ha-1004-110.ea-1403-110",
@@ -2443,7 +2443,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-39.hd-180-1370.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
+    "habboFigure": "hd-180-1370.ch-210-1408.lg-270-1408.ha-1014",
     "memberSince": "2020-04-12T01:02:07.000+00:00",
     "uniqueId": "hhit-c9770c710ab56ce7c1cbfffb5d83c40c",
     "name": "alexburk",
@@ -2663,7 +2663,7 @@
     "online": true,
     "gender": "m",
     "motto": "Starting...%",
-    "habboFigure": "hr-5556-1403-1394.hd-3997-2.ch-4286-1325-1429.lg-3058-91.sh-4112-110-110.ea-5897-1428-110.fa-5387.cc-6079",
+    "habboFigure": "hr-3278-61-41.hd-3997-10.ch-3022-110-96.lg-3361-110.sh-3115-110-110.cp-3128-110",
     "memberSince": "2021-05-04T19:35:01.000+00:00",
     "uniqueId": "hhit-d36da01536a0b4de434b9afe2876a4b1",
     "name": "Davez",
@@ -3433,7 +3433,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-15.ch-210-110.lg-280-110.sh-305-92.fa-5835-92.ca-3844-92-1408",
+    "habboFigure": "hr-828-61.hd-205-24.ch-255-110.lg-280-1408.sh-908-110.ha-5704.cp-3315-1330",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "VIDA LOCA",
     "habboFigure": "hr-3841-49.hd-4174-8.ch-3987-1408-1408.lg-3078-1408.sh-3375-1408-1408.ha-3986.he-3070-1408.ea-3170-1408.ca-3985-1408.cc-4386-1408-1408",
@@ -3673,7 +3673,7 @@
     "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
-    "habboFigure": "hr-5680-1394.hd-600-2.ch-665-110.lg-5594-63.sh-3089-1427.he-5915.fa-3276-1328.cc-5926-1335-1325",
+    "habboFigure": "hr-5680-1394.hd-600-2.ch-665-110.lg-5594-63.sh-3089-1427.he-3660-110-64.fa-3276-1328.cc-5926-1335-1325",
     "memberSince": "2024-08-17T12:10:12.000+00:00",
     "uniqueId": "hhit-74b22a55b8b6f940108378015b21203c",
     "name": "Gaia25",
@@ -3790,10 +3790,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "anche tre",
-    "habboFigure": "hr-5773-45.hd-615-1.ch-665-73.lg-5594-82.sh-735-68.he-3660-64-1408.fa-3276-72",
+    "habboFigure": "hr-5680-45.hd-615-1.ch-665-68.lg-5594-1408.sh-5464-68-1408.ha-5832-1408.fa-3276-72.ca-3973-71-72",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-3829-1342.hd-180-18.ch-215-1427.lg-280-110.sh-908-92.ea-5897-64-110.ca-1801-110.cp-3315-110",
