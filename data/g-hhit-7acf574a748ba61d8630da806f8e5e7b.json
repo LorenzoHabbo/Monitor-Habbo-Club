@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-49.hd-3092-3.ch-5596-110.lg-5594-64.sh-5308-1410.ha-3352-64-1427.he-5578-1408.fa-5601-68.ca-5769-92-92",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5833-110-1330.lg-5594-82.sh-3089-110.ha-3709.cc-5800-92-1408",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-145-45.hd-3845-8.ch-220-90.lg-3201-1408-1408.sh-300-1408.he-1608.fa-3344-64",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
@@ -2102,7 +2102,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Mamma di Lukka997",
+    "motto": "Mamma di Lukka997 |",
     "habboFigure": "hr-4363-54-54.hd-600-1.ch-5453-1414-105.lg-3134-1326-1326.sh-5551.he-5314-1414-1414.cc-5461-1326-105",
     "memberSince": "2020-04-06T20:10:05.000+00:00",
     "uniqueId": "hhit-9cd69ed84d73400dc0de0e99c8676b91",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Tu hai il gramo º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-5594-1338.he-3740.ca-3885-1410-110.wa-3661-110-93",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5559-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5926-110-110",
@@ -3380,10 +3380,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-34.hd-205-28.ch-210-110.lg-281-92.sh-5803-110.ca-3844-92-92",
+    "habboFigure": "hr-3163-34.hd-205-28.ch-3934-110-110.lg-281-92.sh-5803-110.ca-3844-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -3772,7 +3772,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "“ma lei chi è” “u signuri” •",
+    "motto": "anche tre",
     "habboFigure": "hr-5773-45.hd-615-1.ch-665-73.lg-5594-82.sh-735-68.he-3660-64-1408.fa-3276-72",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-76.lg-3078-76.he-3274-74.fa-1202-64.cc-5926-74-1408",
