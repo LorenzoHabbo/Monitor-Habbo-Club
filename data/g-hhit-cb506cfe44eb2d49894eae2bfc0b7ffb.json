@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|| Trainer Hooligans ||",
     "habboFigure": "hr-3163-61.hd-3102-11.ch-5608-110.lg-3596-92-92.sh-5803-92.he-3465-92-110.ea-5642.ca-5455-110-1410.cp-3309-1408",
@@ -2680,7 +2680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4117-34-45.hd-600-1.ch-665-71.lg-710-71.sh-740-1408.ha-3254-64.he-3358-71-71.fa-3276-73",
@@ -3433,7 +3433,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-34.hd-205-2.ch-210-110.lg-275-64.sh-5803-110.fa-5835-1412.ca-3844-92-92.cc-3509-64-92",
+    "habboFigure": "hr-3163-34.hd-205-2.ch-210-110.lg-275-64.sh-5803-92.fa-5601-92.ca-3844-92-92.cc-3509-64-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
