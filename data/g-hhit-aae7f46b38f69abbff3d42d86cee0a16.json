@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Biscotto BP",
     "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-92.ha-3620.he-1609-110.fa-5975.cc-5810-1408",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ººloading...ºº",
     "habboFigure": "hr-3012-32.hd-3845-1383.ch-3013-100.lg-3023-100.sh-3016-89.he-3329-1412-89.fa-3276-1415.cc-3008-100-89",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M nel cuore",
     "habboFigure": "hr-3871-45.hd-190-8.ch-3342-64-64.lg-3078-1408.sh-3068-1408-1408.he-5802-64.fa-5760.ca-5739-64-1408",
