@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Hungry dogs are never loyal",
     "habboFigure": "hr-5372-1402.hd-600-2.ch-5560-1408-110.lg-5970-110.sh-4064-110.fa-3276-1412.cc-5926-77-77",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cerco fida",
     "habboFigure": "hr-3468-45.hd-209-1.ch-210-64.lg-275-64.sh-3180-1408-64.ha-1017.fa-1210.cc-3405-64-1408",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ªCaPo CaMBuSa BLaCK PeaRLª",
     "habboFigure": "hr-3278-1347-61.hd-3091-28.ch-3203-110.lg-3364-110-73.sh-3206-110.ha-1005-110.ea-1402.fa-1205-110.wa-3263-90-91",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Il veleno va idratato",
     "habboFigure": "hr-4181-48.hd-195-10.ch-3779-64-1408.lg-280-64.sh-3587-64-1408.he-3820-82.fa-4048.wa-4060-82-73.cc-5825",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-5773-34.hd-615-22.ch-3013-110.lg-700-1427.sh-908-64.ha-4349.fa-5467.cc-5800-1415-92",
@@ -1533,14 +1533,14 @@
     "online": true,
     "gender": "m",
     "motto": "patriottico",
-    "habboFigure": "hr-3725-42.hd-190-10.ch-215-64.lg-5594-82.sh-3524-64-90.he-4990-73.ea-1404-64.fa-5054",
+    "habboFigure": "hr-3725-42.hd-190-10.ch-215-64.lg-5594-64.sh-3524-64-90.he-4990-73.ea-1404-64.fa-5054",
     "memberSince": "2020-02-24T13:11:58.000+00:00",
     "uniqueId": "hhit-42e997113909c856fec3b955c57ba7b0",
     "name": "b0nostrain",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3163-61.hd-180-1385.ch-255-110.lg-3483-1331-1331.ha-1004-110.he-3070-92",
@@ -2013,7 +2013,7 @@
     "online": true,
     "gender": "m",
     "motto": "  - ª Clan Oblivion ª -         [A]",
-    "habboFigure": "hr-831-61.hd-5317-1-1368.ch-3203-81.lg-280-77.sh-3206-92.he-3833-92.fa-3276-64.ca-5936-92.cc-5926-92-110",
+    "habboFigure": "hr-831-61.hd-5317-1-1368.ch-3203-81.lg-280-77.sh-3206-92.he-3833-92.fa-3276-64.ca-5936-92.cc-5926-110-92",
     "memberSince": "2021-07-16T11:43:04.000+00:00",
     "uniqueId": "hhit-3115e4d80782501c81ffa8dcd2e477f9",
     "name": "Limited",
