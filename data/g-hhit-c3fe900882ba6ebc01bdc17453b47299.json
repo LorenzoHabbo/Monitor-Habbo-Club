@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Gloria fugace l’oscurità è per sempreº",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-665-110.lg-710-110.sh-725-92.he-4946-110.ea-1401-110.cc-5078-110",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-54.hd-207-28.ch-3030-110.lg-5732-64-64.he-1609-110.ea-1401-110",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5928.ha-3488.fa-5600-92.ca-5625-77-1408.cc-6077",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " OBL  |",
     "habboFigure": "hr-5680-45.hd-4383-10-14.ch-4087-64.lg-3483-64-64.ha-4052.he-3833-66.fa-4168-64.cc-5461-64-68",
@@ -2000,10 +2000,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-5566-58-1354.hd-3096-27.ch-3013-1324.lg-3006-107-1324.he-3070-1324.fa-3276-97.ca-4965-63-1408",
+    "habboFigure": "hr-4941-1342-1342.hd-5913-18.ch-3668-110-110.lg-3526-64-110.sh-5803-110.he-4977-64-110.ea-3978-64-64.fa-3276-64.ca-3485.cc-5800-110-110",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
