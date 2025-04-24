@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3934-110-110.lg-275-110.sh-305-92.he-3070-92.fa-5601-92.ca-3844-110-64.cc-3158-64",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-3935-110-110.lg-5243-77.sh-5247-92-92.he-3891.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-665-110.lg-5594-63.sh-3089-1427.he-3660-110-64.fa-3276-1328.cc-5926-1335-1325",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "alfiere del vento bp",
     "habboFigure": "hr-3673-37.hd-4163-1-1392.ch-5560-106-92.lg-5974-92-92.sh-3619-1416-1408.fa-3276-1413.ca-5455-99-93.cc-4104-99-92",
