@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LE PRINCIPESSE BALLANO L'HAB-HOP",
     "habboFigure": "hr-3004-1354.hd-208-1390.ch-4981.lg-5909-92-92.sh-5928.he-5915.fa-1211.ca-5550.cc-3975-95-1408",
@@ -1770,10 +1770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-515-36.hd-600-1.ch-685-1408.lg-3216-1408.sh-908-1408.he-3274-1408.ca-1818.wa-2009-1408.cp-3287",
+    "habboFigure": "hr-515-36.hd-180-14.ch-210-1408.lg-3078-64.he-3274-1408",
     "memberSince": "2025-03-17T22:36:25.000+00:00",
     "uniqueId": "hhit-967e7a27aeae3b92ebf49060386a83cf",
     "name": ":DeliciOus.",
