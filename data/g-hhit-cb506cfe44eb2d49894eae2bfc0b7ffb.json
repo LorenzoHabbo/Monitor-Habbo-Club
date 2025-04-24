@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Since 2007 Vintage ¥",
     "habboFigure": "hr-828-61.hd-3845-29.lg-5594-110.ha-5378-110-110.he-5088.fa-1209-93.ca-3292-93.cc-887-110",
@@ -162,8 +162,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "~ OSU",
-    "habboFigure": "hr-3829-34.hd-180-10.ch-5830-64.lg-3116-64-83.sh-908-64.ea-1404-64.fa-5600-68",
+    "motto": "",
+    "habboFigure": "hr-3829-34.hd-180-10.ch-5830-64.lg-3078-64.sh-906-64.ea-1404-64.fa-5600-68",
     "memberSince": "2007-12-31T12:48:14.000+00:00",
     "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
     "name": "francesco97!",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
     "habboFigure": "hr-5791-1342.hd-5317-18-14.ch-3934-1408-110.lg-280-110.sh-5247-110-1408.ha-5512.he-3740.fa-3276-110.cc-5926-110-110",
@@ -913,7 +913,7 @@
     "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
-    "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
+    "habboFigure": "hd-185-10.ch-225-1320.lg-270-85.sh-3027-110-110.fa-1206-1408.wa-3211-85-110",
     "memberSince": "2011-08-28T17:25:18.000+00:00",
     "uniqueId": "hhit-add36bf88cafdb2e2cf194130fe1218a",
     "name": "Sunu",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1371.ch-255-1408.lg-280-1408",
@@ -1723,7 +1723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Appocundria",
-    "habboFigure": "hr-5517-1403-1405.hd-605-28.ch-660-1427.lg-5970-1334.sh-3035-110.he-3070-92.fa-5467.ca-3292-92.cc-6077",
+    "habboFigure": "hr-5517-1403-1405.hd-605-28.ch-4087-92.lg-5970-1324.sh-5928.he-3070-92.fa-5467.ca-3084-1409-77.cc-5926-77-1408",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1873,7 +1873,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
+    "habboFigure": "hr-100.hd-180-14.ch-215-64.lg-3023-73.sh-305-1408.ha-1017.wa-2007",
     "memberSince": "2017-07-26T17:40:08.000+00:00",
     "uniqueId": "hhit-90edcf9be2787a122236d9b5934ad5b4",
     "name": ".Gerri.",
@@ -2430,7 +2430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Elis ti amo pero parto a cipro ciao",
     "habboFigure": "hr-125-32.hd-190-10.ch-230-1408.lg-3290-68.ea-3726.ca-1804-64",
@@ -2913,7 +2913,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-555-34.hd-627-1.ch-665-1408.lg-3116-1408-91.sh-905-1408.ha-1002-64.ea-1404-64",
+    "habboFigure": "hr-890-37.hd-615-14.ch-690-64.lg-710-64.sh-725-1408.he-1609-64.ea-1404-64.fa-3276-72.ca-1812",
     "memberSince": "2021-12-19T15:09:47.000+00:00",
     "uniqueId": "hhit-908ed85a73a9227a710270815e3d7552",
     "name": "Muor-",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-3095-3.ch-267-110.lg-275-110.sh-3206-1408.ca-1816",
@@ -3423,7 +3423,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-34.hd-205-28.ch-210-110.lg-281-92.sh-5803-110.fa-3276-110.ca-3844-92-92",
+    "habboFigure": "hr-3163-34.hd-205-15.ch-3934-1409-110.lg-280-1427.sh-305-92.fa-3276-110.ca-3844-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3910,7 +3910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mah",
     "habboFigure": "hr-5619-1404.hd-600-2.ch-665-92.lg-5594-77.sh-4112-92-92.fa-3276-95.cc-5926-92-110",
@@ -4203,7 +4203,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cerchi diamanti in mezzo a cocci",
-    "habboFigure": "hr-893-45.hd-180-1.ch-210-1408.lg-270-64.sh-3524-64-64.ha-1013-1408.cc-260-81",
+    "habboFigure": "hr-893-45.hd-180-1.ch-210-1408.lg-270-64.sh-3524-64-64.ha-1013-1408",
     "memberSince": "2025-02-17T23:13:59.000+00:00",
     "uniqueId": "hhit-dc1db96c81df88e87c10bebf786d742a",
     "name": "Guilty.",
