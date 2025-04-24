@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio-bp",
     "habboFigure": "hr-145-45.hd-3845-8.ch-220-90.lg-3201-1408-1408.sh-300-1408.he-1608.fa-3344-64",
@@ -2490,7 +2490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Nutri un pollo con crocchette di pollo",
     "habboFigure": "hr-3090-36.hd-207-8.ch-255-1408.lg-3023-66.ha-1014.he-1608",
@@ -3500,7 +3500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3580,7 +3580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Regina dei fiori e delle piante |",
     "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.cc-4217-71",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-4363-61-61.hd-5840-1391-1362.ch-4087-110.lg-5594-1341.sh-5308-97.he-3070-1322.fa-3276-97.wa-5676.cc-6070.cp-5882-97",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~Decime Esperta GD~",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-76.lg-3078-76.he-3274-74.fa-1202-64.cc-5926-74-1408",
