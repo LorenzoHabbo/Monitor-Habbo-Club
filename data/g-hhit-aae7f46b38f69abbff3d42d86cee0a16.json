@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".Oblivion.",
     "habboFigure": "hr-5773-31.hd-600-10.ch-824-96.lg-5970-1338.sh-3089-96.ha-3463-96.he-3974.fa-5467.ca-4959",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.ha-3461.ea-1404-1408.fa-5760.cc-5926-64-1408",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-34.hd-205-15.ch-3934-1409-110.lg-280-1427.sh-305-92.fa-3276-110.ca-3844-92-92",
