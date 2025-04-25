@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just want my toes in the sand",
     "habboFigure": "hr-3278-32-32.hd-180-2.ch-3840-106-92.lg-3202-1408-1315.sh-295-1408.he-3660-110-1408.fa-3344-68",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5803-92.ha-3488.fa-5600-92.ca-5411-92.cc-5951-92",
@@ -4611,9 +4611,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-515-42.hd-615-1370.ch-665-68.lg-720-81.sh-906-64.he-1609-1408.ea-1406.wa-2001",
+    "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-90-91.cc-3360-64",
     "memberSince": "2011-06-06T18:31:38.000+00:00",
     "uniqueId": "hhit-b7d6d0f59184e1d2d8bc6693bd61b3a4",
     "name": "Rootkit98.",
