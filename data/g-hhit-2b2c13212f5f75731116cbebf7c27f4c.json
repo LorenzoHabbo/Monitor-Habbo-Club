@@ -2150,10 +2150,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
-    "habboFigure": "hr-4363-1397-1398.hd-5683-10.ch-5560-68-68.lg-3483-81-81.he-3549.fa-4046",
+    "habboFigure": "hr-4363-1397-1398.hd-5683-10.ch-5560-68-68.lg-3483-81-81.fa-4046",
     "memberSince": "2012-04-09T00:29:56.000+00:00",
     "uniqueId": "hhit-2c8a4c59cbb643e6681167402f71f83f",
     "name": "roberta352",
@@ -5690,7 +5690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
     "habboFigure": "hr-3163-59.hd-209-1.ch-3683-1408-1408.lg-5594-1412.he-5915.ea-3169-110.fa-3276-96.ca-5770-1321.cc-4184-1412-1412",
