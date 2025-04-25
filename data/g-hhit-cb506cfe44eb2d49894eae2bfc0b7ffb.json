@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1404-1404.hd-209-2.ch-5452-1422-92.lg-3483-106-106.sh-3035-1408.he-5915",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-110.lg-280-64.sh-305-92.fa-3276-110.ca-3844-110-100",
