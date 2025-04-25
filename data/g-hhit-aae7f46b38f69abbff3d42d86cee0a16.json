@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.he-5915.cc-5926-64-1408",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-34.hd-205-15.ch-3934-1409-110.lg-280-1427.sh-305-92.fa-3276-110.ca-3844-92-92",
