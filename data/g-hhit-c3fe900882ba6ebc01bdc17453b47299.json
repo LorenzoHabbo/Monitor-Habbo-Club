@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sicario Corleone",
     "habboFigure": "hr-5619-45.hd-3631-10-12.ch-3400-73-73.lg-3355-82-73.fa-3276-72",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ho visto un bel mondo.",
     "habboFigure": "hr-4118-42.hd-629-1.ch-4067-73-1408.lg-3320-81-80",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-36.hd-3845-14.ch-3342-66-66.lg-3078-90",
