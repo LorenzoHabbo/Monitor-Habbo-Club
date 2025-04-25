@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-42.hd-180-8.ch-3279-1327.lg-3023-1417.sh-3089-79.ha-1011-1416.fa-1204.wa-3211-64-73.cc-3075-1419",
@@ -750,10 +750,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
+    "online": false,
+    "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hd-4383-10-5.lg-270-1408.ha-1014",
+    "habboFigure": "hr-5969-1351.hd-4383-10-10.ch-5560-106-106.lg-5594-106.sh-5671-1337.ha-5620-1339.he-5314-1339-92.cc-5926-1337-106",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ª Capitano - Black Pearl ª",
     "habboFigure": "hr-5773-61.hd-3631-1370-30.ch-665-110.lg-5594-1341.sh-3035-110.ea-1402.ca-5983-92.wa-5986-110.cc-5926-1341-1408",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3468-38.hd-3631-1-1371.ch-5302-83-68.lg-4167-81.sh-735-81.he-1602-80.fa-3276-72",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-36.hd-3845-14.ch-3342-66-66.lg-3078-90",
@@ -3020,7 +3020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Curiosita",
     "habboFigure": "hr-5019-37.hd-209-14.ch-3683-1408-82.lg-3078-81.sh-3068-1408-80.cc-3280-90-1408",
