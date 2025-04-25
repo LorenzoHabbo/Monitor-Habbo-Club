@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5928.ha-3488.fa-5600-92.ca-5625-77-1408.cc-6077",
@@ -7150,10 +7150,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "But he's not as cool as me",
-    "habboFigure": "hr-5969-1404.hd-4163-1-1390.ch-3881-110.lg-3526-1426-1408.sh-5308-1320.ha-1002-64.he-3070-92.fa-3276-1328.ca-3414-92.cc-3867-1327-1414",
+    "habboFigure": "hr-100.hd-180-7.lg-270-64.ha-1023-92.ca-1804-63.cc-5942-1408",
     "memberSince": "2013-06-01T19:59:43.000+00:00",
     "uniqueId": "hhit-5ed9df87f990465ebb2499ba6fe34bf7",
     "name": "summerparis",
@@ -8870,7 +8870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",

@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Gloria fugace l’oscurità è per sempreº",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-665-110.lg-710-110.sh-725-92.he-4946-110.ea-1401-110.cc-5078-110",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5928.ha-3488.fa-5600-92.ca-5625-77-1408.cc-6077",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
