@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Yasahi Hana GAIJIN Esperto YKZ SHIRO",
     "habboFigure": "hr-5914-1395-33.hd-629-1.ch-3367-99-95.lg-3364-99-95.sh-907-99.he-3469-99.fa-3276-72.ca-5604-99-95.cc-6077",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
