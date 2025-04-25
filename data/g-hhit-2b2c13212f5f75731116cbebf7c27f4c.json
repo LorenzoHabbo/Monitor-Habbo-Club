@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "half angel half devil.",
     "habboFigure": "hr-545-42.hd-605-10.ch-660-1408.lg-3116-64-1408",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gran Signore GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3023-90.sh-3115-90-90.ha-3409-91-66.ca-3425-66-66.wa-3211-66-1408.cc-3294-90-66",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -7990,7 +7990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "angelo 1p G.d.",
     "habboFigure": "hr-3810-39.hd-600-10.ch-645-1408.lg-3023-64.sh-906-1408.ca-1812.cc-3326-64-1408",
@@ -8620,7 +8620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -9620,7 +9620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "demone guardiano di cerbero g.d.",
     "habboFigure": "hr-893-44.hd-209-19.ch-878-1408-76.lg-3078-64.he-1608.ea-1404-64.fa-1201.ca-1801-76.cp-3127-73",
