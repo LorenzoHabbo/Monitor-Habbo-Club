@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-215-90.lg-275-1408",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato di Freezer-rivale di Vegeta",
     "habboFigure": "hd-208-10.ch-3030-68.lg-3216-76.ea-1401-76.fa-1205-76.ca-1805-76.wa-3211-76-64",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-83.lg-3078-1320",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "l\\_/l\"\"\"'\"\\_====_ \\_(‡).__I_.(‡)_]",
     "habboFigure": "hr-4193-47.hd-185-30.ch-3342-64-72.lg-3290-72.he-1609-73.ea-1404-73.fa-4013.ca-3444-73.cc-3509-64-72",
@@ -2060,10 +2060,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "meglio soli.. che circondati da falsi",
-    "habboFigure": "hr-5306-61-61.hd-3102-11.ch-3779-100-100.lg-3407-100-100.sh-4065-110-110.he-5088",
+    "habboFigure": "hr-5306-61-61.hd-3092-11.ch-3779-100-100.lg-3407-100-100.sh-4065-110-110.ha-3415-92-92.cc-5951-92",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Nel Sugo Ce Il RagùNelMio|Ci6Tu saaaas",
     "habboFigure": "hr-828-51.hd-209-1370.ch-5394.lg-3078-106.sh-3275-92.ha-1027.fa-1211.ca-1815-1327.wa-3798-94-1328.cc-3360-67",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ººloading...ºº",
     "habboFigure": "hr-515-61.hd-5913-1375.ch-3183.lg-3006-110-92.sh-730-110.ha-1026.he-3070-92.ea-1404-64.fa-3276-110.cc-3008-110-92",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.ea-5910-110-1408.ca-3131-1339-1421",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
     "habboFigure": "hr-802-38.hd-180-1.ch-3038-1412.lg-3019-82.sh-295-1325.ha-3347-66-1413.wa-2004-93.cc-5951-110",
@@ -3090,7 +3090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5559-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5926-110-110",
@@ -3170,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "forse una fatina di habbo",
     "habboFigure": "hr-5579-55.hd-615-10.ch-3970-92.lg-3136-92.sh-3206-92.ha-5169-1408.he-5808-63.ea-1404-110.fa-5624-96.cc-5461-92-1408",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
@@ -3420,10 +3420,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-34.hd-205-15.ch-3934-1409-110.lg-280-1427.sh-305-92.fa-3276-110.ca-3844-92-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-110.lg-280-64.sh-305-92.fa-5601-92.ca-3844-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-45.hd-205-10.ch-210-110.lg-281-110.sh-305-92.ha-3145-110-1326.he-3070-92.cc-3420-1326",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "la Gardenia è una pianta!",
     "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.he-5808-64.ca-4958.cc-4217-71",
