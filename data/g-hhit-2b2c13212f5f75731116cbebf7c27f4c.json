@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-5969-59.hd-4383-2-1372.ch-5923-110-92.lg-5974-92-110.he-5997-92",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CADETTO G. D",
     "habboFigure": "hr-155-45.hd-209-1370.ch-875-1408-1408.lg-3023-64.sh-305-1408.wa-2001",
@@ -4400,7 +4400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "meglio soli.. che circondati da falsi",
     "habboFigure": "hr-5306-61-61.hd-3092-11.ch-3779-100-100.lg-3407-100-100.sh-4065-110-110.ha-3415-92-92.cc-5951-92",
