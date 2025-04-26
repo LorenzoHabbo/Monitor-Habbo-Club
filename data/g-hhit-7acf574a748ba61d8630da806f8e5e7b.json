@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-5833-110-110.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3360-110",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-5913-1.ch-3806-64.lg-3078-82.sh-300-1408.ha-1004-76.he-3918.fa-5601-1320.cc-3917-73",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-31.hd-627-10.ch-665-64.lg-710-64.sh-725-1408.fa-1212",
@@ -2020,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ao",
     "habboFigure": "hr-3163-61.hd-180-1385.ch-255-110.lg-3483-1331-1331.ha-1004-110.he-3070-92",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4117-34-45.hd-600-1.ch-665-71.lg-710-71.sh-740-1408.ha-3254-64.he-3358-71-71.fa-3276-73",
@@ -3253,7 +3253,7 @@
     "online": true,
     "gender": "f",
     "motto": " Supervisore BP  TheHitcher_97 |",
-    "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-64-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
+    "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-64-1408.sh-5308-1408.ha-1014.he-3324-71-1408.fa-5467",
     "memberSince": "2023-12-22T10:53:21.000+00:00",
     "uniqueId": "hhit-077cd475971c5d1a55ee36a304c79a2f",
     "name": "Cristalgemma",
@@ -3913,7 +3913,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-890-42.hd-3845-10.ch-3836-82-74.lg-4119.sh-3383-82-74.ha-5299-82-74.he-3324-74-76",
+    "habboFigure": "hr-890-42.hd-3845-10.ch-3836-82-74.lg-4119.sh-3383-82-74.ha-5299-76-1408.he-3324-74-76",
     "memberSince": "2024-11-23T18:43:35.000+00:00",
     "uniqueId": "hhit-c3238aa14c6802c6d138238b5f1f7484",
     "name": "Amy0314",
