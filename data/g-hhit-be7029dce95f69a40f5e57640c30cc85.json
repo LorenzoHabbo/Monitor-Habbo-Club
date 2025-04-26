@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-1397-33.hd-3091-10.ch-3208-92-1408.lg-3018-64.sh-3016-1408.he-5915.ea-6073.fa-1205-67.cc-6077",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-155-52.hd-205-28.ch-255-110.lg-285-63.sh-290-92",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sto studiando",
     "habboFigure": "hd-180-1371.ch-3030-64.lg-3116-1408-91.sh-905-82.ha-1004-82.ea-1403-1408.ca-1801-66",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-3845-1.ch-3323-1408-64.lg-3483-64-64.sh-295-64.fa-1205-1320.wa-3074-90-91.cc-3360-64",
@@ -9060,7 +9060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-34.hd-207-18.ch-803-64.lg-3361-110.sh-908-64.he-3070-89.fa-3276-110.ca-3485.cc-5926-110-1408",
@@ -9480,7 +9480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.ca-5455-110-1410.cc-6077",
