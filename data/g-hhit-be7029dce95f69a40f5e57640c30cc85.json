@@ -760,10 +760,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Masarez º",
-    "habboFigure": "hr-5306-45-45.hd-205-1.ch-255-1408.lg-280-81.sh-908-1408.ha-4120.ea-5576-74-74.fa-3276-91",
+    "habboFigure": "hr-5306-45-45.hd-205-1.ch-215-1408.lg-280-81.sh-908-1408.ha-4120.ea-5576-74-74.fa-3276-91",
     "memberSince": "2008-03-19T20:00:12.000+00:00",
     "uniqueId": "hhit-fde151b205b87fa74907034b9846f258",
     "name": "spayco",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -6223,7 +6223,7 @@
     "online": true,
     "gender": "f",
     "motto": "-ERROR 404- MIND NOT FOUND",
-    "habboFigure": "hr-5517-60-55.hd-5683-10.ch-5560-105-105.lg-3483-95-95.fa-4046",
+    "habboFigure": "hr-5517-60-55.hd-5683-10.ch-5560-95-95.lg-3483-105-105.fa-4046",
     "memberSince": "2012-04-09T00:29:56.000+00:00",
     "uniqueId": "hhit-2c8a4c59cbb643e6681167402f71f83f",
     "name": "roberta352",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-3768-44.hd-4163-1-14.ch-3881-75.lg-4066-76.sh-3419-75-1408.he-3974.ea-3484",
