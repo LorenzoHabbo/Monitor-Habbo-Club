@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".Oblivion.",
     "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-5517-1405-49.hd-605-28.ch-5831-92.lg-3006-1427-1427.sh-3089-1427.he-3070-1410.fa-5467.ca-1816.cc-5926-1323-1408",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-3829-1342.hd-180-18.ch-215-1427.lg-280-110.sh-908-92.ea-5897-64-110.ca-1801-110.cp-3315-110",
