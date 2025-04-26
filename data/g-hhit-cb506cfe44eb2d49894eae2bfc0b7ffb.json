@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Gaijin Ykz SHIRO-GUMI Gaijin Esperto",
     "habboFigure": "hr-5773-44.hd-4383-10-28.ch-669-110.lg-3018-81.sh-725-92.ha-3118-110-110.he-3082-1408.fa-3276-92",
@@ -1080,10 +1080,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
-    "habboFigure": "hr-3163-34.hd-190-2.ch-3001-92-1408.lg-280-77.sh-295-1408.ha-3656.he-3891.ea-3887.fa-5057.cc-5800-77-77",
+    "habboFigure": "hd-180-1371.ch-210-99.lg-270-99.sh-290-99.ha-3238-99.cc-3360-99",
     "memberSince": "2012-02-26T15:41:41.000+00:00",
     "uniqueId": "hhit-6880b62f86fed38d39dd624c02e190ca",
     "name": "THEBIGPLANET.",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-44.hd-209-1.ch-255-73.lg-275-81.sh-906-1408.fa-3344-73",
@@ -2430,7 +2430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Elis ti amo pero parto a cipro ciao",
     "habboFigure": "hr-125-32.hd-190-10.ch-230-1408.lg-3290-68.ea-3726.ca-1804-64",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-1395.hd-3095-1.ch-5833-1409-92.lg-4138-92.sh-3524-1410-92.he-5088.ea-3169-110.ca-5592-110-1410",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
