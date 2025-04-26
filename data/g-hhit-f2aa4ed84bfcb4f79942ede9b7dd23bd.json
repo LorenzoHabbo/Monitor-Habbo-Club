@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-1404-1396.hd-3093-1.ch-5830-89.lg-4066-1409.sh-3016-110.ea-5641",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Wired Developer",
     "habboFigure": "hr-828-1397.hd-180-3.ch-3208-110-82.lg-3058-110.sh-295-110.ea-3484",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5803-92.ha-3488.fa-5600-92.ca-5411-92.cc-5951-92",
