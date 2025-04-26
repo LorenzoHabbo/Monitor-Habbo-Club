@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Gloria fugace l’oscurità è per sempreº",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-665-110.lg-710-110.sh-725-92.he-4946-110.ea-1401-110.cc-5078-110",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Baila, baila con l’Oblivion ª",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-3934-92-110.lg-5594-110.sh-3621-92-1408.ha-5511.he-3891.ea-5897-110-110.fa-5601-110.wa-2001.cc-5926-110-92",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.ea-5910-110-1408.ca-3131-1339-1421",
