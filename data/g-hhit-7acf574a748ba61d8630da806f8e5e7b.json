@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-12.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-5913-1.ch-3806-64.lg-3078-82.sh-300-1408.ha-1004-76.he-3918.fa-5601-1320.cc-3917-73",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per quegli occhi che fanno da luna",
     "habboFigure": "hr-828-61.hd-205-22.ch-255-64.lg-280-110.sh-3587-92-92.he-3820-92",
@@ -3630,7 +3630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5973-34-42.hd-600-14.ch-825-64-1408.lg-5927-64-73.sh-4064-64.he-1601.fa-5467.ca-4135-73-73.cc-5951-73",
