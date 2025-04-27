@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-5801-1348-40.hd-4174-8.ch-3332-1328-68.lg-4341-1323.sh-3693-67-73.ha-4170.fa-5811-110.ca-4036-63.cc-4079",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Anima di Bael",
     "habboFigure": "hr-3829-40.hd-180-1370.ch-5830-1408.lg-3483-1408-1408.ha-5832-1408",
@@ -2010,10 +2010,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-3163-1342.hd-180-28.ch-3668-64-110.lg-275-64.sh-5803-64.he-4977-1427-64.ca-3485.cc-5800-64-64",
+    "habboFigure": "hr-3163-1342.hd-180-2.ch-3668-64-110.lg-275-64.sh-5803-64.he-4977-1427-64.ca-3485.cc-5800-64-64",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
