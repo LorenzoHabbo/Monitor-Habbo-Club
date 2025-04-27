@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.d",
     "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4140-64.lg-4138-64.sh-3419-64-66.ha-3986.fa-3344-66.cc-3928",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5803-92.ha-3488.fa-5600-92.ca-5411-92.cc-5951-92",
@@ -583,7 +583,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5973-1403-40.hd-625-10.ch-5595-1324.lg-3202-110-1324.sh-5247-92-110",
+    "habboFigure": "hr-5973-1403-40.hd-625-10.ch-5595-1324.lg-5970-110.sh-5928",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-49.hd-180-28.ch-3015-1330.lg-275-110.ha-3952.he-3070-110.ea-3169-110.fa-1212.ca-3883",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "eh su",
     "habboFigure": "hr-890-39.hd-629-1.ch-655-64.lg-3088-85-90.sh-3180-64-64.ca-1801-1408.wa-2001",
@@ -1723,7 +1723,7 @@
     "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
-    "habboFigure": "hr-5619-1404.hd-605-28.ch-5831-92.lg-3502-77.sh-5928.ha-1005-92.he-3070-1321.fa-5467.ca-3292-92.cc-5440-1414-92",
+    "habboFigure": "hr-5619-1342.hd-605-28.ch-5831-92.lg-3502-77.sh-5928.ha-1005-92.he-3070-1321.fa-5467.ca-3292-92.cc-5440-1414-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
@@ -3423,7 +3423,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-45.hd-205-10.ch-215-92.lg-280-110.sh-908-92.ha-3145-89-89.he-1609-92.fa-5601-92.ca-3876-89-89",
+    "habboFigure": "hr-3163-34.hd-205-28.ch-210-110.lg-281-92.sh-5803-110.fa-3276-110.ca-3844-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3560,10 +3560,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-45.hd-205-27.ch-215-92.lg-280-110.sh-3206-110.ha-1002-110.he-1609-1331.fa-5601-92.ca-4115-1429-1331.cc-3917-110",
+    "habboFigure": "hr-3163-45.hd-205-10.ch-3001-110-110.lg-280-92.sh-906-110.ha-3145-110-1326.he-3070-92.fa-5601-92.cc-3158-1326",
     "memberSince": "2024-05-26T20:31:06.000+00:00",
     "uniqueId": "hhit-fffc5da41504009b36a56211e038b302",
     "name": "Spercus-Ban",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-665-110.lg-5594-63.sh-3089-1427.he-3660-110-64.fa-3276-1328.cc-5926-1335-1325",
@@ -3860,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-10.ch-255-64.lg-281-73.sh-295-1408.ha-1004-64.ea-1404-64.fa-3276-73",
