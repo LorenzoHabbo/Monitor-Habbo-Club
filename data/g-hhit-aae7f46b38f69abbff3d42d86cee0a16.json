@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-831-61.hd-205-25.ch-3030-1335.lg-280-91.sh-290-92.ha-1003-110.fa-5600-1409.cc-3389-110-1335",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-34.hd-180-10.ch-5830-1408.lg-275-64.sh-908-64.ea-1404-64.fa-5600-68",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-4117-45-40.hd-3845-10.ch-665-73.lg-4369-73-64.sh-3354-73-1408.ha-5471-73-71.fa-5467.ca-5051-73-71.cc-5761-64-1408",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Loading...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.ca-5455-110-1410.cc-6077",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
