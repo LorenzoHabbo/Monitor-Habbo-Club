@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3860-61-56.hd-5696-28-1364.ch-807-110.lg-285-1428.sh-3016-110.ha-1002-110.he-3070-1321.fa-5600-68",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-110.he-3740.ea-3169-110.fa-3993-110.cc-3075-110",
@@ -5110,7 +5110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Con i sogni in valigia",
     "habboFigure": "hr-890-37.hd-629-10.ch-685-76.lg-3078-76.sh-3419-64-1408.he-3274-75.fa-3276-72.ca-3799-64-1408.wa-2009-74.cc-3373-64",
