@@ -740,10 +740,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "^.^ |",
-    "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.ca-5455-1409-93",
+    "habboFigure": "hr-828-49.hd-3845-1.ch-3185-110.lg-5594-77.sh-295-1408.he-3324-110-1408.ca-5455-110-93.cc-6077",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PatroZZo come siamo?",
     "habboFigure": "hr-105-45.hd-195-14.ch-265-85.lg-285-82.sh-300-91.ea-1404-64.wa-3074-90-91",
@@ -3450,7 +3450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.ca-5635-1408-1408.cc-5926-64-1408",
