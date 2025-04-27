@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "So esaurita.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-695-64.he-1610.fa-3276-73.ca-3799-1408-1408.cc-5461-1408-1408",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-5833-110-110.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3360-110",
@@ -3240,7 +3240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hd-190-1.ch-3342-1408-1408.lg-3078-64.sh-300-64.ha-1018.he-1609-90.ea-1406.fa-3344-64.ca-3444-64.wa-2012.cc-3280-64-64.cp-3286",
