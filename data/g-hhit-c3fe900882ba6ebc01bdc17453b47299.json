@@ -190,10 +190,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Hungry dogs are never loyal",
-    "habboFigure": "hr-5617-61-40.hd-600-1.ch-5560-110-110.lg-5970-110.sh-3089-110.fa-3276-1412.cc-5926-100-100",
+    "habboFigure": "hr-3673-61.hd-600-1.ch-5560-110-110.lg-5970-110.sh-3089-110.fa-3276-1412.cc-5926-100-100",
     "memberSince": "2008-12-18T23:45:29.000+00:00",
     "uniqueId": "hhit-40b2af7438385aa6b63dd6d09d3431ba",
     "name": "valixm",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono grande, mollatemi.",
     "habboFigure": "hr-5617-1353-1353.hd-600-1.ch-824-110.lg-3596-110-110.he-3070-110.fa-3276-110.cc-5926-92-92",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kanun II Ritorno",
     "habboFigure": "hr-3163-61.hd-5696-1359-1372.ch-3030-110.lg-280-1425.sh-5803-92.ha-4094-1326-1326.fa-5751.ca-5936-1408",
