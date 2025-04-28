@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒ",
     "habboFigure": "hr-5914-31-1347.hd-3845-10.ch-5923-74-1414.lg-5974-110-64.sh-5928.he-5314-1418-1418.ea-5910-92-1414.fa-5467.cc-5926-1418-92",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3058-110.sh-3089-1424.fa-1204.ca-3217-110-64.wa-2012.cc-3158-64",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello G.D (ginecologo)",
     "habboFigure": "hd-200-30.ch-3923-91-91.lg-4125.sh-3348-66.ha-4120.he-3918.fa-4185-72.ca-3844-1408-1408.cc-4123",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-4363-1404-31.hd-3845-10.ch-5923-92-1414.lg-3006-110-110.sh-5928.ha-3620.fa-5467.wa-5599-110-110.cc-5951-1414",
@@ -7630,9 +7630,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "",
+    "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-1325.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.fa-5601-1408.cc-5441-67-67",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -7830,7 +7830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello g.d.",
     "habboFigure": "hr-3090-37.hd-180-1.ch-235-1408.lg-285-90.sh-3068-1408-90.wa-2001",
