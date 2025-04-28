@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-5969-59.hd-4383-2-1372.ch-5923-110-92.lg-5974-92-110.he-5997-92",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-5914-31-1347.hd-3845-10.ch-5923-74-1414.lg-5974-110-64.sh-5928.he-5314-1418-1418.ea-5910-92-1414.fa-5467.cc-5926-1418-92",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "all'attacco",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -3703,7 +3703,7 @@
     "online": false,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
-    "habboFigure": "hr-5579-34.hd-4163-1-20.ch-4368-64.lg-3216-64.sh-3383-64-64.ea-5897-72-64",
+    "habboFigure": "hr-5579-34.hd-4163-1-20.ch-4368-64.lg-5594-64.sh-5729-64-64.ha-4094-64-64.ea-5897-72-64",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello G.D (ginecologo)",
     "habboFigure": "hd-200-30.ch-3923-91-91.lg-4125.sh-3348-66.ha-4120.he-3918.fa-4185-72.ca-3844-1408-1408.cc-4123",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-4363-1404-31.hd-3845-10.ch-5923-92-1414.lg-3006-110-110.sh-5928.ha-3620.fa-5467.wa-5599-110-110.cc-5951-1414",
@@ -4400,7 +4400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "i lost my smile",
     "habboFigure": "hr-3860-61-61.hd-3103-11.ch-3779-100-1329.lg-3407-100-100.sh-4065-110-110.ha-3415-1408-92.cc-5951-92",
@@ -4913,7 +4913,7 @@
     "online": true,
     "gender": "f",
     "motto": "ººloading...ºº",
-    "habboFigure": "hr-515-61.hd-5913-1375.ch-3183.lg-3006-110-92.sh-730-110.ha-1026.he-3070-92.ea-1404-64.fa-3276-110.cc-3008-110-92",
+    "habboFigure": "hr-3012-32.hd-3100-11.ch-3013-100.lg-3023-100.sh-3016-89.he-3329-1412-89.fa-3276-100.cc-3008-100-89",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -5110,7 +5110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-5605-34.hd-3845-10.ch-5374-1327-1408.lg-3134-1408-1408.sh-5308-63.he-3081-89.fa-3276-73.cc-5440-99-1327",
@@ -7400,7 +7400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Kanun II Ritorno",
     "habboFigure": "hr-3163-61.hd-5696-4-1367.ch-255-1429.lg-275-1426.sh-5803-1408.ha-4094-1324-1324.ea-1404-64.fa-5751.cp-5462",
