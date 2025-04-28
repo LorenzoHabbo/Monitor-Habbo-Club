@@ -113,7 +113,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est ª Oblivion",
-    "habboFigure": "hr-828-54.hd-205-28.ch-3030-1428.lg-5732-110-110.he-3891.ea-3639.ca-1801-110",
+    "habboFigure": "hr-828-54.hd-207-28.ch-3030-110.lg-5732-110-110.he-3891.ea-3639",
     "memberSince": "2007-12-12T18:26:05.000+00:00",
     "uniqueId": "hhit-fc2cc48a4effdccd773b15c24b2c7928",
     "name": "Darrell",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Hungry dogs are never loyal",
     "habboFigure": "hr-3673-61.hd-605-1.ch-5560-110-110.lg-5970-110.sh-3089-110.fa-3276-1412.cc-5926-100-100",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cameriera ºOblivion   Chiamatemi Benny",
     "habboFigure": "hr-3852-1353.hd-3845-28.ch-665-92.lg-5594-92.sh-3089-1337.ha-3709.he-3070-92.ea-3141.fa-3276-73.cc-5926-1337-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5681-61-49.hd-4163-2-1364.ch-4110-92.lg-5970-92.sh-5928.ha-4972.he-3974.ea-5897-95-95.fa-5467.ca-5807-1321-1327.wa-5123-1327.cc-4387-1423-1327",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-110.sh-5247-92-92.he-3740.ea-3108-63-1408.ca-3885-110-92.cc-5951-92",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-2.ch-3668-92-110.lg-5594-110.sh-5247-92-110.he-3891.fa-5601-92.cc-5800-110-110",
@@ -2033,7 +2033,7 @@
     "online": true,
     "gender": "m",
     "motto": "   - ª Clan Oblivion ª -",
-    "habboFigure": "hr-5306-49-49.hd-190-18.ch-3203-110.lg-280-1337.he-3833-92.ea-1404-110.fa-3276-64.ca-5936-92.cc-5926-110-1408",
+    "habboFigure": "hr-5465-49-61.hd-190-18.ch-3203-110.lg-280-1427.ea-1404-110.fa-3276-64.ca-5936-92.cc-5951-110",
     "memberSince": "2021-07-16T11:43:04.000+00:00",
     "uniqueId": "hhit-3115e4d80782501c81ffa8dcd2e477f9",
     "name": "Limited",
@@ -3077,6 +3077,16 @@
     "memberSince": "2025-03-19T23:21:19.000+00:00",
     "uniqueId": "hhit-1f5a1160bc88f0630174ad9356d94b84",
     "name": "Arron",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "strappa e ridi mentre mi guardi morire",
+    "habboFigure": "hr-3043-49.hd-209-10.ch-876-110-1408.lg-3088-73-110.sh-300-110.cc-3075-110",
+    "memberSince": "2025-03-27T11:05:31.000+00:00",
+    "uniqueId": "hhit-1a2ee8cd10ea8149b0438d46c713ba5b",
+    "name": "Lucifero1988.",
     "isAdmin": false
   },
   {
