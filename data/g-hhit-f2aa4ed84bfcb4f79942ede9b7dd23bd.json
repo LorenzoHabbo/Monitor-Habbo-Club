@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3860-61-56.hd-5696-28-1364.ch-3934-110-110.lg-3933-110.sh-3016-110.ha-1002-110.he-3070-1321.fa-5600-68.cc-3867-110-110",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-215-90.lg-275-1408",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3602-1403-45.hd-3721-2.ch-3934-110-1409.lg-5594-92.sh-5247-92-110.he-5578-1408.ea-5626-110.fa-5982-110.ca-5768-92-1408.wa-5599-110-110.cc-5926-1334-1408",
@@ -1423,7 +1423,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
-    "habboFigure": "hr-3040-1397.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
+    "habboFigure": "hr-3841-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
     "memberSince": "2009-04-01T19:42:14.000+00:00",
     "uniqueId": "hhit-92c7bb1c60e0da28a0fc29907e750bb5",
     "name": ":::MaGiC.BoY:::",
@@ -2873,7 +2873,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-3163-1405.hd-5317-18-15.ch-3934-110-110.lg-3365-110.he-3740.ea-1404-110.fa-5975",
+    "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-1408-110.lg-5594-63.sh-290-92.ha-5510.he-3884-1408-1408.fa-5975",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -9040,7 +9040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Builder Designer©®™ NaughtyDog",
     "habboFigure": "hr-5912-1403-61.hd-3721-1359.ch-4140-110.lg-3626-110-94.sh-3206-110.ha-3352-110-110.fa-5636-1325",
