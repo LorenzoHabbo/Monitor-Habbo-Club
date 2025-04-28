@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-3437-105.cc-5926-64-92",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sicario Corleone",
     "habboFigure": "hr-5619-45.hd-3631-10-12.ch-3400-73-73.lg-3355-82-73.fa-3276-72",
@@ -571,9 +571,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "ªCaPo CaMBuSa BLaCK PeaRLª",
-    "habboFigure": "hd-180-1362.ch-875-102-102.lg-280-1433.sh-3524-102-102.ea-3108-1432-1433.fa-1205-102.ca-3916-102-102.cc-3827-102-102",
+    "habboFigure": "hr-3037-1395-39.hd-600-1.ch-660-73.lg-3078-82.sh-735-1408.ha-3117-73.wa-2007",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " ºOratore Di Bordo ºBP",
     "habboFigure": "hr-3531-34-40.hd-190-14.ch-3688-1408.lg-4066-64.ha-3709.he-5088.fa-3344-1320.ca-4115-82-73.wa-4317-1408",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-110.sh-5247-92-92.he-3740.ea-3108-63-1408.ca-3885-110-92.cc-5951-92",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
     "habboFigure": "hr-802-38.hd-180-1.ch-3038-1412.lg-3019-82.sh-295-1325.ha-3347-66-1413.wa-2004-93.cc-5951-110",
