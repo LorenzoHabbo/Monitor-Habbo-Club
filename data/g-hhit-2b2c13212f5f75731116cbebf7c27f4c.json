@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Cavaliere Fidato 1p G.D º",
     "habboFigure": "hr-4090-1398.hd-3102-1.ch-3323-110-110.lg-270-1408.sh-3035-1427.he-3070-1410.ea-5897-110-110.fa-3276-1413.cc-5926-110-1408",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-73.lg-3290-64.sh-300-73.ha-1013-73.ea-1401-64.fa-1201.ca-1801-64",
@@ -7630,7 +7630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-1325.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.fa-5601-1408.cc-5441-67-67",
