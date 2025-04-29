@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-215-90.lg-275-1408",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Gaijin Ykz SHIRO-GUMI - Hasashi hana",
     "habboFigure": "hr-5914-44-39.hd-4383-10-28.ch-669-110.lg-3018-81.sh-725-92.ha-3118-110-110.he-3082-1408.fa-5601-1326",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1371.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato di Freezer-rivale di Vegeta",
     "habboFigure": "hd-208-10.ch-3030-68.lg-3216-76.ea-1401-76.fa-1205-76.ca-1805-76.wa-3211-76-64",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Consigliere Kanun",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
@@ -2060,10 +2060,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "i lost my smile",
-    "habboFigure": "hr-5306-61-61.hd-3092-11.ch-3779-110-92.lg-3407-110-110.sh-4065-110-110.ha-3632-110-110.ea-3822-92.fa-5624-96.cc-5951-110",
+    "habboFigure": "hr-5306-61-61.hd-3092-11.ch-3779-100-100.lg-3407-100-100.sh-4065-110-110.ha-3415-92-92.cc-5951-92",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Nel Sugo Ce Il RagùNelMio|Ci6Tu saaaas",
     "habboFigure": "hr-3004-1354.hd-208-1390.ch-5110-92-92.lg-5909-92-92.sh-5928.he-5915.fa-1211.ca-1819.cc-3975-95-1408",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo",
     "habboFigure": "hr-170-42.hd-208-30.ch-266.lg-280-64.sh-908-64.ha-5704",
@@ -3230,7 +3230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Siamo qui,a scacciar la reciproca noia",
     "habboFigure": "hr-3090-36.hd-207-8.ch-210-1408.lg-270-1408.ha-1014",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "la Gardenia è una pianta!",
     "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.ca-4958.cc-4217-71",
@@ -3860,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-10.ch-255-64.lg-281-73.sh-295-1408.ha-1004-64.ea-1404-64.fa-3276-73",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "̸̢̮͊̉͐̚ ̴͈̮̺͘u̴͕̚t̴̥̮͊̏̓͝e̷͖̐̈́̽ṅ̸̜̈́̀̿",
     "habboFigure": "hr-110-46.hd-207-30.ch-878-73-1408.lg-3023-64.sh-906-64.ha-3546-64.ea-1404-64.fa-1210.ca-3545-64.wa-3074-64-1408.cc-3280-64-1408.cp-3286",
