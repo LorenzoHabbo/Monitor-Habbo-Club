@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-215-90.lg-275-1408",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -623,7 +623,7 @@
     "online": false,
     "gender": "f",
     "motto": "siete cm rotoloni regina nn finite mai",
-    "habboFigure": "hr-3602-34-34.hd-3100-4.ch-685-92.lg-3320-110-1408.sh-3016-92.he-3071-92.wa-2009-92.cc-3532-110-110",
+    "habboFigure": "hr-5795-34.hd-3100-4.ch-685-92.lg-3006-92-1408.sh-3354-1327-92.he-3071-92.wa-2009-92.cc-3515-1327-92",
     "memberSince": "2010-07-27T00:54:27.000+00:00",
     "uniqueId": "hhit-6669bdb357bc9fc5d8cbafa9db5e4a89",
     "name": "PEGAS-",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-190-2.ch-3001-92-1408.lg-280-77.sh-295-1408.ha-3656.he-3891.ea-3887.fa-5057.cc-5800-77-77",
@@ -2091,9 +2091,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Offender A.T. Hooligans",
-    "habboFigure": "hr-4117-1395-1395.hd-3099-2.ch-4158-89-1409.lg-3192-92",
+    "habboFigure": "hd-180-1372.lg-3136-91.wa-2004-91",
     "memberSince": "2019-02-12T07:24:19.000+00:00",
     "uniqueId": "hhit-41d7b3b5d7539a40b8937d91a5c053b1",
     "name": "vqle04052",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1370.ch-267-85.lg-3023-85.sh-3524-64-85",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Shut the .... up.",
     "habboFigure": "hr-3852-49.hd-627-1.ch-5595-1408.lg-5594-1427.he-5088.fa-5601-92.cc-5800-92-77",
