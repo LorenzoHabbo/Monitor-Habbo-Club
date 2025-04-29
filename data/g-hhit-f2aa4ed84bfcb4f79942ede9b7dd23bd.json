@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "»Corleone»",
     "habboFigure": "hr-5275-1407.hd-6045-3.ch-3215-110.lg-3057-1338.sh-4112-92-92.ea-3169-110.fa-3993-110.wa-2001.cc-3002-82",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Il sonno della ragione genera mostri.",
     "habboFigure": "hr-3860-42-42.hd-180-10.ch-3934-75-64.lg-281-1408.he-3740.ea-3803-75",
@@ -7470,7 +7470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-700-110.sh-5247-92-110.ha-3677.fa-5624-1413.wa-3773-94",
@@ -9140,7 +9140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
