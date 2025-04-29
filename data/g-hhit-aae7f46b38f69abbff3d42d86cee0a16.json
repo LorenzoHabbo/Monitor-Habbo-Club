@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-3673-1404.hd-4383-10-5.ch-5560-1432-1332.lg-5594-1338.sh-905-1332.ha-5620-1332.cc-5925-97",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-5917-92.lg-5974-77-77.sh-5308-92.he-5088.fa-3276-1328.cc-5925-1338",
@@ -1630,10 +1630,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".: Fante TRP :.",
-    "habboFigure": "hr-115-37.hd-180-1.ch-5830-73.lg-280-73.sh-908-85.ha-5832-85",
+    "habboFigure": "hr-115-37.hd-180-1.ch-262-73.lg-280-73.sh-908-85.ha-5832-85",
     "memberSince": "2025-02-07T23:26:03.000+00:00",
     "uniqueId": "hhit-10d23a46f71911ebf7b46372351791b5",
     "name": "TangoDuck",
