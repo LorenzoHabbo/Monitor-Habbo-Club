@@ -653,7 +653,7 @@
     "online": true,
     "gender": "m",
     "motto": "Cordi ubi pax non invenitur",
-    "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-1408-110.lg-5594-63.sh-290-92.ha-5510.he-3740.fa-5975",
+    "habboFigure": "hr-5791-1405.hd-5317-18-15.ch-3934-1408-110.lg-5594-63.sh-290-92.ha-5510.he-3552.ea-1404-110.fa-5975.cp-5884-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -943,7 +943,7 @@
     "online": true,
     "gender": "m",
     "motto": "ª ORaToRe di BoRDo BLaCK PeaRLª ¥¥",
-    "habboFigure": "hr-3278-61-49.hd-3091-22.ch-878-110-64.lg-3078-1341.sh-300-92.ea-5897-110-1408.fa-3345-110",
+    "habboFigure": "hr-3278-61-33.hd-3091-1370.lg-3078-1341.sh-300-92.ea-5897-110-1408.fa-3345-110.cc-3269-110-1408",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1363,7 +1363,7 @@
     "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
-    "habboFigure": "hr-828-1405.hd-180-18.ch-5559-1335.lg-281-77.sh-3035-1334.he-3070-92.ea-5897-63-1408.cc-3158-110",
+    "habboFigure": "hr-828-1405.hd-180-18.ch-5559-1335.lg-281-77.sh-3035-1334.he-3070-92.ea-5897-63-1408.ca-5455-92-93.cc-3158-110",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".Oblivion.",
     "habboFigure": "hr-5605-1404.hd-600-10.ch-3137-110-95.lg-3138-110-95.sh-3206-110.fa-5467.cc-4387-110-95",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "i lost my smile",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3334-1331-92.lg-3596-1331-1408.sh-3338-1331.ha-3855-1331.ca-4037-1331-92.cc-5961-1331-92",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Elis ti amo pero parto a cipro ciao",
     "habboFigure": "hr-125-32.hd-190-10.ch-230-1408.lg-3290-68.ea-3726.ca-1804-64",
@@ -3550,10 +3550,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-45.hd-205-10.ch-215-92.lg-280-110.sh-908-92.ha-3145-89-89.he-1609-92.fa-5601-92.ca-4115-89-89",
+    "habboFigure": "hr-3163-45.hd-205-10.ch-3001-110-110.lg-280-92.sh-906-110.ha-3145-110-1326.he-3070-92.fa-5601-92.cc-3158-1326",
     "memberSince": "2024-05-26T20:31:06.000+00:00",
     "uniqueId": "hhit-fffc5da41504009b36a56211e038b302",
     "name": "Spercus-Ban",
@@ -3773,7 +3773,7 @@
     "online": true,
     "gender": "f",
     "motto": "anche tre",
-    "habboFigure": "hr-5773-45.hd-615-1.ch-665-1408.lg-715-1408.sh-740-1408.he-3660-64-1408.fa-3276-72.ca-3973-71-1408.cc-5926-82-1408",
+    "habboFigure": "hr-5773-45.hd-615-1.ch-665-1408.lg-715-1408.sh-740-1408.he-3660-64-1408.fa-3276-72.ca-5455-1408-66.cc-5926-82-1408",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
@@ -3900,7 +3900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "nata dove c'è sempre il sole",
     "habboFigure": "hr-5619-1403.hd-600-2.ch-665-91.lg-5594-1409.sh-3524-91-1408.ha-1005-91.he-3070-1410.fa-3276-95.ca-5984-91",
@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-828-1342.hd-180-2.ch-215-1427.lg-280-1409.sh-3035-63.he-5088.ea-5897-64-110.ca-1801-92",
