@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-3215-1341.lg-3483-92-92.sh-3035-1408.ha-3709",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello G.D (ginecologo)",
     "habboFigure": "hd-200-30.ch-3923-91-91.lg-4125.sh-3348-66.ha-4120.he-3918.fa-4185-72.ca-3844-1408-1408.cc-4123",
@@ -4550,7 +4550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista Novella G.D.",
     "habboFigure": "hr-3673-43.hd-3956-1-14.ch-4067-71-1408.lg-3290-82.sh-907-71.he-4093-1408-66",
