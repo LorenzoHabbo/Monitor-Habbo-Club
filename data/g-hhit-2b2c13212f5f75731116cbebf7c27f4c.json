@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -5180,10 +5180,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello G.D.",
-    "habboFigure": "hr-125-40.hd-209-8.ch-3030-1408.lg-3116-64-1408.sh-906-64.ha-1002-64.fa-3276-73",
+    "habboFigure": "hr-125-40.hd-209-8.ch-3030-1408.lg-3116-64-1408.sh-906-64.ha-1014.fa-3276-73",
     "memberSince": "2020-07-01T14:28:02.000+00:00",
     "uniqueId": "hhit-4eaeda0a9083e14ee7a657db1b623d7f",
     "name": "Cacioeremita",
