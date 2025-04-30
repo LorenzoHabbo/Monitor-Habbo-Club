@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-804-110.lg-280-110.sh-300-110.fa-1204",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5521-98.wa-5986-63.cc-5961-1326-92",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "since 2009",
     "habboFigure": "hr-3786-58-57.hd-185-1365.ch-5596-63.lg-5970-77.sh-3348-77.fa-5760.ca-5771-77-92.wa-3072-1408-1408.cc-3874-77-77",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3519-45-45.hd-600-1.ch-3770-82-1408.lg-3391-72-1408.he-5915",
@@ -2470,7 +2470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Shut the .... up.",
     "habboFigure": "hr-3852-49.hd-627-1.ch-5595-1408.lg-5594-1427.he-5088.fa-5601-92.cc-5800-92-77",
@@ -3020,7 +3020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-77.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3670,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "anche tre",
     "habboFigure": "hr-5773-45.hd-615-1.ch-665-1408.lg-715-1408.sh-740-1408.he-3660-64-1408.fa-3276-72.ca-3973-71-1408.cc-5926-82-1408",
