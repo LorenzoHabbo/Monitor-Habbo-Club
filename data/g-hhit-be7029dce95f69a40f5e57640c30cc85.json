@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "..",
     "habboFigure": "hr-802-42.hd-180-1.ch-3030-1408.lg-285-81.sh-908-64",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Elizabeth Swann BLACK PEARL",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-110.lg-3192-92.sh-3206-110.ha-1005-110.ea-1402.fa-3276-110",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DX",
     "habboFigure": "hr-828-61.hd-205-28.ch-5608-1427.lg-3078-77.sh-5729-92-92.he-5348.cc-5926-64-92",
