@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-804-110.lg-280-110.sh-300-110.fa-1204",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SCIAMN. #GGDGG",
     "habboFigure": "hr-5971-45.hd-205-1.ch-3030-64.lg-285-82.sh-305-1408.fa-5601-1320.ca-3410-1408",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "l\\_/l\"\"\"'\"\\_====_ \\_(‡).__I_.(‡)_]",
     "habboFigure": "hr-4193-47.hd-185-30.ch-3342-64-72.lg-3290-72.ha-4192.he-1609-73.ea-1404-73.fa-4013.ca-3444-73.cc-3509-64-72",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fa caldo",
     "habboFigure": "hr-3674-34-40.hd-185-1370.ch-3438-80-84.lg-270-64.sh-295-1408.he-3552.fa-3590.cc-5942-85",
@@ -1713,7 +1713,7 @@
     "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
-    "habboFigure": "hr-5517-1405-1342.hd-605-28.ch-5831-86.lg-3502-1427.sh-3206-1427.he-3070-92.fa-5467.ca-3292-92.cc-5926-1427-92",
+    "habboFigure": "hr-5619-1404.hd-605-28.ch-3439-96-77.lg-3006-77-77.sh-3206-1408.ha-1005-96.he-3070-92.fa-5467.ca-5455-77-93.cc-3289-77",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Pazzesco a tratti imbarazzante",
     "habboFigure": "hr-6034-1407-40.hd-5525-18-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.he-5643.ca-5936-92",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "se mi trascuri impazzisco",
     "habboFigure": "hr-5619-1404.hd-3097-13.ch-5917-92.lg-5594-1334.sh-5308-92.ha-5620-92.he-3070-92.ea-5641.fa-3276-1413.ca-5938-92-92.cc-5926-1334-92.cp-3207-110-92",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ti piace la mia beretta?",
     "habboFigure": "hr-3768-40.hd-5913-1370.ch-5029-73-71.lg-4114-71-1408.sh-3693-68-91.ha-3638.he-5137.fa-5601-71.ca-4183-73-73.cc-5800-73-73",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5617-42-40.hd-600-10.ch-665-1408.lg-3483-82-82.sh-725-1408",
@@ -3890,7 +3890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "nata dove c'è sempre il sole",
     "habboFigure": "hr-5619-1403.hd-600-2.ch-665-91.lg-5594-1409.sh-3524-91-1408.ha-1005-91.he-3070-1410.fa-3276-95.ca-5984-91",
