@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "gothic",
     "habboFigure": "hr-5773-49.hd-5319-28-28.ch-5921-110-1408.lg-5594-1418.sh-6043.ha-3614-92-1418.he-5813-68-92.fa-5975.ca-6041.wa-5370.cc-6070",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-110.lg-4114-110-110.sh-3206-110.cp-3315-92",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ººloading...ºº",
     "habboFigure": "hr-515-61.hd-5913-28.ch-655-110.lg-3006-110-92.sh-730-110.he-3071-92.ea-1404-64.fa-3276-1415",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3208-92-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-82",
@@ -1650,10 +1650,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
-    "habboFigure": "hr-828-34.hd-205-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-110-110.fa-3276-96.ca-1801-92.cc-4091-110",
+    "habboFigure": "hr-5971-61.hd-205-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-110-110.fa-5600-92.ca-1801-92.cc-4091-110",
     "memberSince": "2025-02-10T04:35:44.000+00:00",
     "uniqueId": "hhit-aa25be0bf4367410bc77cd253c3400fd",
     "name": "Rivo",
