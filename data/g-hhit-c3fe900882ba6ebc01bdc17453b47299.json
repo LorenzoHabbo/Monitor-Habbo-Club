@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Brooklyn • Luchino•",
     "habboFigure": "hr-3163-49.hd-209-1390.ch-3185-78.lg-275-1408.sh-3016-78.ha-3709.he-3070-1408.fa-5601-1408.ca-3175-1408.cc-6077",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sono grande, mollatemi. -Oblivion-",
     "habboFigure": "hr-832-1353.hd-600-28.ch-665-110.lg-3418-110.ha-3613-92.ea-1401-110",
@@ -840,10 +840,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ho visto un bel mondo.",
-    "habboFigure": "hr-4118-42.hd-629-1.ch-4067-73-1408.lg-716-66-1408",
+    "habboFigure": "hr-4118-42.hd-629-1.ch-665-73.lg-3320-64-1408",
     "memberSince": "2013-09-15T00:09:47.000+00:00",
     "uniqueId": "hhit-c76ca3ad20c7489b4743d6128309a28b",
     "name": ".:Lithium.",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se ti innamori muori, serenamente",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -3080,7 +3080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "strappa e ridi mentre mi guardi morire",
     "habboFigure": "hr-3163-61.hd-209-10.ch-210-66.lg-3088-110-110.sh-3016-1321.cc-886-110",
