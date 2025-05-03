@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-59.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-3215-1341.lg-3483-92-92.sh-3035-1408.ha-3709",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-828-1405.hd-180-18.ch-3032-92-1334.lg-285-63.sh-908-110.he-3070-92.cc-5800-110-110",
@@ -2920,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-165-52.hd-209-3.ch-255-1417.lg-285-110.sh-300-92",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-5917-92.lg-5974-77-77.sh-5308-92.he-5088.fa-3276-1328.cc-5925-1338",
