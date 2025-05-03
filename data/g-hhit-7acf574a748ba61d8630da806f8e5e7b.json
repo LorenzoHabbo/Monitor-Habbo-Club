@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5914-1396-33.hd-629-1.ch-3658-92-92.lg-5970-1338.sh-5928.he-3778-92",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-125-42.hd-209-1.ch-4111-82.lg-3078-82.sh-300-1408.ea-3388-82-1408.fa-5600-64.cc-3917-64",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
