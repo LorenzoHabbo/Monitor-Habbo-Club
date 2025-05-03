@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-5619-1342.hd-605-28.ch-5831-92.lg-3502-77.sh-5803-92.ha-5468-77-92.he-3070-92.fa-5467.ca-3292-92.cc-5440-77-92",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-36.hd-3845-14.ch-3342-66-66.lg-3078-90",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-5971-61.hd-180-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-64-110.ca-1801-92.cc-4091-110",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem.",
     "habboFigure": "hr-3810-45.hd-600-1370.ch-4087-1408.lg-5909-64-1408.sh-5464-71-1408.he-4318-66.wa-4317-66.cc-5926-81-82",
