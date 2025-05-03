@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Go with the flowwww",
     "habboFigure": "hr-828-45.hd-180-1359.ch-215-1408.lg-285-110.sh-295-1408.he-3070-1408.ea-1404-110.ca-4115-1408-1408",
@@ -490,23 +490,13 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sono grande, mollatemi. -Oblivion-",
     "habboFigure": "hr-5617-1353-1353.hd-600-10.ch-665-92.lg-4114-110-92.he-3070-92.fa-3276-110.cc-3515-110-92",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "cerco fida",
-    "habboFigure": "hr-3468-45.hd-209-1.ch-210-64.lg-275-64.sh-3180-1408-64.ha-1017.fa-1210.cc-3405-64-1408",
-    "memberSince": "2011-06-12T11:41:56.000+00:00",
-    "uniqueId": "hhit-dd0a42822949f58aa40617284d35a91c",
-    "name": "alessio3272",
     "isAdmin": false
   },
   {
@@ -3082,7 +3072,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "strappa e ridi mentre mi guardi morire",
+    "motto": "strappa,ridi e guardami ha morire",
     "habboFigure": "hr-3163-61.hd-209-10.ch-210-96.lg-3088-110-110.sh-3016-110.cc-3186-110",
     "memberSince": "2025-03-27T11:05:31.000+00:00",
     "uniqueId": "hhit-1a2ee8cd10ea8149b0438d46c713ba5b",
