@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-5934-63.cc-5926-64-92",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=",
     "habboFigure": "hr-5914-31-1349.hd-3845-10.ch-5374-1327-1408.lg-3134-1408-1408.sh-5308-63.he-5314-1415-1415.fa-3276-73.cc-4108-99-98",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-270-82.sh-290-73.ea-1406",
@@ -3710,10 +3710,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-45.hd-205-10.ch-210-110.lg-281-110.sh-305-92.ha-3145-110-1326.he-3070-92.cc-3420-1326",
+    "habboFigure": "hr-3163-45.hd-205-10.ch-210-92.lg-280-92.sh-908-110.ha-3145-1409-92.fa-5601-92.wa-3263-110-110.cc-3512-1409-92",
     "memberSince": "2024-05-26T20:31:06.000+00:00",
     "uniqueId": "hhit-fffc5da41504009b36a56211e038b302",
     "name": "Spercus-Ban",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe diem.",
     "habboFigure": "hr-3810-45.hd-600-1370.ch-4087-1408.lg-5909-64-1408.sh-5464-71-1408.he-4318-66.wa-4317-66.cc-5926-81-82",
