@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-31.hd-200-14.ch-255-1408.lg-280-64.sh-300-1408",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5973-34-40.hd-600-14.ch-685-73.lg-5927-82-1408.sh-4064-64.he-1608.fa-5467",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem.",
     "habboFigure": "hr-3810-45.hd-600-1370.ch-4087-1408.lg-5909-64-1408.sh-5464-71-1408.he-4318-66.wa-4317-66.cc-5926-81-82",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-805-110.lg-275-92.sh-908-64.he-1609-1428.fa-5601-92",
