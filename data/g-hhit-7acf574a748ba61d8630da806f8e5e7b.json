@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-31.hd-200-14.ch-3030-1408.lg-280-64.sh-300-1408.ca-1807",
@@ -3250,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-600-14.ch-685-1408.lg-4092-1408.sh-4064-64.he-5279.ca-4135-64-88",
@@ -4410,7 +4410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "assistente del nostromo B.P",
     "habboFigure": "hr-3273-44-1351.hd-4163-1-12.ch-5560-1416-1327.lg-5970-1423.sh-3383-110-92.he-5911-92.fa-3276-1413.ca-5934-75.wa-5986-110.cc-5926-1339-74",
@@ -4633,7 +4633,7 @@
     "online": true,
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-281-64.sh-908-1409.ha-1012-110.fa-5601-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-1409.lg-275-64.sh-305-92.fa-5601-92",
     "memberSince": "2025-04-13T20:46:58.000+00:00",
     "uniqueId": "hhit-83b3c1285ab7223b45cd4775f2e8a27d",
     "name": "disaronno",
