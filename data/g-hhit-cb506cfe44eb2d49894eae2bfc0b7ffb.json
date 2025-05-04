@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-804-110.lg-280-110.sh-300-110.fa-1204",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-34.hd-180-10.ch-3342-64-1408.lg-285-64.sh-908-64.fa-5600-68.ca-3437-80",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5914-1396-33.hd-629-1.ch-3658-92-92.lg-5970-1338.sh-5928.he-3778-92",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ ª Capitano - Black Pearl ª ¥",
     "habboFigure": "hr-5773-61.hd-3631-1370-1371.ch-5923-1341-77.lg-5594-1426.sh-5928.he-3070-95.ea-1402.ca-5983-92.wa-5986-110",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Pazzesco a tratti imbarazzante",
     "habboFigure": "hr-6034-1407-40.hd-5525-18-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.he-5643.ca-5936-92",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-834-1403.hd-615-28.ch-660-92.lg-710-78.sh-3035-97.he-3070-1321.fa-5467.cc-6077",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vivo ma non ho scelta ne motivo",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -4100,7 +4100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-5962-61.hd-180-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-64-110.ca-5936-1427.cc-4091-110",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-45.hd-205-4.ch-255-92.lg-280-64.sh-305-92.he-3070-1408.fa-3276-73.ca-5502.cc-5925-63",
