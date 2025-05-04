@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Hooligans",
     "habboFigure": "hr-829-44.hd-205-13.ch-804-110.lg-280-110.sh-300-110.fa-1204",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SCIAMN. #GGDGG",
     "habboFigure": "hr-5971-45.hd-205-1.ch-3030-64.lg-285-82.sh-305-1408.fa-5601-1320.ca-3410-1408",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Yasha shiroYKZ",
     "habboFigure": "hr-3810-61.hd-3099-1.ch-5030-110-92.lg-4012-105.sh-907-110.ha-1026.fa-3276-72",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5361-1416.lg-5363-93.sh-5803-92.ha-3570.he-5915.ca-3885-96-92.cc-5800-1432-1432",
@@ -1970,10 +1970,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ ª Capitano - Black Pearl ª ¥",
-    "habboFigure": "hr-5773-61.hd-3631-1370-1371.ch-5923-1341-77.lg-5594-1426.sh-5928.he-3070-95.ea-1402.ca-5983-92.wa-5986-110",
+    "habboFigure": "hr-5773-61.hd-3631-1370-1371.ch-5923-1341-77.lg-5594-1426.sh-5928.he-3070-1412.ea-1402.ca-5983-92.wa-5986-110",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -2043,7 +2043,7 @@
     "online": false,
     "gender": "m",
     "motto": "i lost my smile",
-    "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3779-110-92.lg-3407-110-92.sh-3524-110-92.ha-3632-110-92.ea-3961.cc-4979-92",
+    "habboFigure": "hr-4370-1355.hd-3102-11.ch-3788-1424.lg-4083.sh-5928.ha-3709.ea-4161.ca-4183-1408-1408.wa-3773-1424.cc-4377-1424-93",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Nel Sugo Ce Il RagùNelMio|Ci6Tu saaaas",
     "habboFigure": "hr-831-60.hd-208-28.ch-5110-106-106.lg-5594-106.sh-5247-92-92.ha-5336.ea-1404-63.fa-5435.cp-3311-92",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leggenda Hoolingans ‡",
     "habboFigure": "hr-5619-1407.hd-615-1.ch-5919-110-110.lg-5974-1428-92.sh-5803-110.he-3891.ea-3750.fa-3276-90.ca-3885-92-1408",
