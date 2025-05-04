@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Run and Go",
     "habboFigure": "hr-3499-1342.hd-205-25.ch-3032-1429-1321.lg-285-110.sh-3419-110-64.ha-1004-110.he-3070-92.fa-3296.wa-3264-1321-1429",
@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "LETTERA Q",
     "habboFigure": "hr-515-42.hd-615-28.ch-3033-110-110.lg-710-63.sh-725-92.he-3082-92.fa-5601-1408.ca-3225-110-110.cc-4041-1427.cp-3310-63",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1396.hd-3091-3.ch-803-92.lg-3596-110-1408.sh-4112-110-92.ha-5677-110.he-3660-92-92.cc-5761-110-110",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "los tralaleritos dicen tralala!",
     "habboFigure": "hr-3860-61-61.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-110-92.ha-3586.fa-5975.cc-6077",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-832-1401.hd-3099-22.ch-3135-110.lg-3006-110-1408.sh-3180-1321-110.he-3070-110.ea-3169-1336.cc-3008-1410-1336",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3208-92-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-82",
