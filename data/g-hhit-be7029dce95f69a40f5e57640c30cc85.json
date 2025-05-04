@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Patrimonio mondiale del nunesco ¶",
     "habboFigure": "hr-165-45.hd-5838-1370-14.ch-5222.lg-5594-82.sh-305-1408.ea-1404-1408.fa-5752.ca-4115-91-91",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
@@ -7670,7 +7670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-700-110.sh-5247-92-110.ha-3677.fa-5624-1413.wa-3773-94",
