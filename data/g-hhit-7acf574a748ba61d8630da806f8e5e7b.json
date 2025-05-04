@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5521-98.wa-5986-63.cc-5961-1326-92",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-125-42.hd-3845-1.ch-4111-82.lg-3078-82.sh-300-1408.ea-3388-82-1408.fa-5600-64.cc-3917-64",
@@ -3250,10 +3250,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lo capisco",
-    "habboFigure": "hr-3920-34-40.hd-600-14.ch-685-1408.lg-4092-1408.sh-4064-1408.he-5279.ca-5278-73",
+    "habboFigure": "hr-3920-34-40.hd-600-14.ch-685-64.lg-4092-1408.sh-4064-64.he-3376-1408-1408.ca-5282-1408.cc-3515-64-1408",
     "memberSince": "2023-08-26T23:34:50.000+00:00",
     "uniqueId": "hhit-d5f1e1268cc397564236a688817f00c2",
     "name": "Julsardy",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cerchi diamanti in mezzo a cocci",
     "habboFigure": "hr-155-34.hd-180-3.ch-3032-110-1408.lg-285-1408.sh-3524-110-1408.ha-1003-63.ea-3141.fa-1206-110.cc-5485-63-110",
