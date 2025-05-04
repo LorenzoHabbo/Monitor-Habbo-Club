@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-3860-61-56.hd-5696-28-1364.ch-3934-110-110.lg-3933-110.sh-3016-110.ha-1002-110.he-3070-1321.fa-5600-68.cc-3867-110-110",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-5917-1327.lg-5594-89.sh-5308-98.he-3070-1326.fa-5467.cc-6077",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ministro Nevada FC     Ohime-sama",
     "habboFigure": "hr-5772-61-61.hd-627-1.ch-4158-110-1331.lg-3364-89-1408.sh-907-110.ha-3488.he-3069-1330-1330.fa-3193-110.cc-4106-110-110",
@@ -6700,7 +6700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -6890,7 +6890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-893-31.hd-180-10.ch-3030-83.lg-3078-1320",
@@ -8140,7 +8140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sogno incubi",
     "habboFigure": "hr-6034-49-49.hd-5042-27.ch-3934-92-110.lg-5594-1427.sh-290-92.he-1608.fa-5975.cc-3360-92",
@@ -9140,7 +9140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
