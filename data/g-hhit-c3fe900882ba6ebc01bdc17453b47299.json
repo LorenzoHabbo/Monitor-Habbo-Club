@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-77-77.sh-5247-92-92.he-4022.ea-3108-63-1408.ca-3885-1338-77.cc-5951-110",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-36.hd-3845-14.ch-3342-66-66.lg-3078-90",
@@ -2443,7 +2443,7 @@
     "online": true,
     "gender": "m",
     "motto": "Zingaro Kanun",
-    "habboFigure": "hr-115-61.hd-207-14.ch-215-1408.lg-280-82.sh-305-92.he-3070-1410.ea-1404-64.ca-6075.cp-5462",
+    "habboFigure": "hr-115-61.hd-207-14.ch-215-110.lg-280-82.sh-305-92.he-3070-1410.ea-1404-64.ca-6075.cp-5462",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
