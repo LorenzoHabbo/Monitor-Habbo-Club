@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5921-92-92.lg-5545-110-110.sh-3206-92.he-4977-92-110.fa-4044.cc-5925-1422",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1396.hd-3091-3.ch-803-92.lg-3596-110-1408.sh-4112-110-92.ha-5677-110.he-3660-92-92.cc-5761-110-110",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -973,7 +973,7 @@
     "online": true,
     "gender": "f",
     "motto": "ººloading...ºº",
-    "habboFigure": "hr-515-61.hd-5913-28.ch-655-110.lg-3006-110-92.sh-730-110.he-3071-92.ea-1404-64.fa-3276-1415",
+    "habboFigure": "hr-515-61.hd-5913-28.ch-655-110.lg-3006-110-92.sh-730-110.ha-5730-1415.he-3071-92.ea-1404-64.fa-3276-1415",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-3526-64-64.sh-5464-64-64.ha-3857-64-64.cc-4300-64-64",
