@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Everyone is an Alien somewhere",
     "habboFigure": "hr-5791-49.hd-208-2.ch-3506-92-92.lg-3058-1341.sh-3089-92.he-5088.ea-3484.fa-3276-1413.ca-3219-1425.wa-3773-1341.cc-5951-1341",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "So esaurita.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-1408-64.lg-720-64.he-1610.fa-3276-73.cc-5461-1408-1408",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-à--",
     "habboFigure": "hr-831-45.hd-180-3.ch-3728-1338-94.lg-5594-100.sh-3621-92-1408.fa-3276-72",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5242-1414.ea-5626-1408.ca-5521-98.wa-5986-63.cc-5961-1326-92",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-125-42.hd-3845-1.ch-4111-82.lg-3078-82.sh-300-1408.ea-3388-82-1408.fa-5600-64.cc-3917-64",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "marinaio bp",
     "habboFigure": "hr-893-36.hd-209-14.ch-3683-1408-1408.lg-270-81.sh-300-81.ha-1009-81.ea-3484.cc-3294-81-81",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Nel Sugo Ce Il RagùNelMio|Ci6Tu saaaas",
     "habboFigure": "hr-831-60.hd-208-28.ch-5110-106-106.lg-5594-106.sh-5247-92-92.ha-5336.ea-1404-63.fa-5435.cp-3311-92",
@@ -2132,8 +2132,8 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-834-1403.hd-615-28.ch-660-92.lg-710-78.sh-3035-97.he-3070-1321.fa-5467.cc-6077",
+    "motto": "ci pensi mai?",
+    "habboFigure": "hr-834-1403.hd-615-28.ch-660-92.lg-710-78.sh-3035-97.he-3070-1321.fa-5467.cc-5926-64-92",
     "memberSince": "2019-12-04T23:46:57.000+00:00",
     "uniqueId": "hhit-8e8195b4c9cb0c2927d1823a2241b58e",
     "name": "dory???",
@@ -3060,7 +3060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3208-92-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-82",
@@ -3250,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-600-14.ch-685-1408.lg-4092-1408.sh-4064-64.he-5279.ca-4135-64-88",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-5917-92.lg-5974-77-77.sh-5308-92.he-5088.fa-3276-1328.cc-5925-1338",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| PORTA MESSAGGI (B.P.) |",
     "habboFigure": "hr-5898-1405-61.hd-4383-10-1370.ch-5167-92.lg-5970-77.sh-5308-110.fa-5601-1408.cc-5926-110-110",
@@ -4322,7 +4322,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "nata dove c'è sempre il sole",
+    "motto": "",
     "habboFigure": "hr-5772-1403-1394.hd-600-2.ch-665-110.lg-5594-77.sh-3524-91-92.he-3070-1410.fa-3276-95.ca-5984-91",
     "memberSince": "2024-12-30T17:43:12.000+00:00",
     "uniqueId": "hhit-31962deb895fdf3222482aa42a5cef5d",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cerchi diamanti in mezzo a cocci",
     "habboFigure": "hr-155-34.hd-180-3.ch-3032-110-1408.lg-285-1408.sh-3524-110-1408.ha-1003-63.ea-3141.fa-1206-110.cc-5485-63-110",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-281-64.sh-908-1409.ha-1012-110.fa-5601-92",
