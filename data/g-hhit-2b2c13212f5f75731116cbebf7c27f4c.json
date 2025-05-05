@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "all'attacco",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -7380,7 +7380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Zingaro Kanun",
     "habboFigure": "hr-115-61.hd-207-14.ch-255-1408.lg-280-82.sh-305-92.he-3070-1410.ea-1404-64.ca-6075.cp-5462",
@@ -7620,7 +7620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ladro G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3208-92-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-82",
@@ -9260,7 +9260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-600-14.ch-685-1408.lg-4092-1408.sh-4064-64.he-5279.ca-4135-64-88",
