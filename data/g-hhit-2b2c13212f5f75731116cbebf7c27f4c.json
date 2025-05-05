@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-5914-1404-54.hd-3845-10.ch-5921-92-110.lg-5974-110-64.sh-5928.he-5348.fa-5467.cc-5925-1338",
@@ -483,7 +483,7 @@
     "online": true,
     "gender": "f",
     "motto": " Ykz SHIRO-GUMI - Chisana Tensai",
-    "habboFigure": "hr-3707-61-49.hd-4383-28-14.ch-3266-110-68.lg-3364-110-92.ha-1026.he-3070-92.fa-1209-110",
+    "habboFigure": "hr-5680-61.hd-4383-28-14.ch-3266-110-68.lg-3364-110-92.ha-1026.he-3070-92.fa-1209-110",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.fa-3276-96",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ministro Golden Demons ¥",
     "habboFigure": "hr-3322-37.hd-209-1.ch-4111-1408.lg-3787-64-1408.sh-4112-1408-64",
@@ -4923,7 +4923,7 @@
     "online": true,
     "gender": "f",
     "motto": "Apprendista G.D",
-    "habboFigure": "hr-3673-35.hd-627-1.ch-685-68.lg-720-91.sh-3068-1408-1408.ea-1404-64",
+    "habboFigure": "hr-3673-35.hd-627-1.ch-685-73.lg-720-82.sh-3068-1408-1408.ca-1815-75",
     "memberSince": "2020-03-09T23:56:07.000+00:00",
     "uniqueId": "hhit-358949b38c54d2be44d4817a9b7fc69c",
     "name": "CzarnaKawa",
@@ -6270,7 +6270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[TEST] .",
     "habboFigure": "hr-5841-61.hd-5838-3-15.ch-4361-82-110.lg-5594-110.sh-4112-82-82.he-5827-1324-110.ca-5769-63-1408.cc-5690-92",
@@ -9360,7 +9360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D",
     "habboFigure": "hd-209-1.ch-876-64-1408.lg-3290-64.sh-300-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2012.cc-260-64",
@@ -9430,7 +9430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-270-82.sh-290-73.ea-1406",

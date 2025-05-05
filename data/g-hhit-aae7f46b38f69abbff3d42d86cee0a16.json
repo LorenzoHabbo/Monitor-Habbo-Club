@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-1401-61.hd-3845-28.ch-5560-1408-64.lg-5594-64.sh-3419-1408-1408.he-3660-110-1408.fa-5601-64.wa-5986-110.cc-5926-110-1408",
@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "LETTERA Q",
     "habboFigure": "hr-515-42.hd-615-28.ch-3033-110-110.lg-710-63.sh-725-92.he-3082-92.fa-5601-1408.ca-3225-110-110.cc-4041-1427.cp-3310-63",
@@ -83,7 +83,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-1396.hd-3091-3.ch-803-92.lg-3596-110-1408.sh-4112-110-92.ha-5677-110.he-3660-92-92.cc-5761-110-110",
+    "habboFigure": "hr-3829-37.hd-3103-1.ch-5608-110.lg-4102-110-1408.sh-3154-110-92.he-3070-92.fa-5601-1408.cc-3158-96",
     "memberSince": "2007-06-18T12:50:35.000+00:00",
     "uniqueId": "hhit-d556ecaf14bf2c7130454858c4e3bc8a",
     "name": "Lodato",
@@ -353,7 +353,7 @@
     "online": true,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.ca-5455-1409-93.cc-6077",
+    "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-92.lg-5594-95.sh-5308-1409.ha-5832-1423.ca-5455-92-93.cc-5926-1326-1408",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Divorzio da Gnomica.",
     "habboFigure": "hr-5773-34.hd-3956-1-1371.ch-5560-71-1408.lg-5594-82.he-3660-73-1408.fa-3276-72.cc-5926-73-1408",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-834-1342.hd-3099-22.ch-3293-110-1408.lg-3006-110-1408.sh-3354-110-92.he-3070-110.ea-3169-1336",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-77-77.sh-5247-92-92.he-4022.ea-3108-63-1408.ca-3885-1338-77.cc-5951-110",
@@ -703,7 +703,7 @@
     "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
-    "habboFigure": "hr-5619-1404.hd-605-28.ch-5831-92.lg-3192-110.sh-5803-92.ha-5832-1322.he-1608.fa-5467.ca-3175-1427.cc-5926-107-94",
+    "habboFigure": "hr-5619-1404.hd-605-28.ch-5831-92.lg-3502-92.sh-5308-94.ha-5832-1322.he-1608.fa-5467.ca-5455-92-93.cc-5926-107-94",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[TEST] .",
     "habboFigure": "hr-5841-61.hd-5838-3-15.ch-4361-82-110.lg-5594-110.sh-4112-82-82.he-5827-1324-110.ca-5769-63-1408.cc-5690-92",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3935-92-110.lg-5594-77.sh-5247-92-92.he-3740.ea-5576-110-110.fa-3276-1412.cc-5926-110-1408",
