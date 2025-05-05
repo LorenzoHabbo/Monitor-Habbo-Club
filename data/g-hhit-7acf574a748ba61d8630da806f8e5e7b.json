@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-5917-1327.lg-5594-89.sh-5308-98.he-3070-1326.fa-5467.cc-6077",
@@ -810,10 +810,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-92.lg-5594-95.sh-5308-1409.ha-5832-1423.ca-5455-92-93.cc-5926-1326-1408",
+    "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-92.lg-5594-1322.sh-5308-1409.ha-5832-1423.ca-5455-92-93.cc-5926-1326-1408",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-210-92.lg-285-1426.sh-5247-92-64.he-3740.ea-5897-110-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-685-71.lg-3216-74.sh-907-1408.ca-1801-74.cc-3975-71-1408",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-125-42.hd-3845-1.ch-4111-82.lg-3078-82.sh-300-1408.ea-3388-82-1408.fa-5600-64.cc-3917-64",
@@ -1363,7 +1363,7 @@
     "online": true,
     "gender": "m",
     "motto": "musicista di bordo BP|",
-    "habboFigure": "hr-170-32.hd-4015-10.ch-3688-1408.lg-3483-64-64.sh-4112-64-1408.ha-4195.ca-3802-85-85",
+    "habboFigure": "hr-170-32.hd-4015-10.ch-3688-1408.lg-275-74.sh-4112-64-1408.ha-4195.ca-3802-85-85",
     "memberSince": "2015-08-31T21:03:20.000+00:00",
     "uniqueId": "hhit-177b821ddb0b73c8e5fdf2b3286e3a08",
     "name": "29_adrian",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-77-77.sh-5247-92-92.he-4022.ea-3108-63-1408.ca-3885-1338-77.cc-5951-110",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-5619-1404.hd-605-28.ch-5831-92.lg-3502-92.sh-5308-94.ha-5832-1322.he-1608.fa-5467.ca-5455-92-93.cc-5926-107-94",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-806-74.lg-3216-72.sh-905-81.ha-1005-84.he-1610.ea-3698-83-72.fa-1211.cp-3126-64",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "vivo ma non ho scelta ne motivo",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[TEST] .",
     "habboFigure": "hr-5841-61.hd-5838-3-15.ch-4361-82-110.lg-5594-110.sh-4112-82-82.he-5827-1324-110.ca-5769-63-1408.cc-5690-92",
@@ -3052,7 +3052,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Ladro G.D.",
+    "motto": "Ladro 1p G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3208-92-110.lg-5594-82.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-82",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
@@ -3143,7 +3143,7 @@
     "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
-    "habboFigure": "hr-676-40.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
+    "habboFigure": "hr-110-48.hd-209-8.ch-245-85.lg-3088-68-81.sh-300-1408.he-1601.ea-1401-66.fa-1201.ca-1801-1408",
     "memberSince": "2023-06-11T20:41:20.000+00:00",
     "uniqueId": "hhit-714d1bb58f021c7b16582e5ad8673673",
     "name": "Davie",
@@ -3240,7 +3240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-600-14.ch-685-1408.lg-4092-1408.sh-4064-64.he-5279.fa-5467.ca-4135-64-88",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3935-92-110.lg-5594-77.sh-5247-92-92.he-3740.ea-5576-110-110.fa-3276-1412.cc-5926-110-1408",
@@ -3723,7 +3723,7 @@
     "online": false,
     "gender": "f",
     "motto": "la Gardenia è una pianta!",
-    "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.he-5808-71.ca-4958.cc-4217-71",
+    "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.ca-4958.cc-4217-71",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-45.hd-615-1.ch-665-91.lg-5594-91.sh-735-1408.fa-5601-1408.cc-5926-68-85",
