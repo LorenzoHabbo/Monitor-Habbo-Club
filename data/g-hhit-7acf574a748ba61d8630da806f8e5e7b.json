@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-125-42.hd-3845-1.ch-4111-82.lg-3078-82.sh-300-1408.ea-3388-82-1408.fa-5600-64.cc-3917-64",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Tu hai il gramo º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-5594-1338.he-3740.ca-3885-1410-110",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-270-82.sh-290-73.ea-1406",
@@ -3733,7 +3733,7 @@
     "online": false,
     "gender": "f",
     "motto": "la Gardenia è una pianta!",
-    "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.ca-4958.cc-4217-71",
+    "habboFigure": "hr-5605-37.hd-4383-1-8.ch-4368-82.lg-5970-82.sh-4159-76-76.he-5808-71.ca-4958.cc-4217-71",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
