@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.C.H",
     "habboFigure": "hr-893-42.hd-209-19.ch-230-80.lg-3290-82.sh-906-64.ha-1002-1408.ea-1404-1408",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[TEST] .",
     "habboFigure": "hr-5841-61.hd-5838-3-15.ch-4361-82-110.lg-5594-110.sh-4112-82-82.he-5827-1324-110.ca-5769-63-1408.cc-5690-92",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
     "habboFigure": "hr-802-38.hd-180-1.ch-3038-1412.lg-3019-82.sh-295-1325.ha-3347-66-1413.wa-2004-93.cc-5951-110",
