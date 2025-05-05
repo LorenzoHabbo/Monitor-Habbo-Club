@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-5914-1404-54.hd-3845-10.ch-5921-92-110.lg-5974-110-64.sh-5928.he-5348.fa-5467.cc-5925-1338",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " Ykz SHIRO-GUMI - Chisana Tensai",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-3266-110-68.lg-3364-110-92.ha-1026.he-3070-92",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -2382,7 +2382,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "ºAiutante Di BordoºBP",
+    "motto": "ºAlfiere Del VentoºBP",
     "habboFigure": "hr-3531-35-34.hd-190-14.ch-3688-1408.lg-4066-64.ha-1004-1408.he-5088.fa-3344-1320.ca-1801-90.wa-4317-1408",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
@@ -4390,7 +4390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "i lost my smile",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3779-110-92.lg-3407-110-92.sh-3524-110-92.ha-3632-110-92.ea-3961.cc-4979-92",
@@ -4550,10 +4550,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Spazzina - Svuota il Tuo Inventario!",
-    "habboFigure": "hr-3673-1353.hd-3956-1-1367.ch-3214-92.lg-4119.sh-3180-1424-92.he-3069-1424-92",
+    "habboFigure": "hr-3673-1353.hd-3956-1-1367.ch-822-1409.lg-4092-64.sh-3524-1409-92.he-3069-1424-92.cc-3373-64",
     "memberSince": "2019-05-16T14:02:08.000+00:00",
     "uniqueId": "hhit-a02eb99b403c4a0298cd9a4d7250989d",
     "name": "Chanel0707",
@@ -4780,7 +4780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "cadetto GD",
     "habboFigure": "hr-5772-45-40.hd-3956-1370-30.ch-5560-91-91.lg-3078-91.sh-3383-90-91.wa-2001",
@@ -9260,7 +9260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lo capisco",
     "habboFigure": "hr-3957-34-40.hd-600-14.ch-685-1408.lg-4092-1408.sh-4064-64.he-5279.fa-5467.ca-4135-64-88",
