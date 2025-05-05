@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-892-42.hd-3845-1.ch-4165-1408-73.lg-3290-1408.sh-305-64.ha-1013-1408.he-3833-1408.ea-1404-64.fa-1206-64.wa-2002",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Yasha Ykz SHIRO-GUMI - Chisana Tensai",
     "habboFigure": "hr-5680-61.hd-4383-10-28.ch-5917-110.lg-3787-110-110.ha-1026.fa-3276-63",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "all'attacco",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -4390,7 +4390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "i lost my smile",
     "habboFigure": "hr-3860-1344-1344.hd-3845-11.ch-4299-105-92.lg-5594-1424.ha-3710.he-5088.ea-3822-105.fa-4049.ca-3466-105-1408.cc-3360-105",
@@ -6527,16 +6527,6 @@
     "memberSince": "2022-03-04T15:05:43.000+00:00",
     "uniqueId": "hhit-71170ec9339c71fb3077fa28943b26cb",
     "name": "marcoluigi",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-4117-42-42.hd-3845-10.ch-665-64.lg-3526-64-64.sh-5464-64-64.ha-3857-64-64.cc-4300-64-64",
-    "memberSince": "2022-03-05T14:48:25.000+00:00",
-    "uniqueId": "hhit-329e681a851683d81a508ccf0ae4fb8c",
-    "name": "Caaamiiiii",
     "isAdmin": false
   },
   {
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-12-05T23:51:47.000+00:00",
     "uniqueId": "hhit-55a4d35a80b68a16516646c782d1b213",
     "name": "Ginny88",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "apprendista novello GD",
+    "habboFigure": "hr-3090-32.hd-209-1.ch-255-1408.lg-3023-64.sh-305-1408",
+    "memberSince": "2023-12-06T02:41:13.000+00:00",
+    "uniqueId": "hhit-5b5f00bf8a845cd4948426a0fc3c656b",
+    "name": "tuzzly",
     "isAdmin": false
   }
 ]
