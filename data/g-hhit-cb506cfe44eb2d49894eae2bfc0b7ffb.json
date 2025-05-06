@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "curiosoni, andate via! ©",
     "habboFigure": "hr-5331-49-54.hd-190-10.ch-3032-1409-92.lg-5594-77.sh-3035-1428.ha-3026-63.he-3376-92-1337.fa-5600-92.ca-4390.wa-5676",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.fa-3276-96",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -1560,10 +1560,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
-    "habboFigure": "hr-832-53.hd-3099-22.ch-3137-1415-1433.lg-3018-77.sh-3180-97-1315.he-3070-1321.ea-3169-1415.cc-5926-1410-1408",
+    "habboFigure": "hr-836-47.hd-3099-22.ch-824-1422.lg-3061-1422.sh-3016-105.he-3295-1323-1323.ea-3270-63-1410.cc-3066-92",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ PAPPONE FAMIGLIA BATTAGLIA ¥",
     "habboFigure": "hr-3871-40.hd-180-10.ch-3486-1408-1408.lg-285-81.sh-295-80.ha-3709.he-5808-83.ea-3925-80-80.ca-5807-1320-80.cc-4979-1408",
@@ -1623,7 +1623,7 @@
     "online": true,
     "gender": "m",
     "motto": "Uomo d'onore Corleone Fear Allah",
-    "habboFigure": "hr-3768-1349.hd-3845-28.ch-3203-63.lg-280-110.he-1608.fa-3276-63.ca-5771-110-1415.cc-3867-1415-110.cp-3205",
+    "habboFigure": "hr-3768-1347.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-6044.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",
@@ -2061,9 +2061,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Pazzesco a tratti imbarazzante",
-    "habboFigure": "hr-3764-1404.hd-3097-28.ch-3013-91.lg-3526-77-77.sh-3035-92.ha-3544.he-3716.fa-5601-92.cc-5926-92-92",
+    "habboFigure": "hr-6034-1403-1404.hd-190-2.ch-3030-110.lg-5594-64.sh-3587-92-1408.he-3070-92.ea-5576-110-1408.ca-5936-92.cc-5926-110-1408",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se mi elimini al frigo sei omosessuale",
     "habboFigure": "hr-893-40.hd-208-1.ch-255-1408.lg-3078-1408.sh-300-64",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3935-92-110.lg-5594-77.sh-5247-92-92.he-3740.ea-5576-110-110.fa-3276-1412.cc-5926-110-1408",
