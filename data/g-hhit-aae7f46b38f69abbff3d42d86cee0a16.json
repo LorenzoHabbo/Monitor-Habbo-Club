@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Run and Go",
     "habboFigure": "hr-3499-1342.hd-205-25.ch-3032-1429-1321.lg-285-110.sh-3419-110-64.ha-1004-110.he-3070-92.fa-3296.wa-3264-1321-1429",
@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Guardia di coperta BP Arrr!",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3354-82-1408.ha-3675-64-1408.ea-5910-64-1408.ca-5455-82-66",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -883,7 +883,7 @@
     "online": true,
     "gender": "m",
     "motto": "#",
-    "habboFigure": "hr-3322-44.hd-209-1.ch-255-73.lg-275-81.sh-906-1408.fa-3344-73",
+    "habboFigure": "hr-3322-40.hd-209-1.ch-255-84.lg-275-81.sh-906-1408.fa-3344-84",
     "memberSince": "2019-04-11T14:54:30.000+00:00",
     "uniqueId": "hhit-0d682895eab73fbd019c8ee72e54a009",
     "name": ".:The:.Boss:",
@@ -970,7 +970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ººloading...ºº",
     "habboFigure": "hr-515-1349.hd-5913-28.ch-660-86.lg-710-86.sh-730-1415.he-3082-86.ea-1404-64.fa-3276-1415",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-74.lg-4373.sh-5670-64.he-3324-1408-64.ca-5635-1408-1408.cc-5461-64-1408",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-5971-61.hd-180-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-64-110.ca-1801-92.cc-4091-110",

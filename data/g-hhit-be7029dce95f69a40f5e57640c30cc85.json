@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-45.hd-185-1370.ch-3779-110-92.lg-285-82.sh-290-110.fa-3344-91",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " Ykz SHIRO-GUMI - Chisana Tensai",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-3266-110-68.lg-3364-110-92.ha-1026.he-3070-92",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Run and Go",
     "habboFigure": "hr-3499-1342.hd-205-25.ch-3032-1429-1321.lg-285-110.sh-3419-110-64.ha-1004-110.he-3070-92.fa-3296.wa-3264-1321-1429",
@@ -8870,7 +8870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
