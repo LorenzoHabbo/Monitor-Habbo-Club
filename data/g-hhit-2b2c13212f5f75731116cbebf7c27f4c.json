@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|amo la VITA!|",
     "habboFigure": "hr-4031-31-40.hd-3098-9.ch-885-1325-1320.lg-3134-102-1408.sh-730-1325.ha-5284.ca-1802",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "error 404- mind not found",
     "habboFigure": "hr-5619-1398.hd-5682-1.ch-665-110.lg-5970-110.sh-4159-110-110.ha-4050.he-3833-1410.fa-4168-95.cc-4184-110-64",
@@ -4390,7 +4390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "i lost my smile",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3334-1331-92.lg-3596-1331-1408.sh-3338-1331.ha-3855-1331.ca-4037-1331-92.cc-5961-1331-92",
