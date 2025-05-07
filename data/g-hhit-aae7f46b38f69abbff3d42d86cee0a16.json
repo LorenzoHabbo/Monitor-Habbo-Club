@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Run and Go",
     "habboFigure": "hr-3499-1342.hd-205-25.ch-3032-1429-1321.lg-285-110.sh-3419-110-64.ha-1004-110.he-3070-92.fa-3296.wa-3264-1321-1429",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-665-81.lg-3526-1408-82.sh-3354-81-1408.he-4318-81.fa-5601-1408.ca-5454-1408.wa-4317-1408.cc-4943-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-40.hd-209-1.ch-255-82.lg-275-81.sh-906-1408.fa-3344-80",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-5971-61.hd-180-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-64-110.ca-1801-92.cc-4091-110",
