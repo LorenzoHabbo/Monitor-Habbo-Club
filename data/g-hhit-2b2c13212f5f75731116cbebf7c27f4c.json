@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "APPRENDISTA GD",
     "habboFigure": "hr-3810-37.hd-600-1370.ch-4087-82.lg-3320-82-1408.sh-4112-81-1408",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Cherubini G.D rim ti amo |",
     "habboFigure": "hr-3860-1342-1342.hd-209-2.ch-3185-1414.lg-3483-92-92.sh-3035-1408.ha-3709",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Cavaliere Eletto G.D º",
     "habboFigure": "hr-4090-1398.hd-3102-1.ch-3323-110-1408.lg-270-1408.sh-3035-1408.he-3070-1321.ea-5897-110-110.fa-3276-1413.cc-5926-110-1408",
@@ -3623,7 +3623,7 @@
     "online": false,
     "gender": "f",
     "motto": "|Ya|ku|ZaShiro-Gumi",
-    "habboFigure": "hr-4186-45.hd-4383-10-1393.ch-826-110-110.lg-3018-1408.sh-3089-92.ha-5620-1408.he-3070-1408.fa-3276-92",
+    "habboFigure": "hr-4186-45.hd-4383-10-1393.ch-3005-1328-1328.lg-3018-1408.sh-3089-92.ha-5620-1408.he-3070-1408.fa-3276-92",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "Belle!!!",
@@ -4437,6 +4437,16 @@
     "memberSince": "2018-12-03T09:42:31.000+00:00",
     "uniqueId": "hhit-055543cec903c107d20b0f82e2de79b6",
     "name": "Vitrus-BAN",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "\"La mia anima è persa\"",
+    "habboFigure": "hr-3247-61.hd-3845-28.ch-5831-1427.lg-5623.sh-3275-78.ha-5832-78.fa-3276-72.ca-5575.wa-5676.cc-4091-1408",
+    "memberSince": "2018-12-05T18:40:26.000+00:00",
+    "uniqueId": "hhit-80f62fb44bfd97936e236984558d2905",
+    "name": "fintolol",
     "isAdmin": false
   },
   {
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-12-05T23:51:47.000+00:00",
     "uniqueId": "hhit-55a4d35a80b68a16516646c782d1b213",
     "name": "Ginny88",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "apprendista novello GD",
-    "habboFigure": "hr-3090-32.hd-209-1.ch-255-1408.lg-3023-64.sh-305-1408",
-    "memberSince": "2023-12-06T02:41:13.000+00:00",
-    "uniqueId": "hhit-5b5f00bf8a845cd4948426a0fc3c656b",
-    "name": "tuzzly",
     "isAdmin": false
   }
 ]
