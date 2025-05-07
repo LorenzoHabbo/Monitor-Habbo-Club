@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-5934-63.cc-5926-64-92",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92",
@@ -813,7 +813,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-665-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.cc-5926-1428-63",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-665-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.ca-3414-63.wa-6071",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lo so, è assurdo.",
     "habboFigure": "hr-9534-61.hd-3100-1.ch-3046-1322.lg-3320-110-110.he-3081-68",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5969-35.hd-4163-2-1387.ch-5453-77-1408.lg-5970-1324.sh-5308-1408.he-3274-1423.ea-5910-77-92.fa-4185-97.wa-3895-1324.cc-5926-1423-1322",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "R6 1.1 kd player    //   TRM supporter",
     "habboFigure": "hr-6034-49-61.hd-5524-2-1365.ch-255-110.lg-5398.sh-5639.ha-3759.he-5828.ea-5392.fa-5948-92.ca-5574-110-1413.wa-6071.cc-6070",
