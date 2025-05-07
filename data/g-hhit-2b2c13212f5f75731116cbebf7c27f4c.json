@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-5868.ha-4324.ea-5009.fa-5467",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1353.hd-3845-1370.ch-3059-110.lg-3023-92.sh-3275-93.ha-3171-110-1408.he-5088.ea-3170-64.fa-4168-92.ca-1816.wa-5123-1321.cp-3125-96",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-5679-44-40.hd-5913-19.ch-3517-76-75.lg-3023-82.sh-730-64.fa-3276-73",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-4363-1404-31.hd-3845-10.ch-5923-92-1414.lg-3006-110-110.sh-5928.ha-3620.fa-5467.wa-5599-110-110.cc-5951-1414",
@@ -4823,7 +4823,7 @@
     "online": true,
     "gender": "m",
     "motto": "Abbiamo un sogno nel cuore | YKZ",
-    "habboFigure": "hr-829-39.hd-190-28.ch-3372-110-92.lg-285-110.ea-1402.fa-1209-110",
+    "habboFigure": "hr-829-39.hd-190-28.ch-3372-110-92.lg-285-110.ea-1402.fa-1212.ca-3187-95",
     "memberSince": "2019-12-06T23:40:43.000+00:00",
     "uniqueId": "hhit-6ca978dfd8d3c46bdfbea9cd78e4ca6b",
     "name": "Raikas",
@@ -6170,7 +6170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello g. d.",
     "habboFigure": "hr-890-35.hd-600-10.ch-665-71.lg-3216-72.ca-1801-1408",
@@ -9810,7 +9810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "scagnozzo g.d",
     "habboFigure": "hr-4117-42-42.hd-4163-10-30.ch-5245-73.lg-5974-72-73.ha-4196.ea-5897-64-64.fa-3276-1408.wa-5599-64-1408",
