@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "LETTERA Q",
     "habboFigure": "hr-515-42.hd-615-28.ch-3033-110-110.lg-710-63.sh-725-92.he-3082-92.fa-5601-1408.ca-3225-110-110.cc-4041-1427.cp-3310-63",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-40.hd-209-1.ch-255-82.lg-275-81.sh-906-1408.fa-3344-80",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-73.lg-285-64.sh-3524-1408-64.fa-3276-73.ca-4965-73-1408.cc-3744-1408-64",
