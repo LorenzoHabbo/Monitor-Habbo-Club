@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hr-5971-49.hd-4174-1.ch-5954-97-1415.lg-3361-1429.sh-3621-92-67.ha-1004-1415.he-3070-1410.ea-3493-1329-99.fa-5384-92.ca-4115-1429-99",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " Ykz SHIRO-GUMI - WAKAGASHIRA-YKZ|",
     "habboFigure": "hr-5680-1355.hd-4383-10-28.ch-665-92.lg-3787-1425-1425.ha-5709-92.he-5808-1408",
@@ -9890,7 +9890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-77-77.sh-5247-92-92.he-4022.ea-3108-63-1408.ca-3885-1338-77.cc-5951-110",
