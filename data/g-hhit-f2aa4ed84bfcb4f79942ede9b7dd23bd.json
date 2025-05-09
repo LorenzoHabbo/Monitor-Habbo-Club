@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "no npc",
     "habboFigure": "hr-828-34.hd-180-28.ch-215-110.lg-280-64.sh-305-1408.ha-1013-110.he-4977-1427-110.cp-5883-1408",
@@ -1310,10 +1310,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
-    "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-1321.ea-5897-1416-110.ca-5936-92.cc-5951-110",
+    "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
     "memberSince": "2009-02-18T14:30:01.000+00:00",
     "uniqueId": "hhit-2324439fab9bf1743b5232868fe0eb77",
     "name": "Alibi,Mc",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5928.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -8150,7 +8150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sogno incubi",
     "habboFigure": "hr-6034-61-61.hd-5042-27.ch-3934-92-110.lg-5594-110.sh-290-92.fa-1209-110.cc-3360-92",
@@ -9150,7 +9150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
