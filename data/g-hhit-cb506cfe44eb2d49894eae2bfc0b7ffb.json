@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1342.hd-3845-1370.ch-3208-1412-1408.lg-3078-110.sh-3275-93.ha-3130-1413-110.he-1608.fa-1201.ca-1816.wa-5123-93.cp-3125-96",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1520,10 +1520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -3210,10 +3210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Hello, YOU.",
-    "habboFigure": "hr-5773-45.hd-5696-1-1.ch-5560-64-1408.lg-710-64.sh-5803-90.ha-5301-90.fa-3276-90.cc-5926-90-1408",
+    "habboFigure": "hr-5773-45.hd-3956-1-1371.ch-5560-91-64.lg-710-64.sh-5308-66.ha-5301-64.ea-5576-1408-1408.cc-5926-66-1408",
     "memberSince": "2023-08-11T18:27:24.000+00:00",
     "uniqueId": "hhit-804fa2a3d7ff7cf52cf4dab485c0cd1c",
     "name": "Sarahpeople9",
@@ -4090,7 +4090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-5971-61.hd-180-2.ch-215-110.lg-275-110.sh-908-110.he-5088.ea-5897-64-110.ca-5936-1427.cc-4091-110",
