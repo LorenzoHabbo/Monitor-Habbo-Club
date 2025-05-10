@@ -250,10 +250,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Resto umile e me ne vanto",
-    "habboFigure": "hr-125-40.hd-190-1.ch-235-80.lg-270-90.sh-3068-68-68.ha-3620.ea-4302-66-1320.fa-1205-1408",
+    "habboFigure": "hr-3998-40.hd-190-1.ch-230-80.lg-270-90.sh-3068-68-68.ha-3347-91-91.ea-4302-91-64.fa-1205-1408.ca-1815-90",
     "memberSince": "2009-10-01T20:23:49.000+00:00",
     "uniqueId": "hhit-aff4f5cc2875b0d21ce276bbba4b8e3f",
     "name": "Super-habbo-men",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºAssistente MedicoºBP",
     "habboFigure": "hr-3531-35-34.hd-190-14.ch-3688-1408.lg-4066-64.ha-1004-1408.he-5088.fa-3344-1320.ca-1801-90.wa-4317-1408",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5928.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-665-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-64.ea-5626-110.fa-5835-73.ca-3414-63.cc-5926-1428-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5914-1398-49.hd-5913-2.ch-4340-92-1420.lg-5970-74.sh-3089-1324.ha-3632-75-1419.he-5808-110.fa-4185-97.ca-3187-1419.cc-5926-1433-1322",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "R6 1.1 kd player    //   TRM supporter",
     "habboFigure": "hr-6034-49-61.hd-5524-2-1365.ch-255-110.lg-5398.sh-5639.ha-5944.he-5828.ea-5392.fa-5948-92.ca-5574-110-1413.cc-6070",
