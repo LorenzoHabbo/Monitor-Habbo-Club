@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-828-1401.hd-5317-28-28.ch-5858-110.lg-3418-64.sh-5718.he-3070-92.fa-5601-92",
@@ -8070,7 +8070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista novella g.d",
     "habboFigure": "hr-4117-45-45.hd-600-8.ch-3539-80.lg-3320-82-82.ha-3546-80",
@@ -9150,7 +9150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
