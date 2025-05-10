@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " [»] Hooligans [»]",
     "habboFigure": "hr-5445-32.hd-5684-28.ch-5921-110-110.lg-5545-110-110.sh-3206-92.he-4977-92-110.fa-4044.cc-4137-110",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-5791-45.hd-180-1.ch-3323-1408-1408.lg-5594-64.sh-3383-75-76.he-5578-84.ea-1404-64.fa-5600-1408.cc-5926-90-1408",
@@ -8150,7 +8150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sogno incubi",
     "habboFigure": "hr-6034-61-61.hd-5042-27.ch-3934-92-110.lg-5594-110.sh-290-92.fa-1209-110.cc-3360-92",
