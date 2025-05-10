@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " | WAKAGASHIRA-YKZ|",
     "habboFigure": "hr-5914-38-38.hd-4383-28-28.ch-5917-1408.lg-4066-110.ha-3118-110-110.he-3082-63",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5928.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "   |Scrittrice&Builder|",
     "habboFigure": "hr-4363-61-54.hd-3956-1389-30.ch-5831-110.lg-5909-110-110.sh-5464-71-94.he-5578-110.ea-1402.fa-5600-1322.cc-3360-71",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5361-1416.lg-5363-93.sh-5803-92.ha-3570.he-5915.ca-3885-96-92.cc-5800-1432-1432",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-5773-61.hd-3631-1370-1371.ch-3045-110.lg-5594-110.sh-3035-110.he-3070-92.ea-5576-110-110.ca-5983-92.wa-3264-110-1408",
@@ -3300,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " Tesoriere BP  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-64-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
