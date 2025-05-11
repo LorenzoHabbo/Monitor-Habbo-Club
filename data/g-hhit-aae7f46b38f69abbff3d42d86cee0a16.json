@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5928.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".Oblivion.",
     "habboFigure": "hr-5773-31.hd-600-1.ch-4392-96-92.lg-5165-96-92.sh-3619-1432-92.ha-3775.he-3081-68.fa-5467.ca-5444-96-92.wa-3212-96-1413.cc-3867-1432-1432",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-5971-61.hd-205-2.ch-255-63.lg-5594-77.sh-3035-92.he-5088.ea-1404-110.ca-1801-92",
