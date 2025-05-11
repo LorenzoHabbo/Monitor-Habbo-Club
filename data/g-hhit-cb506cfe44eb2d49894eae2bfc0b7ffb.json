@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista G.D.",
     "habboFigure": "hr-893-39.hd-209-8.ch-4111-1408.lg-3290-64.sh-300-1408.ha-1013-1320.fa-1201.ca-1801-64",
@@ -1711,16 +1711,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "Capo Mandamento ª Apache ª",
-    "habboFigure": "hr-3977-40.hd-190-1370.ch-3688-1408.lg-281-1408.sh-3587-1408-1408.ha-5305-1408-1408.ea-3978-1408-1408",
-    "memberSince": "2016-07-05T09:40:58.000+00:00",
-    "uniqueId": "hhit-4acc4ccffb9a5eb6c7606f71196096e6",
-    "name": "ElGhenso",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "Famiglia Corleone",
     "habboFigure": "hr-5773-34.hd-615-22.ch-3013-110.lg-700-1427.sh-908-64.ha-4349.fa-5467.cc-5800-1415-92",
@@ -2020,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "i lost my smile",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3779-110-92.lg-3407-110-92.sh-3524-110-92.ha-3632-110-92.ea-3961.cc-4979-92",
