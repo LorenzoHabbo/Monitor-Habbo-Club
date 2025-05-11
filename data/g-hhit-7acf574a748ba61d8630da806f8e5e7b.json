@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-1342.hd-3845-1370.ch-3208-1412-1408.lg-3078-110.sh-3275-96.ha-3130-96-110.he-1608.fa-1201.ca-1816.wa-5123-93.cp-3125-96",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-96-96",
@@ -1363,7 +1363,7 @@
     "online": true,
     "gender": "m",
     "motto": "ALFIERE DEL VENTO BP|",
-    "habboFigure": "hr-170-32.hd-208-13.ch-3913-110-110.lg-3116-110-92.sh-3016-110.ha-4195.ea-5897-64-1408.ca-3856-64-92.cc-5800-64-64",
+    "habboFigure": "hr-170-32.hd-208-13.ch-5559-110.lg-3116-110-92.sh-3016-110.ha-4195.ea-5897-64-1408.ca-3856-64-92.cc-5800-64-64",
     "memberSince": "2015-08-31T21:03:20.000+00:00",
     "uniqueId": "hhit-177b821ddb0b73c8e5fdf2b3286e3a08",
     "name": "29_adrian",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-110-110.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3885-110-92.cc-5951-110",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
@@ -2413,7 +2413,7 @@
     "online": true,
     "gender": "m",
     "motto": "Ritorno in YKZ",
-    "habboFigure": "hr-5019-61.hd-4174-11.ch-3779-92-110.lg-5594-92.ea-1402.fa-1208-110.ca-3414-110",
+    "habboFigure": "hr-3531-61-61.hd-4174-11.ch-3779-92-110.lg-3058-110.ea-1402.fa-1208-110.ca-3414-110",
     "memberSince": "2020-11-19T21:10:20.000+00:00",
     "uniqueId": "hhit-47989af9d0f1ed2e1b4739aea84b550a",
     "name": "Mor!tz",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trainer Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-3770-1408-73.lg-3078-1408.he-3329-71-73",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TAP TAP.",
     "habboFigure": "hr-828-61.hd-205-10.ch-5559-92.lg-280-1331.sh-5247-92-1331.ha-5730-110.ea-1404-110.fa-5601-92.ca-3414-1330.cc-3158-110",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3935-92-110.lg-5927-110-1408.sh-5247-92-92.he-3891.fa-3276-1412.cc-5926-110-1408",
