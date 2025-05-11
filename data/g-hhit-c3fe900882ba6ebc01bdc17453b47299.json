@@ -162,7 +162,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "vivo mai, morto mai º",
+    "motto": "ho spento tutte le mie emozioni",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-660-1324.lg-696-64.sh-906-63.ha-1003-110.fa-5601-92.ca-3885-100-92",
     "memberSince": "2008-04-14T16:54:21.000+00:00",
     "uniqueId": "hhit-372639b9b03b73297fca830a8e4318cc",
@@ -503,7 +503,7 @@
     "online": true,
     "gender": "f",
     "motto": "Sono grande, mollatemi. -Oblivion-",
-    "habboFigure": "hr-3673-1353.hd-600-28.ch-824-110.lg-3596-110-110.ha-3613-110.he-5808-92.fa-3276-110.ca-5794-110.cc-5926-1337-92",
+    "habboFigure": "hr-3673-1353.hd-600-28.ch-824-110.lg-3596-110-110.ha-3613-92.he-5808-92.fa-3276-110.ca-5794-110.cc-5926-1337-92",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -743,7 +743,7 @@
     "online": true,
     "gender": "m",
     "motto": "ºAssistente MedicoºBP",
-    "habboFigure": "hr-3531-35-34.hd-190-14.ch-3688-1408.lg-4066-64.ha-1004-1408.he-5088.fa-3344-1320.ca-1801-90.wa-4317-1408",
+    "habboFigure": "hr-3531-35-34.hd-190-14.ch-3688-1408.lg-4066-64.ha-4050.he-5088.fa-3344-1320.ca-1801-90.wa-4317-1408",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
     "name": "trey6949",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5914-1398-49.hd-5913-2.ch-4340-92-1420.lg-5970-74.sh-3089-1324.ha-3632-75-1419.he-5808-110.fa-4185-97.ca-3187-1419.cc-5926-1433-1322",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-3322-34.hd-180-1.ch-3668-1408-1408.lg-3418-1408.sh-5803-1408.ea-3978-1408-1408.ca-3485.cc-5800-1408-1408",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3841-36.hd-3845-14.ch-3342-66-66.lg-3078-90",
