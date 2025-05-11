@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-52.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -6170,10 +6170,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mi contigo.",
-    "habboFigure": "hr-828-61.hd-3721-1.ch-3934-1331-110.lg-270-110.sh-3587-92-1331.he-3820-1331.ea-3640.cc-5926-110-92",
+    "habboFigure": "hr-5791-42.hd-3721-1.ch-230-1424.lg-3057-110.sh-3587-92-1408.he-3070-92",
     "memberSince": "2012-09-07T21:24:18.000+00:00",
     "uniqueId": "hhit-842bd4e694c0d96d30e9b3014ce047ac",
     "name": "Nyte",
@@ -7320,7 +7320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-125-1395.hd-3092-8.ch-3185-104.lg-3019-63.sh-3206-1409.ea-3484.fa-5636-1325.ca-3225-1338-92.cc-5825",
