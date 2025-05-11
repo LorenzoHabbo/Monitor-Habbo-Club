@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-832-1401.hd-3099-22.ch-3135-110.lg-3006-110-1408.sh-3180-1321-110.he-3070-110.ea-3169-1336.cc-3008-1410-1336",
@@ -1083,7 +1083,7 @@
     "online": true,
     "gender": "m",
     "motto": "Giudice della Pace (G.d)",
-    "habboFigure": "hr-3531-48-40.hd-209-1.ch-3679-73-1408.lg-5594-82.sh-3524-73-82.ha-3857-82-73.he-5578-1408.fa-3276-73.ca-5770-73.cc-3874-73-1408",
+    "habboFigure": "hr-3531-48-40.hd-209-1.ch-3679-73-1408.lg-5594-82.sh-3524-73-82.ha-3857-82-73.he-5578-1408.fa-3276-73.ca-5770-73.cc-5441-73-1408",
     "memberSince": "2021-03-02T10:50:23.000+00:00",
     "uniqueId": "hhit-0640405577616f3a60e39a021f939d53",
     "name": "eivor12",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
