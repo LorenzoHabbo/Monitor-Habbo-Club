@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.ca-5455-1409-93.cc-6077",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5617-44-1394.hd-3100-10.ch-665-110.lg-5594-110.sh-3089-110.he-3070-110.fa-3276-72.cc-3003-110",
@@ -610,10 +610,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".Oblivion.",
-    "habboFigure": "hr-5773-31.hd-600-1.ch-4392-96-92.lg-5165-96-92.sh-3619-1432-92.ha-3775.he-3081-68.fa-5467.ca-5444-96-92.wa-3212-96-1413.cc-3867-1432-1432",
+    "habboFigure": "hr-5773-1401.hd-600-10.ch-5030-1326-92.lg-700-1408.sh-730-92.he-4977-92-1326.fa-5467",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trainer Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-3770-1408-73.lg-3078-1408.sh-730-73.he-3329-71-73",
@@ -1690,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-3841-42.hd-207-1370.ch-3679-1408-1408.lg-3088-80-1408.sh-906-64.fa-5601-64.wa-3798-64-1408.cc-5926-64-1408",
