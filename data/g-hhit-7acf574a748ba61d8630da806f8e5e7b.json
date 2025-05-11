@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-42.hd-180-1.ch-3030-73.lg-285-81.sh-295-64.he-1609-64.fa-1201",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ritorno in YKZ",
     "habboFigure": "hr-3370-61.hd-4174-14.ch-3372-92-110.lg-3365-110.sh-3206-110.ea-5642.fa-1206-110.ca-3414-110",
