@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hd-180-1370.ch-3030-85.lg-285-1320.ha-1004-1320",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leggenda Spartana R.P.",
     "habboFigure": "hr-3194-1404-40.hd-207-10.ch-3022-1410-1410.lg-280-82.sh-3027-67-1408.ea-3169-1321.fa-1206-1324.wa-2001.cc-3007-1330-1330",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-3018-77.sh-5803-92.ha-6057-77-1326.he-3070-92.fa-5467.ca-3292-92.cc-5926-1326-1326",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-515-42.hd-600-1.ch-660-73.lg-710-64.sh-735-64.fa-3276-72",
