@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-40.hd-600-3.ch-5907-110-86.lg-5594-77.ha-4094-1408-1408.he-3884-1408-1408.ea-5576-92-92.cc-5926-63-1408",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.sh-3275-92.ha-3709.cc-5926-110-92",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-650-92.lg-5594-77.sh-5247-92-92.he-3740.fa-3276-1412.cc-5926-1409-1409",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-5921-110-1408.lg-5974-110-110.sh-5308-64.ha-5620-110.he-6066-100.fa-3276-1328.cc-5925-100",
