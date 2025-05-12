@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "One Life",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-5679-44-40.hd-5913-19.ch-3517-76-75.lg-3023-82.sh-730-64.fa-3276-73",
@@ -4900,7 +4900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ººloading...ºº",
     "habboFigure": "hr-515-1349.hd-5913-28.ch-660-86.lg-710-86.sh-730-1415.he-3082-86.ea-1404-64.fa-3276-1415",
