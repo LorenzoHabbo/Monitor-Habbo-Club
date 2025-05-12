@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " | WAKAGASHIRA-YKZ|",
     "habboFigure": "hr-5914-34-34.hd-4383-28-28.ch-5917-1408.lg-4066-110.ha-3054-110-110.he-5808-1408.fa-3276-92",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5773-61.hd-600-10.ch-5351-96-92.lg-3134-77-1408.sh-3619-96-92.he-5314-96-96.fa-3276-96.cc-5611-96",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-96-96",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-5914-1396-33.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-5928.he-3778-92.cc-5945",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sposata irl |A|",
     "habboFigure": "hr-3847-1403.hd-5319-1-1367.ch-4353-99-106.lg-3006-110-100.sh-3354-95-92.he-4977-92-95.fa-5467.ca-5807-91-92",
@@ -1930,10 +1930,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.cc-5800-63-63",
+    "habboFigure": "hr-4090-42.hd-209-28.ch-3934-110-64.lg-3483-110-110.sh-3587-92-92.ha-3144-92-110.fa-5467.ca-3437-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2253,7 +2253,7 @@
     "online": false,
     "gender": "f",
     "motto": "Mamma di Lukka997 |",
-    "habboFigure": "hr-4363-54-54.hd-600-1.ch-5453-1414-105.lg-3134-1326-1326.sh-5551.he-5314-1414-1414.cc-5461-1326-105",
+    "habboFigure": "hr-4363-40-40.hd-600-1.ch-5453-1408-1408.lg-695-1408.sh-5551.he-5314-1408-1408.cc-5461-1408-1408",
     "memberSince": "2020-04-06T20:10:05.000+00:00",
     "uniqueId": "hhit-9cd69ed84d73400dc0de0e99c8676b91",
     "name": "SPARKLEUNICORN",
@@ -2412,8 +2412,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Ritorno in YKZ",
-    "habboFigure": "hr-3370-61.hd-4174-14.ch-3372-92-110.lg-3365-110.sh-3206-110.ea-5642.fa-1206-110.ca-3414-110",
+    "motto": "YaºKuºZaº Direct Zone",
+    "habboFigure": "hr-3281-1407.hd-4174-2.ch-3779-110-110.lg-3058-110.sh-5803-92.ea-5642.cc-3867-92-92",
     "memberSince": "2020-11-19T21:10:20.000+00:00",
     "uniqueId": "hhit-47989af9d0f1ed2e1b4739aea84b550a",
     "name": "Mor!tz",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Tu hai il gramo º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-5594-1338.he-3740.ca-3885-1410-110",
@@ -4210,7 +4210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " ~*~*~*~*~*~*~*~*~*~*~",
     "habboFigure": "hr-105-47.hd-5522-10-14.ch-210-1320.lg-3320-83-73.sh-3524-80-85.ha-4006.he-5915.fa-1202-64.cc-3917-74",
