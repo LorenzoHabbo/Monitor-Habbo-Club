@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-92.lg-5594-1338.sh-3089-92.he-5088.cc-5926-64-1408",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5617-44-1394.hd-3100-10.ch-665-110.lg-5594-110.sh-3089-110.he-3070-110.fa-3276-72.cc-3003-110",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-5913-28.ch-665-92.lg-710-110.sh-5803-92.he-6066-96.ea-5576-1408-1408.fa-5467.ca-3085-96.cc-5800-110-110",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-828-61.hd-180-8.ch-3688-110.lg-5732-110-93.sh-295-110.he-5348.ea-1402.fa-5624-93.ca-1816.cc-5800-110-93",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ladro 1p G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-5830-1325.lg-5594-82.sh-3089-110.ha-5832-67.he-3070-92.fa-5601-1408.cc-5441-67-67",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3800-45-40.hd-600-1.ch-665-64.lg-4114-1408-1408.sh-906-1408.he-6066-1408.fa-4168-64.ca-5635-1408-1408.cc-5461-64-1408",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-10.ch-255-64.lg-281-73.sh-295-1408.ha-1004-64.ea-1404-64.fa-3276-73",
