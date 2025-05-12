@@ -640,10 +640,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NN SONO + IN GRADO DI DIRE \"CHE BELLO\"",
-    "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-225-1408.lg-270-77.sh-906-1408.ha-1002-63.he-6066-1334.ea-5576-89-92.fa-5467.ca-5938-1334-1409.wa-2001",
+    "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-225-1408.lg-270-77.sh-906-1408.ha-1002-63.ea-5576-89-92.fa-5467.ca-5938-1334-1409.wa-2001",
     "memberSince": "2008-01-02T16:26:00.000+00:00",
     "uniqueId": "hhit-491aea46047f1b93106663c84de422f1",
     "name": "Piernanni",
@@ -6160,7 +6160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-3023-82.ha-3675-64-1408.he-4379.ea-3925-68-1320.fa-1201.cc-3917-73",
@@ -9860,7 +9860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-650-92.lg-5594-77.sh-5247-92-92.he-3740.fa-3276-1412.cc-5926-1409-1409",
