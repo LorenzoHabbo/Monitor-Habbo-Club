@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "The Dark Lord.",
     "habboFigure": "hd-190-1.ch-5856.lg-5594-1409.sh-5247-92-1428.ha-1015.he-3732.fa-1203.ca-5934-63.cc-5926-64-92",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-110-110.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3885-110-92.cc-5951-110",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-5970-1341.sh-5803-92.ha-6057-92-96.he-3070-92.fa-5467.ca-3292-96.cc-5926-1341-92",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.C.H",
     "habboFigure": "hr-893-42.hd-209-19.ch-230-80.lg-3290-82.sh-906-64.ha-1002-1408.ea-1404-1408",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4363-1342-1342.hd-627-1383.ch-3935-92-110.lg-5594-77.sh-5247-92-92.he-3891.fa-3276-1412.cc-5926-1409-1409",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-5921-110-1408.lg-5974-110-110.sh-5308-64.ha-5620-110.he-6066-100.fa-3276-1328.cc-5925-100",
