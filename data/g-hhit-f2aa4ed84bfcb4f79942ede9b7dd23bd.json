@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sono irriconoscibile",
     "habboFigure": "hr-828-34.hd-205-22.ch-210-1427.lg-280-63.sh-3587-1408-92.he-3740.cc-5945.cp-3311-63",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Padrino Corleone »",
     "habboFigure": "hr-5019-31.hd-5696-10-1364.ch-255-110.lg-285-1338.sh-3016-110.ha-3495-92-92.fa-5600-92",
@@ -303,7 +303,7 @@
     "online": true,
     "gender": "f",
     "motto": "LETTERA Q",
-    "habboFigure": "hr-515-42.hd-615-28.ch-3005-1416-110.lg-710-110.sh-725-92.he-3358-1416-1337.fa-5601-1408.wa-3178-1417.cc-3975-110-1416",
+    "habboFigure": "hr-515-42.hd-615-28.ch-3005-1416-110.lg-3355-110-1416.sh-725-92.he-3358-1416-1337.fa-5601-1408.wa-3178-1417.cc-3975-110-1416",
     "memberSince": "2007-01-16T21:42:14.000+00:00",
     "uniqueId": "hhit-2962b6ec9af6b2262e95a79ddbb877a8",
     "name": "MagdaSuperStar",
@@ -4460,13 +4460,13 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Universale!",
-    "habboFigure": "hr-5306-1396-1396.hd-4174-2.ch-5559-67.lg-280-81.sh-908-110.ha-1022-110.he-1609-92.ea-3640.fa-4058-1408.cc-3509-110-92",
+    "motto": "Breaking Bad!",
+    "habboFigure": "hr-125-61.hd-190-2.ch-3498-92.lg-5594-1425.sh-3035-1425.ha-4195.he-3070-1408.ea-1404-110.ca-3175-1410.cc-5800-1427-1427",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
-    "name": "Universal,",
+    "name": "Breaking",
     "isAdmin": false
   },
   {
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-14.ch-210-1408.lg-270-1408.ha-3586",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
