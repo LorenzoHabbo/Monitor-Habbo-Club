@@ -46,7 +46,7 @@
     "memberSince": "2006-03-16T12:55:01.000+00:00",
     "uniqueId": "hhit-195f3d5f046d1c1a5213239f042777d5",
     "name": "Camillo.Benso",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -506,7 +506,7 @@
     "memberSince": "2010-01-03T21:18:31.000+00:00",
     "uniqueId": "hhit-b852c8f5daa052dcc9982c2eff82c17b",
     "name": "Dorothy",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -592,7 +592,7 @@
   {
     "gender": "f",
     "motto": "crikey clown",
-    "habboFigure": "hr-5275-39.hd-627-1370.ch-5607-64.lg-3526-85-1408.sh-4159-64-1408.he-4059-90-91.fa-4058-64.ca-5420-80-80.wa-5836-85-85.cc-5826-64",
+    "habboFigure": "hr-5275-39.hd-627-1370.ch-5607-64.lg-3526-85-1408.fa-4058-64.ca-5420-80-80.cc-5826-64",
     "memberSince": "2010-08-10T21:14:22.000+00:00",
     "uniqueId": "hhit-05fd8fc935a5d045a00b991fafc5bc57",
     "name": "d-denise-d?",
@@ -1106,7 +1106,7 @@
     "memberSince": "2013-01-06T18:47:45.000+00:00",
     "uniqueId": "hhit-66ba2a28c07b02a2d152ff0c620e943a",
     "name": "UltimRomantico",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1126,7 +1126,7 @@
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1912,11 +1912,11 @@
   {
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-6034-1405-1405.hd-5525-26-14.ch-3934-1408-64.lg-5594-110.sh-5247-1427-1408.ha-5169-110.he-3070-1408.fa-5435",
+    "habboFigure": "hr-6034-1405-1405.hd-5525-26-14.ch-3934-1408-64.lg-5594-110.sh-3587-92-92.ha-5169-110.he-3070-1408.fa-5435",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1966,7 +1966,7 @@
     "memberSince": "2019-03-22T19:33:52.000+00:00",
     "uniqueId": "hhit-f576f16f6cf6a4119b668aa3f628d492",
     "name": "mianabba",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2346,7 +2346,7 @@
     "memberSince": "2020-10-17T10:15:42.000+00:00",
     "uniqueId": "hhit-a0c83660169ad5beb241e5a0960212a3",
     "name": "Pieppasauro",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2812,7 +2812,7 @@
   {
     "gender": "f",
     "motto": "A Sky Full of Stars ¥",
-    "habboFigure": "hr-3625-45-34.hd-600-1370.ch-5907-74-74.lg-5970-82.sh-4159-64-64.he-3772-72.wa-3773-72.cc-5926-73-1320",
+    "habboFigure": "hr-3625-45-34.hd-600-1370.ch-5907-71-71.lg-5970-82.sh-5928.he-3772-72.wa-3773-72.cc-5926-73-1320",
     "memberSince": "2022-04-02T17:06:21.000+00:00",
     "uniqueId": "hhit-16e6d33050ece7f42f39961b7c4ceca0",
     "name": "lava98",
@@ -4602,7 +4602,7 @@
   {
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-255-110.lg-280-110.sh-300-92.cc-3232-64-92",
+    "habboFigure": "hr-3163-1342.hd-205-18.ch-3203-1408.lg-280-91.sh-305-92.he-3274-91.fa-3276-110.cc-3158-1408",
     "memberSince": "2025-04-13T20:46:58.000+00:00",
     "uniqueId": "hhit-83b3c1285ab7223b45cd4775f2e8a27d",
     "name": "disaronno",
@@ -4647,6 +4647,16 @@
     "uniqueId": "hhit-dbc6a8aa4851412c4f870b669b06ddca",
     "name": "2cutero",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "It's Astronomy, We'Re Two Worlds Apart",
+    "habboFigure": "hr-3163-40.hd-180-1.ch-5596-63.lg-280-64.sh-305-64.he-3070-1321.ea-1404-64.fa-3276-72.wa-3263-92-1408.cc-5926-64-1408",
+    "memberSince": "2025-05-14T12:56:29.000+00:00",
+    "uniqueId": "hhit-a7ad4bd1cfa46da772078bc5269ebb16",
+    "name": "Kiro.Moon.Glow",
+    "online": true,
     "isAdmin": false
   }
 ]
