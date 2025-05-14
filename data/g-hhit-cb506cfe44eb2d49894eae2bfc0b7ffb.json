@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-61-61.hd-3103-3.ch-3030-92.lg-5594-1338.sh-3089-92.he-5088.cc-5926-64-1408",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-828-61.hd-180-8.ch-3688-110.lg-5732-110-93.sh-295-110.he-5348.ea-1402.fa-5624-93.ca-1816.cc-5800-110-93",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hd-605-10.ch-660-66.lg-720-81.ha-1007.fa-3276-66",
