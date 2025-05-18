@@ -576,7 +576,7 @@
     "memberSince": "2007-10-22T14:14:23.000+00:00",
     "uniqueId": "hhit-ac4491ae7ab1e7c415a7885dbaa2d9b1",
     "name": "Step:93",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -4866,7 +4866,7 @@
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -5276,7 +5276,7 @@
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7217,6 +7217,16 @@
     "uniqueId": "hhit-9c65999cd7dc19ba3e6841c72d2168eb",
     "name": "laTrota",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "Pezzo Grosso Battaglia »",
+    "habboFigure": "hr-3829-1403.hd-3091-4.ch-215-110.lg-5594-1338.sh-3089-110.he-3070-63.cc-5800-1331-1331",
+    "memberSince": "2013-06-21T16:09:36.000+00:00",
+    "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
+    "name": "El.Vampiro",
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9256,7 +9266,7 @@
     "memberSince": "2015-08-31T21:03:20.000+00:00",
     "uniqueId": "hhit-177b821ddb0b73c8e5fdf2b3286e3a08",
     "name": "29_adrian",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9866,7 +9876,7 @@
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9986,16 +9996,6 @@
     "memberSince": "2016-03-29T12:35:40.000+00:00",
     "uniqueId": "hhit-c0c3682bd2e424509b3b3dfcb117ff15",
     "name": "james-btr",
-    "online": false,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
-    "motto": "Voice acting the entire life.",
-    "habboFigure": "hr-3531-45-45.hd-190-1.ch-3342-64-73.lg-3787-82-64.sh-3375-64-64.he-3833-1408.fa-3344-91",
-    "memberSince": "2016-03-31T01:53:53.000+00:00",
-    "uniqueId": "hhit-6f8e32fb0eceb406ca514309ab18c5fa",
-    "name": "Phoxes",
     "online": false,
     "isAdmin": false
   }
