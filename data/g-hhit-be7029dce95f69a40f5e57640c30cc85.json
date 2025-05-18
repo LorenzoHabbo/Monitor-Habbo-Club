@@ -631,16 +631,6 @@
   },
   {
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3829-34.hd-180-10.ch-215-1408.lg-285-82.sh-908-64.ea-1403-1408",
-    "memberSince": "2007-12-31T12:48:14.000+00:00",
-    "uniqueId": "hhit-6c9faf5a6a73e1fa1dc7d385eda52bd9",
-    "name": "francesco97!",
-    "online": true,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
     "motto": "NN SONO + IN GRADO DI DIRE \"CHE BELLO\"",
     "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-225-1408.lg-270-77.sh-906-1408.ha-1002-63.ea-5576-89-92.fa-5467.ca-5938-1334-1409.wa-2001",
     "memberSince": "2008-01-02T16:26:00.000+00:00",
@@ -1736,7 +1726,7 @@
     "memberSince": "2009-06-13T11:17:50.000+00:00",
     "uniqueId": "hhit-4a479ef8db6255a9d26cda388ee00de1",
     "name": "el--rudy",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7036,7 +7026,7 @@
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7216,7 +7206,7 @@
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -7676,7 +7666,7 @@
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9996,6 +9986,16 @@
     "memberSince": "2016-03-29T12:35:40.000+00:00",
     "uniqueId": "hhit-c0c3682bd2e424509b3b3dfcb117ff15",
     "name": "james-btr",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "Voice acting the entire life.",
+    "habboFigure": "hr-3531-45-45.hd-190-1.ch-3342-64-73.lg-3787-82-64.sh-3375-64-64.he-3833-1408.fa-3344-91",
+    "memberSince": "2016-03-31T01:53:53.000+00:00",
+    "uniqueId": "hhit-6f8e32fb0eceb406ca514309ab18c5fa",
+    "name": "Phoxes",
     "online": false,
     "isAdmin": false
   }
