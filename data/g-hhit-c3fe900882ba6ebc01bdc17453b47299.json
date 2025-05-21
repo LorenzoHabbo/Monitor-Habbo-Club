@@ -26,7 +26,7 @@
     "memberSince": "2022-05-27T15:23:32.000+00:00",
     "uniqueId": "hhit-817249c03abcef7e70c2bfd82e982d64",
     "name": "C.Oblivion",
-    "online": true,
+    "online": false,
     "isAdmin": true
   },
   {
@@ -556,7 +556,7 @@
     "memberSince": "2011-08-12T23:33:33.000+00:00",
     "uniqueId": "hhit-96477e0e09cff7aeeecf335cecd90cb7",
     "name": "folklore",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "gender": "m",
-    "motto": "ª ASSiSTeNTe MeDiCo BLaCK PeaRLª",
+    "motto": "ªASSiSTeNTe  del NoSTRoMo BLaCK PeaRLª",
     "habboFigure": "hr-3247-61.hd-3091-28.ch-3203-92.lg-281-110.sh-3035-64.ha-4094-72-81.fa-1211.ca-1815-63.cc-3299-110-110.cp-3288-93",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
@@ -652,11 +652,11 @@
   {
     "gender": "f",
     "motto": "Cameriera ºOblivion   Chiamatemi Benny",
-    "habboFigure": "hr-3852-61.hd-3845-28.ch-665-110.lg-4306.ha-4304.ea-1403-110.fa-3276-73.cc-4305",
+    "habboFigure": "hr-3852-61.hd-3845-28.ch-665-110.lg-4306.ha-4304.ea-1404-110.fa-3276-73.cc-4305",
     "memberSince": "2012-02-25T09:37:14.000+00:00",
     "uniqueId": "hhit-7ad73c44b169692c7c85c0551edb639f",
     "name": "LAURASTELLA1.:",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1596,7 +1596,7 @@
     "memberSince": "2020-03-11T08:39:56.000+00:00",
     "uniqueId": "hhit-a659e343437dbe99d853fcea0fdfff51",
     "name": "e-e",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1766,7 +1766,7 @@
     "memberSince": "2020-05-30T15:46:21.000+00:00",
     "uniqueId": "hhit-51805141ce28d261390e51757d6e2ca0",
     "name": "Lightningbolt0",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2466,7 +2466,7 @@
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2542,7 +2542,7 @@
   {
     "gender": "m",
     "motto": "au revoir mon ami!!",
-    "habboFigure": "hr-3670-34.hd-180-1.ch-3030-1408.lg-275-1408.sh-908-1408.ha-1002-1408.fa-3276-72.ca-3545-1408",
+    "habboFigure": "hr-3670-34.hd-180-1.ch-3030-1408.lg-275-1408.sh-908-1408.ha-1002-1408.fa-3276-72.ca-3545-1408.cc-3874-1408-1408",
     "memberSince": "2022-12-17T21:11:08.000+00:00",
     "uniqueId": "hhit-f6924663b0acfd9b4dad0550d6f49303",
     "name": "xninox",
@@ -3127,6 +3127,16 @@
     "uniqueId": "hhit-235eb04351f7078bc0c4bfbf74061139",
     "name": "Akira99",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "Consigliere Oblivion",
+    "habboFigure": "hr-802-40.hd-190-10.ch-255-64.lg-3088-1408-1408",
+    "memberSince": "2025-05-20T15:55:25.000+00:00",
+    "uniqueId": "hhit-766357193d9fcdfe179c84ddc925607c",
+    "name": "Parainsonnya",
+    "online": true,
     "isAdmin": false
   }
 ]
