@@ -472,7 +472,7 @@
   {
     "gender": "f",
     "motto": " | kumicho-YKZ|",
-    "habboFigure": "hr-5973-39-45.hd-4383-28-14.ch-5917-110.lg-3364-110-92.ha-1026.he-3070-92.fa-1209-92",
+    "habboFigure": "hr-5680-61.hd-4383-28-28.ch-5917-110.lg-3787-110-110.ha-1026.fa-3276-63",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -506,7 +506,7 @@
     "memberSince": "2009-06-13T11:17:50.000+00:00",
     "uniqueId": "hhit-4a479ef8db6255a9d26cda388ee00de1",
     "name": "el--rudy",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1016,7 +1016,7 @@
     "memberSince": "2010-09-22T15:04:36.000+00:00",
     "uniqueId": "hhit-6a6c4c73d71aa40cee25d56fdacc84db",
     "name": "alessio1339",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "gender": "m",
-    "motto": "KOHAI SENPAI YKZ",
+    "motto": "RONIN SENPAI YKZ",
     "habboFigure": "hr-3768-61.hd-180-28.ch-3368-110-1417.lg-3364-110-1418.sh-3206-110.ha-3694-92.fa-1209-110.ca-5028-1419-92.wa-3366-1417-1418",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
@@ -1886,7 +1886,7 @@
     "memberSince": "2011-10-03T21:05:53.000+00:00",
     "uniqueId": "hhit-86c7b44c85ee28df762c1366a889cf03",
     "name": "--LiiNDSAY--",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4246,7 +4246,7 @@
     "memberSince": "2018-04-19T14:01:34.000+00:00",
     "uniqueId": "hhit-e480a63a8bb5954b24873f11579f368c",
     "name": "frances80936ban",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -4436,7 +4436,7 @@
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -5176,7 +5176,7 @@
     "memberSince": "2020-05-06T10:52:35.000+00:00",
     "uniqueId": "hhit-25ec585fe4990fed3e924d5b649d4ca5",
     "name": "ANITA23!",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -7422,7 +7422,7 @@
   {
     "gender": "m",
     "motto": "e tutta in tiro coda gelata",
-    "habboFigure": "hr-5306-1342-1342.hd-5696-14-14.ch-210-1329.lg-280-77.sh-305-1427.fa-5601-92.ca-6075.cp-5462",
+    "habboFigure": "hr-5306-1342-1342.hd-5696-14-14.ch-3015-1408.lg-280-1408.sh-305-1427.fa-5601-92.ca-6075.cp-5462",
     "memberSince": "2022-11-12T00:01:34.000+00:00",
     "uniqueId": "hhit-8994d6972195363f117c127069710b02",
     "name": "VON",
@@ -8127,6 +8127,16 @@
     "uniqueId": "hhit-1833f7351c2571b198bc76294cc00b0a",
     "name": "zebbogigio9",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "Apprendista Novello g.d.",
+    "habboFigure": "hr-5019-35.hd-180-1.ch-3498-64.lg-4113-64-64.ha-4326.he-3324-64-1408.cc-5558-64-1408",
+    "memberSince": "2023-03-07T23:15:12.000+00:00",
+    "uniqueId": "hhit-29b9a58278e5f3962828e932ec636d0b",
+    "name": "TillLindemann",
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9636,7 +9646,7 @@
     "memberSince": "2023-10-24T18:20:50.000+00:00",
     "uniqueId": "hhit-1b530a9f6550dc501beb314e9ca983d8",
     "name": "thefiend001",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9986,16 +9996,6 @@
     "memberSince": "2023-12-02T21:38:04.000+00:00",
     "uniqueId": "hhit-9b3493a158caa8f96fb6e04ff30909fd",
     "name": "habbo43-2",
-    "online": false,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-802-42.hd-180-1370.ch-804-64.lg-285-90.sh-906-64",
-    "memberSince": "2023-12-03T00:46:10.000+00:00",
-    "uniqueId": "hhit-89a994adc1e00337a6b07040a01ef7d6",
-    "name": "TonioNapoli.M98",
     "online": false,
     "isAdmin": false
   }
