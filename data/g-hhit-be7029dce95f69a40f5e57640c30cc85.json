@@ -286,7 +286,7 @@
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2156,7 +2156,7 @@
     "memberSince": "2009-11-15T20:51:23.000+00:00",
     "uniqueId": "hhit-5d49f2bd4206cc9a30a16366e47ada36",
     "name": "DavideL98",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2386,7 +2386,7 @@
     "memberSince": "2010-01-10T10:04:19.000+00:00",
     "uniqueId": "hhit-9a8a5badd64dda4e6ebc49b34559d23e",
     "name": "cristian666",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -4006,7 +4006,7 @@
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4961,12 +4961,12 @@
   },
   {
     "gender": "f",
-    "motto": "Soldato Semplice GD dios",
+    "motto": "Soldato GD dios",
     "habboFigure": "hr-3810-32.hd-600-1370.ch-665-82.lg-3337-82.sh-4112-81-1408",
     "memberSince": "2011-08-05T14:06:46.000+00:00",
     "uniqueId": "hhit-275260fa25473fa3b6742d33f14e557c",
     "name": "manullahotels",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7221,16 +7221,6 @@
   },
   {
     "gender": "m",
-    "motto": "Pezzo Grosso Battaglia »",
-    "habboFigure": "hr-3829-61.hd-3091-28.ch-235-110.lg-280-92.sh-295-110.he-3070-92.fa-1201.cc-5800-92-92",
-    "memberSince": "2013-06-21T16:09:36.000+00:00",
-    "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
-    "name": "El.Vampiro",
-    "online": true,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
     "motto": "è stat sulamenttt na sbandat",
     "habboFigure": "hr-3163-1407.hd-3091-1370.ch-3032-110-92.lg-285-110.sh-3035-63.ea-3887.fa-3344-110.wa-6071",
     "memberSince": "2013-06-23T00:03:51.000+00:00",
@@ -9266,7 +9256,7 @@
     "memberSince": "2015-08-31T21:03:20.000+00:00",
     "uniqueId": "hhit-177b821ddb0b73c8e5fdf2b3286e3a08",
     "name": "29_adrian",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9996,6 +9986,16 @@
     "memberSince": "2016-03-29T12:35:40.000+00:00",
     "uniqueId": "hhit-c0c3682bd2e424509b3b3dfcb117ff15",
     "name": "james-btr",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "Voice acting the entire life.",
+    "habboFigure": "hr-3531-45-45.hd-190-1.ch-3342-64-73.lg-3787-82-64.sh-3375-64-64.he-3833-1408.fa-3344-91",
+    "memberSince": "2016-03-31T01:53:53.000+00:00",
+    "uniqueId": "hhit-6f8e32fb0eceb406ca514309ab18c5fa",
+    "name": "Phoxes",
     "online": false,
     "isAdmin": false
   }
