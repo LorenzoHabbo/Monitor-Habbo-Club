@@ -1306,7 +1306,7 @@
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2006,7 +2006,7 @@
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2266,7 +2266,7 @@
     "memberSince": "2020-02-24T13:11:58.000+00:00",
     "uniqueId": "hhit-42e997113909c856fec3b955c57ba7b0",
     "name": "b0nostrain",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
