@@ -556,7 +556,7 @@
     "memberSince": "2010-01-05T10:13:07.000+00:00",
     "uniqueId": "hhit-3e3629b3ee732aaa65ad03f51ef97e54",
     "name": "Gerri",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -746,7 +746,7 @@
     "memberSince": "2010-12-01T13:13:46.000+00:00",
     "uniqueId": "hhit-dd751684352a9f8dceb02644e71c687e",
     "name": "-:giggi:-",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -822,7 +822,7 @@
   {
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-1405.hd-4383-1392-1372.ch-5351-92-1326.lg-5594-64.sh-5803-1326.ha-3709.he-5074-1327.fa-5467.ca-5981-92-1326.wa-5370.cc-5461-92-1326",
+    "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5351-92-1326.lg-5594-64.sh-5803-1326.ha-3709.he-3082-1326.fa-5467.ca-5981-92-1326.wa-5370.cc-5461-92-1326",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Silvia.",
@@ -1252,7 +1252,7 @@
   {
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-5019-1395.hd-3103-3.ch-6051-108.lg-3138-64-92.ha-6052-108-1423.ea-1406.cc-5961-1427-1424",
+    "habboFigure": "hr-5019-1395.hd-3103-3.ch-6051-108.lg-3138-64-92.ha-6052-108-1423.fa-5692-63-1408.ca-4937.cc-5961-1337-1424",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -3566,7 +3566,7 @@
     "memberSince": "2023-10-27T16:27:33.000+00:00",
     "uniqueId": "hhit-5afba3b3fa5eb692cd7ff5297eb1a38d",
     "name": "Mode",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3586,7 +3586,7 @@
     "memberSince": "2023-11-03T21:12:52.000+00:00",
     "uniqueId": "hhit-b56624c58b5d13963ca7632d9fca2b4a",
     "name": "anonya",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
