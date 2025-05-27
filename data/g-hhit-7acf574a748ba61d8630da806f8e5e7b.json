@@ -666,7 +666,7 @@
     "memberSince": "2010-08-30T16:43:01.000+00:00",
     "uniqueId": "hhit-c98f6ffbf9ddeaa516cfb7a1d0b4d078",
     "name": "Thomas-Welling",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2126,7 +2126,7 @@
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2836,7 +2836,7 @@
     "memberSince": "2021-10-01T02:38:01.000+00:00",
     "uniqueId": "hhit-479a3e331b334750dac265acf46c0470",
     "name": "Sibilla",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3576,7 +3576,7 @@
     "memberSince": "2023-11-03T21:12:52.000+00:00",
     "uniqueId": "hhit-b56624c58b5d13963ca7632d9fca2b4a",
     "name": "anonya",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
