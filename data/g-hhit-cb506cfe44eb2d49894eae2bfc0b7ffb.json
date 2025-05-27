@@ -6,7 +6,7 @@
     "memberSince": "2008-04-15T15:47:30.000+00:00",
     "uniqueId": "hhit-6f89f8518260b2799c5c1b8155e0dd9e",
     "name": "bruna.96",
-    "online": true,
+    "online": false,
     "isAdmin": true
   },
   {
@@ -256,7 +256,7 @@
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "rrosina",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1556,7 +1556,7 @@
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1616,7 +1616,7 @@
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2972,7 +2972,7 @@
   {
     "gender": "m",
     "motto": "Top 1 habbino più attraente",
-    "habboFigure": "hr-3163-61.hd-200-2.ch-5559-92.lg-280-77.sh-5247-92-92.ha-5364.fa-5467.ca-3844-92-92.cc-5926-77-92.cp-5462",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-5559-92.lg-280-77.sh-5247-92-92.ha-5364.ca-3844-92-92.cc-5926-77-92.cp-5462",
     "memberSince": "2022-11-24T18:55:51.000+00:00",
     "uniqueId": "hhit-3cdf78e0357bb05b24605fcc2bb04dbe",
     "name": "DaBaby",
@@ -3276,7 +3276,7 @@
     "memberSince": "2023-12-27T23:19:19.000+00:00",
     "uniqueId": "hhit-04b1cc8121a24507e2c371778c7d9511",
     "name": "unicornfra",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3346,7 +3346,7 @@
     "memberSince": "2024-02-05T00:48:41.000+00:00",
     "uniqueId": "hhit-4699dc56c922e002dd5dc302b7976058",
     "name": "Segretaria2ban",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -4262,7 +4262,7 @@
   {
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1401.hd-205-1359.ch-3001-92-1413.lg-280-64.sh-305-92.he-3070-92.ea-1404-110.fa-5433.cc-5926-110-110",
+    "habboFigure": "hr-3163-1342.hd-5913-1359.ch-215-1320.lg-281-64.sh-305-92.he-3070-92.ea-1404-110.fa-5835-110.cc-5925-1320",
     "memberSince": "2025-03-05T00:09:55.000+00:00",
     "uniqueId": "hhit-8c24d50bbdd1ff002b8ead6058dd6273",
     "name": "BalakIava",
@@ -4377,6 +4377,16 @@
     "uniqueId": "hhit-2019f673566df8a899f80011bac27932",
     "name": "Corona.fabrizio",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "mamma dice che sono bello XD",
+    "habboFigure": "hr-893-34.hd-190-1369.ch-3030-64.lg-280-64.ca-1815-1408",
+    "memberSince": "2025-05-26T15:33:26.000+00:00",
+    "uniqueId": "hhit-a8e0d055b056122a07e8b382206a733a",
+    "name": "sir.crocodile.",
+    "online": true,
     "isAdmin": false
   }
 ]
