@@ -12,7 +12,7 @@
   {
     "gender": "m",
     "motto": "Fondatore Hooligans",
-    "habboFigure": "hr-125-45.hd-205-1.ch-215-81.lg-275-1408.sh-3115-1408-1408.ha-1004-64.he-1609-1408.ea-1404-64.fa-3462-91.ca-1815-1408.cp-3127-81",
+    "habboFigure": "hr-125-45.hd-205-1.ch-215-64.lg-281-1408.sh-305-1408.ha-1004-64.he-1609-1408.ea-1404-64.fa-3462-91.ca-1815-81",
     "memberSince": "2014-09-15T19:57:28.000+00:00",
     "uniqueId": "hhit-766d3a0f342d8a47be94425ce6e4c1fd",
     "name": ",666",
@@ -47,6 +47,16 @@
     "uniqueId": "hhit-db5f3128ea6e8712c4aada8bb64302d9",
     "name": "SaylaMenta",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "f",
+    "motto": "Hooligans",
+    "habboFigure": "hr-5445-31.hd-5684-28.ch-665-110.lg-5545-110-110.sh-730-110.he-4977-92-110.fa-1209-110",
+    "memberSince": "2006-07-08T00:15:54.000+00:00",
+    "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
+    "name": "-Angel-",
+    "online": true,
     "isAdmin": false
   },
   {
@@ -386,7 +396,7 @@
     "memberSince": "2009-06-13T11:17:50.000+00:00",
     "uniqueId": "hhit-4a479ef8db6255a9d26cda388ee00de1",
     "name": "el--rudy",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3006,7 +3016,7 @@
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
     "name": "Pakydok99",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3276,7 +3286,7 @@
     "memberSince": "2024-01-03T01:51:17.000+00:00",
     "uniqueId": "hhit-7f229ac597d1000643b8192aa5e48837",
     "name": "M-Batshuayi-",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3546,7 +3556,7 @@
     "memberSince": "2024-08-15T18:11:53.000+00:00",
     "uniqueId": "hhit-a531d56fdb495ca460578b68237bb0b2",
     "name": "Funkymelinda",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
