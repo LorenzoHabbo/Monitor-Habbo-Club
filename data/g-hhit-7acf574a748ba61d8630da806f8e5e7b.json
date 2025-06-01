@@ -656,7 +656,7 @@
     "memberSince": "2010-08-30T16:43:01.000+00:00",
     "uniqueId": "hhit-c98f6ffbf9ddeaa516cfb7a1d0b4d078",
     "name": "Thomas-Welling",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3316,7 +3316,7 @@
     "memberSince": "2023-06-11T20:41:20.000+00:00",
     "uniqueId": "hhit-714d1bb58f021c7b16582e5ad8673673",
     "name": "Davie",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3752,7 +3752,7 @@
   {
     "gender": "m",
     "motto": "shoganai",
-    "habboFigure": "hr-3163-1403.hd-205-13.ch-210-92.lg-275-1409.sh-5803-92.ha-3690-110.he-3070-92.cc-5925-63",
+    "habboFigure": "hr-3163-1403.hd-205-13.ch-210-92.lg-275-1409.sh-5803-92.ha-3690-110.he-3070-92.ca-3844-92-1408.cc-5925-63",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4286,16 +4286,6 @@
     "memberSince": "2024-11-09T21:11:50.000+00:00",
     "uniqueId": "hhit-bf1e1335847c8af20b7b075f0f97be72",
     "name": "PedroHenriqueBR",
-    "online": false,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
-    "motto": "Proletari di tutti i paesi, unitevi!",
-    "habboFigure": "hr-3386-40.hd-3603-1.ch-235-1408.lg-3290-64.sh-305-90.fa-3462-1408.wa-2001.cc-3717-64-73",
-    "memberSince": "2024-11-11T11:42:32.000+00:00",
-    "uniqueId": "hhit-ac5b2adef78ec062bc0df9a844985db9",
-    "name": "KarlMarx",
     "online": false,
     "isAdmin": false
   },
