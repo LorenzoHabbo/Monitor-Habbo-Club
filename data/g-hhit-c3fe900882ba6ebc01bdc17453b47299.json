@@ -836,7 +836,7 @@
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -900,13 +900,13 @@
     "isAdmin": false
   },
   {
-    "gender": "f",
+    "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-5503-42.hd-4163-2-1364.ch-4169.lg-5970-92.sh-5308-92.ha-4972.he-3974.fa-4185-97.ca-5049-92.cc-4177",
+    "habboFigure": "hr-3163-1404.hd-3845-2.ch-808-64.lg-3088-64-73.sh-3089-64.he-1609-73.fa-5835-100.ca-5278-88.wa-5836-88-88",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "EmyCatania12",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3136,7 +3136,7 @@
     "memberSince": "2025-06-01T12:57:49.000+00:00",
     "uniqueId": "hhit-3df594dedbba996f49c96a78fb621325",
     "name": "VeroChioccBan",
-    "online": false,
+    "online": true,
     "isAdmin": false
   }
 ]
