@@ -476,7 +476,7 @@
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2930,16 +2930,6 @@
     "isAdmin": false
   },
   {
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3322-45.hd-209-12.ch-3840-80-76.lg-270-1408.sh-300-64.ea-1403-1408.fa-3462-64.cc-3326-1408-1408",
-    "memberSince": "2014-12-25T13:32:15.000+00:00",
-    "uniqueId": "hhit-d5f2f64d08afec8aae1a8d6fd674c4c3",
-    "name": "JACK-01",
-    "online": true,
-    "isAdmin": false
-  },
-  {
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-37.hd-600-1370.ch-665-73.lg-3088-1408-1408.sh-906-73.he-3274-73",
@@ -3326,7 +3316,7 @@
     "memberSince": "2015-12-23T20:08:29.000+00:00",
     "uniqueId": "hhit-45c8e248403ade5c3731f229683cb6b2",
     "name": "-.DragoNero.-",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4516,7 +4506,7 @@
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9996,6 +9986,16 @@
     "memberSince": "2023-11-24T13:14:33.000+00:00",
     "uniqueId": "hhit-0264dd976ecefb0ea4fdfc599e50e392",
     "name": "Alice2310borghe",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "f",
+    "motto": "Apprendista novella G.D",
+    "habboFigure": "hr-890-47.hd-629-1.ch-822-1408.lg-716-91-1408.he-3274-1408",
+    "memberSince": "2023-11-27T16:46:41.000+00:00",
+    "uniqueId": "hhit-ff2efe047180eec1beadbf4748979ba5",
+    "name": "frarivee",
     "online": false,
     "isAdmin": false
   }
