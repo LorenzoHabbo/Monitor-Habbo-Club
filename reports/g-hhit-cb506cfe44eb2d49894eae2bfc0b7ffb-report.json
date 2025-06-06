@@ -52073,5 +52073,20 @@
     "nuovi": [],
     "abbandonati": [],
     "adminChanges": []
+  },
+  {
+    "data": "venerdì 6 giugno 2025 alle ore 03:38",
+    "nuovi": [],
+    "abbandonati": [
+      {
+        "name": "Ignatia",
+        "uniqueId": "hhit-9d61fffe730949d5c49874d08e4a58a2"
+      },
+      {
+        "name": "Alya",
+        "uniqueId": "hhit-249bca8d728346374b518861427de04a"
+      }
+    ],
+    "adminChanges": []
   }
 ]
