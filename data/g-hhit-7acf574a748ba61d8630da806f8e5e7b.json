@@ -722,7 +722,7 @@
   {
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-5210-44-1400.hd-6002.ch-3203-1329.lg-4138-1329.sh-5247-1411-1329.he-3070-1410.ea-5897-100-1408.fa-6095.ca-1801-70",
+    "habboFigure": "hr-5210-44-1400.hd-180-14.ch-3203-1329.lg-4138-1329.sh-5247-1411-1329.he-3070-1410.ea-5897-100-1408.fa-6095.ca-1801-70",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -1526,7 +1526,7 @@
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1646,7 +1646,7 @@
     "memberSince": "2016-06-30T18:10:40.000+00:00",
     "uniqueId": "hhit-d558b0d1c5a74a81c7c67605927f1add",
     "name": "smiledanie26",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3506,7 +3506,7 @@
     "memberSince": "2023-11-03T21:12:52.000+00:00",
     "uniqueId": "hhit-b56624c58b5d13963ca7632d9fca2b4a",
     "name": "anonya",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3736,7 +3736,7 @@
     "memberSince": "2024-02-05T00:48:41.000+00:00",
     "uniqueId": "hhit-4699dc56c922e002dd5dc302b7976058",
     "name": "Segretaria2ban",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
