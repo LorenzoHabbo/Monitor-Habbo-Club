@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1403.hd-5684-10.ch-5921-63-92.lg-3006-110-110.sh-5670-110.he-4977-1409-92.fa-4044.wa-3773-92.cc-5926-92-110",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello g.d",
     "habboFigure": "hr-5619-47.hd-626-1.ch-4158-1408-71.lg-720-85.he-3274-71.ea-1401-1408",
@@ -1582,8 +1582,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Italia, Ungheria, Polonia, Est Europa",
-    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
+    "motto": "YAKUIN SENPAI YKZ",
+    "habboFigure": "hr-3768-61.hd-180-28.ch-3368-110-1417.lg-3364-110-1418.sh-3206-110.ha-3694-92.fa-3276-1326.ca-5028-1419-92.wa-3366-1417-1418",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
     "name": "domenic76093",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "liberatrice celeste :G.D. ||",
     "habboFigure": "hr-3957-37-37.hd-629-19.ch-5351-1336-67.lg-715-1408.he-1608.ca-6018",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-3278-61-40.hd-4174-1370.ch-5833-110-92.lg-4066-110.sh-4065-110-110.ea-5897-110-1408.fa-3344-110.cc-5942-110",
@@ -3767,6 +3767,16 @@
     "memberSince": "2017-01-02T19:39:18.000+00:00",
     "uniqueId": "hhit-ebcd64cdaafb99f2a95e1adb7d56c44d",
     "name": ".:!Luana!:.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "¥ Decime ¥ GD",
+    "habboFigure": "hr-5791-40.hd-3845-1370.ch-5596-1408.lg-3078-64.sh-3524-64-1408.ha-4192.he-5578-66.fa-5600-1408.wa-5674",
+    "memberSince": "2017-01-18T13:02:20.000+00:00",
+    "uniqueId": "hhit-5b6a5cc3a517ae8c311a347095c113a5",
+    "name": ".:IThoruI:.",
     "isAdmin": false
   },
   {
@@ -5020,7 +5030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ºGaijin Esperto Yaºkuºza Shiroº ƒ0904ƒ",
     "habboFigure": "hr-515-49.hd-5913-28.ch-630-92.lg-3192-106.sh-730-106.he-3329-92-106.ea-1404-110.fa-3276-1415.ca-5227.cc-3003-106",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-11-21T20:50:14.000+00:00",
     "uniqueId": "hhit-7012896b9ef34cae584b121393de42af",
     "name": "Iacopo1993",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "Scagnozzo semplice GD",
-    "habboFigure": "hr-890-37.hd-629-1.ch-650-73.lg-3023-64.sh-906-73.he-3274-91.ca-1810",
-    "memberSince": "2023-11-23T20:56:46.000+00:00",
-    "uniqueId": "hhit-b3418bd75d2d20151e0417f16ba60561",
-    "name": "selerin",
     "isAdmin": false
   }
 ]
