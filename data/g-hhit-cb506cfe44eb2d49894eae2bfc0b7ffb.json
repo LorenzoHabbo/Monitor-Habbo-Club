@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5619-1404.hd-600-10.ch-5351-77-92.lg-5312-110-110.sh-6043.he-5348.fa-5467.ca-1814.cc-5690-77",
@@ -610,17 +610,17 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-61.hd-5525-3-28.ch-3934-92-64.lg-280-64.sh-908-1427.he-5393.fa-5948-92.cc-5926-1427-1408",
+    "habboFigure": "hr-3163-45.hd-205-1.ch-3934-64-64.lg-285-68.sh-908-1408.he-5393.fa-5948-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo di coperta BPª",
     "habboFigure": "hr-3519-37-37.hd-206-19.ch-3808-76-66.lg-3526-76-75.ha-5832-91.ca-5051-68-91",
@@ -823,7 +823,7 @@
     "online": true,
     "gender": "f",
     "motto": "|.|",
-    "habboFigure": "hr-5681-54-1394.hd-4383-1391-5.ch-3135-1325.lg-3006-97-1325.sh-3206-1325.ha-5620-1325.cc-5926-97-1408",
+    "habboFigure": "hr-4182-54-1394.hd-4383-1391-5.ch-3135-1325.lg-3006-97-1325.sh-3206-1325.ha-5620-1325.cc-5926-97-1408",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-4363-31-31.hd-4383-10-14.ch-5607-92.lg-5970-81.cc-5925-1426",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413.cc-6077",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "YKZ",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1923,7 +1923,7 @@
     "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
-    "habboFigure": "hr-890-32.hd-625-1.ch-685-74.lg-3216-76.sh-907-76.he-1602-71",
+    "habboFigure": "hr-5773-32.hd-3631-1370-20.ch-5907-1417-1323.lg-3006-1417-1323.sh-730-1323.he-6067-110.ea-1404-110.ca-5983-92.cc-5926-92-92",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-4979-92",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3852-1404.hd-3096-10.ch-3013-92.lg-5594-77.sh-3089-77.he-5578-1337.ea-3484.fa-3276-97.cc-5461-92-77",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Shut the .... up.",
     "habboFigure": "hr-4363-1353-49.hd-3099-1.ch-5595-1337.lg-5594-1427.he-5088.fa-5467.cc-5800-92-92",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-5772-1407-43.hd-5840-11-1362.ch-4087-110.lg-5594-82.sh-3089-1323.he-6019.fa-3276-70.cp-5882-1322",
@@ -4090,7 +4090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1369.ch-5830-1408.lg-285-1408.sh-3524-64-1408.ea-5897-76-64.ca-4115-64-1408.cc-3917-64",
