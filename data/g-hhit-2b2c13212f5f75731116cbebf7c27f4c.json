@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-3278-61-40.hd-4174-1370.ch-5833-110-92.lg-4066-110.sh-4065-110-110.ea-5897-110-1408.fa-3344-110.cc-5942-110",
@@ -2881,9 +2881,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6055-1404-40.hd-180-14.lg-275-64.sh-3068-1408-92.he-6103-1415.fa-3276-1327",
+    "habboFigure": "hd-600-14.ch-884-1408.lg-3116-1408-1408.sh-730-1408.ha-1002-1408",
     "memberSince": "2014-08-14T11:40:31.000+00:00",
     "uniqueId": "hhit-8d92b048211fc5db27afd3c2ed777509",
     "name": "_celine",
