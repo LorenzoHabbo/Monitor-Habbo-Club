@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Quante Bugie,  Anche troppe",
     "habboFigure": "hr-5973-39-39.hd-4383-28-14.ch-3530-110.lg-3018-1408.he-6103-96.fa-3276-92",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-1.ch-3934-92-64.lg-280-68.sh-908-1408.he-5393.ea-1404-110.fa-5948-92",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-828-61.hd-180-18.ch-3001-92-1408.lg-285-79.sh-908-92.he-3070-92.cc-5800-92-92",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1.ch-3342-1408-1408.lg-3078-82.sh-300-1408.ha-1004-82.fa-5600-75.ca-3916-64-1408",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-43.hd-3956-1370-30.ch-5560-64-1408.lg-5594-82.he-6019.fa-3276-73",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "VIDA LOCA",
     "habboFigure": "hr-3841-49.hd-4174-8.ch-5559-1410.lg-3078-106.sh-3089-99.ha-3986.he-3070-1408.ea-3170-1408.ca-3985-107.wa-2005.cc-4386-1424-99.cp-3312",
@@ -4377,6 +4377,16 @@
     "memberSince": "2025-06-06T11:50:25.000+00:00",
     "uniqueId": "hhit-cf646532556b79675305baa9030716f6",
     "name": "FratelloBuono",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Top 1 habbino + attraente (ban)",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-280-77.sh-908-92.he-1609-77.ca-1816",
+    "memberSince": "2025-06-11T17:45:44.000+00:00",
+    "uniqueId": "hhit-622c1f162275078ac798216ac048101d",
+    "name": "LilBaby",
     "isAdmin": false
   }
 ]
