@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3322-49.hd-209-10.ch-4230.lg-3353-1432.sh-3089-1430",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5619-1404.hd-600-10.ch-5351-77-92.lg-5312-110-110.sh-6043.he-5348.fa-5467.ca-1814.cc-5690-77",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-3520-35.hd-190-28.ch-215-1338.lg-280-1334.sh-290-92.he-3070-1427.fa-3296.cc-3158-1425",
@@ -5242,8 +5242,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "I K A R I - YKZ SHIRO",
-    "habboFigure": "hr-5962-61.hd-207-22.ch-3368-92-81.lg-3364-92-81.sh-3206-81.ha-3694-81.fa-1205-110.wa-3366-92-81",
+    "motto": "I K A R I - YKZ",
+    "habboFigure": "hr-829-61.hd-207-22.ch-5029-110-1322.lg-3364-92-81.sh-3206-81.ha-1026.fa-1205-110.wa-3178-1322.cc-4184-110-1322",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -8790,7 +8790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
