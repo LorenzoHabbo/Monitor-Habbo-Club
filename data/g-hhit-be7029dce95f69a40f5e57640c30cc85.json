@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3800-49-58.hd-5696-3-1365.ch-5559-93.lg-5594-89.sh-3089-92.ha-3709.cc-5926-91-110",
@@ -6190,10 +6190,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
-    "habboFigure": "hr-4363-31-31.hd-4383-10-14.ch-4067-92-92.lg-3116-1408-1408.cc-5925-82",
+    "habboFigure": "hr-4363-31-31.hd-4383-10-14.ch-4067-92-92.lg-3116-1408-1408.he-5088.fa-5601-1409.cc-5925-82",
     "memberSince": "2012-04-09T00:29:56.000+00:00",
     "uniqueId": "hhit-2c8a4c59cbb643e6681167402f71f83f",
     "name": "roberta352",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-1425-92",
@@ -8700,7 +8700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-5791-31.hd-3845-1.ch-5559-1408.lg-3328-1408-1408.fa-3344-64.cc-3917-64",
