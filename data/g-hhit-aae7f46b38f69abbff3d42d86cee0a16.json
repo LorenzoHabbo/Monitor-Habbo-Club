@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guardiano BP Arrr!",
     "habboFigure": "hr-4363-37-37.hd-4383-1-12.ch-5516-66-84.lg-5909-1408-1408.sh-5671-66.ha-5486-84-84",
@@ -343,7 +343,7 @@
     "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
-    "habboFigure": "hr-829-61.hd-207-22.ch-5029-110-1322.lg-3364-92-81.sh-3206-81.ha-1026.fa-1205-110.wa-3178-1322.cc-4184-110-1322",
+    "habboFigure": "hr-829-61.hd-207-22.ch-3981-110-1322.lg-3364-110-94.sh-3206-81.ha-1026.fa-1205-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -922,7 +922,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "ºKobun Esperto Yaºkuºza Shiroº ƒ0904ƒ",
+    "motto": "ºRonin Yaºkuºza Shiroº ƒ0904ƒ",
     "habboFigure": "hr-5617-1403-1349.hd-627-28.ch-818-1415.lg-3019-1415.sh-3206-110.ea-1402.fa-3276-1415",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3852-1404.hd-3096-10.ch-3013-92.lg-5594-77.sh-3089-77.he-5578-1337.ea-3484.fa-3276-97.cc-5461-92-77",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-515-1342.hd-615-22.ch-665-110.lg-5594-64.sh-5729-110-64.he-1605-92.ea-5897-110-110.ca-1801-92.wa-5986-64.cc-5926-110-92",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1394-40.hd-600-2.ch-5917-92.lg-710-77.sh-5803-92.he-6103-77.fa-5467.cc-5925-82",
