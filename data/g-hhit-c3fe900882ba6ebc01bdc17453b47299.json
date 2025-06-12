@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gloria fugace l’oscurità è per sempreº",
     "habboFigure": "hr-828-54.hd-205-28.ch-3030-92.lg-285-77.sh-305-92.ea-1401-1320",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Centomila vite fà -Oblivion-",
     "habboFigure": "hr-3673-31.hd-600-14.ch-824-110.lg-3596-110-110.ha-3613-110.he-5808-110.fa-5601-92.cc-5926-1331-92",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "/\\/\\/\\/\\/\\",
     "habboFigure": "hr-3531-35-34.hd-190-14.ch-5830-1408.lg-4066-64.ha-4050.he-3833-66.fa-3378-1408-64.ca-1801-90.wa-4317-1408.cc-3509-81-82",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gajin ykz shiro",
     "habboFigure": "hr-3163-1403.hd-3721-18.lg-3136-92.sh-3206-110.he-3740.ea-1404-110.fa-5601-92.cc-4300-110-92",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Oblivion",
     "habboFigure": "hr-105-40.hd-205-8.ch-245-1408.lg-270-64.sh-305-64.ea-1403-1408.ca-1812",
