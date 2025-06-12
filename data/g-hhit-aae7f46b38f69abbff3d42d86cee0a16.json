@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "06-01-28/28-05-25",
     "habboFigure": "hr-3829-1342.hd-3094-1.ch-245-110.lg-4102-93-110.sh-4112-92-93.he-3660-93-110.fa-1205-89.cc-4097-110-93",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sembra un angelo caduto dal cielo",
     "habboFigure": "hr-6063-49.hd-5319-28-28.ch-5245-110.lg-4375-1418.sh-6043.he-6103-96.fa-5975.ca-6041.wa-5370.cc-6070",
@@ -583,7 +583,7 @@
     "online": true,
     "gender": "f",
     "motto": "…",
-    "habboFigure": "hr-4363-1404-1403.hd-4383-10-1365.ch-665-110.lg-3787-77-77.sh-3089-110.he-6103-77.ca-5934-92",
+    "habboFigure": "hr-5773-31.hd-600-10.ch-824-96.lg-5970-1338.sh-3089-96.ha-3463-96.he-3974.fa-5467.ca-4959",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -633,7 +633,7 @@
     "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
-    "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-110-110.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3885-110-92.cc-5951-110",
+    "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -701,9 +701,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-3884-92-77.ea-5576-1409-89.cc-5926-82-89",
+    "habboFigure": "hr-115-32.hd-180-1370.ch-3030-1408.lg-3201-1408-1408.sh-295-1408.ea-1404-64.cc-3917-74",
     "memberSince": "2017-01-30T23:25:49.000+00:00",
     "uniqueId": "hhit-a8e16aa80c02440b9f11b81cffff433c",
     "name": "Whochins",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-73.lg-285-64.sh-3524-1408-64.fa-3276-73.ca-4965-73-1408.cc-3744-1408-64",
