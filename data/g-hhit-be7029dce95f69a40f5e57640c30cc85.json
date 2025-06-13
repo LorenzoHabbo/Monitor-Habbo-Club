@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-1397-33.hd-3091-10.ch-3208-92-1408.lg-3018-64.sh-5928.he-5915.ea-6073.fa-1201.ca-6075.cc-6077",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "piko poko",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-63.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-1408",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -7990,7 +7990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Chi non muore si rivede",
     "habboFigure": "hr-3791-31.hd-615-10.ch-650-64.lg-710-64.sh-730-1408.ha-1002-64.fa-3276-90.cc-3326-1408-64",
