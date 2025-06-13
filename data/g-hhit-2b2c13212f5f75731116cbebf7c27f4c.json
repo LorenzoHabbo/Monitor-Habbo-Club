@@ -1840,16 +1840,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "Apprendista GD",
-    "habboFigure": "hr-3339-45.hd-209-1370.ch-878-73-73.lg-285-73.sh-300-1408.he-1609-73.fa-1205-91.cc-3280-73-1408",
-    "memberSince": "2011-09-15T16:52:10.000+00:00",
-    "uniqueId": "hhit-bcc5b0e3d3b78d03fdbc04331e112e98",
-    "name": "davide1083",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "Apprendista novello g.d",
@@ -2730,7 +2720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "liberatrice celeste :G.D. ||",
     "habboFigure": "hr-3810-61.hd-3100-19.ch-3045-110.lg-3078-110.sh-3089-1336.wa-3263-1408-1408.cc-3008-92-110",
@@ -4520,10 +4510,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "scrivo veleno in chat ma poi non invio",
-    "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-92.lg-5594-93.ha-5085.he-5088.cc-4979-92",
+    "habboFigure": "hr-4160-44.hd-4023-28.ch-3372-92-1408.lg-3365-110.sh-295-1408.wa-6071.cc-4184-1419-110",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -7740,7 +7730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3840-92-110.lg-275-110.sh-295-92.he-3070-92.ea-1404-110.fa-5601-92",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-11-24T13:14:33.000+00:00",
     "uniqueId": "hhit-0264dd976ecefb0ea4fdfc599e50e392",
     "name": "Alice2310borghe",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "Apprendista novella G.D",
+    "habboFigure": "hr-890-47.hd-629-1.ch-822-1408.lg-716-91-1408.he-3274-1408",
+    "memberSince": "2023-11-27T16:46:41.000+00:00",
+    "uniqueId": "hhit-ff2efe047180eec1beadbf4748979ba5",
+    "name": "frarivee",
     "isAdmin": false
   }
 ]
