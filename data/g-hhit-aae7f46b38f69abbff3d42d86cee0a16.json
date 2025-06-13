@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Vice presidente USMC",
     "habboFigure": "hr-5773-1403.hd-5684-28.ch-5921-63-92.lg-3006-110-110.sh-730-1428.he-4977-68-92.fa-4044.wa-5986-110.cc-5926-92-92",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1391.ch-3836-92-1422.lg-3787-92-92.ha-3620.fa-3276-1413",
