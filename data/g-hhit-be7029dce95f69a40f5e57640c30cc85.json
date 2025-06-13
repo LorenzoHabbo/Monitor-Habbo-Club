@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-100.hd-3845-14.ch-3443.lg-270-1408.ha-3441.he-1609-1408.fa-3462-1408",
@@ -5250,7 +5250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-4343-34-40.hd-3956-1-20.ch-4067-81-1408.lg-3078-81.sh-907-1408",
@@ -7600,7 +7600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "niente panico! ok..panico",
     "habboFigure": "hr-3746-45.hd-209-1369.ch-3679-1408-1408.lg-3078-81.sh-305-1408.cc-3389-66-75",
