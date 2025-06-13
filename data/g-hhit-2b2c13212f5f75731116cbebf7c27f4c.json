@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-35.hd-209-1.ch-4961.lg-3483-72-1408.sh-295-1408.ha-5730-64.he-3548.ea-3484.fa-3344-90",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-3683-1408-1408.lg-270-81.sh-300-81.ha-1009-81.ea-3484.cc-3294-81-81",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5973-61-61.hd-6022-1383.ch-665-92.lg-5974-92-95.sh-5803-95.ha-3620.fa-5467.ca-5108-92-95.cc-6077",
