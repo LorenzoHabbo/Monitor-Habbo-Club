@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Vice-Presidente USMC",
     "habboFigure": "hr-5773-1403.hd-5684-28.ch-5921-63-92.lg-3006-110-110.sh-730-1428.he-4977-68-92.fa-4044.wa-5986-110.cc-5926-92-92",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Obbah Wobbah Corleone",
     "habboFigure": "hr-5360-42.hd-180-10.ch-5367-91-1408.lg-270-1408.sh-905-66",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-84-83.lg-4191-84-83.sh-290-84.ha-5520-84-83.he-1601.fa-1201.ca-3444-1408.wa-2004-84.cc-5826-1408",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3841-59.hd-3095-1370.ch-3840-110-1422.lg-3116-81-1336.sh-3206-106.ha-3494-1338-110.he-1608.fa-1201.ca-1816.wa-5123-1422.cp-3125-1422",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1405.hd-205-2.ch-3934-92-110.lg-280-110.sh-908-1408.he-5393.ea-1404-110.fa-5948-92.cc-5925-63",
@@ -4460,10 +4460,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-5019-1404.hd-3092-2.ch-5559-92.lg-5594-110.sh-5803-92.he-3070-1408.fa-3462-1409.cc-3917-1427",
+    "habboFigure": "hr-5019-1404.hd-3092-2.ch-5559-92.lg-5594-1338.sh-5803-92.he-3070-1408.fa-3462-1409.cc-3917-1427",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
