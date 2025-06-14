@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-170-48.hd-185-10.ch-3030-66.lg-275-72.sh-290-71.ha-1009-66.fa-1202-72.ca-1806-81",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-255-110.lg-280-1426.sh-5247-92-64.he-3740.ea-5897-110-1408",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-5773-1404.hd-629-10.ch-665-89.lg-5594-1338.sh-3089-73.he-3274-73.fa-3276-100.wa-3798-1409-89",
@@ -1573,7 +1573,7 @@
     "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
-    "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-1324-1324.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
+    "habboFigure": "hr-5605-61.hd-627-2.ch-3133-92-1408.lg-3200-1324.ha-4052.he-3070-1408.ea-3108-63-1408",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3539-110.lg-275-110.sh-305-63.he-3070-1410.fa-5835-63.ca-5916-1420-1315",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3860,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non so cosa scrivere. ok.",
     "habboFigure": "hr-4352-1396.hd-4383-1-8.ch-5919-1331-1410.lg-5974-1410-1331.sh-5671-1410.ha-5620-1331.he-6019.ea-5897-1331-110.ca-4958",
