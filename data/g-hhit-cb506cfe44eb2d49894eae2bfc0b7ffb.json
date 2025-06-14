@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-42.hd-180-10.ch-804-73.lg-275-82.sh-290-66.ha-1009-66.fa-1202-73.ca-1806-66",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-665-1408.lg-710-64.sh-735-1408.ha-1005-1408.he-1609-64.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408",
