@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "piko poko",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-63.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-1408",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Centomila vite fà -Oblivion-",
     "habboFigure": "hr-3673-31.hd-600-14.ch-665-64.lg-4114-64-1408.ha-3613-64.he-5808-1408.fa-5601-1408.cc-5926-73-1408",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOKKASORT",
     "habboFigure": "hr-3163-1403.hd-3721-18.lg-3136-92.sh-3206-110.he-4946-110.ea-1404-110.fa-5601-92.cc-4300-110-92",
