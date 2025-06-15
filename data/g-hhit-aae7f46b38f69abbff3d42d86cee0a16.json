@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Vice-Presidente USMC",
     "habboFigure": "hr-5773-1403.hd-5684-28.ch-5921-63-92.lg-3006-110-110.sh-730-1428.he-4977-68-92.fa-4044.wa-5986-110.cc-5926-92-92",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sembra un angelo caduto dal cielo",
     "habboFigure": "hr-6063-49.hd-5319-28-28.ch-5245-110.lg-4375-1418.sh-6043.he-6103-96.fa-5975.ca-6041.wa-5370.cc-6070",
