@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vivila così",
     "habboFigure": "hr-676-40.hd-180-14.ch-210-1408.lg-3116-1408-1408.cp-3124-1408",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-3520-35.hd-190-28.ch-215-1338.lg-280-1334.sh-290-92.he-3070-1427.fa-3296.cc-3158-1425",
@@ -6190,7 +6190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-31-31.hd-4383-10-14.ch-6011-92-92.lg-6013-1408-1408.he-5088.fa-5601-89",
