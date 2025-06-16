@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Consigliere Hooligans",
     "habboFigure": "hr-3665-45.hd-205-14.ch-804-64.lg-280-64.sh-295-64.fa-3462-91",
@@ -1123,7 +1123,7 @@
     "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
-    "habboFigure": "hr-3163-61.hd-180-1370.ch-6015-92-92.lg-6017-92-1408.sh-3383-92-110.ha-6014-92-92",
+    "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-1425-92",
     "memberSince": "2012-11-18T23:30:08.000+00:00",
     "uniqueId": "hhit-6e2f899a7806ecdc3fb89f80821a9c24",
     "name": "CarotoMagico",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Padrino scelto Corleone",
     "habboFigure": "hr-3090-31.hd-190-10.ch-267-84.lg-3596-1408-1408.sh-4112-1408-1408.ha-4294.he-1608.ca-1812.wa-2009-1408",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "scrivo veleno in chat ma poi non invio",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2180,10 +2180,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello gd",
-    "habboFigure": "hr-5772-45-40.hd-3956-1370-30.ch-5560-1408-1408.lg-3078-1408.sh-3068-1408-91.he-3329-1408-1408",
+    "habboFigure": "hr-5720-45-40.hd-3956-1370-30.ch-5560-1408-1408.lg-3078-1408.sh-3068-1408-91",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
     "name": "sognoilcies",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ºRonin Yaºkuºza Shiroº ƒ0904ƒ",
     "habboFigure": "hr-515-49.hd-5913-28.ch-6029-92-106.lg-3192-106.sh-730-106.he-3329-92-106.ea-1404-110.fa-3276-1415.ca-5227.cc-3003-106",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Odio la Juve.",
     "habboFigure": "hr-3829-41.hd-190-22.ch-267-1323.lg-3483-110-110.sh-4112-110-1408.ea-1402.fa-5601-1408",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1394-1394.hd-4383-1391-8.ch-6029-1331-1410.lg-5970-1325.sh-3206-1325.he-6019",
