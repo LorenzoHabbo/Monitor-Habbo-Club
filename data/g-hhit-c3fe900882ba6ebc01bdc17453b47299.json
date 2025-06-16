@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Afk anni luce",
     "habboFigure": "hr-155-34.hd-205-14.ch-3030-64.lg-280-64.sh-305-64.he-1609-73.ea-1404-64.cc-3917-64",
@@ -490,10 +490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Centomila vite fà -Oblivion-",
-    "habboFigure": "hr-3673-34.hd-600-1.ch-665-64.lg-4114-64-1408.ha-3613-64.he-5808-1408.ea-5897-64-64.cc-5926-64-1408",
+    "habboFigure": "hr-3673-34.hd-600-1.ch-665-1408.lg-3526-82-1408.sh-730-72.he-3644.ea-3639.cc-5926-82-1408",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5926-1335-1408",
