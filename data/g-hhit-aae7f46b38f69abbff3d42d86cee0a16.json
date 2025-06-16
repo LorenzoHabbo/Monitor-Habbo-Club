@@ -1040,10 +1040,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maggiore 900p USMC",
-    "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-4140-110.lg-4138-110.ha-6014-110-1410.fa-4044.ca-4936.wa-5836-89-89",
+    "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-4140-110.lg-4138-110.ha-6014-110-64.fa-4044.ca-4936.wa-5836-89-89",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4117-1342-1342.hd-627-1383.ch-3935-92-110.lg-3526-77-77.sh-5247-92-92.ha-4052.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
