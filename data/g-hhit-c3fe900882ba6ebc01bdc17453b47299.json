@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Centomila vite fà -Oblivion-",
     "habboFigure": "hr-3673-34.hd-600-1.ch-665-64.lg-4114-64-1408.ha-3613-64.he-5808-1408.ea-5897-64-64.cc-5926-64-1408",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "/\\/\\/\\/\\/\\",
     "habboFigure": "hr-3531-35-34.hd-190-14.ch-3688-1408.lg-3596-64-1408.ha-4050.he-5088.fa-3344-1320.wa-4317-1408.cc-3509-82-81",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-1324-1324.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Anima di Bael",
     "habboFigure": "hr-3829-40.hd-180-1370.ch-5830-1408.lg-3483-1408-1408.ha-5832-1408",

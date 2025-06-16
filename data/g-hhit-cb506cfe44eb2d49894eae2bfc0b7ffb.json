@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Consigliere Hooligans",
     "habboFigure": "hr-3665-45.hd-205-14.ch-804-64.lg-280-64.sh-295-64.fa-3462-91",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "curiosoni, andate via! ©",
     "habboFigure": "hr-5331-49-54.hd-190-10.ch-3683-92-1320.lg-5594-77.sh-3035-1334.he-3070-92.ca-4390.wa-5676.cc-5926-1409-92",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Quante Bugie,  Anche troppe",
     "habboFigure": "hr-6055-42-42.hd-4383-1390-3.ch-5917-92.lg-4114-92-92.ha-3586.he-5279.fa-3276-1328",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Jus drein jus daun      THE HUNDRED",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3292-110.wa-3263-92-92.cc-3232-110-88",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6010-1403-1398.hd-3536-10-10.ch-6029-92-92.lg-5243-1321.sh-3587-92-92.ha-4050.fa-5435.cp-5886-110",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "in cerca di gotiche",
     "habboFigure": "hr-3860-61-61.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-92-110.ha-4136-110.he-1609-110.fa-3296",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Padrino scelto Corleone",
     "habboFigure": "hr-3090-31.hd-190-10.ch-267-84.lg-3596-1408-1408.sh-4112-1408-1408.ha-4294.he-1608.ca-1812.wa-2009-1408",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-1324-1324.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
@@ -2180,9 +2180,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "cadetto GD",
+    "motto": "apprendista novello gd",
     "habboFigure": "hr-5772-45-40.hd-3956-1370-30.ch-5560-1408-1408.lg-3078-1408.sh-3068-1408-91.he-3329-1408-1408",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
@@ -2243,7 +2243,7 @@
     "online": true,
     "gender": "f",
     "motto": "ºRonin Yaºkuºza Shiroº ƒ0904ƒ",
-    "habboFigure": "hr-515-49.hd-5913-28.ch-630-92.lg-3192-106.sh-730-106.he-3329-92-106.ea-1404-110.fa-3276-1415.ca-5227.cc-3003-106",
+    "habboFigure": "hr-515-49.hd-5913-28.ch-6029-92-106.lg-3192-106.sh-730-106.he-3329-92-106.ea-1404-110.fa-3276-1415.ca-5227.cc-3003-106",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -2913,7 +2913,7 @@
     "online": false,
     "gender": "f",
     "motto": "A Sky Full of Stars ¥",
-    "habboFigure": "hr-6023-44-42.hd-4383-1370-10.ch-665-74.lg-3006-87-86.sh-3354-87-92.wa-3072-86-1333",
+    "habboFigure": "hr-6010-37-34.hd-600-1.ch-6029-66-90.lg-5909-90-66.sh-730-90.ca-3828-66-90",
     "memberSince": "2022-04-02T17:06:21.000+00:00",
     "uniqueId": "hhit-16e6d33050ece7f42f39961b7c4ceca0",
     "name": "lava98",
@@ -2953,7 +2953,7 @@
     "online": false,
     "gender": "f",
     "motto": "Ho un sassolino nella scarpa, ahi",
-    "habboFigure": "hr-3221-61-36.hd-600-10.ch-3332-1339-66.lg-3333-1421.sh-735-68.he-3833-66.fa-3276-72.wa-2010",
+    "habboFigure": "hr-3221-1353-36.hd-600-10.ch-3332-1339-66.lg-3333-1421.he-3833-66.fa-3276-72.wa-2010",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4117-1342-1342.hd-627-1383.ch-3935-92-110.lg-3526-77-77.sh-5247-92-92.ha-4052.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1394-1394.hd-4383-1391-8.ch-6029-1331-1410.lg-5970-1325.sh-3206-1325.he-6019",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-1403.hd-615-2.ch-6029-92-1337.lg-5594-63.sh-908-1408.he-3070-63.fa-3276-97.wa-3212-1325-1325.cc-5926-1337-110",
