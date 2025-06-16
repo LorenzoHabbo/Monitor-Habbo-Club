@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1405.hd-205-2.ch-3032-110-110.lg-280-110.sh-908-1408.he-5393.ea-1404-110.fa-5948-92",
@@ -1853,7 +1853,7 @@
     "online": true,
     "gender": "m",
     "motto": "Life is a gift :)",
-    "habboFigure": "hr-3163-1394.hd-180-13.ch-3840-110-93.lg-3596-110-1408.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-100-93",
+    "habboFigure": "hr-3163-1394.hd-180-13.ch-3840-1419-106.lg-3596-110-1408.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-100-93",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -2560,10 +2560,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cash & Carry",
-    "habboFigure": "hr-110-40.hd-205-8.ch-255-73.lg-280-1408.ha-1002-64.he-1608.fa-3590",
+    "habboFigure": "hr-110-40.hd-205-8.ch-255-73.lg-280-1408.ha-1002-64.he-1608",
     "memberSince": "2021-05-04T22:12:35.000+00:00",
     "uniqueId": "hhit-7bd2458c23a36a4b9a18a0acc8dd8ee1",
     "name": "Abruzzo",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D. rim ti amo tantissimo |",
     "habboFigure": "hr-4370-31.hd-6021-14.ch-6051-92.lg-3483-77-77.sh-3035-63.ha-6109.cc-6114",
@@ -4370,7 +4370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Top 1 habbino + attraente (ban)",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-280-77.sh-908-92.he-1609-92.ca-1816",
