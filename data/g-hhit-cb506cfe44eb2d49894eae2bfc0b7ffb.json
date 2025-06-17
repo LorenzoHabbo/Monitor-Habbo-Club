@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-42.hd-180-1.ch-808-1408.lg-285-82.sh-906-1408.he-1608.fa-1201",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-3090-40.hd-209-8.ch-215-64.lg-280-64.sh-3068-1408-1408.he-1608.ca-1801-80",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -2150,9 +2150,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "NON SONO IO NON SONO IO NON SONO IOO",
+    "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
     "memberSince": "2019-11-11T17:05:56.000+00:00",
     "uniqueId": "hhit-a61b66ab2e501e56cc34fdfbaae6f99d",
@@ -2552,8 +2552,8 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Gaki YKZ Shiro",
-    "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-5029-85-74.lg-3364-85-1408.sh-3206-91.ha-3855-110.fa-4044.ca-4936.wa-5836-89-89.cc-4184-110-110",
+    "motto": "",
+    "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-3030-110.lg-4138-110.he-3820-64.fa-4044.ca-4936.wa-4060-92-1409.cc-4942-91-1409",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -2913,7 +2913,7 @@
     "online": false,
     "gender": "f",
     "motto": "A Sky Full of Stars ¥",
-    "habboFigure": "hr-6010-37-34.hd-600-1.ch-6029-66-90.lg-5909-90-66.sh-730-90.ca-3828-66-90",
+    "habboFigure": "hr-6035-1402-1345.hd-627-10.ch-6029-1413-1327.lg-5927-1320-71.sh-5247-92-1413.fa-3276-72",
     "memberSince": "2022-04-02T17:06:21.000+00:00",
     "uniqueId": "hhit-16e6d33050ece7f42f39961b7c4ceca0",
     "name": "lava98",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.cc-5926-1428-63",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-32.hd-4383-1391-1357.ch-6029-1339-94.lg-5970-1325.sh-3206-94.he-5618-94",
@@ -3603,7 +3603,7 @@
     "online": false,
     "gender": "f",
     "motto": "¥Barista esperta g.d¥",
-    "habboFigure": "hr-6023-1404-49.hd-5682-28.ch-6029-1327-92.lg-5970-1327.sh-5803-92.he-5808-92.fa-4046.wa-5599-110-92.cc-5461-92-1327",
+    "habboFigure": "hr-6023-1404-49.hd-5682-28.ch-6029-1327-92.lg-5970-1327.sh-5803-92.he-5802-92.fa-4046.wa-5599-110-92.cc-5461-92-1327",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
