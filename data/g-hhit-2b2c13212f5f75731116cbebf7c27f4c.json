@@ -4960,7 +4960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Principe Yakusa » [893]  Ōkami",
     "habboFigure": "hr-5590-49-49.hd-207-10.ch-3372-110-110.lg-3365-110.ha-5532-66.ea-1402.ca-5028-82-64",
@@ -5140,7 +5140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hd-605-10.ch-660-66.lg-720-81.ha-1007.fa-3276-66",
@@ -5830,7 +5830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Portavoce Angelico Gd 1pt",
     "habboFigure": "hr-3531-36-36.hd-3845-1.ch-5373-66-1408.lg-5594-1408.ca-4036-1408.wa-5478-1408-1408.cc-5382-82",
@@ -8130,7 +8130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-39.hd-209-8.ch-235-83.lg-285-1408.sh-305-1408.he-1608",
