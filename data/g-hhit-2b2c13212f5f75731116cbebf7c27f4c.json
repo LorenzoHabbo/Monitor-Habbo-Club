@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brooklyn",
     "habboFigure": "hr-893-45.hd-3845-1.ch-235-64.lg-3088-1408-64.sh-906-64.ha-1013-64.ea-1404-64.fa-3344-91.wa-3211-64-1408",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel gd /solitaria",
     "habboFigure": "hr-5579-1397.hd-3096-1.ch-3135-1331.lg-3057-110.sh-3524-110-92.fa-4168-92.cc-9865-110",
@@ -1922,7 +1922,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "          | UwU |       F.Corleone",
+    "motto": "          | UwU |",
     "habboFigure": "hr-3163-31.hd-208-2.ch-5452-92-92.lg-3058-110.ha-1026.he-5808-92.fa-3276-96.ca-5108-92-92.cc-5461-92-92",
     "memberSince": "2011-10-11T13:30:20.000+00:00",
     "uniqueId": "hhit-d8434b47921e20b25706300f42929891",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello G.D.",
     "habboFigure": "hr-891-48.hd-209-1370.ch-255-74.lg-3023-1408.sh-3068-64-1408",
@@ -6630,7 +6630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
@@ -6697,6 +6697,16 @@
     "memberSince": "2022-03-11T11:13:26.000+00:00",
     "uniqueId": "hhit-e7b83fb70208ee9785bd8cfc20a70f5c",
     "name": "LuigiZ123rd",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista Novello G.D.",
+    "habboFigure": "hr-3768-42.hd-209-19.ch-3030-64.lg-275-64.ha-5087.ca-4936",
+    "memberSince": "2022-03-24T07:52:59.000+00:00",
+    "uniqueId": "hhit-41cc75fa5045d67b0a1a118537f0a735",
+    "name": "youngtrader",
     "isAdmin": false
   },
   {
@@ -7760,7 +7770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.cc-5926-1428-63",
@@ -8123,7 +8133,7 @@
     "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1p  G.d.",
-    "habboFigure": "hr-3810-45.hd-600-10.ch-4962.lg-4167-64.sh-906-1408",
+    "habboFigure": "hr-3810-45.hd-600-10.ch-5901-73-1408.lg-4167-64.sh-907-73",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
     "name": "everblacknoemi",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-11-20T23:07:35.000+00:00",
     "uniqueId": "hhit-3a2a6ef5c84b343982b871c857f682f7",
     "name": "eisyban",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista novello g.d.",
-    "habboFigure": "hr-802-31.hd-180-10.ch-210-73.lg-3088-71-1408.sh-305-73",
-    "memberSince": "2023-11-21T20:50:14.000+00:00",
-    "uniqueId": "hhit-7012896b9ef34cae584b121393de42af",
-    "name": "Iacopo1993",
     "isAdmin": false
   }
 ]
