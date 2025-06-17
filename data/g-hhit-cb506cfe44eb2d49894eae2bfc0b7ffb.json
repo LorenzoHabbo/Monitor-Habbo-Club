@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-42.hd-180-8.ch-3030-80.lg-285-73.wa-3211-73-64",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT ♡",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-84-83.lg-4191-84-83.sh-290-84.ha-5520-84-83.he-1601.fa-1201.ca-3444-1408.wa-2004-84.cc-5826-1408",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1370.ch-3840-76-1408.lg-3078-82.sh-300-1408.ha-3494-72-1408.fa-5600-72.ca-3916-64-1408",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-1324-1324.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-1322.lg-710-110.sh-3206-92.he-6019.fa-5467.ca-3292-1427",
@@ -1690,10 +1690,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ªLuogotenente º CORLEONE",
-    "habboFigure": "hr-6035-42-40.hd-3631-10-12.ch-665-74.lg-710-1408.cc-6069",
+    "habboFigure": "hr-5617-42-40.hd-3631-10-19.ch-665-64.lg-720-80.ha-3709",
     "memberSince": "2016-08-17T10:06:29.000+00:00",
     "uniqueId": "hhit-552791df1fca6140cda4bd8df9f88288",
     "name": "7Nancy9",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-13.ch-3840-1419-106.lg-3596-110-1408.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-100-93",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-32.hd-4383-1391-1357.ch-6029-1339-94.lg-5970-1325.sh-3206-94.he-5618-94",
