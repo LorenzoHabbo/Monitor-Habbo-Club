@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[»] Consigliere Hooligans",
     "habboFigure": "hr-3665-45.hd-205-14.ch-804-64.lg-280-64.sh-295-64.fa-3462-91",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Quante Bugie,  Anche troppe",
     "habboFigure": "hr-6055-45-45.hd-4383-10-3.ch-5917-110.lg-4114-110-110.ha-3586.he-5279.fa-3276-1326",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ho dato ragione, per vedere andar via",
     "habboFigure": "hr-5566-1404-1404.hd-3536-10-10.ch-4368-92.lg-3781-1426-1341.sh-3587-92-92.ha-6036.fa-5467.cp-5886-110",
@@ -550,10 +550,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "irascibile, nell’iride c’è un vortice",
-    "habboFigure": "hr-6055-1404-1404.hd-615-14.ch-665-92.lg-3078-89.sh-730-110.ha-1005-89.fa-5467.cc-4184-110-110",
+    "habboFigure": "hr-6055-1403-45.hd-615-14.ch-665-92.lg-3078-89.sh-730-110.ha-1005-89.fa-5467.cc-4184-110-110",
     "memberSince": "2010-03-15T20:06:45.000+00:00",
     "uniqueId": "hhit-1411fb111e083f19953d02111ebd7eab",
     "name": "Fluoxetina.",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|.|",
     "habboFigure": "hr-6023-61-49.hd-4383-1391-5.ch-6029-92-110.lg-3006-97-1325.sh-725-110.ha-5620-92",
@@ -1133,7 +1133,7 @@
     "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
-    "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6066-95.ea-6053-95.cc-5926-92-95",
+    "habboFigure": "hr-6063-61.hd-629-1.ch-3598-93-110.lg-5970-1338.sh-6064-110-110.ha-3586.ea-6053-1321",
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-6010-1407-1353.hd-5840-11-1362.ch-5998-77.lg-5594-77.sh-3206-1337.he-6019.fa-3276-70.cc-5926-1337-1408",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-110.lg-275-1427.sh-908-110.he-5088.fa-5600-92.ca-5936-1427",
