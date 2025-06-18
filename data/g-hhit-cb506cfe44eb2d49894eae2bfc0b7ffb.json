@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-1403.hd-180-28.ch-255-110.lg-275-110.he-3740.ea-3803-92.wa-3773-63.cc-4979-110",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-49.hd-180-28.ch-3030-1429.lg-280-92.sh-3206-92.he-3740.fa-3276-63.ca-5769-63-1408.cc-5926-77-92",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
