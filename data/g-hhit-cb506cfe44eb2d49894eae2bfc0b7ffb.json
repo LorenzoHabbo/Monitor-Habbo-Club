@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.cc-3542-92-77",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ho dato ragione, per vedere andar via",
     "habboFigure": "hr-5566-1404-1404.hd-3536-10-10.ch-4368-92.lg-3781-1426-1341.sh-3587-92-92.ha-6036.fa-5467.cp-5886-110",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-1403.hd-180-28.ch-255-110.lg-275-110.he-3740.ea-3803-92.wa-3773-63.cc-4979-110",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|.|",
     "habboFigure": "hr-6023-61-49.hd-4383-1391-5.ch-6029-92-110.lg-3006-97-1325.sh-725-110.ha-5620-92",
@@ -1642,7 +1642,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "   |Scrittrice&Builder|",
+    "motto": "¥USMC Vice-Presidente¥  Scrittrice|",
     "habboFigure": "hr-4363-1397-1398.hd-3956-1389-30.ch-3046-110.lg-3391-110-92.sh-3016-110.he-5314-110-92.ea-3170-110.fa-3276-1328.ca-5635-95-92.cc-5951-95",
     "memberSince": "2016-04-17T14:50:58.000+00:00",
     "uniqueId": "hhit-fbcfa5c581053900c37fdd05b8b9fb37",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-34.hd-3845-1.ch-255-64.lg-280-64.sh-908-64.ha-3709.he-5348.fa-3344-1320",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "papabile",
     "habboFigure": "hr-3725-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-3524-64-90.he-4990-73.ea-1404-64.fa-5552-1408",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-1331.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328.cc-6077",
@@ -3270,7 +3270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-32.hd-4383-1391-1357.ch-6029-1339-94.lg-3198-94.sh-3206-1322.he-5618-94",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-110.lg-275-1427.sh-908-110.he-5088.fa-5600-92.ca-5936-1427",
