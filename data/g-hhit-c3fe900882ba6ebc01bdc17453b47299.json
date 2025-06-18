@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Centomila vite fà -Oblivion-",
     "habboFigure": "hr-3673-31.hd-600-14.ch-665-64.lg-710-64.sh-725-1408.ha-3613-64.he-5808-1408.fa-5601-1408.cc-5926-64-1408",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "/\\/\\/\\/\\/\\",
     "habboFigure": "hr-3531-35-34.hd-190-14.ch-3688-1408.lg-3596-64-1408.ha-4050.he-5088.fa-3344-1320.wa-4317-1408.cc-3509-82-81",
@@ -780,10 +780,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "YKZ SHIRO",
-    "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-92.lg-280-110.sh-3016-110.he-5348.fa-5600-92",
+    "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3016-110.he-5348.fa-5600-92.cc-3009-110-110",
     "memberSince": "2013-04-01T22:17:16.000+00:00",
     "uniqueId": "hhit-ba5093b778388fd2533b789a95bb8388",
     "name": "Avaren",
