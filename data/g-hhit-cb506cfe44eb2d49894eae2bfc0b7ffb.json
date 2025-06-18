@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -20,7 +20,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[»] Consigliere Hooligans",
     "habboFigure": "hr-3665-45.hd-205-14.ch-804-64.lg-280-64.sh-295-64.fa-3462-91",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Quante Bugie,  Anche troppe",
     "habboFigure": "hr-6055-45-45.hd-4383-10-3.ch-5917-110.lg-4114-110-110.ha-3586.he-5279.fa-3276-1326",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.fa-3276-66",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.cc-5926-1428-63",
@@ -3300,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Masarez forever - UBI tu IBI ego-",
     "habboFigure": "hr-3841-43.hd-209-1370.ch-215-72.lg-3787-64-64.sh-4112-82-82.he-3879-1408.ca-5770-64.cc-3874-82-82",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4117-1342-1342.hd-627-1383.ch-3935-92-110.lg-3526-77-77.sh-5247-92-92.ha-4052.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-1403.hd-615-2.ch-6029-110-110.lg-5594-63.sh-908-1408.he-3070-63.fa-3276-97.wa-3212-64-64.cc-5926-1427-110",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE",
     "habboFigure": "hd-209-19.ch-5488-71.lg-3968-71.sh-5803-71.ha-1017.he-1610.ea-1403-1408.fa-1201.ca-5049-1408.cc-5951-71",
