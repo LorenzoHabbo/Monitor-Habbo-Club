@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Chi fa da sè fa per tre...",
     "habboFigure": "hr-155-31.hd-180-1.ch-210-1408.lg-281-1408.sh-295-1408.he-1601",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "f",
     "motto": "Quante Bugie,  Anche troppe",
-    "habboFigure": "hr-5973-42-42.hd-4383-10-3.ch-5917-110.lg-4114-110-110.he-6103-96.fa-3276-1328",
+    "habboFigure": "hr-5973-42-42.hd-4383-10-3.ch-5917-110.lg-3418-110.he-6103-96.fa-3276-1328",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -1521,9 +1521,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Sindacalista non ufficiale Corleone",
-    "habboFigure": "hr-3800-49-58.hd-5696-3-1365.ch-5559-93.lg-5594-89.sh-3089-92.ha-3709.cc-5926-91-110",
+    "habboFigure": "hd-3096-1367.ch-815-110-96.lg-3191-110-96.he-1609-96.fa-3344-93.ca-1810.wa-3212-96-96.cc-9865-110",
     "memberSince": "2009-04-01T19:42:14.000+00:00",
     "uniqueId": "hhit-92c7bb1c60e0da28a0fc29907e750bb5",
     "name": ":::MaGiC.BoY:::",
@@ -4800,7 +4800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-125-1404.hd-4174-2.ch-5596-92.lg-5970-1338.sh-3035-110.ha-1003-1408.ea-3640.cc-5926-1428-1338",
@@ -5120,7 +5120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5617-1401-40.hd-3100-1370.ch-5917-92.lg-5594-1428.sh-3089-110.ha-4192.ea-3484.fa-5601-1335.cc-5461-92-1428",
@@ -7620,7 +7620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-3018-110.sh-5247-92-110.ha-3677.fa-5624-1413.wa-3773-94",
