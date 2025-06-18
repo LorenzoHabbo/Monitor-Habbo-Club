@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5619-1404.hd-600-10.ch-6029-110-86.lg-3134-110-1408.sh-5308-95.ha-4136-86.he-3376-95-86.fa-5467.ca-5603-86-95.wa-3263-1409-89.cc-4137-95",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-3845-28.ch-3342-110-110.lg-3116-110-92.sh-3206-110.ha-1004-110.he-4946-1418.fa-5835-1412.cc-4184-110-1418",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Consigliere Corleone.",
     "habboFigure": "hr-5756-45-45.hd-5838-1-19.ch-4361-80-1408.lg-5594-82.sh-5871-81-1408.ea-5392.fa-5387.cc-5926-1408-1408",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-3103-3.ch-5833-73-92.lg-3290-1408.sh-3524-110-1408.ha-3268-110-73.ea-3169-110.wa-3263-110-110.cc-5951-110",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-1338.he-3740.ea-3169-1426.fa-3993-110",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-1342.hd-3845-1.ch-5830-110.lg-3418-64.sh-5247-92-64.he-5074-92.fa-1212.ca-5936-92.cc-3692-110-110",
@@ -4813,7 +4813,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1342.hd-6045-1359.ch-3030-92.lg-3418-110.sh-290-92.ha-5510.he-3740.ea-3978-110-92.fa-5751.ca-3844-110-92.wa-5370.cc-5925-1427.cp-5885-110",
+    "habboFigure": "hr-893-34.hd-205-10.ch-3030-83.lg-275-1408.sh-290-80.ha-1002-74.fa-3276-72",
     "memberSince": "2011-10-08T20:16:19.000+00:00",
     "uniqueId": "hhit-728fdcdddce98ccbbc0b2c7df0974118",
     "name": "ecco",
@@ -5580,7 +5580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-6062-92-92.lg-6013-1408-1408.he-5088.fa-5600-89",
@@ -6900,7 +6900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-3520-34.hd-180-10.ch-3491-80-81.lg-3483-1320-80",
@@ -7733,7 +7733,7 @@
     "online": true,
     "gender": "f",
     "motto": "» Corleone »",
-    "habboFigure": "hr-5773-59.hd-3100-10.ch-5560-1409-110.lg-3006-110-110.sh-3621-110-110.ha-1002-110.ea-1404-110.fa-1206-96.ca-1816.cc-3420-110",
+    "habboFigure": "hr-5773-59.hd-3100-10.ch-5560-1409-110.lg-3483-91-91.sh-5670-64.he-3557.ea-1404-110.fa-1206-96",
     "memberSince": "2014-03-21T21:48:57.000+00:00",
     "uniqueId": "hhit-39548f853d327fee5b2b04a85272927f",
     "name": "Entalpia.",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
