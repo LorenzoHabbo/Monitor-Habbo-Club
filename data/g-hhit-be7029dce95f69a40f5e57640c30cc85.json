@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-42.hd-180-8.ch-3030-80.lg-285-73.wa-3211-73-64",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3292-110.wa-3263-92-92.cc-3232-110-88",
@@ -2470,7 +2470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-3520-1401.hd-205-18.ch-3001-92-92.lg-281-64.sh-3524-92-92.he-3070-1427.ea-1404-110.fa-5600-1409.cc-3360-110",
@@ -3950,10 +3950,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "VICARIO G. D.",
-    "habboFigure": "hr-802-31.hd-180-14.ch-3506-93-93.lg-270-93.sh-300-93.ha-1014.ea-3484.fa-1204.ca-3503-93.cc-4026-93-93",
+    "habboFigure": "hr-3011-1403.hd-180-1391.lg-270-100.sh-290-63.ha-3129-100.fa-1206-1325.cc-3039-100",
     "memberSince": "2011-02-27T11:17:09.000+00:00",
     "uniqueId": "hhit-31c25de964f6081df264b8ad1332b53a",
     "name": "megapunitoreUno",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-6015-92-92.lg-6017-92-1408.sh-3383-92-110.ha-6014-92-92",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1.ch-210-1408.lg-270-64.ha-1002-64.fa-3462-91.ca-4036-1408.cc-3874-64-1408",
@@ -9690,7 +9690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leader º Oblivion",
     "habboFigure": "hr-5773-61.hd-600-28.ch-665-64.lg-710-64.sh-5247-92-110.ha-3544.he-3070-92.fa-5600-1408",
