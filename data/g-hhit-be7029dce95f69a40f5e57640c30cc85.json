@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Afk anni luce",
     "habboFigure": "hr-155-34.hd-205-14.ch-3030-64.lg-280-64.sh-305-64.he-1609-73.ea-1404-64.cc-3917-64",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -2893,7 +2893,7 @@
     "online": true,
     "gender": "f",
     "motto": "Sicario Corleone",
-    "habboFigure": "hr-5619-47.hd-3631-10-12.ch-3399-81-81.lg-3355-81-66.fa-3276-72",
+    "habboFigure": "hr-5619-47.hd-3631-10-12.ch-3399-81-81.lg-3355-81-66.ha-3546-80.fa-3276-72",
     "memberSince": "2010-06-30T15:24:10.000+00:00",
     "uniqueId": "hhit-160321256998d3649411e8c0ba0ab307",
     "name": "DolceEla",
@@ -4800,10 +4800,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-125-61.hd-4174-2.ch-5559-1408.lg-5594-81.sh-5803-92.ha-1003-63.fa-3346-110.cc-3158-1427",
+    "habboFigure": "hr-3163-61.hd-190-2.ch-4361-1324-92.lg-280-81.sh-5803-92.he-5088.ea-6053-1410.ca-3175-1410.cc-5800-63-63",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -8790,7 +8790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
