@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3050-110-110.lg-5594-82.sh-3089-110.ha-5269-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-3420-1427",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1394-40.hd-600-2.ch-5917-92.lg-710-77.sh-5803-92.he-6103-77.fa-5467.cc-5925-82",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "idgaf",
     "habboFigure": "hr-3829-34.hd-205-7.ch-245-92.lg-275-1427.sh-908-110.he-5088.fa-5600-92.ca-5936-1427.cc-3420-110",
