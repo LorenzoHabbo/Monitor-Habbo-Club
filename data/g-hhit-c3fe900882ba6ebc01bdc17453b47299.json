@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "YKZ SHIRO",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3206-110.he-5348.fa-5600-92.ca-5028-93-1412.cc-3009-110-110",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-1324-1324.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-49-49.hd-627-10.ch-665-92.lg-3078-110.sh-725-92.he-3376-110-1408.fa-3276-72.cc-5926-110-110",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-3800-40-42.hd-615-1.ch-665-64.lg-3361-74.sh-3383-76-80.he-3324-64-75.fa-3276-83.ca-5769-72-64.wa-3359-82.cc-5926-80-72",

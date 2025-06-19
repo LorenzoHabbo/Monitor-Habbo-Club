@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "irascibile, nell’iride c’è un vortice",
     "habboFigure": "hr-5969-1397.hd-627-15.ch-3689-92.lg-5970-1428.sh-730-92.he-6103-110.fa-5601-1408.ca-1804-110",
@@ -4800,7 +4800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-125-1404.hd-4174-2.ch-5596-92.lg-5970-1338.sh-3035-110.ha-1003-1408.ea-3640.cc-5926-1428-1338",
@@ -9800,7 +9800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-1324-1324.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
