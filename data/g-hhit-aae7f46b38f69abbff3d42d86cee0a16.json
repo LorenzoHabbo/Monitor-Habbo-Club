@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-3520-1401.hd-205-18.ch-3001-92-92.lg-281-64.sh-3524-92-92.he-3070-1427.ea-1404-110.fa-5600-1409.cc-3360-110",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
     "habboFigure": "hr-3278-61-40.hd-207-22.ch-6051-73.lg-4191-110-81.sh-3206-81.ha-5027-73-1408.ea-3141.ca-5028-74-73.cc-3420-73",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-4140-110.lg-4138-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-1409",
