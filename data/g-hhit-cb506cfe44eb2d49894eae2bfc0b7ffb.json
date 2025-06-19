@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5566-1404-1404.hd-3536-10-10.ch-4368-92.lg-3781-1426-1341.sh-3587-92-92.ha-6036.fa-5467.cp-5886-110",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-280-64.sh-908-1427.he-5393.ea-1404-110.fa-5948-92.cc-5925-63",
@@ -1260,10 +1260,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "in cerca di gotiche",
-    "habboFigure": "hr-3860-45-42.hd-180-2.ch-255-110.lg-4138-110.sh-3587-110-110.ha-3586.fa-5975.ca-5028-110-110",
+    "habboFigure": "hr-3860-40-42.hd-180-14.ch-255-1408.lg-4138-1408.sh-3587-1408-1408.ha-3586.fa-5975.ca-5028-1408-1408",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ºRonin Yaºkuºza Shiroº ƒ0904ƒ",
     "habboFigure": "hr-515-1394.hd-5913-3.ch-6029-1325-66.lg-3192-106.sh-730-66.he-6019.ea-1404-66.fa-3276-67.ca-6018.wa-5599-66-1325",
@@ -2373,7 +2373,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-45.hd-180-11.lg-3023-1336.sh-3524-64-85.he-1608.ea-3170-110.cc-3158-1340",
+    "habboFigure": "hr-3090-45.hd-180-11.lg-4167-1336.sh-3524-64-85.he-1608.ea-3170-110.cc-3158-1340",
     "memberSince": "2020-04-12T01:02:07.000+00:00",
     "uniqueId": "hhit-c9770c710ab56ce7c1cbfffb5d83c40c",
     "name": "alexburk",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3172-1407.hd-209-28.ch-220-110.lg-280-110.sh-906-1334.fa-4058-92.cc-3360-110",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Regolatevi!",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-720-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590.ca-5521-64",
@@ -3123,7 +3123,7 @@
     "online": true,
     "gender": "m",
     "motto": "versace is beautiful",
-    "habboFigure": "hr-4031-32-40.hd-3845-20.ch-210-1408.lg-3391-66-1408.sh-295-66.fa-3344-68",
+    "habboFigure": "hr-4031-32-40.hd-3845-20.ch-3030-1408.lg-275-66.fa-3344-68",
     "memberSince": "2023-07-23T05:09:22.000+00:00",
     "uniqueId": "hhit-06b484de5c3e91962365f6fad0422a3b",
     "name": "Sig.Versace",
@@ -3203,7 +3203,7 @@
     "online": true,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hd-209-1361.lg-4309.ha-6107.he-3376-1326-110.ca-4963-86.cc-5826-110",
+    "habboFigure": "hr-5791-61.hd-3604-28.lg-5745-110-1408.sh-5295.ha-1027.he-5348.fa-5601-110.wa-3263-110-1410.cc-3039-110",
     "memberSince": "2023-11-03T23:25:54.000+00:00",
     "uniqueId": "hhit-fec333ed2c090448eba7874a06d01270",
     "name": "ChazDrinking",
@@ -3270,7 +3270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
@@ -3660,7 +3660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-1403.hd-615-2.ch-665-92.lg-5594-1426.sh-908-1408.he-3070-63.fa-5601-1408.cc-5926-1428-1408",
