@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-3811.hd-600-1.ch-3598-68-68.lg-3483-68-68.ha-6108.fa-3276-73.cc-6113",
@@ -8700,7 +8700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-5791-31.hd-3845-1.ch-5559-1408.lg-3328-1408-1408.fa-3344-64.cc-3917-64",
@@ -8720,7 +8720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-43.hd-3956-1-30.ch-5560-71-85.lg-5594-82.he-6019.fa-3276-73",
@@ -9510,7 +9510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-5773-1405.hd-600-10.ch-3689-110.lg-3006-110-92.sh-6064-92-110.he-6103-110.fa-5467.cc-5926-92-1408.cp-3315-63",
