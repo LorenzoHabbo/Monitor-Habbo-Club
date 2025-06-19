@@ -2580,10 +2580,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.ha-3382-110-110.he-3557.fa-1209-110.wa-4060-110-110.cc-3509-110-92",
+    "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-3557.fa-1209-110.wa-4060-110-110.cc-3509-110-92",
     "memberSince": "2010-07-13T20:56:54.000+00:00",
     "uniqueId": "hhit-fd2bffd5ce1b2ebd10cbbb1a6a730b6f",
     "name": "Infernus94",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-5525-2-30.ch-3934-92-110.lg-280-110.sh-5247-92-92.he-5393.ea-5392.fa-5948-92.cc-3420-1334",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-3018-110.sh-5247-92-110.ha-3677.fa-5624-1413.wa-3773-94",
