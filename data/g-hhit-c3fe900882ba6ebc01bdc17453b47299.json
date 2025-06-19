@@ -780,10 +780,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "YKZ SHIRO",
-    "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3016-110.he-5348.fa-5600-92.cc-3009-110-110",
+    "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3206-110.he-5348.fa-5600-92.ca-5028-93-1412.cc-3009-110-110",
     "memberSince": "2013-04-01T22:17:16.000+00:00",
     "uniqueId": "hhit-ba5093b778388fd2533b789a95bb8388",
     "name": "Avaren",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "papabile",
     "habboFigure": "hr-3977-42.hd-190-10.ch-4165-76-76.lg-5594-1408.sh-295-64.ea-3925-64-1408.fa-5054.cc-3717-1408-1408",
