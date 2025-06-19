@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-806-1408.lg-281-64.sh-905-64.ea-1404-64",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-3811.hd-600-1.ch-3598-68-68.lg-3483-68-68.ha-6108.fa-3276-73.cc-6113",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D. rim ti amo tantissimo |",
     "habboFigure": "hr-4370-31.hd-6021-14.ch-6051-92.lg-3483-77-77.sh-3035-63.ha-6109.cc-6114",
