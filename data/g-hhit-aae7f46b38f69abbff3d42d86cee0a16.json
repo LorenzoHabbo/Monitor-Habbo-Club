@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MAI chiedermi di vedere quella stanza",
     "habboFigure": "hr-3871-40.hd-6021-10.ch-3486-1408-1408.lg-285-81.sh-295-1408.ha-3709.he-5808-1408.ea-3925-80-80.fa-5601-80.ca-5807-1320-80.cc-4979-1408",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-3013-92.lg-710-1427.sh-5803-92.ha-5730-110.he-3070-92.ea-5576-110-64.fa-4168-1327.cc-5800-110-110",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-5998-110.lg-5594-110.sh-5247-92-92.he-3891.ea-3750.fa-3276-1412.ca-3844-92-92",
