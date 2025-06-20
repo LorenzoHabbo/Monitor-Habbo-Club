@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Shikkobu YKZ Shiro",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3206-110.he-5348.fa-5600-92.ca-5028-93-1412.cc-3009-110-110",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-3800-40-42.hd-615-1.ch-665-64.lg-3361-74.sh-3383-76-80.he-3324-64-75.fa-3276-83.ca-5769-72-64.wa-3359-82.cc-5926-80-72",
