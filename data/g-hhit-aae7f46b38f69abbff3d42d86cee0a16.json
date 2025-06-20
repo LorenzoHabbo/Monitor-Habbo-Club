@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-6015-63-1408.lg-6017-1408-1408.sh-5928.ha-6014-63-1408.he-5578-63.ea-5626-63.cc-5926-1335-1408",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-34.hd-3956-1-30.ch-5560-71-72.lg-5594-82.he-6019.fa-3276-73",
@@ -910,10 +910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-49.hd-3093-1.ch-3203-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-5926-1416-92",
+    "habboFigure": "hr-5791-49.hd-3093-1.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-5926-1416-92",
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-73.lg-285-64.sh-3524-1408-64.fa-3276-73.ca-4965-73-1408.cc-3744-1408-64",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-5998-110.lg-5594-110.sh-5247-92-92.he-3891.ea-3750.fa-3276-1412.ca-3844-92-92",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1394-40.hd-600-2.ch-5917-92.lg-710-77.sh-5803-92.he-6103-77.fa-5467.cc-5925-82",
