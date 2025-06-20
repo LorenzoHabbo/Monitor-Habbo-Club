@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
     "habboFigure": "hr-6055-61-61.hd-4383-10-3.ch-5917-110.lg-3596-110-110.ha-3586.he-5279.fa-3276-92",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-1409",
@@ -4540,7 +4540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mi scendete facilmente",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -4590,7 +4590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -5840,10 +5840,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Messaggero del Patto G.D.",
-    "habboFigure": "hr-3531-36-36.hd-3845-1.ch-3840-81-1408.lg-5594-81.he-5915.fa-3276-82",
+    "habboFigure": "hr-3531-36-36.hd-3845-1.ch-3840-81-1408.lg-5594-81.sh-3524-81-1408.he-5915.fa-3276-82.ca-4965-81-1408.cc-5461-1408-81",
     "memberSince": "2021-03-02T10:50:23.000+00:00",
     "uniqueId": "hhit-0640405577616f3a60e39a021f939d53",
     "name": "eivor12",
@@ -6720,10 +6720,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3768-42.hd-3845-1370.ch-5596-64.lg-275-64.ha-5087.ca-4936.cc-5810-1408",
+    "habboFigure": "hr-3768-42.hd-3845-19.ch-215-64.lg-275-64.ha-5087.ca-4936",
     "memberSince": "2022-03-24T07:52:59.000+00:00",
     "uniqueId": "hhit-41cc75fa5045d67b0a1a118537f0a735",
     "name": "youngtrader",
@@ -8900,7 +8900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello gd",
     "habboFigure": "hr-3810-34.hd-629-19.ch-665-1408.lg-700-1408.he-1609-1320.cp-3288-1408",
@@ -9940,7 +9940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato Scelto GD  Trash queenna",
     "habboFigure": "hr-4020-1399-1399.hd-5913-13.ch-3335-93-93.lg-3337-93.sh-3338-93.he-3082-93.fa-3276-96",
