@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1.ch-3030-85.lg-275-1320.sh-295-64.ha-1002-64.ea-1403-1408",
@@ -5150,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.fa-3276-66",
@@ -6720,7 +6720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3768-40.hd-209-19.ch-215-64.lg-275-64.ha-5087.ca-4936",
