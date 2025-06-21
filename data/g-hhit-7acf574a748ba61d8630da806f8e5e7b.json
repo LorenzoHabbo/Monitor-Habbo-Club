@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-3557.fa-1209-110.wa-4060-110-110.cc-3509-110-92",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-6015-63-1408.lg-6017-1408-1408.sh-5928.ha-6014-63-1408.he-5578-63.ea-5626-63.cc-5926-1335-1408",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-806-74.lg-3216-72.sh-905-81.ha-1005-84.he-1610.ea-3698-83-72.fa-1211.cp-3126-64",
@@ -2063,7 +2063,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3163-1403.hd-205-10.ch-3934-92-64.lg-5594-1335.sh-3587-92-92.ha-3544.he-3070-92.cc-5926-1325-92",
+    "habboFigure": "hr-6034-61-41.hd-5525-26-28.ch-3934-110-64.lg-5594-1335.sh-3587-92-92.he-3070-92.fa-5948-92.ca-6044.cc-5926-64-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-892-45.hd-626-1.ch-665-82.lg-3216-82.sh-3068-73-73.he-3274-73",
