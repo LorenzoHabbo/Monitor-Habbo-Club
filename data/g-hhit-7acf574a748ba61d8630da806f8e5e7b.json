@@ -713,7 +713,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-3657-42.hd-4174-1363.ch-5833-92-92.lg-4066-1418.sh-5247-92-1418.he-3081-75.ea-5576-110-96.fa-6095.wa-4060-75-110.cc-3723-92",
+    "habboFigure": "hr-3657-42.hd-4174-1363.ch-5833-92-92.lg-4066-1418.sh-5247-92-1418.he-3081-75.ea-5576-110-96.fa-6095.ca-6149.wa-4060-75-110.cc-3723-92",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-3018-110.sh-5247-92-110.ha-3677.fa-5624-100.wa-3773-94",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-1.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-5926-1416-92",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-3030-110.lg-4138-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-1409.cc-3946-110",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "| MESSAGGERA (THE HUNDRED) |",
     "habboFigure": "hr-5898-49-40.hd-180-1379.ch-3032-110-1408.lg-5594-110.sh-3035-1408.he-3070-93.ea-3168-110.fa-3462-92.wa-5986-110.cc-5951-110",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥Barista esperta g.d¥",
     "habboFigure": "hr-4186-61.hd-5682-28.ch-5998-110.lg-5970-110.sh-5803-92.he-5802-106.fa-4049.cc-5461-92-106",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-1403.hd-615-2.ch-665-92.lg-5594-1426.sh-908-1408.he-3070-63.fa-5601-1408.cc-5926-1428-1408",
@@ -4752,16 +4752,6 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-115-42.hd-209-1.ch-877-81-73.lg-3023-81.sh-3068-64-1408.ha-5443.fa-1205-1408.ca-5502.wa-2011",
-    "memberSince": "2025-03-28T20:38:25.000+00:00",
-    "uniqueId": "hhit-3a655bfbe79427e2e80c34e6d4c8f661",
-    "name": "Manuel3110",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
     "motto": "ªBLACK PEARLª",
     "habboFigure": "hd-209-19.ch-235-73.lg-3078-82.sh-906-64.ha-1013-64.he-1609-73.ca-1807.wa-2002",
     "memberSince": "2025-04-02T21:48:37.000+00:00",
@@ -4770,7 +4760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono un clone",
     "habboFigure": "hr-5210-1394-1398.hd-3845-2.ch-5596-92.lg-5594-63.sh-4112-1408-1408.ha-4192.he-3070-92.fa-5601-1408.ca-5936-92",
