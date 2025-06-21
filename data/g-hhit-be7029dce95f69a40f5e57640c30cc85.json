@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NN SONO + IN GRADO DI DIRE \"CHE BELLO\"",
     "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-3030-1334.lg-3018-77.sh-908-1408.he-3753.fa-5467",
@@ -823,7 +823,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5756-31-61.hd-5838-1391-1361.ch-3934-92-92.lg-3116-110-110.sh-5247-92-110.ea-5135.fa-5948-92.ca-5983-93.cc-5611-1408.cp-5878-110",
+    "habboFigure": "hr-5756-31-61.hd-5838-1391-1361.ch-4111-110.lg-3407-1409-1409.sh-3524-1325-110.ea-5135.fa-5948-92.ca-5983-93",
     "memberSince": "2008-05-05T17:06:51.000+00:00",
     "uniqueId": "hhit-4ce7b841ab8add7af51efaebce0404b5",
     "name": "Proemio",
@@ -2590,10 +2590,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "irascibile, nell’iride c’è un vortice",
-    "habboFigure": "hr-5617-1403-1404.hd-627-15.ch-3689-92.lg-710-110.sh-5803-92.he-3070-92.fa-5601-92.cc-3289-110",
+    "habboFigure": "hr-5679-1404-45.hd-627-15.ch-665-92.lg-3078-89.sh-730-110.ha-5620-89.he-1604.fa-5467.cc-4184-110-110",
     "memberSince": "2010-03-15T20:06:45.000+00:00",
     "uniqueId": "hhit-1411fb111e083f19953d02111ebd7eab",
     "name": "Fluoxetina.",
@@ -3571,9 +3571,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "",
-    "habboFigure": "hr-100.hd-3845-14.ch-3443.lg-270-1408.ha-3441.he-1609-1408.fa-3462-1408",
+    "habboFigure": "hd-625-19.ch-884-1408.lg-3116-1408-1408.sh-730-1408.ha-1002-1408",
     "memberSince": "2010-12-29T22:14:57.000+00:00",
     "uniqueId": "hhit-51ed72720183ab6cea73ca11464a8714",
     "name": "sssssssMagico",
@@ -5243,7 +5243,7 @@
     "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
-    "habboFigure": "hr-5962-49.hd-180-28.ch-3987-92-92.lg-3078-92.sh-3419-92-92.ea-5897-92-92.fa-1205-92.cc-5951-92",
+    "habboFigure": "hr-5962-61.hd-207-22.ch-3368-92-81.lg-3364-92-81.sh-3206-81.ha-3694-81.fa-1205-110.wa-3366-92-81",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -9380,7 +9380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Caricamento in corso...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
