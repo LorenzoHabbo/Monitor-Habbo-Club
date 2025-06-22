@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "half angel half devil.",
     "habboFigure": "hr-545-42.hd-605-10.ch-660-1408.lg-3116-64-1408",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-34.hd-209-1370.ch-3840-85-1408.lg-3078-1320.sh-3068-1408-1408.wa-2001",
@@ -4590,7 +4590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -6640,7 +6640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
@@ -8770,7 +8770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-42.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",

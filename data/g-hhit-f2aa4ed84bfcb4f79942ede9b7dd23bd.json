@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5210-45-1343.hd-209-18.ch-5856.lg-5594-64.sh-5803-89.ha-5450.he-1608.fa-5600-68.ca-1816.cc-5810-63",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-1342.hd-3845-1.ch-5830-110.lg-3418-64.sh-5247-92-64.he-5074-92.ca-4390.wa-3264-110-92",
@@ -4460,7 +4460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-3163-61.hd-190-7.ch-215-1408.lg-280-81.sh-5803-92.ha-4056",
