@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hd-200-30.ch-6015-81-1408.lg-6017-81-1408.sh-3467.ha-5377-81.he-4059-81-1408.fa-3276-72.cc-6050-73-81",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello gd",
     "habboFigure": "hr-3800-34-40.hd-629-19.ch-665-1408.lg-700-1408.he-1609-1320.cp-3288-1408",
