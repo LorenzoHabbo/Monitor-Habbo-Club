@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -2133,7 +2133,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1342.hd-6021-28.ch-225-1409.lg-285-89.sh-3035-1409.fa-5600-92.wa-6071",
+    "habboFigure": "hr-828-1342.hd-205-28.ch-225-1409.lg-285-89.sh-3035-1409.he-1609-1409.fa-5600-92.wa-6071",
     "memberSince": "2010-02-02T20:51:06.000+00:00",
     "uniqueId": "hhit-ed36f66cde0f13d342d40f98484b8698",
     "name": "KiLL?",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
