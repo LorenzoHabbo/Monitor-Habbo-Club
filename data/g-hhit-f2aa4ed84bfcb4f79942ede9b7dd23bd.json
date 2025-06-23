@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-6063-31.hd-5913-10.ch-5488-92.lg-3136-64.he-3884-94-1408.ea-1404-64.fa-5467.ca-5583.cc-6111",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -5460,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-275-64.ha-3494-73-1408.he-4379.ea-3925-68-1320.fa-1201.cc-4282-73",
