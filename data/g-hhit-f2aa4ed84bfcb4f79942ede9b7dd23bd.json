@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3163-1403.hd-3721-2.ch-3934-92-110.lg-3116-92-92.sh-5247-92-110.ha-3544.ea-5576-110-110.fa-3276-1409.ca-5026-92.wa-5599-64-64.cc-5926-63-110",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-3557.fa-1209-110.wa-4060-110-110.cc-3509-110-92",
@@ -8080,7 +8080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista scelto G.D",
     "habboFigure": "hr-3673-42.hd-629-1.ch-660-74.lg-3320-81-80",
