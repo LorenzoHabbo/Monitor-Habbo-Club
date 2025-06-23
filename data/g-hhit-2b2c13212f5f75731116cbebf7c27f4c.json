@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
     "habboFigure": "hr-6055-45-39.hd-4383-10-3.ch-665-110.lg-3418-82.he-6103-96.fa-3276-92",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|||",
     "habboFigure": "hr-890-38.hd-600-1.ch-3658-73-1408.lg-700-73",
@@ -6860,7 +6860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato scelto G.D",
     "habboFigure": "hr-3090-37.hd-209-1.ch-3030-76.lg-285-82.sh-3180-1408-1408.ha-1023-82",
