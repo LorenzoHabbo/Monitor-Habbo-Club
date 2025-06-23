@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello GD",
     "habboFigure": "hr-4118-61.hd-3103-2.ch-803-110.lg-3023-92.sh-3089-110.ha-3171-110-1408.ca-3219-92.wa-2003",
@@ -2770,7 +2770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1.ch-215-1408.lg-285-1408.sh-3068-1408-1408.ha-1002-64.ea-1403-1408",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista scelto G.D",
     "habboFigure": "hr-3673-42.hd-629-1.ch-660-74.lg-3320-81-80",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-34.hd-209-1370.ch-3840-85-1408.lg-3078-1320.sh-3068-1408-1408.wa-2001",
@@ -5071,9 +5071,9 @@
   },
   {
     "online": false,
-    "gender": "m",
+    "gender": "f",
     "motto": "ºRonin Yaºkuºza Shiroº ƒ0904ƒ",
-    "habboFigure": "hr-125-58.hd-180-1365.ch-6030-1338-77.lg-270-82.ha-4349.he-3070-1338.fa-1202-1413.wa-3263-77-1338",
+    "habboFigure": "hr-838-1404.hd-3845-2.ch-6029-67-1410.lg-716-66-1408.sh-730-110.he-6019.fa-1211.ca-6018.wa-5599-1410-67",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92",
@@ -5860,7 +5860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Messaggero del Patto G.D.",
     "habboFigure": "hr-3531-35-40.hd-3845-1.ch-4111-82.lg-5594-82.ha-5089.he-3558.fa-3276-82.ca-5770-82.cc-5441-82-1408",
