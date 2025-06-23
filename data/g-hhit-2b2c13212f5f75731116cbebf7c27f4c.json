@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5503-42.hd-600-1.ch-5453-71-71.lg-3483-73-1320.he-5817-1408.fa-3276-73",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
     "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-665-92.lg-3596-110-110.ha-3586.he-5808-1408.fa-3276-92",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -6850,7 +6850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato scelto G.D",
     "habboFigure": "hr-3090-37.hd-209-1.ch-3030-76.lg-285-82.sh-3180-1408-1408.ha-1023-82",
