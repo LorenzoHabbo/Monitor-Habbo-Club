@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-6015-63-1408.lg-6017-1408-1408.sh-5928.ha-6014-63-1408.he-5578-63.ea-5626-63.cc-5926-1335-1408",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3332-92-1408.lg-3333-77.sh-5247-92-92.ha-4094-92-92.he-3884-92-77.ea-5576-1409-89.cc-5926-82-89",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "per gli amici e-e a verità",
     "habboFigure": "hr-828-1403.hd-180-1.ch-3030-110.lg-5594-82.sh-6043.he-3716.ea-4985.ca-6149.wa-5370.cp-5885-92",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-3852-1402.hd-600-10.ch-5351-92-92.lg-4066-110.fa-3276-72.cc-3837-110",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| Yasha ykz shiro |  crikey",
     "habboFigure": "hr-5606-46-46.hd-4383-10-8.ch-6029-68-72.lg-695-1408.sh-730-72.fa-4043.ca-6020-72",
