@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-806-1408.lg-281-64.sh-905-64.ea-1404-64",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
     "habboFigure": "hr-5680-61.hd-4383-28-28.ch-5917-110.lg-3787-110-110.ha-3586.fa-3276-63",
@@ -1123,7 +1123,7 @@
     "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
-    "habboFigure": "hr-3163-61.hd-180-1370.ch-6015-110-92.lg-6017-110-92.sh-290-92.ha-6014-110-92.ca-6018",
+    "habboFigure": "hr-3163-61.hd-180-1370.ch-6015-110-92.lg-6017-110-92.sh-3383-110-1408.ha-6014-110-92.ca-6018",
     "memberSince": "2012-11-18T23:30:08.000+00:00",
     "uniqueId": "hhit-6e2f899a7806ecdc3fb89f80821a9c24",
     "name": "CarotoMagico",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥USMC Vice-Presidente¥  Scrittrice|",
     "habboFigure": "hr-5617-1397-49.hd-3956-1389-30.ch-3013-1422.lg-3526-1422-92.sh-725-110.ea-3170-110.fa-3276-1414.cc-5926-110-92",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -4370,7 +4370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-4370-31.hd-6021-8.ch-4171-64-1408.lg-5623.sh-5928.ha-3494-64-66.ca-5463",
