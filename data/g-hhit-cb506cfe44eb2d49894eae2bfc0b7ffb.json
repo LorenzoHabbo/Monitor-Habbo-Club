@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-4363-1404-1403.hd-4383-1390-1364.ch-6029-77-1326.lg-700-1408.sh-4159-102-110.ha-3709.he-3070-93.fa-5467.ca-5794-92",
@@ -3310,7 +3310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
