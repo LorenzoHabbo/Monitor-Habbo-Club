@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5503-42.hd-600-1.ch-5453-71-71.lg-3483-73-1320.he-5817-1408.fa-3276-73",
@@ -4800,10 +4800,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-5306-61-40.hd-190-2.ch-215-92.lg-4138-110.sh-5803-92.ha-1022-92.he-5088.ea-3640.ca-3175-1410",
+    "habboFigure": "hr-3163-61.hd-190-2.ch-5559-92.lg-4138-110.sh-5803-92.ha-5774-1427-92.fa-3462-63.cc-3420-110",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -8690,7 +8690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-5791-31.hd-3845-1.ch-5559-1408.lg-3328-1408-1408.ha-5076-64.fa-3344-64.cc-3917-64",
