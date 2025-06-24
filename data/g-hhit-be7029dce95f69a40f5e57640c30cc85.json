@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-806-1408.lg-281-64.sh-905-64.ea-1404-64",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
-    "habboFigure": "hr-5680-61.hd-4383-28-28.ch-5917-110.lg-3787-110-110.ha-3586.fa-3276-63",
+    "habboFigure": "hr-5680-61.hd-4383-28-28.ch-5917-110.lg-3787-110-110.he-6103-96.fa-3276-63",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -8780,7 +8780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.fa-5280-110.wa-3773-110.cc-6077",
