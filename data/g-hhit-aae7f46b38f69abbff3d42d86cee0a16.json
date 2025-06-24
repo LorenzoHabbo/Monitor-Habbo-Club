@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-125-40.hd-5799-1370.ch-3030-1408.lg-280-85.he-5813-64-1408.ca-6044",
@@ -323,7 +323,7 @@
     "online": true,
     "gender": "f",
     "motto": "|.|",
-    "habboFigure": "hr-4182-55-1351.hd-4383-1390-5.ch-5560-1409-1409.lg-3192-110.sh-3035-89.he-5314-89-1324.ea-3169-110.cc-5926-89-67",
+    "habboFigure": "hr-3870-55.hd-4383-1390-5.ch-5560-1409-1409.lg-3192-110.sh-3035-89.he-5314-89-1324.ea-3169-110.cc-5926-89-67",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Caricamento in corso...",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-3266-110-110.lg-710-1427.sh-5803-92.he-5808-1341.fa-3276-1413.ca-3292-110",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
     "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
