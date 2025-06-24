@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| andrea ti amo |",
     "habboFigure": "hr-5503-1342.hd-600-2.ch-665-95.lg-3483-77-77.sh-3035-1408.ha-4194.he-3070-92.fa-3276-100",
@@ -470,10 +470,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
-    "habboFigure": "hr-6055-45-39.hd-4383-10-3.ch-5998-96.lg-4066-110.he-6103-96",
+    "habboFigure": "hd-4383-10-3.ch-822-1408.lg-720-1408.sh-725-1408.ha-1002-1408",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "One Life",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -1633,7 +1633,7 @@
     "online": true,
     "gender": "m",
     "motto": "Soldato semplice PT USMC",
-    "habboFigure": "hr-155-39.hd-209-1.ch-267-82.lg-275-81.sh-295-80.ea-1401-64.wa-2001",
+    "habboFigure": "hr-155-39.hd-209-1.ch-235-80.lg-3116-81-1408.sh-295-1408.ha-1004-80.ea-1401-80.ca-1802.wa-2001",
     "memberSince": "2011-05-18T21:45:24.000+00:00",
     "uniqueId": "hhit-8b9045bea101f8903302a4a3ee5a60b4",
     "name": "michael.mazzo.:",
@@ -2390,10 +2390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
-    "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.wa-6071.cc-5761-91-110",
+    "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-1425-92",
     "memberSince": "2012-11-18T23:30:08.000+00:00",
     "uniqueId": "hhit-6e2f899a7806ecdc3fb89f80821a9c24",
     "name": "CarotoMagico",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista scelto G.D",
     "habboFigure": "hr-5617-42-40.hd-629-1.ch-4099-76-76.lg-3216-64",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92",
@@ -5863,7 +5863,7 @@
     "online": true,
     "gender": "m",
     "motto": "Messaggero del Patto G.D.",
-    "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4165-73-1408.lg-5594-73.fa-3276-73.ca-5770-82.cc-5307-73",
+    "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4165-73-1408.lg-5594-73.ha-5085.fa-3276-73.ca-5770-82.cc-5307-73",
     "memberSince": "2021-03-02T10:50:23.000+00:00",
     "uniqueId": "hhit-0640405577616f3a60e39a021f939d53",
     "name": "eivor12",
@@ -9590,7 +9590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ehi tu! Si tu!",
     "habboFigure": "hr-802-39.hd-209-8.ch-255-82.lg-3088-1408-82.sh-300-64",
