@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ho tolto i petali alle margherite",
     "habboFigure": "hr-5445-57.hd-3105-28.ch-6029-92-89.lg-3018-110.sh-5247-92-92.ha-3776.ca-6020-89.cc-3867-104-104",
@@ -4210,7 +4210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hd-4163-10-20.ch-665-76.lg-3023-76.sh-906-64.ha-1021-76.he-1609-76",
@@ -5160,7 +5160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92",
