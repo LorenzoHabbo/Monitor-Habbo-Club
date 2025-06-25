@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-3266-110-110.lg-710-1427.sh-5803-92.he-5808-1341.fa-3276-1413.ca-3292-110",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-3030-110.lg-4138-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-1409.cc-3509-64-1408",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hd-615-10.ch-816-68.lg-700-64.sh-740-1408.he-1605-64",
