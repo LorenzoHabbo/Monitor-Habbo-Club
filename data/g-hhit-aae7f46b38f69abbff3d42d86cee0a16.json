@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-10.ch-5488-1408.lg-275-1408.ha-3709.he-5808-1408.ea-3925-80-80.fa-5601-80.ca-5807-1320-1408.cc-4979-1408",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ºRonin Yaºkuºza Shiroº ƒ0904ƒ",
     "habboFigure": "hr-5617-1397-61.hd-627-2.ch-6029-106-1423.lg-716-66-1408.sh-730-110.ea-1402.wa-5599-1423-106",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-36.hd-209-1370.ch-5830-88.lg-3023-64.sh-906-1408.ha-5832-88.he-1601.cp-3119-88",
