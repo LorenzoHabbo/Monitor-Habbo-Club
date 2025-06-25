@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6010-1403-54.hd-3845-10.ch-3332-1326-1414.lg-6013-1414-1326.he-3329-1326-1414.fa-5467",
@@ -483,7 +483,7 @@
     "online": true,
     "gender": "f",
     "motto": "Guerriero-The Hundred",
-    "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-5560-110-110.lg-3596-110-110.ha-3709.he-5808-1408.fa-3276-92",
+    "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-5560-110-110.lg-3596-110-110.he-6103-96.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1640,9 +1640,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Soldato semplice PT USMC",
+    "motto": "Sopravvisuto the Hundred",
     "habboFigure": "hr-155-39.hd-209-1.ch-245-81.lg-3116-1408-82.sh-305-1408.ha-1004-80.ea-1401-80.ca-1802",
     "memberSince": "2011-05-18T21:45:24.000+00:00",
     "uniqueId": "hhit-8b9045bea101f8903302a4a3ee5a60b4",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºStrategaº",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.fa-3378-1320-1408.ca-1801-90.wa-4317-1408.cc-3294-64-64",
@@ -5510,7 +5510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "aprendista novello g.d",
     "habboFigure": "hr-5503-35.hd-628-14.ch-4110-80.lg-3078-81.sh-3068-1408-1408.he-1608",
@@ -6330,7 +6330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello g. d.",
     "habboFigure": "hr-890-35.hd-600-10.ch-665-71.lg-3216-72.ca-1801-1408",
@@ -8160,7 +8160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1p  G.d.",
     "habboFigure": "hr-3671-39-35.hd-600-10.ch-3114-73-1408.lg-695-64.sh-906-1408",
@@ -8790,7 +8790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-42.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
