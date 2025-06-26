@@ -4460,7 +4460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-3163-61.hd-190-2.ch-5559-92.lg-280-81.sh-5803-92.ha-3638.cc-3420-92",
@@ -6600,7 +6600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ikari YKZ",
     "habboFigure": "hr-125-1403.hd-3997-2.ch-3779-1325-64.lg-3058-64.sh-4065-110-64.fa-3344-91.ca-3187-110",
@@ -8080,7 +8080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista scelto G.D",
     "habboFigure": "hr-3673-42.hd-629-1.ch-3770-74-74.lg-3216-64",
