@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cittadino -The Hundred",
     "habboFigure": "hr-6055-61-42.hd-4383-10-28.ch-665-110.lg-3418-110.he-6103-96",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -9040,7 +9040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "loyalty",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-235-91.lg-270-64.sh-3524-1408-1408",
