@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-60.hd-3845-1.ch-3321-1424.lg-3057-1425.he-3740.cc-3867-105-104",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5973-1394-1394.hd-615-1379.ch-665-1411.lg-5909-1413-1408.sh-5242-1417.ea-5576-1408-1408.fa-3276-99.ca-3799-1336-1323.cc-5518-85-110",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "in my mind crikey.",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -1563,7 +1563,7 @@
     "online": true,
     "gender": "m",
     "motto": "Caricamento in corso...",
-    "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.fa-3276-70.cc-5800-92-110",
+    "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-6125-63.fa-3276-70.cc-5800-92-110",
     "memberSince": "2015-11-21T12:54:28.000+00:00",
     "uniqueId": "hhit-b7c33b11768cda68b7bf6ab7aa993889",
     "name": "salvo701",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -1693,7 +1693,7 @@
     "online": true,
     "gender": "f",
     "motto": "In apnea da un po’.",
-    "habboFigure": "hr-5606-1342-1342.hd-605-18.ch-3005-110-110.lg-3502-110.sh-5803-86.he-6125-92.ea-5576-110-110.fa-1209-110.ca-3292-92",
+    "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-710-1337.sh-5803-92.he-6125-92.fa-5467.ca-3292-1315",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-5773-32.hd-3631-1370-20.ch-665-1415.lg-6013-1415-92.sh-730-94.ea-5576-110-95.ca-5983-1408",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "0904",
     "habboFigure": "hr-5617-61-35.hd-5913-14.ch-6029-110-1320.lg-716-66-1408.sh-730-110.ha-1005-1320.he-6019.ea-1404-110.wa-5599-1320-110",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-45.hd-615-2.ch-665-110.lg-5594-110.sh-908-92.ha-3363.he-3070-1427.fa-5601-89.ca-3973-110-92.cc-5926-77-77",
@@ -4370,10 +4370,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
-    "habboFigure": "hr-3163-61.hd-3091-8.ch-803-105.lg-5623.sh-3035-1408.he-6125-63.ca-6018.cc-5622",
+    "habboFigure": "hr-3163-61.hd-3091-8.ch-803-105.lg-5623.sh-3035-1408.ca-6018.cc-5622",
     "memberSince": "2025-05-07T11:16:49.000+00:00",
     "uniqueId": "hhit-de8e2328ed3f3e1c7b894290877d8369",
     "name": ".andrea2270...:",
