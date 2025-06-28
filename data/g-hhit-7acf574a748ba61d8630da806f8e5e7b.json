@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-61.hd-3091-3.ch-4994-1409-90.lg-3057-1409.sh-5308-1410.ha-3352-1409-64.he-5578-1408.fa-5601-68.ca-5769-91-66",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cittadino -The Hundred",
     "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-5560-110-110.lg-3596-110-110.ha-3709.he-5808-1408.fa-3276-92",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-275-64.ha-3494-73-1408.he-4379.ea-3925-68-1320.fa-1201.cc-4282-73",
@@ -1500,10 +1500,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "…",
-    "habboFigure": "hr-5680-33.hd-4383-1390-1365.ch-6117.lg-5165-1321-102.sh-4159-106-110.ha-4354-1413-1420.he-3070-93.fa-5467.ca-5794-92",
+    "habboFigure": "hr-4363-1404-1403.hd-4383-1390-1364.ch-6029-77-1326.lg-700-1408.sh-4159-102-110.ha-3709.he-6125-93.fa-5467.ca-5794-92",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’.",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-3013-92.lg-710-1337.sh-5803-92.he-6125-92.fa-5467.ca-3292-1315",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello gd",
     "habboFigure": "hr-5720-61-40.hd-3956-3-1372.ch-5607-110.lg-3502-110.sh-3383-110-110.ha-4192.he-1604.wa-3263-110-110",
@@ -2900,10 +2900,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "maestro d'armi R.(i.)P.",
-    "habboFigure": "hr-893-42.hd-180-8.lg-3078-1323.sh-906-67.ha-5468-1323-110.wa-4317-70.cc-5485-1323-1323",
+    "habboFigure": "hr-893-42.hd-180-8.ch-210-1408.lg-3078-1408.sh-906-1408.ha-5468-1408-1408.wa-4317-1408.cc-5485-1408-1408",
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3841-42.hd-180-1.ch-235-1408.lg-3787-64-1408.cc-5761-73-1408",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Gaijin ykz shiro *Minolla woman*",
     "habboFigure": "hr-5579-60.hd-3631-1362-1365.ch-5021-96-93.lg-5022-93-96.sh-5023-96-93.ha-5020-96-93.he-3833-64.fa-1209-110.ca-4036-110",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-3935-92-110.lg-3526-110-110.sh-5247-92-92.he-3891.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "grounder regime skaikru the hundred",
     "habboFigure": "hr-802-40.hd-180-14.ch-255-73.lg-3078-82.sh-3068-1408-1408.ha-1003-73.wa-2007",
@@ -4540,7 +4540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-1.ch-215-1408.lg-275-1408.sh-908-1408.fa-5601-1408.cc-3420-82",
@@ -4730,10 +4730,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono un clone",
-    "habboFigure": "hr-3829-1347.hd-3845-2.ch-5596-63.lg-5594-63.sh-4112-1408-1408.ha-4192.he-3070-92.fa-5601-1408.ca-5936-92.cc-5925-1326",
+    "habboFigure": "hr-3829-1354.hd-3845-2.ch-5596-63.lg-5594-63.sh-4112-1408-1408.ha-4192.he-3070-92.fa-5601-1408.ca-5936-92.cc-5925-1423",
     "memberSince": "2025-04-03T21:40:18.000+00:00",
     "uniqueId": "hhit-9c42780b101c7476070371cacd83a703",
     "name": "Siri9723",
