@@ -4040,7 +4040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "io sono leggenda",
     "habboFigure": "hr-893-42.hd-190-1.ch-3030-64.lg-3078-64.sh-3068-64-64.wa-2007",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5360-49.hd-190-2.ch-5367-110-92.lg-280-81.sh-5803-92.ea-3108-110-1408",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|.|",
     "habboFigure": "hr-3870-55.hd-4383-1390-5.ch-5560-1409-1409.lg-3192-110.sh-3035-89.he-6125-1408.ea-3169-110.cc-5926-89-67",
@@ -6450,7 +6450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Milanista Corleone",
     "habboFigure": "hr-515-45.hd-600-20.ch-665-1408.lg-720-80.sh-3587-1408-72.ha-3488.cc-3542-1408-72",
