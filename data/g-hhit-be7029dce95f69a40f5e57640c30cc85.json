@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "piko poko",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-63.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-1408",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -7610,7 +7610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-3047-110.sh-5242-1408.ha-5241-1408.fa-5624-1413",
