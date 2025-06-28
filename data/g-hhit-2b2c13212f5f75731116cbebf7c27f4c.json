@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "…",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.fa-3378-1320-1408.ca-1801-90.wa-4317-1408.cc-3294-64-64",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-807-64.lg-280-64.ea-1404-1408.fa-1205-64.ca-1806-73",
@@ -6670,7 +6670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
