@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-93-1408.lg-4341-92.sh-5671-1321.ha-3709",
@@ -2213,7 +2213,7 @@
     "online": true,
     "gender": "f",
     "motto": "          oblivion",
-    "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
+    "habboFigure": "hr-4363-31-31.hd-4383-10-14.ch-4067-92-92.lg-3116-1408-1408.cc-5925-82",
     "memberSince": "2012-04-09T00:29:56.000+00:00",
     "uniqueId": "hhit-2c8a4c59cbb643e6681167402f71f83f",
     "name": "roberta352",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "…",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.fa-3378-1320-1408.ca-1801-90.wa-4317-1408.cc-3294-64-64",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ Sentinella Semplice ¥ GD",
     "habboFigure": "hr-5791-40.hd-3845-1370.ch-5596-1408.lg-3078-64.sh-3524-64-1408.ha-4192.he-5578-66.fa-5600-1408.wa-5674",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-807-64.lg-280-64.ea-1404-1408.fa-1205-64.ca-1806-73",
@@ -4570,7 +4570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -5167,16 +5167,6 @@
     "memberSince": "2020-03-19T16:18:05.000+00:00",
     "uniqueId": "hhit-6c6c2a02a08d374e28643277befdfeb8",
     "name": "iTecno27",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "apprendista novello GD",
-    "habboFigure": "hd-190-30.ch-210-66.lg-3078-66.sh-905-66.ha-1001.ea-1404-64.ca-1802.wa-2004-91",
-    "memberSince": "2020-03-21T18:07:53.000+00:00",
-    "uniqueId": "hhit-93be2480ace682a5ad10655846fcb592",
-    "name": "lapasseon",
     "isAdmin": false
   },
   {
@@ -6880,7 +6870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato scelto G.D",
     "habboFigure": "hr-3090-37.hd-209-1.ch-225-80.lg-285-82.sh-3180-1408-1408.ea-1403-1408",
@@ -7810,7 +7800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-210-92.lg-5594-1338.sh-3089-110.he-6125-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5926-110-1408",
@@ -8930,7 +8920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "lasciami stare",
     "habboFigure": "hr-545-45.hd-600-1.ch-4067-75-71.lg-715-73.sh-906-75.fa-3276-72",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-11-10T14:30:48.000+00:00",
     "uniqueId": "hhit-de64f7f9b2670353ef5c0d93be7128d7",
     "name": "Seiko",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "apprendista aiutante g.d",
+    "habboFigure": "hr-4182-48-48.hd-4163-10-30.ch-5560-82-81.lg-5594-1408.ha-4196.ea-5897-64-64.fa-3276-1408.wa-5599-1408-64",
+    "memberSince": "2023-11-12T11:18:14.000+00:00",
+    "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
+    "name": "Sweetdevil:!",
     "isAdmin": false
   }
 ]
