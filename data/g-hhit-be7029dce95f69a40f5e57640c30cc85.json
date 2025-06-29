@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5756-43-61.hd-5838-1388-1365.ch-5559-1411.lg-3116-110-92.sh-3206-92.ea-5135.fa-5948-92.ca-5983-1321",
@@ -4800,7 +4800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5360-49.hd-190-2.ch-5367-110-92.lg-280-81.sh-5803-92.ea-3108-110-1408",
