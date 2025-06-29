@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ",",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3332-1339-98.lg-3006-1339-98.sh-5717.he-5845.fa-3993-1326",
@@ -3350,7 +3350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-3935-92-110.lg-3526-110-110.sh-5247-92-92.he-3891.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
