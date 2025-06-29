@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-6063-31.hd-5913-10.ch-6012-1414-92.lg-6013-1414-92.ea-1404-64.fa-5467",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-5921-110-1408.lg-3364-110-92.sh-3206-92.he-5997-1321.fa-1209-110.ca-5028-110-110.wa-3366-110-92.cc-3946-110",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "@AliveAppareal",
     "habboFigure": "hr-170-42.hd-209-8.ch-210-72.lg-4167-72.sh-4064-1408.ha-5468-75-72.he-1608.fa-3276-71.ca-3989-72-71.wa-4317-72.cc-3992",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|.|",
     "habboFigure": "hr-3870-55.hd-4383-1390-5.ch-5560-1409-1409.lg-3192-110.sh-3035-89.he-6125-1408.ea-3169-110.cc-5926-89-67",
