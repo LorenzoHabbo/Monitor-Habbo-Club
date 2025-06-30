@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "piko poko",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-63.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-1408",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -493,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "la bontà è mangime per gli avvoltoi",
-    "habboFigure": "hr-3673-49.hd-3845-28.ch-824-110.lg-3596-110-92.sh-3206-92.ha-5299-110-71.he-3070-92.fa-5467.cc-5926-110-1408",
+    "habboFigure": "hr-3673-49.hd-3845-28.ch-824-110.lg-3596-110-92.sh-3206-92.ha-5299-110-71.he-3070-92.ea-3148-110-92.fa-5467.cc-5926-110-1408",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
