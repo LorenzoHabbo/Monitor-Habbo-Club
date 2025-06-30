@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-61.hd-3091-3.ch-4994-1409-90.lg-3057-1409.sh-5308-1410.ha-3352-1409-64.he-5578-1408.fa-5601-68.ca-5769-91-66",
@@ -343,7 +343,7 @@
     "online": true,
     "gender": "f",
     "motto": "Cittadino -The Hundred",
-    "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-5998-96.lg-5243-110.he-6103-96.fa-3276-92",
+    "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-5917-96.lg-3787-82-82.he-6103-96.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Esiliato TH Ermal - CEO of McDonald's",
     "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6080.ea-5490.fa-5636-89.ca-5737-1325.cc-5826-63",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-1427-1427",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3342-64-64.lg-3596-64-64.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.ca-5981-1428-1408.cc-5800-64-110",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-4343-34-40.hd-3956-1-20.ch-4067-81-1408.lg-3078-81.sh-907-1408",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "JUN KOSEI YAºKUºZA",
     "habboFigure": "hr-5791-49.hd-209-28.ch-5559-63.lg-5594-110.sh-3180-64-110.he-5137.fa-3276-97.ca-5028-92-1428.cc-3827-110-64",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-275-64.ha-3494-73-1408.he-4379.ea-3925-68-1320.fa-1201.cc-4282-73",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-3078-1408.sh-295-1408.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-1408",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "tra pianeti e bolle di sapone",
     "habboFigure": "hr-5973-1404-49.hd-615-13.ch-660-92.lg-700-95.sh-5803-92.he-3070-93.fa-5467",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Allora go",
     "habboFigure": "hr-5772-47-40.hd-600-1.ch-665-91.lg-5970-64.sh-730-73.ha-5620-73.he-5765-72.fa-5467.cc-5926-82-1408",
@@ -3030,10 +3030,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
-    "habboFigure": "hr-3841-42.hd-180-1.ch-210-1408.lg-3787-64-1408.cc-5761-73-1408",
+    "habboFigure": "hr-3841-42.hd-180-1.ch-3110-84-1408.lg-3787-64-88",
     "memberSince": "2022-08-01T08:00:02.000+00:00",
     "uniqueId": "hhit-98171683b9ea95aba59d9b2e5539df73",
     "name": "Akerith",
@@ -3133,7 +3133,7 @@
     "online": true,
     "gender": "f",
     "motto": "motto",
-    "habboFigure": "hr-3800-40-42.hd-615-1.ch-665-64.lg-3361-74.sh-3383-76-72.he-3324-64-74.fa-3276-74.ca-5635-73-71.wa-3359-82.cc-5926-80-72",
+    "habboFigure": "hr-3800-40-40.hd-615-1.ch-3809-64-73.lg-3361-74.sh-3383-76-72.he-3324-64-74.fa-3276-74.ca-5635-73-71.wa-3359-82.cc-5926-80-1408",
     "memberSince": "2022-12-08T15:58:03.000+00:00",
     "uniqueId": "hhit-e598dc92984ec828ff12cb27473b130f",
     "name": "sonnysere",
@@ -3503,7 +3503,7 @@
     "online": false,
     "gender": "m",
     "motto": "USMC Tenente- lost per sempre|",
-    "habboFigure": "hd-190-30.ch-5805-82-72.lg-3023-64.sh-3068-64-64.ha-6109.he-5915.fa-3350.ca-1813.cc-6114",
+    "habboFigure": "hd-190-30.ch-5805-82-72.lg-3023-64.sh-3068-64-64.ha-6107.he-5915.fa-3350.ca-1813.cc-6118",
     "memberSince": "2023-11-15T10:31:43.000+00:00",
     "uniqueId": "hhit-8d4193246a03dff26533ecc3049feffe",
     "name": "_sandrino00_",
@@ -3910,7 +3910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-280-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -4723,7 +4723,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sono un clone",
-    "habboFigure": "hr-5210-1344-61.hd-3845-2.ch-5596-92.lg-5594-63.sh-4112-92-1408.ha-4192.he-3070-92.fa-5601-1408.ca-5936-92.cc-5925-1321",
+    "habboFigure": "hr-3829-1344.hd-3845-2.ch-5596-92.lg-5594-63.sh-4112-92-1408.ha-4192.he-3070-92.fa-5601-1408.ca-5936-92.cc-5925-1321",
     "memberSince": "2025-04-03T21:40:18.000+00:00",
     "uniqueId": "hhit-9c42780b101c7476070371cacd83a703",
     "name": "Siri9723",
