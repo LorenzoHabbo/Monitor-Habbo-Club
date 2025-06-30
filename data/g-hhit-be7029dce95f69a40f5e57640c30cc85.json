@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-6002.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5009.fa-5467",
@@ -3690,10 +3690,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "1312",
-    "habboFigure": "hr-5019-40.hd-3845-8.ch-6016-1408-1408.lg-6017-1408-1408.sh-725-68.he-1608.fa-3276-1408.ca-6018",
+    "habboFigure": "hr-5019-40.hd-3845-8.ch-267-1408.lg-3116-64-1408.sh-4112-71-1408.he-1608.fa-3276-1408",
     "memberSince": "2011-01-16T22:11:26.000+00:00",
     "uniqueId": "hhit-c5c07710e4a24e4c548e0a724f0e0604",
     "name": "ultrass98",
@@ -7903,7 +7903,7 @@
     "online": true,
     "gender": "m",
     "motto": "team lgbtqia+",
-    "habboFigure": "hr-155-34.hd-205-14.ch-3030-64.lg-280-64.sh-305-64.he-1609-73.ea-1404-64",
+    "habboFigure": "hr-893-37.hd-180-10.ch-255-83.lg-285-83.sh-295-80",
     "memberSince": "2014-06-08T18:05:44.000+00:00",
     "uniqueId": "hhit-2800c5f6008d903a83fcfa95a6a3b184",
     "name": "tarzan1998-ban",
@@ -9780,7 +9780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-615-2.ch-655-92.lg-3200-92.sh-5247-92-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3885-92-1408.cc-4300-1427-92",
