@@ -270,10 +270,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "999|",
-    "habboFigure": "hr-5306-61-49.hd-4015-28.ch-3934-110-110.lg-5594-110.ha-4192.wa-3773-110",
+    "habboFigure": "hr-5306-49-61.hd-4015-28.ch-3934-110-110.lg-5594-110.ha-4192.wa-3773-110",
     "memberSince": "2009-11-29T18:36:00.000+00:00",
     "uniqueId": "hhit-2a5a2a8345171d811f3d28f430242f5f",
     "name": "Sadvicious",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "...",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3206-110.he-5348.fa-5600-92.ca-5028-93-1412.cc-3009-110-110",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-6010-58-1347.hd-4163-2-14.ch-4071.lg-5970-77.sh-5551.ha-5591.he-3627-1414-1433.ea-3961.fa-5467.ca-5523.wa-5123-92.cc-5926-1414-92",
@@ -963,7 +963,7 @@
     "online": false,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
-    "habboFigure": "hd-190-14.ch-210-1408.lg-3216-82.ea-1404-64.fa-1211.wa-3211-76-71",
+    "habboFigure": "hd-190-10.ch-4169.lg-3216-82.sh-5551.ea-1404-64.fa-1211.wa-5370",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -2220,7 +2220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-828-1407.hd-3095-1.ch-3215-110.lg-275-110.ea-1402.fa-3276-64",
