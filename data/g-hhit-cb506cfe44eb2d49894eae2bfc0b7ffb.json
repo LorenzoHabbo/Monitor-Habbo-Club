@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-60.hd-3091-1389.ch-3059-1416.lg-6017-110-93.sh-3587-92-93.he-3070-93.fa-1201",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-3483-1334-1334.ha-3173-1408.ea-1404-110.fa-1207",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "tra pianeti e bolle di sapone",
     "habboFigure": "hr-5973-1404-49.hd-615-13.ch-660-92.lg-700-95.sh-5803-92.he-3070-93.fa-5467",
@@ -3223,7 +3223,7 @@
     "online": true,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-3990-51-40.hd-180-28.ch-3203-110.lg-3361-110.sh-3687-1332-110.ha-5591.ea-3960.fa-5975.ca-3989-1332-1326",
+    "habboFigure": "hd-209-1361.lg-4309.ha-4307.he-5577-92-94.cc-5826-110",
     "memberSince": "2023-11-03T23:25:54.000+00:00",
     "uniqueId": "hhit-fec333ed2c090448eba7874a06d01270",
     "name": "ChazDrinking",
