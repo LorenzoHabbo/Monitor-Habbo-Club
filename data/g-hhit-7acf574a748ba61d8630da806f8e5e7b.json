@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SHEIDEDA @ The Hundred - crikey",
     "habboFigure": "hr-3520-45.hd-180-1.ch-5093-64.lg-3361-64.sh-4112-64-64.he-3376-68-81.fa-3344-91.wa-2001.cc-3593-64-68",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3687-64-64.he-3660-64-1408.fa-3378-64-1408",
@@ -3880,7 +3880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1394-40.hd-600-2.ch-4128-77-92.lg-3006-92-77.sh-5803-92.he-6103-77.fa-5467",
