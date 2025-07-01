@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-4131-1403-1404.hd-600-10.ch-665-92.lg-3174-86-92.sh-5308-86.ha-4136-92.fa-5467.ca-5981-1413-1412.wa-3263-89-1325.cc-3975-86-92",
@@ -780,9 +780,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Guerrirero the hundred",
+    "motto": "Cittadino the hundred",
     "habboFigure": "hr-802-31.hd-180-14.ch-3506-93-93.lg-270-93.sh-300-93.ha-1014.ea-3484.fa-1204.ca-3503-93.cc-4026-93-93",
     "memberSince": "2011-02-27T11:17:09.000+00:00",
     "uniqueId": "hhit-31c25de964f6081df264b8ad1332b53a",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-5189-1423-92.lg-3058-1422.sh-3587-92-1427.ha-5141-1423-96.he-3082-92.fa-3276-96.ca-5737-92",
@@ -3130,7 +3130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-3800-40-40.hd-615-1.ch-3809-64-73.lg-3361-74.sh-3375-64-72.he-3324-64-74.fa-3276-74.ca-5635-73-71.wa-3359-82.cc-5926-80-1408",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-1426.sh-908-92.he-3070-92.ea-1404-110.fa-5601-92",
@@ -4552,7 +4552,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "the hundred capo ingegnere",
+    "motto": "the hundred guardia esperta",
     "habboFigure": "hr-3870-37.hd-4163-2-1369.ch-5560-92-1337.lg-5974-110-1337.sh-3354-110-68.ha-3709.he-3070-92.ca-5934-110.cc-4184-1339-108",
     "memberSince": "2025-02-02T23:54:04.000+00:00",
     "uniqueId": "hhit-7f78d8c4062dc72475fa0abfb9a6cb87",
