@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-6063-31.hd-5913-10.ch-6012-1414-92.lg-6013-1414-92.ea-1404-64.fa-5467",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-3203-82.lg-5594-1338.he-3740.ea-3169-1426.fa-3993-110",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-3018-110.sh-5247-92-110.ha-3677.fa-3276-98.wa-3773-94",
