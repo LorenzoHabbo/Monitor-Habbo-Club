@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-3520-34.hd-180-1363.ch-3032-85-92.lg-285-1321.sh-290-92.ea-1404-110",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Molestato da meli",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-6125-63.fa-3276-70.cc-5800-92-110",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-3203-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-5926-1416-92",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
