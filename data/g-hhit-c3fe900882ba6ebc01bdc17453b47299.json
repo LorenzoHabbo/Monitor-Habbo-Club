@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-37-31.hd-180-1370.ch-210-1408.lg-3337-1408.sh-3338-1408.ea-3639.cc-3928",
@@ -490,10 +490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "la bontà è mangime per gli avvoltoi",
-    "habboFigure": "hr-3673-49.hd-3845-28.ch-824-110.lg-3596-110-92.sh-3206-92.ha-5299-110-71.he-3070-92.ea-3148-110-92.fa-5467.cc-5926-110-1408",
+    "habboFigure": "hr-3673-49.hd-3845-28.ch-824-110.lg-3596-110-92.sh-3206-92.ha-5299-110-71.he-3070-92.fa-5467.cc-5926-110-1408",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
