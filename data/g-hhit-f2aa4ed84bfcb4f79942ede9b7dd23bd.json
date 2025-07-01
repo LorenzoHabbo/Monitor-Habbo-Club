@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-6063-31.hd-5913-10.ch-6012-1414-92.lg-6013-1414-92.ea-1404-64.fa-5467",
@@ -253,7 +253,7 @@
     "online": false,
     "gender": "f",
     "motto": "humanity is not a completed project",
-    "habboFigure": "hd-627-1369.ch-3672-64-76.lg-4012-76.sh-3338-76.ha-3535.he-4059-76-64.ea-3698-64-1408.fa-4283-76.wa-4060-76-76",
+    "habboFigure": "hd-627-1369.ch-3672-64-76.lg-4012-76.sh-3338-76.ha-3535.he-4059-64-64.ea-3698-64-1408.fa-4283-76.wa-4060-76-76",
     "memberSince": "2006-09-05T18:48:20.000+00:00",
     "uniqueId": "hhit-5610646e90b7ffab1204239ff9e9b770",
     "name": "Vippina",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-92",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3829-45.hd-3845-1.ch-3077-100-110.lg-3418-1409.sh-5247-92-64.he-5074-92.ca-5769-92-92",
@@ -9040,7 +9040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-31.hd-3956-1-1371.ch-665-1408.lg-5594-82.he-6019.fa-3276-72.cc-5926-72-1408",
@@ -9400,7 +9400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
     "habboFigure": "hr-3163-61.hd-205-10.ch-225-96.lg-281-110.sh-908-110.ha-3145-96-110.ca-3176-110-96.cc-3158-110",
