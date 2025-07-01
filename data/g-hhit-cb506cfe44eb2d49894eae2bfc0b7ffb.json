@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-1339.lg-3006-1339-98.sh-5717.he-3070-92.fa-3993-1326",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥USMC Vice-Presidente¥  Scrittrice|",
     "habboFigure": "hr-5503-1343.hd-3956-1389-30.ch-4067-110-1410.lg-3391-110-92.sh-3277-110-1410.ha-6014-110-1410.he-6019.fa-3276-1328.ca-6018.cc-5951-110",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3260-61.hd-3095-1389.ch-3110-1422-1422.lg-3116-92-1423.sh-3115-110-110.ha-3709.cp-3120-1423",
