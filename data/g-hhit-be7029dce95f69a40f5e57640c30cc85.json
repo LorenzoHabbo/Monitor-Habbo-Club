@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cittadino -The Hundred",
     "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5831-110.lg-3391-82-1408.he-6103-1323",
@@ -4640,7 +4640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cerco fida",
     "habboFigure": "hr-3468-45.hd-209-1.ch-210-64.lg-275-64.sh-3180-1408-64.ha-1017.fa-1210.cc-3405-64-1408",
