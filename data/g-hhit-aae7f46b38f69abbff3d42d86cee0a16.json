@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-3.ch-5192.lg-5113-94.sh-3621-63-1408.ha-5241-94.fa-5692-63-1408.ca-5592-83-1408.cc-6031-1322-70",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-275-1408.ha-3709.he-5808-1408.ea-3925-1408-1408.wa-2004-71",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-180-8.ch-3109-64-1408.lg-3116-1408-1408.sh-906-64.ha-1013-66.ea-1406",
