@@ -343,7 +343,7 @@
     "online": false,
     "gender": "f",
     "motto": "Cittadino -The Hundred",
-    "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5831-110.lg-3391-82-1408.he-6103-1323.fa-3276-92",
+    "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5831-110.lg-3391-82-1408.ha-3586.he-5279.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6066-95.ea-6053-95.ca-6018.cc-5926-92-95",
@@ -1930,7 +1930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Decime Esperta G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-3683-1408-1408.lg-270-81.sh-300-81.ha-1009-81.ea-3484.cc-3294-81-81",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-3203-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-5926-1416-92",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Vice Ministro Nevada »",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3934-110-110.lg-3418-92.sh-3016-110.ha-4325.he-5348.fa-3296.ca-3175-63.cc-3593-110-92",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Tu hai il gramo º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-3006-110-110.he-3740.ca-3885-1410-110.cp-3207-1321-1322",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-210-92.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5926-110-1408",
@@ -3610,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-92.lg-275-89.sh-300-1408.he-3070-1322.cp-3126-63",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5772-1342-61.hd-627-1383.ch-3970-1428.lg-3526-110-110.sh-5247-92-92.fa-3964",
@@ -4010,10 +4010,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " aiutante apprendista g.d",
-    "habboFigure": "hr-3163-37.hd-209-1.ch-255-1416.lg-3023-92.sh-3089-1416",
+    "habboFigure": "hr-3163-1395.hd-209-1.ch-3203-82.lg-3023-1424.sh-3089-107.wa-2009-1408.cc-3007-92-92",
     "memberSince": "2024-09-29T00:49:36.000+00:00",
     "uniqueId": "hhit-9a76bc3ab1340894a405d3832d63691f",
     "name": "Giuseppe_gtr33",
