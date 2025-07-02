@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-45.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-1011-92.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -283,7 +283,7 @@
     "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
-    "habboFigure": "hr-5772-1404-40.hd-600-10.ch-665-92.lg-4138-1337.sh-5308-86.ha-3709.he-5577-86-94.ea-4021-80-80.fa-5467.ca-4937.wa-3263-89-1409.cc-4137-86",
+    "habboFigure": "hr-5773-1404.hd-600-10.ch-5351-110-1410.lg-3134-110-1408.sh-6043.ha-5704.he-5578-1321.fa-5467.cc-5690-63",
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "rrosina",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-1398.hd-180-1.ch-5559-63.lg-3078-110.sh-3524-110-92.ha-1004-110.ca-1816.cc-3289-110",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "23kg la mia sara lopez ¥",
     "habboFigure": "hr-4363-1404-1404.hd-625-10.ch-3839-81-92.lg-700-1409.sh-5308-1321.he-3070-1410.fa-3276-1411.ca-6018",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3092-1.ch-3203-110.lg-4114-110-92.sh-3524-92-110.ha-3546-92.ea-1404-64.wa-4060-110-1408.cc-4184-110-92",
@@ -1540,16 +1540,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": " Untouchable",
-    "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-92.lg-3418-75.sh-3419-92-92.ha-5417.fa-3344-91.ca-5278-1431.cc-5942-75",
-    "memberSince": "2014-11-05T18:02:22.000+00:00",
-    "uniqueId": "hhit-76a7bda9e928fb49c290bd4843bdc1a9",
-    "name": "Ak1",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "shushh",
@@ -1630,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-34.hd-209-1370.ch-262-81.lg-3078-1408.sh-3068-1408-74.cc-4097-82-81",
@@ -1691,9 +1681,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "bannato (sono Spercus)\r",
-    "habboFigure": "hr-9534-1403.hd-615-18.ch-665-110.lg-710-110.sh-908-110.he-1608.fa-3276-110",
+    "habboFigure": "hr-3163-61.hd-205-10.ch-3208-1331-110.lg-281-110.sh-908-110.ha-3145-110-110.ca-3176-110-1331.cc-3158-110",
     "memberSince": "2015-06-24T12:57:08.000+00:00",
     "uniqueId": "hhit-ca1d8f33e2c6c5fd6b7211b90021aaaa",
     "name": "Maessi",
@@ -2250,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -3543,7 +3533,7 @@
     "online": true,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-3768-61.hd-5913-28.ch-5830-110.lg-3483-110-110.sh-5295.ha-5269-110.he-5348.fa-1203.ca-5273-1410-101.wa-5676.cc-4091-110",
+    "habboFigure": "hr-3990-51-40.hd-180-28.ch-3203-110.lg-3361-110.sh-3687-1332-110.ha-3363.ea-3960.fa-5975.ca-3989-1332-1326",
     "memberSince": "2023-11-03T23:25:54.000+00:00",
     "uniqueId": "hhit-fec333ed2c090448eba7874a06d01270",
     "name": "ChazDrinking",
@@ -3630,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Nothing's Gonna Hurt You Baby",
     "habboFigure": "hr-3829-1404.hd-3102-1.ch-3203-1339.lg-3202-110-1408.sh-4112-92-92.he-5088.fa-4048.cc-5951-110",
@@ -3693,7 +3683,7 @@
     "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
-    "habboFigure": "hr-5772-1342-61.hd-627-1383.ch-3970-1428.lg-3526-110-110.sh-5247-92-92.fa-3964",
+    "habboFigure": "hr-5772-1342-61.hd-627-1383.ch-3970-1428.lg-3526-110-110.sh-5247-92-92.ha-6105.fa-3964.cc-6111",
     "memberSince": "2024-02-05T00:48:41.000+00:00",
     "uniqueId": "hhit-4699dc56c922e002dd5dc302b7976058",
     "name": "Segretaria2ban",
@@ -4240,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-110.sh-908-92.he-3070-92.fa-5601-92.cc-3420-110",
@@ -4370,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-209-1370.ch-210-1408.lg-281-76.sh-905-71.ha-3117-64.he-1601.fa-1202-72.ca-1815-66.cp-3128-64",
@@ -4860,7 +4850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "USMC Soldato Semplice OP",
     "habboFigure": "hr-890-37.hd-600-1370.ch-685-1320.lg-3216-91.sh-730-91.he-1605-91",
@@ -4873,7 +4863,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-893-45.hd-180-1370.ch-3030-1408.lg-275-64.sh-295-1408.ca-1807",
+    "habboFigure": "hr-893-45.hd-180-1370.ch-255-64.lg-3078-71.sh-305-1408",
     "memberSince": "2025-06-19T22:31:33.000+00:00",
     "uniqueId": "hhit-f8ced988e434d7eed3eb98b0004295ef",
     "name": "Serking",
