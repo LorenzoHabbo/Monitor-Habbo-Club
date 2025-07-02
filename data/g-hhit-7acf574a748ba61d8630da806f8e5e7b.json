@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-3030-110.lg-3596-110-110.sh-5803-92.ha-1022-110.he-3081-68.ea-3962.fa-1211.cp-3315-92",
@@ -713,7 +713,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-5210-1394-55.hd-6159-1378-28.ch-3203-1418.lg-4138-77.sh-5247-92-1338.he-6140.fa-5975.ca-5937-1410-1410.cc-6134",
+    "habboFigure": "hr-5210-1394-55.hd-6159-1378-28.lg-5594-77.sh-5247-92-77.he-3081-1324.fa-6132.ca-5937-1410-1410.cc-6134",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "BuilderDesigner©®™ Bailando",
     "habboFigure": "hr-5912-33-61.hd-3721-1359.ch-876-110-1408.lg-3915-92-110.fa-5636-94.ca-6018.cc-6031-110-64",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gaijin esperto Ykz Shiro",
     "habboFigure": "hr-3841-32.hd-205-1370.ch-3840-1320-85.lg-275-81.sh-3524-1320-64.ha-4192.he-6125-64.ea-1404-64.fa-3276-73.ca-6018",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-14.ch-5833-1408-1408.lg-4066-1408.sh-3524-1408-1408.he-5578-1408.fa-1204",
@@ -3610,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-92.lg-275-89.sh-300-1408.he-3070-1322.cp-3126-63",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-74.lg-3216-64.sh-907-64.he-3274-74",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-110.sh-908-92.he-3070-92.fa-5601-92.cc-3420-110",
