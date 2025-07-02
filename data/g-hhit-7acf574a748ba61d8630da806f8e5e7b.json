@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-255-110.lg-280-1426.sh-5247-92-64.he-3740.ea-5897-110-1408",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-80.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin esperto Ykz Shiro",
     "habboFigure": "hr-3841-32.hd-205-1370.ch-3840-1320-85.lg-275-81.sh-3524-1320-64.ha-4192.he-6125-64.ea-1404-64.fa-3276-73.ca-6018",
@@ -2293,7 +2293,7 @@
     "online": true,
     "gender": "m",
     "motto": "Erede Polska",
-    "habboFigure": "hr-3746-40.hd-3845-10.ch-4111-1408.lg-3116-1408-1408.sh-3687-1408-1408.he-3660-64-1408.fa-3378-64-1408",
+    "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3687-64-64.he-3660-64-1408.fa-3378-64-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
@@ -2393,7 +2393,7 @@
     "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
-    "habboFigure": "hr-5680-34.hd-3845-10.ch-3598-64-64.lg-4066-64.sh-907-64.he-6066-64",
+    "habboFigure": "hr-5680-34.hd-3845-10.ch-3598-64-64.lg-4066-64.sh-907-64.he-6125-64",
     "memberSince": "2020-04-27T14:00:56.000+00:00",
     "uniqueId": "hhit-9ca83877f1b71181a8f009d0ac76c1b3",
     "name": "Ellie_williams",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred",
     "habboFigure": "hr-515-42.hd-605-1.ch-4067-84-83.lg-700-85.sh-730-84.he-3329-83-85.fa-3276-72",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5772-1342-61.hd-627-1383.ch-3970-1428.lg-3526-110-110.sh-5247-92-92.fa-3964",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-110.sh-908-92.he-3070-92.fa-5601-92.cc-3420-110",
