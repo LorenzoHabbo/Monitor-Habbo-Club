@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-5791-45.hd-180-1.ch-215-1408.lg-5594-64.sh-3383-75-76.he-5578-84.ea-1404-64.fa-5600-1408",
@@ -4803,7 +4803,7 @@
     "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-5306-49-58.hd-190-2.ch-4361-63-1408.lg-4066-82.sh-5803-92.cc-5800-110-110",
+    "habboFigure": "hr-5791-61.hd-205-28.ch-4361-63-1408.lg-4066-82.sh-5803-92.ea-6053-1410.fa-5601-1408.cc-5800-110-110",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
