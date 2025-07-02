@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-100.lg-3364-110-100.sh-3206-92.he-5997-1321.ea-1402.fa-1209-110.ca-5028-110-110.wa-3366-100-66.cc-3946-110",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-4941-1405-1405.hd-180-2.ch-255-1335.lg-280-81.sh-5803-92",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-3.ch-5192.lg-5113-94.sh-3621-63-1408.ha-5241-94.fa-5692-63-1408.ca-5592-83-1408.cc-6031-1322-70",
