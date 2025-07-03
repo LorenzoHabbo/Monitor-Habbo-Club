@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Azzera i pensieri -",
     "habboFigure": "hr-5791-49.hd-3095-3.ch-6015-110-1408.lg-3407-110-92.sh-3016-92.ea-3169-1430.cc-5926-1430-110",
@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ma tu dimmelo.. dimmelo adesso",
     "habboFigure": "hr-5619-34.hd-615-1.ch-4128-110-1330.lg-710-1331.sh-3206-110.he-3070-89.ea-1404-110.fa-5467.cc-3975-110-1331",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5073.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "keep it hot like sauna",
     "habboFigure": "hr-515-1403.hd-615-22.ch-3013-110.lg-700-64.sh-725-92.he-6019.fa-5467.cc-5800-1418-1418",
@@ -3613,7 +3613,7 @@
     "online": false,
     "gender": "m",
     "motto": "Nothing's Gonna Hurt You Baby",
-    "habboFigure": "hr-3829-1404.hd-3102-1.ch-803-110.lg-5594-1339.sh-4112-110-1340.he-5802-1337.fa-4048.cc-5461-110-1421",
+    "habboFigure": "hr-3829-1404.hd-3102-1.ch-3203-1339.lg-3202-110-1408.sh-4112-92-92.he-5088.fa-4048.cc-5951-110",
     "memberSince": "2024-01-05T03:00:51.000+00:00",
     "uniqueId": "hhit-4cb17d8dc067db5ffce5890d2e317982",
     "name": "Matthewice.",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-205-13.ch-210-64.lg-3116-1334-92.sh-305-110.he-3070-1427.fa-5601-1409",
@@ -3900,7 +3900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-4128-77-92.lg-3006-92-77.sh-5803-92.he-6125-77.fa-5467",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-110.sh-908-92.he-3070-92.fa-5601-92.cc-3420-110",
@@ -4652,7 +4652,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Sorella di Lollofrigido",
+    "motto": "",
     "habboFigure": "hr-515-39.hd-600-1370.ch-665-88.lg-700-85.fa-3276-73",
     "memberSince": "2025-03-07T22:55:38.000+00:00",
     "uniqueId": "hhit-9b39e241a0d8af8e3554a3c159f8280a",
@@ -4807,6 +4807,16 @@
     "memberSince": "2025-06-11T17:45:44.000+00:00",
     "uniqueId": "hhit-622c1f162275078ac798216ac048101d",
     "name": "LilBaby",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "più punti al frigo che sulla patente",
+    "habboFigure": "hr-3260-34.hd-180-30.ch-215-92.lg-281-110.sh-305-92.ea-1404-110.cc-3002-110",
+    "memberSince": "2025-06-16T14:48:24.000+00:00",
+    "uniqueId": "hhit-630e6d7c22d299bf9e1ec9345f805d78",
+    "name": "aleexndr",
     "isAdmin": false
   },
   {
