@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "A beautiful disaster ~",
     "habboFigure": "hr-3810-49.hd-3845-28.ch-665-110.lg-3526-110-110.ha-5299-110-71.he-3070-92.ea-5897-110-110.fa-5467.cc-5926-110-92",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Raccontami una storia ~",
     "habboFigure": "hr-3786-46-48.hd-209-1.ch-255-1408.lg-3320-82-1408",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-49-49.hd-627-10.ch-665-92.lg-3202-110-1408.sh-4064-92.he-5314-1332-80.ea-3148-1332-1408.fa-3276-72.cc-4300-110-110",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
