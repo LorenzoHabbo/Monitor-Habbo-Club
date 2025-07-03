@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "A beautiful disaster ~",
     "habboFigure": "hr-3810-49.hd-3845-28.ch-665-110.lg-3526-110-110.ha-5299-110-71.he-3070-92.ea-5897-110-110.fa-5467.cc-5926-110-92",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "…",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.he-3833-1320.fa-3378-1320-1408.ca-6020-90.wa-4317-1408.cc-3294-64-64",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-49-49.hd-627-10.ch-665-92.lg-3202-110-1408.sh-4064-92.he-5314-1332-80.ea-3148-1332-1408.fa-3276-72.cc-4300-110-110",
