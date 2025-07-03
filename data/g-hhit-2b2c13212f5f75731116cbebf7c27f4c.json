@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6023-59-1394.hd-4383-2-14.ch-5998-92.lg-5974-92-110.wa-5599-110-92.cc-6031-92-96",
@@ -80,10 +80,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
-    "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-100.lg-3364-110-100.sh-3206-92.he-5997-1321.ea-1402.fa-1209-110.ca-5028-110-110.wa-3366-100-66.cc-3946-110",
+    "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3013-92.lg-3364-92-92.sh-3206-92.he-5997-1321.ea-1402.fa-1209-92.ca-5028-1425-1338.wa-3366-92-1425.cc-4137-92",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-3845-8.ch-5596-1408.lg-3078-1408.sh-305-73.fa-3378-64-1408.cp-3120-1408",
@@ -4570,7 +4570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -9340,6 +9340,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-890-45.hd-600-1370.ch-685-81.lg-715-81.sh-907-73.he-1605-73.fa-3276-73.ca-1801-73.wa-2009-73",
+    "memberSince": "2023-08-16T16:14:46.000+00:00",
+    "uniqueId": "hhit-35f84c83cb7f5d5f7ac686d7ce939b7a",
+    "name": "StrongWoman02",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "f",
     "motto": "apprendista novello G.D",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-11-10T14:30:48.000+00:00",
     "uniqueId": "hhit-de64f7f9b2670353ef5c0d93be7128d7",
     "name": "Seiko",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "apprendista aiutante g.d",
-    "habboFigure": "hr-4182-48-48.hd-4163-10-30.ch-5560-82-81.lg-5594-1408.ha-4196.ea-5897-64-64.fa-3276-1408.wa-5599-1408-64",
-    "memberSince": "2023-11-12T11:18:14.000+00:00",
-    "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
-    "name": "Sweetdevil:!",
     "isAdmin": false
   }
 ]
