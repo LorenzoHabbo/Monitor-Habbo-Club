@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "JUN KOSEI YAºKUºZA",
     "habboFigure": "hr-5791-49.hd-209-28.ch-5559-63.lg-5594-110.sh-3180-64-110.he-5137.fa-3276-1414.ca-5028-92-1428.cc-3827-110-1414",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non c'è competizione",
     "habboFigure": "hr-6023-61-49.hd-3100-1390.ch-5998-110.lg-5970-92.fa-3276-97",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "BuilderDesigner©®™ Bailando",
     "habboFigure": "hr-5912-33-61.hd-3721-1359.ch-876-110-1408.lg-3915-92-110.fa-5636-94.ca-6018.cc-6031-110-64",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Molestato da meli",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-6125-110.fa-3276-70.cc-5800-92-110",
@@ -1553,14 +1553,14 @@
     "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
-    "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5073.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
+    "habboFigure": "hr-3852-61.hd-627-2.ch-3293-81-1408.lg-3006-1322-1408.sh-3064-92.he-3732.ea-3108-63-1408.ca-3292-1322",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒ.ƒ",
     "habboFigure": "hr-5555-31-40.hd-3956-1-14.ch-3836-71-73.lg-3391-71-73.sh-5551.he-1602-72",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Tu hai il gramo º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-3006-110-110.he-3740.ca-3885-1410-110.cp-3207-1321-1322",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-5088",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato scelto GD",
     "habboFigure": "hr-5619-1345.hd-3604-1367.ch-5831-96.lg-3136-96.sh-3338-96.ha-5704.he-3081-72.fa-1209-96.ca-5771-96-96.cc-5926-96-96",
