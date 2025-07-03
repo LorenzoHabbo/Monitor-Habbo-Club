@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "piko poko",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-63.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-1408",
@@ -823,7 +823,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-5921-1324-92.lg-5594-64.sh-5247-92-1408.he-4977-1408-1324.ea-5626-110.fa-5601-1408",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-5921-1335-92.lg-5594-64.sh-5247-92-1408.ha-3776.ea-5626-110.fa-5601-1408",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -2040,10 +2040,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-3322-34.hd-180-1.ch-3668-1408-1408.lg-5594-1408.sh-5247-1408-1408.he-5466.ea-3978-1408-1408.fa-3276-72.ca-3485.cc-5800-1408-1408",
+    "habboFigure": "hr-3322-34.hd-180-1.ch-3668-1408-1408.lg-3526-1408-1408.sh-5803-1408.he-5466.ea-3978-1408-1408.fa-3276-72.ca-3485.cc-5800-1408-1408",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non mi va",
     "habboFigure": "hr-4193-45.hd-600-10.ch-690-91.lg-3216-76.sh-3180-73-81.ha-1001.he-3543-1408.ea-1404-1408.fa-1205-64.ca-1802.wa-2002.cc-4106-64-1408",
