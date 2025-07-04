@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-77",
@@ -1430,10 +1430,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-210-92.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5926-110-1408",
@@ -4507,16 +4507,6 @@
     "memberSince": "2025-01-10T13:29:20.000+00:00",
     "uniqueId": "hhit-36ed65b991627d744a2cb90444022463",
     "name": "Varys",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "assurdamente assurdo",
-    "habboFigure": "hr-3829-34.hd-205-1392.ch-245-92.lg-275-1338.sh-908-110.he-3070-92.fa-3276-1413.cc-3420-110",
-    "memberSince": "2025-01-15T16:53:39.000+00:00",
-    "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
-    "name": "Pulse.",
     "isAdmin": false
   },
   {
