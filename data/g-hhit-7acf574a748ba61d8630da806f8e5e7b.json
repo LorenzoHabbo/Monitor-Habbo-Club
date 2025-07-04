@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-4383-28-14.ch-665-72.lg-3391-82-1408.ha-3586.he-5279.fa-3276-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3342-64-64.lg-3596-64-64.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.ca-5981-1428-1408.cc-5800-64-110",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-77",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
@@ -2933,7 +2933,7 @@
     "online": false,
     "gender": "f",
     "motto": "A Sky Full of Stars ¥",
-    "habboFigure": "hr-3255-1343-1347.hd-5319-1-1364.ch-5903-1326-92.lg-6000-71.sh-5670-1326.he-5199",
+    "habboFigure": "hr-3255-1343-1347.hd-5319-1-1364.ch-5903-1326-92.lg-6000-71.sh-5670-1326.ha-5076-1326.he-5199",
     "memberSince": "2022-04-02T17:06:21.000+00:00",
     "uniqueId": "hhit-16e6d33050ece7f42f39961b7c4ceca0",
     "name": "lava98",
@@ -3910,10 +3910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
-    "habboFigure": "hr-6010-61-58.hd-5840-11-1362.ch-5998-92.lg-5594-110.sh-5803-92.he-6125-63.fa-3276-97.cc-5925-1338",
+    "habboFigure": "hr-6010-61-58.hd-5840-11-1362.ch-5917-92.lg-5594-110.sh-5803-92.he-6125-63.fa-3276-97.cc-6164-77",
     "memberSince": "2024-08-23T10:12:18.000+00:00",
     "uniqueId": "hhit-daebdaa9eb8fc692c88ce4c2461b40a2",
     "name": "AishaLaBisha",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-1392.ch-245-92.lg-275-1338.sh-908-110.he-3070-92.fa-3276-1413.cc-3420-110",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred guardia esperta",
     "habboFigure": "hr-3870-37.hd-4163-2-1369.ch-5560-92-1337.lg-5974-110-1337.sh-3354-110-68.ha-3709.he-3070-92.ca-5934-110.cc-4184-1339-108",
