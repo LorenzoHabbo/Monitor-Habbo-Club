@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-3006-110-110.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3885-110-92.cc-5951-110",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "EW",
     "habboFigure": "hr-3322-45.hd-209-19.ch-4111-1408.lg-3320-64-64.sh-4112-64-64.he-3833-66.ea-3925-66-66.fa-1204.cc-3874-64-64",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-4128-77-92.lg-3006-92-77.sh-5803-92.he-6125-77.fa-5467",
