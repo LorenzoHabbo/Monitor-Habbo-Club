@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6066-95.ea-6053-95.ca-6018.cc-5926-92-95",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-77",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred guardia esperta",
     "habboFigure": "hr-3870-37.hd-4163-2-1369.ch-5560-92-1337.lg-5974-110-1337.sh-3354-110-68.ha-3709.he-3070-92.ca-5934-110.cc-4184-1339-108",
