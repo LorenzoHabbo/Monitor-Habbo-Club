@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-100.lg-3364-110-100.sh-3206-92.he-5997-1321.ea-1402.fa-1209-110.ca-5028-110-110.wa-3366-100-66.cc-3946-110",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-4383-28-14.ch-665-72.lg-3391-82-1408.ha-3586.he-5279.fa-3276-92",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -1420,10 +1420,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Forum Game e Moderat. HabboinHabbo.iit",
-    "habboFigure": "hr-5680-36.hd-3096-8.ch-3005-1331-1331.lg-3018-80.sh-3206-1330.he-1602-96.ca-1807",
+    "habboFigure": "hr-5680-36.hd-600-14.ch-3213-1430-80.lg-3019-80.sh-3016-1430.he-1608.ca-3176-102-102",
     "memberSince": "2011-01-30T13:44:39.000+00:00",
     "uniqueId": "hhit-4a1f2cf4795ac4c9bcac56b0c55fc3f8",
     "name": "@.Lolita.@",
@@ -1930,7 +1930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-35.hd-209-1.ch-215-90.lg-3078-82.sh-295-1408.ha-5730-64.he-3548.ea-3484.fa-3344-90",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
     "habboFigure": "hr-4090-1343.hd-205-1.ch-3215-110.lg-5594-77.sh-4112-110-92.he-6019.ea-5897-63-1408.ca-5768-92-93",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ª apprendista novello G.D. ª",
     "habboFigure": "hr-890-44.hd-600-1.ch-822-73.lg-3216-82",
@@ -5612,16 +5612,6 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "cavallini fanno una parata sono bollen",
-    "habboFigure": "hr-515-44.hd-600-1.ch-650-75.lg-715-76.sh-905-1408.fa-3276-72.ca-1818",
-    "memberSince": "2020-12-05T13:16:01.000+00:00",
-    "uniqueId": "hhit-e8fbeb5b2ad9ca48624a487f10704c08",
-    "name": "soobin",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
     "motto": "Scagnozzo GD",
     "habboFigure": "hr-3673-34.hd-625-8.ch-665-74.lg-3216-76.sh-3068-1408-75.ha-1013-76.fa-3276-72.wa-2011",
     "memberSince": "2020-12-11T19:31:07.000+00:00",
@@ -6700,7 +6690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "est modus in rebus -R |. sono fantagab",
     "habboFigure": "hr-540-45.hd-600-1.ch-665-72.lg-3023-72.sh-3068-1408-72.he-3274-72",
@@ -7000,7 +6990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arruolato Gh",
     "habboFigure": "hr-135-42.hd-209-1.ch-267-91.lg-275-82.sh-908-88.ha-4094-64-1408",
@@ -8270,7 +8260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello g.d.",
     "habboFigure": "hr-5019-35.hd-180-1.ch-3498-64.lg-4113-64-64.ha-4326.he-3324-64-1408.cc-5558-64-1408",
@@ -9960,7 +9950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato scelto GD",
     "habboFigure": "hr-5619-59.hd-3956-1383-1367.ch-3809-93-1408.lg-3202-66-93.sh-5023-66-93.ha-5849.ea-3484.fa-5835-93.ca-1816.wa-5836-93-93.cc-4096-66-93",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-11-10T14:30:48.000+00:00",
     "uniqueId": "hhit-de64f7f9b2670353ef5c0d93be7128d7",
     "name": "Seiko",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "apprendista aiutante g.d",
+    "habboFigure": "hr-4182-48-48.hd-4163-10-30.ch-5560-82-81.lg-5594-1408.ha-4196.ea-5897-64-64.fa-3276-1408.wa-5599-1408-64",
+    "memberSince": "2023-11-12T11:18:14.000+00:00",
+    "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
+    "name": "Sweetdevil:!",
     "isAdmin": false
   }
 ]
