@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-4383-9-30.ch-665-72.lg-3391-82-1408.ha-3586.he-5279.fa-3276-1328",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin esperto Ykz Shiro",
     "habboFigure": "hr-3841-32.hd-205-1370.ch-3840-1320-85.lg-275-81.sh-3524-1320-64.ha-4192.he-6125-64.ea-1404-64.fa-3276-73.ca-6018",
@@ -3600,7 +3600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3539-110.lg-275-110.sh-305-63.he-3070-1410.fa-5835-63.ca-5916-1420-1315",
