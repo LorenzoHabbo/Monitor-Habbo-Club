@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-4383-9-30.ch-665-92.lg-4114-92-92.ha-3586.he-5808-1408.fa-3276-1328",
@@ -6650,7 +6650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
@@ -6990,7 +6990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arruolato Gh",
     "habboFigure": "hr-135-42.hd-209-1.ch-267-91.lg-275-82.sh-908-88.ha-4094-64-1408",
