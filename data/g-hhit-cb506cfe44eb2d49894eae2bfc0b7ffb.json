@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "06-01-28/27-05-25",
     "habboFigure": "hr-3829-61.hd-207-1.ch-3222-1334.lg-3596-110-1408.sh-4112-92-1408.he-3070-92.fa-3344-110.cc-3374-64",
@@ -613,7 +613,7 @@
     "online": false,
     "gender": "f",
     "motto": "Creo Dipendenza",
-    "habboFigure": "hr-515-1395.hd-6022-1391.ch-3332-106-106.lg-3333-93.sh-735-68.he-6125-63.ea-3577",
+    "habboFigure": "hr-515-1395.hd-6022-1391.ch-3332-95-106.lg-3333-102.sh-735-68.he-3579.fa-1211",
     "memberSince": "2010-03-11T10:23:36.000+00:00",
     "uniqueId": "hhit-984959b8157e123a0e2ca6575c5a970b",
     "name": "Tabacco",
@@ -920,10 +920,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-5971-1404.hd-205-7.ch-3050-1427-103.lg-3418-81.sh-5803-92.ea-6053-1427.ca-5603-106-1420.cc-5800-92-92",
+    "habboFigure": "hr-4181-1405.hd-205-13.ch-4361-1427-92.lg-3596-81-1408.sh-5803-92.he-3070-1408.ea-3641.cc-5926-1409-1408",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -1920,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Le leggi della fisica valgono qui?",
     "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "why?",
     "habboFigure": "hr-515-45.hd-615-10.ch-665-64.lg-710-64.sh-725-1408.he-1609-64",
@@ -2770,7 +2770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.wa-3072-96-1410.cc-4184-110-1413",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato Scelto GD",
     "habboFigure": "hr-5681-39-42.hd-4383-10-14.ch-3598-90-1408.lg-5974-90-91.sh-730-1408.ca-1812",

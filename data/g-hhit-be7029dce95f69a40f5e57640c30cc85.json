@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-1394.hd-185-19.ch-3779-110-1408.lg-285-110.sh-3089-110.fa-3344-1325",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -4800,10 +4800,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-5971-1404.hd-205-7.ch-3050-1427-103.lg-3418-81.sh-5803-92.ea-6053-1427.ca-5603-106-1420.cc-5800-92-92",
+    "habboFigure": "hr-4181-1405.hd-205-13.ch-4361-1427-92.lg-3596-81-1408.sh-5803-92.he-3070-1408.ea-3641.cc-5926-1409-1408",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
