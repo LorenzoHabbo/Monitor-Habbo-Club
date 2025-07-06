@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-3163-45.hd-3102-1.ch-3032-110-92.lg-5594-1334.sh-3524-92-64.ha-5469-1324-1408.ea-1404-63.fa-5600-1408",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-31.hd-200-14.ch-210-1408.lg-275-64.sh-3068-1408-1408",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-77",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CarboCrema e Lipius truffaaaaaaa",
     "habboFigure": "hr-5791-40.hd-208-30.ch-215-1320.lg-285-91.sh-295-1320.ea-1406.fa-1205-1408",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Pikkiopakkio",
     "habboFigure": "hr-3569-42.hd-627-10.ch-665-74.lg-4369-64-90.he-3376-1408-66.ca-4965-73-73",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-40.hd-180-1.ch-215-64.lg-281-1408.sh-906-81.he-1609-82.ea-1404-64.fa-1212.wa-3211-1408-81",
