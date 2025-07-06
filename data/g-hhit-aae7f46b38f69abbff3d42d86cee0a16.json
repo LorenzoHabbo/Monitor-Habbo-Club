@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-76-1408.lg-275-80",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "06-01-28/27-05-25",
     "habboFigure": "hr-3829-61.hd-207-1.ch-3222-1334.lg-3596-110-1408.sh-4112-92-1408.he-3070-92.fa-3344-110.cc-3374-64",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-1395.hd-209-1.ch-5833-1422-92.lg-4138-110.sh-3524-110-110.ea-3169-110.ca-6149",
