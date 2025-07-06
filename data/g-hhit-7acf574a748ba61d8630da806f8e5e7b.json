@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "my type: miku hatsune col pisnelllo",
     "habboFigure": "hr-3516-60.hd-3092-27.ch-3498-110.lg-3136-1428.sh-3693-1427-106.he-3082-95.ea-5576-110-110.fa-4283-106.ca-4956.cp-3315-92",
@@ -1162,7 +1162,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "…",
+    "motto": "….",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.he-3833-1320.fa-3378-1320-1408.ca-6020-90.wa-4317-1408.cc-3294-64-64",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-110-1321.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
@@ -3483,7 +3483,7 @@
     "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
-    "habboFigure": "hr-125-45.hd-180-14.ch-5833-1408-1408.lg-4066-1408.sh-3524-1408-1408.he-5578-1408.fa-1204.ca-5521-64",
+    "habboFigure": "hr-125-45.hd-180-14.ch-5833-1408-1408.lg-4066-1408.sh-3524-1408-1408.he-5578-1408.fa-1204",
     "memberSince": "2023-11-08T16:40:54.000+00:00",
     "uniqueId": "hhit-87738591e8f965854080727e6c36bfc7",
     "name": "momo1",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-884-64.lg-5594-1408.sh-5670-64.ea-5897-64-1408.ca-5635-1408-1408.cc-5461-64-1408",

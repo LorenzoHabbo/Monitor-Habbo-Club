@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Vice Leader Hooligans ‡",
     "habboFigure": "hr-5619-1404.hd-615-1.ch-5998-92.lg-3018-1426.sh-5803-92.he-3891.ea-3750.fa-5601-92.wa-2003.cc-5926-1426-92",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
     "habboFigure": "hr-4141-49.hd-3094-28.ch-3987-110-1322.lg-3364-110-1322.sh-3206-93.ha-3986.ea-1402.fa-1205-92.ca-5916-110-1322.cc-5951-110",
@@ -1402,7 +1402,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "…",
+    "motto": "….",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.he-3833-1320.fa-3378-1320-1408.ca-6020-90.wa-4317-1408.cc-3294-64-64",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
@@ -1723,7 +1723,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3520-1407.hd-209-1370.ch-5585.lg-5584.sh-908-99.ha-6014-99-110.ea-4987.fa-3344-110",
+    "habboFigure": "hr-3520-1407.hd-209-1370.ch-5585.lg-5584.sh-908-99.ha-6014-99-110.ea-4987.fa-3344-110.cc-5825",
     "memberSince": "2014-11-05T18:02:22.000+00:00",
     "uniqueId": "hhit-76a7bda9e928fb49c290bd4843bdc1a9",
     "name": "Ak1",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-5605-61.hd-627-2.ch-3013-92.lg-3006-110-1321.sh-5247-92-92.ha-4052.he-3070-1408.ea-3108-63-1408.cc-5926-92-92",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Manovalanza Corleone",
     "habboFigure": "hr-4363-1400-1400.hd-4383-9-1367.ch-5245-77.lg-5594-77.sh-3089-77.he-6125-1408.fa-3276-96.wa-5370.cc-5926-92-93",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciucciami il kumquat",
     "habboFigure": "hr-3829-42.hd-205-10.ch-3030-74.lg-3483-91-91.sh-906-64.he-3376-1408-66.ca-4965-73-73",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Pikkiopakkio",
     "habboFigure": "hr-3569-42.hd-627-10.ch-665-74.lg-4369-64-90.he-3376-1408-66.ca-4965-73-73",
@@ -3923,7 +3923,7 @@
     "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
-    "habboFigure": "hr-125-45.hd-180-14.ch-5833-1408-1408.lg-4066-1408.sh-3524-1408-1408.he-5578-1408.fa-1204.ca-5521-64",
+    "habboFigure": "hr-125-45.hd-180-14.ch-5833-1408-1408.lg-4066-1408.sh-3524-1408-1408.he-5578-1408.fa-1204",
     "memberSince": "2023-11-08T16:40:54.000+00:00",
     "uniqueId": "hhit-87738591e8f965854080727e6c36bfc7",
     "name": "momo1",
@@ -4160,7 +4160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-884-64.lg-5594-1408.sh-5670-64.ea-5897-64-1408.ca-5635-1408-1408.cc-5461-64-1408",
@@ -4220,10 +4220,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-34.hd-205-15.ch-215-92.lg-281-92.sh-305-92.ea-1404-110.fa-5600-92.cc-3917-1411",
+    "habboFigure": "hr-3163-34.hd-205-15.ch-210-92.lg-281-92.sh-305-92.he-3660-110-110.fa-5600-92.cc-3917-1411",
     "memberSince": "2024-06-10T21:43:15.000+00:00",
     "uniqueId": "hhit-1cba58219b41e4daff530a6a2b190117",
     "name": "Hypnotized",
@@ -4620,7 +4620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-1392.ch-245-92.lg-275-1338.sh-908-110.he-3070-92.fa-3276-1413.cc-3420-110",
