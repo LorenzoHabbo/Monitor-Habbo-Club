@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-3163-45.hd-3102-1.ch-3032-110-92.lg-5594-1334.sh-3524-92-64.ha-5469-1324-1408.ea-1404-63.fa-5600-1408",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "gajiin ykz",
     "habboFigure": "hr-3977-1350.hd-190-1370.ch-3688-110.lg-281-1411.sh-3587-92-63.ha-5305-110-1416.he-3070-1427.ea-3978-110-1417.cc-886-110",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciucciami il kumquat",
     "habboFigure": "hr-891-37.hd-205-10.ch-215-64.lg-275-80.sh-3068-1408-1408.ea-1403-1408",
@@ -3073,7 +3073,7 @@
     "online": true,
     "gender": "f",
     "motto": "Pikkiopakkio",
-    "habboFigure": "hr-3569-42.hd-627-1.ch-665-1408.lg-700-73.ea-1403-1408",
+    "habboFigure": "hr-3569-42.hd-627-10.ch-665-74.lg-4369-64-90.he-3376-1408-66.ca-4965-73-73",
     "memberSince": "2020-10-29T21:38:16.000+00:00",
     "uniqueId": "hhit-e2cfbad3cfb78006bea3961c87c47496",
     "name": "EmptyBody",
@@ -4220,10 +4220,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1404.hd-205-13.ch-210-64.lg-3116-1334-92.sh-305-110.he-3070-1427",
+    "habboFigure": "hr-828-61.hd-180-28.ch-255-1322.lg-280-1322.sh-906-1408.ha-1005-110.he-1606-110.ca-1802",
     "memberSince": "2024-06-10T21:43:15.000+00:00",
     "uniqueId": "hhit-1cba58219b41e4daff530a6a2b190117",
     "name": "Hypnotized",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-40.hd-180-1.ch-215-64.lg-281-1408.sh-906-81.he-1609-82.ea-1404-64.fa-1212.wa-3211-1408-81",
