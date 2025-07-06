@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-1333.lg-3006-1426-1426.sh-5717.he-5827-92-92.fa-3993-1326",
@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3520-1407.hd-209-1370.ch-5585.lg-5584.sh-908-99.ha-6014-99-110.ea-4987.fa-3344-110",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Youth Hooligans",
     "habboFigure": "hr-3725-39.hd-209-12.ch-210-64.lg-3078-76.sh-3068-64-1408.ha-3352-64-1408.he-3329-64-1408.fa-3378-64-1408.wa-2001.cc-3326-84-84",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -1873,7 +1873,7 @@
     "online": true,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
-    "habboFigure": "hr-3163-1407.hd-205-1.ch-255-108.lg-280-92.sh-906-110.ha-3494-110-92.he-3070-92",
+    "habboFigure": "hr-3163-1407.hd-205-1.ch-255-93.lg-280-92.sh-906-110.ha-3494-110-92.he-3070-92",
     "memberSince": "2015-06-24T12:57:08.000+00:00",
     "uniqueId": "hhit-ca1d8f33e2c6c5fd6b7211b90021aaaa",
     "name": "Maessi",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Le leggi della fisica valgono qui?",
     "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "pensavo fossi speciale",
     "habboFigure": "hr-834-34.hd-6022-1.ch-5921-1425-1408.lg-3483-1425-1426.sh-6042.he-6125-63.fa-5601-92.cp-3207-1338-92",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-1408.fa-3276-66",
@@ -3603,7 +3603,7 @@
     "online": true,
     "gender": "f",
     "motto": "zitto",
-    "habboFigure": "hr-4117-45-45.hd-627-1.ch-665-108.lg-710-110.sh-725-1408.he-1608.ea-1404-64.fa-3276-72",
+    "habboFigure": "hr-4117-45-45.hd-627-1.ch-665-93.lg-710-110.sh-725-1408.he-1608.ea-1404-64.fa-3276-72",
     "memberSince": "2022-10-18T20:26:56.000+00:00",
     "uniqueId": "hhit-98201a42ee6c6beca64c94db4dc4c5f8",
     "name": "guest-3765",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "no vb",
     "habboFigure": "hr-802-45.hd-190-10.ch-3030-1408.lg-285-64.sh-3068-64-64.ha-1003-64.wa-2001",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3322-40.hd-4174-1.ch-5559-64.lg-3290-64.sh-4065-1408-64.ea-1404-64.cc-3327-64-1408",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-1424.lg-275-108.sh-300-1408.he-3070-1322.cp-3126-63",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Anch staser in quest lett sarà cruditè",
     "habboFigure": "hr-3829-1343.hd-3102-1.ch-3203-1339.lg-3202-110-1321.sh-4112-89-89.he-5088.ea-5897-110-110.ca-5768-1408-1408.cc-4979-110",
@@ -4223,7 +4223,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-34.hd-205-15.ch-215-92.lg-281-92.sh-305-92.ea-1404-110.cc-3917-72",
+    "habboFigure": "hr-3163-34.hd-205-15.ch-215-92.lg-281-92.sh-305-92.ea-1404-110.cc-3917-1411",
     "memberSince": "2024-06-10T21:43:15.000+00:00",
     "uniqueId": "hhit-1cba58219b41e4daff530a6a2b190117",
     "name": "Hypnotized",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cadetto G.D.",
     "habboFigure": "hr-3260-31.hd-205-28.ch-255-110.lg-5970-1426.sh-3089-110.ea-1401-92.fa-5600-92",
@@ -5290,7 +5290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-515-45.hd-600-1370.ch-665-1408.lg-700-85.ea-1404-64",
