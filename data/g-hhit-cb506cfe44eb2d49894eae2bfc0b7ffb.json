@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-45.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-1011-92.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-76-1408.lg-275-80",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-1333.lg-3006-1426-1426.sh-5717.he-3070-92.fa-3993-1326",
@@ -5220,7 +5220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "oh no, sei storto",
     "habboFigure": "hr-3260-34.hd-180-30.ch-215-92.lg-281-110.sh-305-92.ea-1404-110.cc-3002-110",
