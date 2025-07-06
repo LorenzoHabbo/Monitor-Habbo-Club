@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-1423-92.lg-4119.sh-5671-106.ha-3709",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-39.hd-209-1.ch-245-81.lg-3116-1408-82.sh-305-1408.ha-1002-64.ea-1401-80.ca-1802",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-5503-1343.hd-3956-1389-30.ch-4067-110-1410.lg-3391-110-92.sh-3277-110-1410.ha-6014-110-1410.he-6019.fa-3276-1328.ca-6018.cc-5951-110",
