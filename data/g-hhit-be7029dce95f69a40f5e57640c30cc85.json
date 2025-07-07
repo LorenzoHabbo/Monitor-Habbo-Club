@@ -5650,7 +5650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3185-77.lg-4066-63.sh-3016-99.ea-3169-1408.ca-3292-63",
@@ -7830,7 +7830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "o.m miei nemici",
     "habboFigure": "hr-802-34.hd-180-1370.ch-255-73.lg-280-64.sh-290-1408.he-1609-1408.cp-3284-1408",
