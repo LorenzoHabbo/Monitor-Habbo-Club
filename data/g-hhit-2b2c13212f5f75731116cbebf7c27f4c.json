@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Per sempre _Oni01_  |",
     "habboFigure": "hr-5973-45-40.hd-4383-10-14.ch-3598-1323-1323.lg-3391-82-1408.he-6103-1323.fa-3276-92.cc-6164-82",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-5503-1343.hd-3956-1389-30.ch-4067-110-1410.lg-3391-110-92.sh-3277-110-1410.ha-6014-110-1410.he-6019.fa-3276-1328.ca-6018.cc-5951-110",
@@ -4973,7 +4973,7 @@
     "online": false,
     "gender": "f",
     "motto": "apprendista novello gd",
-    "habboFigure": "hr-5720-61-40.hd-3956-3-1372.ch-5607-110.lg-3502-110.sh-3383-110-110.ha-4192.he-1604.wa-3263-110-110",
+    "habboFigure": "hr-5720-61-40.hd-3956-3-1372.ch-3266-110-1408.lg-3502-110.sh-3383-110-110.ha-4192.he-1604.wa-3263-110-110",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
     "name": "sognoilcies",
@@ -6690,7 +6690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "est modus in rebus -R |. sono fantagab",
     "habboFigure": "hr-545-45.hd-600-1.ch-665-1320.lg-3116-1320-76.sh-3115-76-1320",
@@ -6990,10 +6990,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arruolato Gh",
-    "habboFigure": "hr-893-42.hd-180-8.ch-3030-64.lg-270-81.sh-295-1408.he-1608",
+    "habboFigure": "hr-889-35.hd-180-14.ch-3110-1408-1408.lg-3116-82-1408.sh-305-1408",
     "memberSince": "2022-06-09T13:59:31.000+00:00",
     "uniqueId": "hhit-6cc086f283c0ef6823171476f052df78",
     "name": "Antony65!",
@@ -7150,10 +7150,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Liberatore Celeste GD 1 pt",
-    "habboFigure": "hd-4174-10.ch-5220-73-1408.lg-285-82.sh-4112-1408-72.ea-1404-1408.fa-5211-90.wa-2001.cc-3509-82-82",
+    "habboFigure": "hd-4174-10.ch-5220-73-1408.lg-285-82.sh-4112-1408-72.ea-1404-64.fa-5211-90.wa-2001.cc-3509-82-82",
     "memberSince": "2022-07-18T20:43:37.000+00:00",
     "uniqueId": "hhit-5c1660ed03f60991eca3e220dd762690",
     "name": "VictorSmite",
@@ -9540,7 +9540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Aiutante G.D",
     "habboFigure": "hd-209-1.ch-220-64.lg-285-64.sh-300-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2012",
