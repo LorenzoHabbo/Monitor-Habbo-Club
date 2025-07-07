@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Per sempre _Oni01_  |",
     "habboFigure": "hr-5680-45.hd-4383-10-14.ch-5831-110.lg-3391-82-1408.he-6103-1323.fa-3276-92",
@@ -5120,7 +5120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5579-1401.hd-3100-1370.ch-5917-92.lg-5594-1428.sh-3089-110.ha-4192.ea-3484.fa-5601-1335.cc-5461-92-1428",
