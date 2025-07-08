@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-831-1397.hd-205-28.ch-3110-94-1430.lg-280-110.sh-290-92.ha-1009-110.he-3376-110-64.ca-5916-1430-94.cc-3509-110-94",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-60.hd-3845-2.ch-210-105.lg-285-110.sh-3089-105.ha-3709.he-5348.fa-3344-105.ca-1812.wa-2005.cc-3002-110",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
