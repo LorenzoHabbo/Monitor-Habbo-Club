@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5007.fa-5467",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3185-77.lg-4066-63.sh-3016-99.ea-3169-1408.ca-3292-63",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-3821-84-84.fa-5624-73.ca-3414-72",
