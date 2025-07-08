@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Per sempre _Oni01_  |",
     "habboFigure": "hr-6055-61-40.hd-4383-10-14.ch-3501-1323.lg-3391-82-1408.he-6103-1323.fa-3276-92",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-110.sh-908-91.he-3070-1408.ea-1404-110.fa-5601-92",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5971-1404.hd-205-7.ch-3050-1427-103.lg-3418-81.sh-5803-92.ea-6053-1427.ca-5603-106-1420.cc-5800-92-92",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-66-85.lg-5113-90.sh-3621-64-1408.ha-3591.he-5074-1408.fa-5280-73.ca-4036-1408.cc-4091-64",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-5503-1343.hd-3956-1389-30.ch-4067-110-1410.lg-3391-110-92.sh-3277-110-1410.ha-6014-110-1410.he-6019.fa-3276-1328.ca-6018.cc-5951-110",
@@ -2292,16 +2292,6 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "Mors tua, vita mea.",
-    "habboFigure": "hr-4363-1404-1404.hd-627-2.ch-3351-92-92.lg-720-1338.sh-5803-92.he-5766-92-1320.fa-3276-1412.ca-3828-1421-93.cc-3326-91-89",
-    "memberSince": "2018-02-18T16:53:36.000+00:00",
-    "uniqueId": "hhit-41bab1fa8da9bfe7f3cd198832395c5e",
-    "name": "Sneaky,",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
     "motto": "-",
     "habboFigure": "hr-3764-45.hd-3721-10.ch-5245-64.lg-5594-81.ha-5301-64.he-5808-1320.fa-5835-73.ca-5807-1408-64.wa-4060-64-64.cc-5461-68-90",
     "memberSince": "2018-04-08T09:27:59.000+00:00",
@@ -2310,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Manovalanza Corleone",
     "habboFigure": "hr-4363-1400-1400.hd-4383-9-1367.ch-5245-77.lg-5594-77.sh-3089-77.he-6125-1408.fa-3276-96.wa-5370.cc-5926-92-93",
@@ -2360,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciucciami il kumquat",
     "habboFigure": "hr-3829-42.hd-205-10.ch-3030-74.lg-3483-91-91.sh-906-64.he-3376-1408-66.ca-4965-73-73",
@@ -3060,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Pikkiopakkio",
     "habboFigure": "hr-3569-42.hd-627-10.ch-665-74.lg-4369-64-90.he-3376-1408-66.ca-4965-73-73",

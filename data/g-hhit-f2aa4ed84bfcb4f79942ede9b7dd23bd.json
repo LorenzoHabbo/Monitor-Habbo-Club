@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-6098.lg-4066-1409.sh-3016-110.ea-5897-110-110",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-110.sh-908-91.he-3070-1408.ea-1404-110.fa-5601-92",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5971-1404.hd-205-7.ch-3050-1427-103.lg-3418-81.sh-5803-92.ea-6053-1427.ca-5603-106-1420.cc-5800-92-92",
