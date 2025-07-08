@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-38.hd-209-8.ch-235-64.lg-4167-82.sh-3068-1408-82.ha-5852.he-1608.fa-5835-91",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Spaventapassere Apache",
     "habboFigure": "hd-205-1370.ch-3030-1408.lg-275-1408.fa-3344-1408.cc-4091-1408",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-5559-110.lg-4138-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-1342.hd-3845-1.ch-3077-100-110.lg-3418-1409.sh-5247-92-64.he-5074-92.ca-5769-92-92",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5971-1404.hd-205-7.ch-3050-1427-103.lg-3418-81.sh-5803-92.ea-6053-1427.ca-5603-106-1420.cc-5800-92-92",
@@ -7490,10 +7490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-5617-1394-40.hd-600-1370.ch-5240-110.lg-3018-110.sh-5247-92-110.ha-3677.fa-3276-98.wa-3773-94",
+    "habboFigure": "hr-5617-40-40.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-1408-1408.ha-3677.fa-3276-1408.wa-3773-1322",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
