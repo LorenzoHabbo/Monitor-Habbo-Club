@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Vice Leader Hooligans ‡",
     "habboFigure": "hr-5619-1404.hd-615-1.ch-5998-92.lg-3018-92.sh-5803-92.he-3891.ea-3750.fa-5601-92.wa-2003.cc-5926-1315-92",
@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ƒƒSerendipityƒƒ",
     "habboFigure": "hr-3841-36.hd-207-1.ch-3840-66-1408.lg-4167-64.sh-3524-66-1408.ha-6107.ea-1404-91.wa-2001.cc-6118",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3292-110.wa-3263-92-92.cc-3232-110-88",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-1345.hd-3091-1389.ch-3059-106.lg-6017-110-93.sh-3587-92-93.he-3070-93.fa-1201",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-3070-1327.fa-5467",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "23kg la mia sara lopez ¥",
     "habboFigure": "hr-4363-31-31.hd-625-10.ch-3036-1427-1427.lg-700-80.sh-5247-63-92.ha-5730-1408.he-1608.fa-3276-1411",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ma tu dimmelo.. dimmelo adesso",
     "habboFigure": "hr-4126-1404-45.hd-627-15.ch-665-92.lg-3078-89.sh-730-110.ha-3363.he-1604.fa-5467.cc-4184-110-110",
@@ -740,10 +740,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1405.hd-205-2.ch-3934-92-64.lg-3483-110-110.he-3070-1408.ea-1404-110.fa-5601-92.cc-5925-63",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-110.sh-908-91.he-3070-1408.ea-1404-110.fa-5601-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -952,7 +952,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "A|",
+    "motto": "",
     "habboFigure": "hr-155-34.hd-185-1.ch-3323-1408-64.lg-281-64.sh-295-64.ea-3925-64-64.fa-1205-1320.ca-4115-64-1408.cc-3360-64",
     "memberSince": "2011-06-06T18:31:38.000+00:00",
     "uniqueId": "hhit-b7d6d0f59184e1d2d8bc6693bd61b3a4",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "stick",
     "habboFigure": "hd-180-1370.ch-3840-1408-1408.lg-270-81.sh-295-64.ha-1002-73.ea-3925-83-81.fa-1206-90",
@@ -1462,7 +1462,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "cento notti per dimenticarti in un sec",
+    "motto": "demo",
     "habboFigure": "hr-5606-49-56.hd-5319-28-28.ch-3013-110.lg-3933-1418.sh-6043.he-6019.fa-5975.ca-6041.wa-5370.cc-6070",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Youth Hooligans",
     "habboFigure": "hr-3725-39.hd-209-12.ch-210-64.lg-3078-76.sh-3068-64-1408.ha-3352-64-1408.he-3329-64-1408.fa-3378-64-1408.wa-2001.cc-3326-84-84",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-95.sh-5247-92-92.ha-5730-1408.he-3070-92.ea-3108-63-1408.ca-3844-95-93",
@@ -2100,7 +2100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-3884-92-77.ea-5576-1409-89.cc-5926-82-89",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Helper al tuo servizio! » Hooligans",
     "habboFigure": "hr-3163-34.hd-207-13.ch-3185-110.lg-280-64.sh-295-110.he-1604",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -2490,7 +2490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-14.ch-210-1408.lg-281-1408.sh-295-1408.cp-3128-1408",
@@ -2860,10 +2860,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bothans Suprema ¥ YKZ ¥",
-    "habboFigure": "hr-4186-1407.hd-3099-18.ch-3689-110.lg-3483-110-110.ha-3709.he-5088.ea-3148-110-110.fa-5835-100.wa-5836-110-110.cc-5925-92",
+    "habboFigure": "hr-4186-1407.hd-3099-18.ch-5595-110.lg-5970-110.ha-3709.he-5088.ea-3148-110-110.fa-5835-100.wa-5836-110-110.cc-5926-110-110",
     "memberSince": "2020-03-21T13:44:21.000+00:00",
     "uniqueId": "hhit-48e322b14f418b75dc0735c1064dcee8",
     "name": "fatima.",
@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-1408.fa-3276-66",
@@ -2950,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "R6 emerald player   //   TRM supporter",
     "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-3203-110.lg-5265.sh-5639.ha-3759.he-5393.ea-5392.fa-5948-92.cc-5518-110-110",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "te dejo atras",
     "habboFigure": "hr-5619-61.hd-615-18.ch-3013-1337.lg-710-1426.sh-906-64.ha-5620-92.he-5578-1409.fa-5835-96.ca-5635-74-110",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-4117-1342-1342.hd-627-1383.ch-3935-92-110.lg-3526-110-110.sh-5247-92-92.ha-4052.ea-5576-110-110.fa-3276-1412.ca-3844-92-92.cc-5926-110-110",
@@ -4130,10 +4130,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kobun YKZ Shiro",
-    "habboFigure": "hr-5019-42.hd-3845-8.ch-5559-1408.lg-5594-64.sh-300-66.ha-5450.he-5828.ea-5576-64-64.cc-3509-64-64",
+    "habboFigure": "hr-5019-42.hd-3845-8.ch-5559-1408.lg-4138-64.sh-4112-64-1408.ha-5450.he-5828.ea-5576-64-64.cc-3509-64-64",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
@@ -4213,7 +4213,7 @@
     "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
-    "habboFigure": "hr-3163-1403.hd-205-17.ch-3032-1426-1408.lg-275-64.sh-305-92.he-3660-110-64",
+    "habboFigure": "hr-3163-1403.hd-205-17.ch-3032-1426-1408.lg-275-64.sh-305-92.he-3660-110-64.fa-5601-92",
     "memberSince": "2024-06-10T21:43:15.000+00:00",
     "uniqueId": "hhit-1cba58219b41e4daff530a6a2b190117",
     "name": "Hypnotized",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| Yasha ykz shiro |",
     "habboFigure": "hr-5503-46.hd-4383-10-12.ch-6029-72-68.lg-4012-72.sh-5308-68.ha-5443.he-5578-66.fa-4168-68.ca-3437-84.cc-3975-72-68",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-1342.hd-205-2.ch-245-1428.lg-275-110.sh-908-1428.he-3070-1408.fa-5601-92",
@@ -5200,7 +5200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Top 1 habbino + attraente (ban)",
     "habboFigure": "hr-3163-61.hd-208-2.ch-215-92.lg-280-1315.sh-908-92.he-1609-1315.ca-1816",
@@ -5281,9 +5281,9 @@
   },
   {
     "online": false,
-    "gender": "m",
+    "gender": "f",
     "motto": "non pensarmi troppo che te lo consumi!",
-    "habboFigure": "hr-3357-61.hd-195-1.ch-3001-110-102.lg-3057-110.sh-3016-110.he-3071-92.fa-3350",
+    "habboFigure": "hr-515-33.hd-600-1.ch-665-92.lg-710-66.ea-3270-63-1408",
     "memberSince": "2025-07-03T23:00:06.000+00:00",
     "uniqueId": "hhit-2303366070f830f56d3ca8f43e9c1608",
     "name": "HerbertMarcuse",
