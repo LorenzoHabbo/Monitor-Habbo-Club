@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-831-1397.hd-205-28.ch-3110-94-1430.lg-280-110.sh-290-92.ha-1009-110.he-3376-110-64.ca-5916-1430-94.cc-3509-110-94",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -520,10 +520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "m",
+    "online": true,
+    "gender": "f",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
+    "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Molestato da Meli",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-210-92.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5926-110-1408",

@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CORLEONE - 800A",
     "habboFigure": "hr-893-39.hd-180-1370.ch-3030-71.lg-285-64.sh-3068-1408-64.ha-1002-64.ca-1801-64",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-40-40.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-1408-1408.ha-3677.fa-3276-1408.wa-3773-1322",
@@ -8160,7 +8160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non ci siamo mai capiti.",
     "habboFigure": "hr-828-49.hd-180-27.ch-3030-110.lg-5594-1338.sh-290-92.ea-3575.fa-5975.cc-5690-110.cp-5932-100",
@@ -9160,10 +9160,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "m",
+    "online": true,
+    "gender": "f",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
+    "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -9790,7 +9790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
@@ -9900,7 +9900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Re Foca Corleone »",
     "habboFigure": "hr-3841-39.hd-180-10.ch-3688-82.lg-3596-64-1408.ha-4322.ea-1404-64",
@@ -9990,7 +9990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Molestato da Meli",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
