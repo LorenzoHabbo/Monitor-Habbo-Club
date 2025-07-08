@@ -330,10 +330,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "il toro è ferito.. ma non è mai morto",
-    "habboFigure": "hr-5210-45-1343.hd-209-18.lg-270-64.sh-300-64.ha-5450.he-1608.fa-5600-68.wa-4060-91-90.cc-260-92",
+    "habboFigure": "hr-5210-45-1343.hd-209-18.ch-267-1428.lg-5226.sh-305-1412.ha-5450.he-1608.fa-5600-68.wa-4060-91-90",
     "memberSince": "2007-03-06T14:49:44.000+00:00",
     "uniqueId": "hhit-a3c8fd40b6fec07c60a207f7af385b0b",
     "name": "kry6",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-5559-110.lg-4138-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-1342.hd-3845-1.ch-3077-100-110.lg-3418-1409.sh-5247-92-64.he-5074-92.ca-5769-92-92",
@@ -7610,7 +7610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "in my mind crikey.",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
