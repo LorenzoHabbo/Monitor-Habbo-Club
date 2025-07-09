@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-37.hd-180-1.ch-3030-81.lg-3391-64-1408.ha-3709.he-6125-1408.fa-3276-72.ca-3414-1408.cc-5826-82",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-95.sh-5247-92-92.ha-5730-1408.he-3070-92.ea-3108-63-1408.ca-3844-95-93",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "In apnea da un po’",
     "habboFigure": "hr-5503-1404.hd-605-28.ch-665-110.lg-710-110.sh-5803-92.ha-5340.he-5808-92.fa-5467.ca-3292-92",
@@ -1442,7 +1442,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "preso ingiustamente di mira da Adara",
+    "motto": "roadman",
     "habboFigure": "hr-125-36.hd-205-1371.ch-267-73.lg-281-73.sh-906-1408.fa-1201",
     "memberSince": "2024-12-09T11:35:36.000+00:00",
     "uniqueId": "hhit-09fb6954e45719732ea810d7b6dba7b1",
