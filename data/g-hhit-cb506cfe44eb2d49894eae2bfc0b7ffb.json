@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5923-1409-89.lg-4034-89-1409.sh-3621-89-1409.fa-3993-1326",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1020,10 +1020,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "salvo non ti perdono.",
-    "habboFigure": "hr-4182-1395-61.hd-4383-1390-5.ch-5560-86-103.lg-3192-110.sh-3035-101.ea-3169-110.cc-5926-1333-1315",
+    "habboFigure": "hr-5619-1350.hd-4383-1383-1387.ch-6029-64-1336.lg-3136-1326.sh-5671-1419.he-6125-98.ca-3175-98",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -1183,14 +1183,14 @@
     "online": true,
     "gender": "m",
     "motto": "stick",
-    "habboFigure": "hd-180-8.ch-3840-83-85.lg-270-81.sh-295-64.ha-1005-64.ea-3925-83-81.fa-1206-90",
+    "habboFigure": "hd-180-8.ch-3840-83-85.lg-270-81.sh-295-64.ha-1005-64.he-3833-1408.ea-3925-83-81.fa-1206-90.ca-5770-1408",
     "memberSince": "2011-12-13T17:07:10.000+00:00",
     "uniqueId": "hhit-a282f2041abdafd99d78b6dd1d095c18",
     "name": "iurm",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-66-85.lg-5113-90.sh-3621-64-1408.ha-3591.he-5074-1408.fa-5280-73.ca-4036-1408.cc-4091-64",
@@ -1381,16 +1381,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "….",
-    "habboFigure": "hr-3531-34-34.hd-190-14.ch-804-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.he-3833-1320.fa-3378-1320-1408.ca-6020-90.wa-4317-1408.cc-3294-64-64",
-    "memberSince": "2012-11-29T20:36:28.000+00:00",
-    "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
-    "name": "trey6949",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6019.ea-6053-95.cc-5926-92-95",
@@ -1550,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "...",
     "habboFigure": "hr-828-1342.hd-3091-1390.ch-3539-106.lg-3365-110.sh-3089-92.he-3070-1321",
@@ -1630,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-170-31.hd-180-14.ch-240-1320.lg-280-64.sh-305-1408.he-1608.cc-5800-1408-1408",
@@ -1893,7 +1883,7 @@
     "online": true,
     "gender": "m",
     "motto": "Molestato da Meli",
-    "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-3324-110-1408.fa-3276-70.cc-5800-92-110",
+    "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-6125-110.fa-3276-70.cc-5800-92-110",
     "memberSince": "2015-11-21T12:54:28.000+00:00",
     "uniqueId": "hhit-b7c33b11768cda68b7bf6ab7aa993889",
     "name": "salvo701",
@@ -3500,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "est modus in rebus -R |. sono fantagab",
     "habboFigure": "hr-890-45.hd-600-1.ch-665-1408.lg-710-64.sh-906-1408.ha-1002-64",
@@ -3620,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-77.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3740,7 +3730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3322-40.hd-4174-14.ch-5559-1408.lg-3290-64.sh-4065-1408-64.ea-1404-64.cc-3327-64-1408",
@@ -3993,14 +3983,14 @@
     "online": true,
     "gender": "m",
     "motto": "viva il futbol",
-    "habboFigure": "hr-893-34.hd-190-1370.ch-215-1408.lg-275-82.ha-1002-64.he-6125-64.fa-5601-1408",
+    "habboFigure": "hr-893-34.hd-190-1370.ch-3840-64-1408.lg-275-82.sh-295-64.ha-3494-72-90.fa-5601-1408.ca-6020-64",
     "memberSince": "2024-01-04T14:47:34.000+00:00",
     "uniqueId": "hhit-2a83f7b940345d0a54746550fb340a75",
     "name": "futbol",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Don't give a F*ck",
     "habboFigure": "hr-3163-1404.hd-3102-1.ch-5559-110.lg-5594-110.sh-4112-1408-1408.ha-3709.he-3070-1408.cc-3420-110",
@@ -4210,10 +4200,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-275-64.sh-305-92.he-3660-92-110",
+    "habboFigure": "hr-3163-1403.hd-205-14.ch-210-92.lg-275-110.sh-906-92.he-3227-110.fa-3276-72.cc-3289-110",
     "memberSince": "2024-06-10T21:43:15.000+00:00",
     "uniqueId": "hhit-1cba58219b41e4daff530a6a2b190117",
     "name": "Hypnotized",
@@ -4270,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-665-1408.lg-710-64.sh-735-1408.ha-4006.he-1609-64.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408",
@@ -4290,7 +4280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-4128-77-92.lg-3006-92-77.sh-5803-92.he-5088.fa-5467",
@@ -4740,7 +4730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-208-19.ch-210-1408.lg-281-76.sh-905-71.ha-3117-64.he-1601.fa-1202-72.ca-1815-66.cp-3128-64",
@@ -5220,7 +5210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "USMC Soldato Semplice OP",
     "habboFigure": "hr-3673-37.hd-600-1370.ch-4099-1320-1408.lg-3023-90.sh-730-91.he-3274-91",
@@ -5257,16 +5247,6 @@
     "memberSince": "2025-06-24T12:16:46.000+00:00",
     "uniqueId": "hhit-31e79fdfe9ca3b75ed331c8aa15ee67d",
     "name": "Newton",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-125-40.hd-180-1.ch-215-64.lg-281-1408.sh-906-81.he-1609-82.ea-1404-64.fa-1212.wa-3211-1408-81",
-    "memberSince": "2025-07-03T19:10:13.000+00:00",
-    "uniqueId": "hhit-da90a0300383b5c4f3b0b2d3f8a36023",
-    "name": "Gyt",
     "isAdmin": false
   },
   {
