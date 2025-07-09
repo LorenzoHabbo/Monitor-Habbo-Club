@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorella di Pucca º 5",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-95.sh-5247-92-92.ha-5730-1408.he-3070-92.ea-3108-63-1408.ca-3844-95-93",
@@ -3960,7 +3960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ";)",
     "habboFigure": "hr-3673-42.hd-615-10.ch-665-1408.lg-3078-82.sh-735-1408.ha-5620-91.fa-3276-73.ca-5278-84",
