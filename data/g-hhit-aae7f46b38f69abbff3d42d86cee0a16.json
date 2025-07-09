@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "06-01-28/27-05-25",
     "habboFigure": "hr-5791-61.hd-3845-10.ch-5596-1428.lg-3596-110-110.sh-4112-92-1408.ha-4192.he-3324-92-92.fa-5601-92",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader º Oblivion",
     "habboFigure": "hr-5773-61.hd-600-28.ch-665-110.lg-710-110.sh-5247-92-1412.he-3891.ea-3961",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-2.ch-3668-92-110.lg-5594-110.sh-5247-92-110.he-3891.fa-5601-92.cc-5800-110-110",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-5680-1394.hd-600-2.ch-3013-110.lg-3006-82-92.sh-5308-1331.he-6019.fa-5467.ca-3485.cc-5800-1331-1331",
@@ -1440,9 +1440,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "roadman",
+    "motto": "portatore di sani principi",
     "habboFigure": "hr-125-36.hd-205-1371.ch-267-73.lg-281-73.sh-906-1408.fa-1201",
     "memberSince": "2024-12-09T11:35:36.000+00:00",
     "uniqueId": "hhit-09fb6954e45719732ea810d7b6dba7b1",
