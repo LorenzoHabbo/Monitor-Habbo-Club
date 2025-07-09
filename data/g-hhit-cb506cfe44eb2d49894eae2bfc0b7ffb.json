@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "» Leader Hooligans »",
     "habboFigure": "hr-836-34.hd-3099-13.ch-665-110.lg-710-64.sh-730-110.he-1604",
@@ -50,7 +50,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "       NON SONO DEL 2002",
     "habboFigure": "hr-155-40.hd-180-1370.ch-3030-1408.lg-275-64.ha-1002-64",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -682,8 +682,8 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "ma tu dimmelo.. dimmelo adesso",
-    "habboFigure": "hr-5619-1403.hd-615-15.ch-690-89.lg-710-1421.sh-3275-1409.he-3070-63.fa-5601-92",
+    "motto": "tu vuoi essere, non sembrare di essere",
+    "habboFigure": "hr-834-37.hd-615-2.ch-665-92.lg-3018-1426.sh-5803-92.ha-4196.fa-5601-92.cc-5926-1409-110",
     "memberSince": "2010-03-15T20:06:45.000+00:00",
     "uniqueId": "hhit-1411fb111e083f19953d02111ebd7eab",
     "name": "Fluoxetina.",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-828-61.hd-207-2.ch-210-92.lg-285-81.sh-5803-92.ea-1404-110.ca-5603-92-96",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "stick",
     "habboFigure": "hd-180-8.ch-3840-83-85.lg-270-81.sh-295-64.ha-1005-64.he-3833-1408.ea-3925-83-81.fa-1206-90.ca-5770-1408",
@@ -1623,7 +1623,7 @@
     "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
-    "habboFigure": "hr-828-1405.hd-180-18.ch-3015-110.lg-281-1335.sh-3035-96.he-3070-92.cc-5800-92-92",
+    "habboFigure": "hr-828-1405.hd-180-18.ch-5559-92.lg-281-1335.sh-3035-96.he-3070-92.ca-1816",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -1927,16 +1927,6 @@
     "memberSince": "2015-12-20T18:49:00.000+00:00",
     "uniqueId": "hhit-f9b09a3986a7b3ca4e149f98b7718e9f",
     "name": "StarAlessia94",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "teng astipat na fotografij",
-    "habboFigure": "hr-4117-1342-1342.hd-615-18.ch-5998-63.lg-710-110.sh-3587-110-63.he-6103-1428.ea-6053-1428.fa-3276-96.ca-5984-1428.wa-5986-63.cc-5926-63-110",
-    "memberSince": "2015-12-26T15:42:30.000+00:00",
-    "uniqueId": "hhit-58bc3f81c1ee6b7f7f9b09d2adc9864b",
-    "name": ":.Secret.:",
     "isAdmin": false
   },
   {
@@ -2350,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciucciami il kumquat",
     "habboFigure": "hr-3829-42.hd-205-10.ch-3030-74.lg-3483-91-91.sh-906-64.he-3376-1408-66.ca-4965-73-73",
@@ -2480,10 +2470,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cupido  ufficiale di habbo||",
-    "habboFigure": "hr-4160-44.hd-4023-28.ch-3372-92-1408.lg-3365-110.sh-295-1408.wa-6071.cc-4184-1419-110",
+    "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2850,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bothans Suprema ¥ YKZ ¥",
     "habboFigure": "hr-4186-1407.hd-3099-18.ch-5595-110.lg-5970-110.ha-3709.he-5088.ea-3148-110-110.fa-5835-100.wa-5836-110-110.cc-5926-110-110",
@@ -3050,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Pikkiopakkio",
     "habboFigure": "hr-3569-42.hd-627-10.ch-665-74.lg-4369-64-90.he-3376-1408-66.ca-4965-73-73",
@@ -3260,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Kyodai YKZ",
     "habboFigure": "hr-829-49.hd-207-10.ch-4140-110.lg-3596-110-1408.sh-295-110.ha-1026.fa-1209-110.ca-5028-110-110.cc-3946-110",
@@ -3960,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
@@ -4200,7 +4190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
     "habboFigure": "hr-3163-34.hd-205-13.ch-210-104.lg-275-1408.sh-305-92.he-3660-110-110.fa-3276-1330.cc-3917-92",
@@ -4830,7 +4820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1369.ch-5830-1408.lg-280-1408.sh-305-82.ea-1404-64.ca-6020-64.cc-3917-82",
@@ -5190,7 +5180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3260-34.hd-180-30.ch-215-92.lg-281-110.sh-305-92.ea-1404-110.cc-3002-110",
@@ -5253,7 +5243,7 @@
     "online": false,
     "gender": "m",
     "motto": "non pensarmi troppo che te lo consumi!",
-    "habboFigure": "hr-3357-49.hd-205-1.ch-3030-1408.lg-3290-110.sh-4065-1325-1408.ea-3169-92.fa-3147-68.cc-3327-110-100",
+    "habboFigure": "hr-3357-49.hd-205-1.ch-3030-1408.lg-3290-110.sh-4065-1325-1408.ea-3169-92.fa-3350.cc-3327-110-100",
     "memberSince": "2025-07-03T23:00:06.000+00:00",
     "uniqueId": "hhit-2303366070f830f56d3ca8f43e9c1608",
     "name": "HerbertMarcuse",
