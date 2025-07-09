@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5956-1322-110.lg-3483-92-64.ha-5591.he-3070-92.ea-5897-1416-110.ca-5936-92.cc-5951-110",
@@ -2220,7 +2220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ma tu dimmelo.. dimmelo adesso",
     "habboFigure": "hr-5619-1403.hd-615-15.ch-690-89.lg-710-1421.sh-3275-1409.he-3070-63.fa-5601-92",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CIAO",
     "habboFigure": "hr-5962-61.hd-3091-1379.ch-5833-110-92.lg-3057-110.sh-3016-110.ha-5854.ea-1404-63.fa-1206-110",
@@ -7093,7 +7093,7 @@
     "online": true,
     "gender": "m",
     "motto": "Psicologo senza laurea",
-    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-92-110.ha-3586.he-1609-110.fa-5975",
+    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-92-110.ha-3586.he-5553.fa-5975",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -7710,7 +7710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "o.m miei nemici",
     "habboFigure": "hr-893-42.hd-180-1370.ch-255-64.lg-280-1408.sh-290-1408.ea-1404-64",
@@ -7730,7 +7730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Corleone »",
     "habboFigure": "hr-5773-59.hd-3100-10.ch-5560-1409-110.lg-3364-110-110.sh-5670-1325.he-3557.ea-1404-110.fa-1206-96",
@@ -9790,7 +9790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
