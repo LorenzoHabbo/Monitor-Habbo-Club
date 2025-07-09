@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CORLEONE - 800A",
     "habboFigure": "hr-893-39.hd-180-1370.ch-3030-71.lg-285-64.sh-3068-1408-64.ha-1002-64.ca-1801-64",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-828-61.hd-207-2.ch-210-92.lg-285-81.sh-5803-92.ea-1404-110.ca-5603-92-96",
@@ -5590,7 +5590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
@@ -6600,7 +6600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ikari YKZ",
     "habboFigure": "hr-125-1403.hd-3997-2.ch-3779-1325-64.lg-3058-64.sh-4065-110-64.fa-3344-91.ca-3187-110",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
