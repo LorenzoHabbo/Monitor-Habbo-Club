@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Afk anni luce",
     "habboFigure": "hr-828-1342.hd-205-15.ch-215-64.lg-280-92.sh-3035-110.he-3070-92.fa-3276-1329",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-3936-1398-1398.hd-4383-28-14.ch-5917-110.lg-3787-110-110.he-6103-110.fa-3276-92",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Amo ma chi t sap",
     "habboFigure": "hr-828-61.hd-205-10.ch-3030-64.lg-280-77.sh-290-92",
