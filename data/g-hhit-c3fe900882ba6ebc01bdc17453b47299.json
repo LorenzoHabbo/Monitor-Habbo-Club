@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".lpenv(perlin.range(1,5)).lpa(.25).lpd",
     "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-3030-1334.lg-3018-77.sh-908-1408.he-3753.fa-5467",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-60-49.hd-627-28.ch-665-110.lg-710-110.sh-4064-1408.he-3740.ea-3148-110-110.fa-3276-1336.cc-5926-110-1408",
