@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".lpenv(perlin.range(1,5)).lpa(.25).lpd",
     "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-3030-1334.lg-3018-77.sh-908-1408.he-3753.fa-5467",
@@ -1320,10 +1320,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
+    "online": false,
+    "gender": "f",
     "motto": "        Born to be rich",
-    "habboFigure": "hr-125-31.hd-4174-1.ch-3934-92-110.lg-5594-77.sh-3419-1409-67.he-3070-1410.ea-3493-1418-1410.fa-5384-92.wa-3211-1325-1325.cc-5926-1330-1408",
+    "habboFigure": "hd-4174-2.ch-5699-110.lg-3192-72.sh-5671-110.ha-1004-110.ea-1403-110.fa-5384-92.ca-5502",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -4803,7 +4803,7 @@
     "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-155-42.hd-190-14.ch-215-1408.lg-275-80.sh-295-1408.he-1608",
+    "habboFigure": "hr-125-49.hd-190-2.ch-4361-1322-92.lg-3596-81-1408.sh-3035-92.ha-1004-63.he-3644.ea-3640.ca-3175-1410.cc-5800-63-63",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",

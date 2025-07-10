@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".lpenv(perlin.range(1,5)).lpa(.25).lpd",
     "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-3030-1334.lg-3018-77.sh-908-1408.he-3753.fa-5467",
@@ -493,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "(...) ~ Oblivion",
-    "habboFigure": "hr-3707-61-49.hd-627-28.ch-3809-110-92.lg-3596-110-110.he-3070-92.fa-5601-92.wa-3264-110-1408",
+    "habboFigure": "hr-3673-61.hd-627-28.ch-665-110.lg-4369-110-110.sh-3206-92.ha-3613-92.he-3070-92.fa-5601-92",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -1210,10 +1210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4363-49-49.hd-627-28.ch-665-110.lg-710-110.sh-4064-1408.he-3740.ea-3148-110-110.fa-3276-72.cc-5800-110-110",
+    "habboFigure": "hr-4363-49-49.hd-627-28.ch-665-110.lg-710-110.sh-4064-1408.he-3740.ea-3148-110-110.fa-3276-72.cc-5926-110-110",
     "memberSince": "2017-05-17T14:16:52.000+00:00",
     "uniqueId": "hhit-91f55529e02e54fa0a5e215f55bbb90b",
     "name": ".Artic.",
