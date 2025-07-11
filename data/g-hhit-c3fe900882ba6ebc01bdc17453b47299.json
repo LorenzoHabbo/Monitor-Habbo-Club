@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Afk anni luce",
     "habboFigure": "hr-828-1342.hd-205-15.ch-215-64.lg-280-92.sh-3035-110.he-3070-92.fa-3276-1329",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "F***of",
     "habboFigure": "hr-3673-48.hd-600-1.ch-5560-1408-1408.lg-3320-64-64.sh-906-64.ha-4192.ea-3484.fa-3276-1408.cc-5926-73-73",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "stasera sincero",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-1408.lg-5594-110.sh-3016-110.he-5348.fa-5600-92",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acciderbolina!",
     "habboFigure": "hr-4118-42.hd-629-1.ch-817-64.lg-3320-64-1408.cc-3515-64-64",
@@ -2210,10 +2210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
-    "habboFigure": "hr-3841-48.hd-207-8.ch-267-64.lg-281-64.cc-4091-64",
+    "habboFigure": "hr-3841-48.hd-207-8.ch-267-64.lg-281-64.cc-4091-64.cp-3286",
     "memberSince": "2022-02-19T19:03:06.000+00:00",
     "uniqueId": "hhit-6749d41e5fcffad99ebda8314a203ed4",
     "name": "DEMON.666",
