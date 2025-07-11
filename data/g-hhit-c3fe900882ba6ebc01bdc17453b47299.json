@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acciderbolina!",
     "habboFigure": "hr-4118-42.hd-629-1.ch-817-64.lg-3320-64-1408.cc-3515-64-64",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-60-49.hd-627-28.ch-665-110.lg-710-110.sh-4064-1408.he-3740.ea-3148-110-110.fa-3276-1336.cc-5926-110-1408",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-209-1.ch-3110-64-1408.lg-281-1408.sh-906-1408",
