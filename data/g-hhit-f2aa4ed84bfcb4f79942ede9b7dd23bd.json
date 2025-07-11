@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Spaventapassere Apache",
     "habboFigure": "hd-205-1370.ch-3030-1408.lg-275-1408.fa-3344-1408.cc-4091-1408",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5971-51.hd-190-2.ch-3489-92-110.lg-5594-68.sh-305-110.he-3070-1427.ea-6053-110.cc-5800-1339-1339",
@@ -9160,7 +9160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
