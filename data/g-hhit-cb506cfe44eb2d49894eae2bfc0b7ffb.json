@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Vice Leader Hooligans ‡",
     "habboFigure": "hr-5619-1407.hd-615-1.ch-5998-92.lg-3018-110.sh-5803-92.he-3891.ea-3750.fa-5601-92.ca-5768-92-92.wa-2003.cc-5926-110-92",
@@ -323,7 +323,7 @@
     "online": true,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
-    "habboFigure": "hr-5773-1404.hd-600-10.ch-6029-86-1413.lg-3134-110-1408.sh-6043.ha-4103-86-96.fa-5467.ca-5479-1409-89.wa-2003.cc-5926-64-110",
+    "habboFigure": "hr-5619-1404.hd-600-10.ch-5351-92-95.lg-3174-1432-92.sh-6043.he-3164-92-93.fa-5467.ca-5603-95-93.cc-3360-64",
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "rrosina",
@@ -433,7 +433,7 @@
     "online": true,
     "gender": "m",
     "motto": "Azzera i pensieri.",
-    "habboFigure": "hr-5791-1401.hd-3095-3.ch-3030-110.lg-3596-110-92.sh-3089-73.ea-3169-73.cc-886-1330",
+    "habboFigure": "hr-5791-1401.hd-3095-3.ch-3030-110.lg-3596-110-92.sh-3089-73.ea-3169-73.cc-5926-1330-1408",
     "memberSince": "2009-03-05T11:58:34.000+00:00",
     "uniqueId": "hhit-ad506414729920905d952af98436ba14",
     "name": "riccone96",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-1394-49.hd-180-1370.ch-4361-110-95.lg-6017-110-95.sh-3587-92-92.he-3070-93.fa-1201",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "stick",
     "habboFigure": "hd-180-8.ch-3840-83-85.lg-270-81.sh-295-64.ha-1005-64.he-3833-1408.ea-3925-83-81.fa-1206-90.ca-5770-1408",
@@ -2020,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Le leggi della fisica valgono qui?",
     "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-5331-49-40.hd-180-28.ch-3688-110.lg-5732-110-93.sh-3383-110-1408.ha-3463-110.ea-1402.fa-4048.ca-1816.cc-5800-110-93",
@@ -2683,7 +2683,7 @@
     "online": false,
     "gender": "f",
     "motto": "apprendista novello gd",
-    "habboFigure": "hr-5720-61-61.hd-3956-3-1372.ch-3266-110-1408.lg-3502-110.sh-3383-110-110.ha-4192.wa-3263-110-110",
+    "habboFigure": "hr-5720-61-61.hd-3956-3-1372.ch-3266-110-1408.lg-3502-110.sh-3383-110-110.ha-4192.fa-1209-110.wa-3263-110-110",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
     "name": "sognoilcies",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "nonhoideadelperchéio",
     "habboFigure": "hr-5619-1403.hd-600-10.ch-3013-1426.lg-5594-110.sh-905-92.he-3071-110.fa-5624-1425.cc-5461-92-1425.cp-3315-110",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "motto",
     "habboFigure": "hr-3800-40-40.hd-615-1.ch-3809-64-73.lg-3361-74.sh-3375-64-1408.he-3324-64-74.fa-3276-74.ca-5635-73-71.wa-3359-82.cc-5926-80-1408",
@@ -4100,7 +4100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-884-64.lg-5594-1408.sh-5670-64.ea-5897-64-1408.ca-5635-1408-1408.cc-5461-64-1408",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| Yasha ykz shiro |",
     "habboFigure": "hr-5503-46.hd-4383-10-12.ch-6029-72-68.lg-4012-72.sh-5308-68.ha-5443.he-5578-66.fa-4168-68.ca-3437-84.cc-3975-72-68",
