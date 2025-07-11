@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SHEIDEDA @ The Hundred - crikey",
     "habboFigure": "hr-3520-45.hd-180-1.ch-5093-64.lg-3361-64.sh-4112-64-64.he-3376-68-81.fa-3344-91.wa-2001.cc-3593-64-68",
@@ -1013,7 +1013,7 @@
     "online": true,
     "gender": "m",
     "motto": "No comment.",
-    "habboFigure": "hr-3322-1347.hd-3095-1383.ch-875-110-99.lg-270-110.sh-3016-1416.ea-3108-99-1408.ca-3085-1408.wa-3212-99-99",
+    "habboFigure": "hr-3322-1347.hd-209-1383.ch-3342-76-1408.lg-3019-1427.sh-3016-63.ea-3484.cc-3874-1421-1408",
     "memberSince": "2011-12-23T18:05:57.000+00:00",
     "uniqueId": "hhit-4892500f792b726b361d8f8946793b2a",
     "name": "Paul.McCartney",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-6022-14.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6019.cc-5926-92-95",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Adesso e ora",
     "habboFigure": "hr-4363-39-32.hd-4383-1391-1357.ch-6029-1339-94.lg-3198-94.sh-3206-1322.he-5618-94",
