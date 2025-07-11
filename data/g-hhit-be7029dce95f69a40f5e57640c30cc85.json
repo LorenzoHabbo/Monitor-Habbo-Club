@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "moon tell me if i could",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-63.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-1408",
@@ -1290,10 +1290,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-1342.hd-600-2.ch-3598-77-77.lg-5594-77.sh-3621-92-110.he-5348.fa-3276-96.cc-5800-110-110",
+    "habboFigure": "hr-5914-34-33.hd-4383-2-14.ch-685-110.lg-3018-1427.ha-1005-110.he-3082-89.fa-3276-96",
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-1427-1427",
@@ -6190,7 +6190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
