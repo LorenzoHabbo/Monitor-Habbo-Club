@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Vice Leader Hooligans ‡",
     "habboFigure": "hr-5619-1407.hd-615-1.ch-5998-92.lg-5974-77-92.sh-5803-92.he-3891.fa-3276-1409.cc-5926-77-92",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-185-1.ch-3323-1408-64.lg-281-64.sh-295-64.ea-3925-64-64.fa-1205-1320.ca-4115-64-1408.cc-3360-64",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5971-51.hd-190-2.ch-3489-92-110.lg-5594-68.sh-305-110.he-3070-1427.ea-6053-110.cc-5800-1339-1339",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-5624-1417.wa-3773-1322",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-34.hd-209-1370.ch-262-81.lg-3078-1408.sh-3068-1408-74.cc-4097-82-81",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-3163-49.hd-3845-10.ch-3185-110.lg-5594-77.sh-3016-1409.he-6125-110.fa-3276-70.cc-5800-92-110",
@@ -2020,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Le leggi della fisica valgono qui?",
     "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
@@ -2030,10 +2030,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’",
-    "habboFigure": "hr-5503-1404.hd-605-28.ch-665-110.lg-710-110.sh-5803-92.ha-5340.he-5808-1341.fa-5467.ca-3292-92",
+    "habboFigure": "hr-6127-1404.hd-605-28.ch-665-110.lg-710-110.sh-5803-92.he-5808-92.fa-5467.ca-3292-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-5773-32.hd-3631-1370-20.ch-665-100.lg-3006-110-92.sh-3206-1329.ea-5576-110-1412.ca-5983-1408.cc-6031-93-1412",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-1337.lg-5623.sh-3275-77.ha-5443.he-6019.fa-5600-89.ca-5575",
@@ -2493,7 +2493,7 @@
     "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.fa-5948-92.ca-5936-92.cc-5926-110-92",
+    "habboFigure": "hr-3163-41.hd-205-13.ch-3934-110-110.lg-280-110.sh-3587-92-92.he-5643.ea-5392.fa-5948-92.cc-3874-110-64",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-1408.fa-3276-66",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
@@ -3920,7 +3920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato Scelto GD",
     "habboFigure": "hr-5619-1350.hd-4383-1-1.ch-3013-110.lg-5970-77.sh-3206-1325.ha-5620-92.he-3324-110-74.cc-5926-92-1408",
@@ -3990,7 +3990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HZOCDBP4ù",
     "habboFigure": "hd-180-30.ch-5559-1408.lg-275-64",
@@ -4160,7 +4160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Peretaiolo Famiglia Tori",
     "habboFigure": "hr-3163-34.hd-205-2.ch-210-1334.lg-275-77.sh-305-92.he-3660-110-110.fa-3276-72",
@@ -4290,10 +4290,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥Barista esperta g.d¥",
-    "habboFigure": "hr-5619-45.hd-615-10.ch-5998-74.lg-6000-74.sh-5803-74.ha-3709.he-6125-74",
+    "habboFigure": "hr-3810-45.hd-615-10.ch-5998-74.lg-6000-74.sh-5803-74.ha-3709.he-6125-1408",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -4560,7 +4560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-1426.sh-908-92.he-3070-92.ea-1404-110.fa-5601-92",
@@ -5070,7 +5070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-5833-110-92.lg-4138-110.sh-3035-92.ca-1816.cc-6077",
@@ -5172,7 +5172,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "",
+    "motto": "Odio me stesso",
     "habboFigure": "hr-802-37.hd-180-1370.ch-3030-72.lg-275-64.sh-295-1408",
     "memberSince": "2025-06-19T22:31:33.000+00:00",
     "uniqueId": "hhit-f8ced988e434d7eed3eb98b0004295ef",
