@@ -50,7 +50,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "       NON SONO DEL 2002",
     "habboFigure": "hr-155-40.hd-180-1370.ch-3030-1408.lg-275-64.ha-1002-64",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3332-92-1326.lg-6013-83-71.he-5088.fa-5600-89",
@@ -4290,7 +4290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥Barista esperta g.d¥",
     "habboFigure": "hr-5720-45-40.hd-615-10.ch-5998-74.lg-6000-74.sh-5803-74.ha-3709.he-6125-1408",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-48-40.hd-190-1.ch-3342-64-82.lg-285-88.sh-295-64.ha-4192.ea-1404-1408.fa-3344-72.ca-5278-1408.cc-4947-73",
