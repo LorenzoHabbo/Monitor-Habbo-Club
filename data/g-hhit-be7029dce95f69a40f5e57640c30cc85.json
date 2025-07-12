@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-6055-42-61.hd-4383-28-14.ch-5917-1321.lg-4066-110.ha-3586.fa-3276-92",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-5869-1408-1408.ha-4324.ea-5007.fa-5467",
@@ -1933,7 +1933,7 @@
     "online": false,
     "gender": "m",
     "motto": "null",
-    "habboFigure": "hd-190-10.lg-275-64.sh-295-63.ha-4319.ea-1404-64.cc-4184-64-1408",
+    "habboFigure": "hd-190-10.ch-210-1408.lg-275-64.sh-295-1408.ha-4319.ea-1404-64.cc-4184-64-1408",
     "memberSince": "2009-09-09T01:08:32.000+00:00",
     "uniqueId": "hhit-c8bdee358d463034cde65369b9773800",
     "name": "energized",
@@ -6600,7 +6600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Che noia.",
     "habboFigure": "hr-4024-40.hd-3845-14.ch-3688-1408.lg-280-1408.sh-3524-1408-1408.ha-3857-1408-1408.he-4022.ca-4037-80-1408",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -8770,10 +8770,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
+    "habboFigure": "hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.wa-3773-106.cc-5945",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
