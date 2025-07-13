@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -4930,7 +4930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato GD",
     "habboFigure": "hr-3810-32.hd-600-1370.ch-3809-82-1408.lg-3391-82-1408.sh-4112-81-1408.fa-3276-73.cc-4108-82-1408",
@@ -7830,7 +7830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "o.m miei nemici",
     "habboFigure": "hr-893-42.hd-180-1370.ch-255-64.lg-280-1408.sh-290-1408.ea-1404-64",
