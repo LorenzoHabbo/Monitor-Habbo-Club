@@ -343,7 +343,7 @@
     "online": true,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
-    "habboFigure": "hr-5973-42-33.hd-4383-28-14.ch-5917-96.lg-4066-110.he-6103-96.fa-3276-92",
+    "habboFigure": "hr-5973-1407-61.hd-4383-10-3.ch-5560-110-110.lg-3596-110-110.he-5997-84.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Discepolo Lv.12 TH - CEO of McDonald's",
     "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6080.ea-5490.fa-5636-89.ca-5737-1325.cc-5826-63",
@@ -863,7 +863,7 @@
     "online": true,
     "gender": "m",
     "motto": "my type: miku hatsune col pisnelllo",
-    "habboFigure": "hr-3516-60.hd-3537-27.lg-3283-92-1326.sh-3693-1427-106.he-3082-95.fa-4283-106.cp-3205",
+    "habboFigure": "hr-3516-60.hd-3537-27.ch-5488-95.lg-3502-1427.sh-3693-1427-106.he-3082-95.fa-4283-106.cc-4109-92-92",
     "memberSince": "2011-07-17T14:26:52.000+00:00",
     "uniqueId": "hhit-626fe34dd60f3e5f5f109692a4d61f5b",
     "name": "lobotomy?",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Allons-Y",
     "habboFigure": "hr-4941-49-1354.hd-3095-1359.ch-4111-92.lg-3596-92-92.sh-3027-92-1408.ha-4194.ea-3484.fa-3865-92.ca-3466-1408-92.cc-6077",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-3342-76-1408.lg-3019-1427.sh-3016-63.ea-3484.cc-3874-1421-1408",
@@ -1103,7 +1103,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
-    "habboFigure": "hr-4090-34.hd-205-1.ch-3438-85-85.lg-5594-81.sh-4112-85-85.ha-5269-64.ea-5897-64-1408.ca-5768-1408-66.cc-3420-64",
+    "habboFigure": "hr-4090-34.hd-205-1.ch-3438-85-85.lg-5594-81.sh-4112-85-85.ea-5897-64-1408.ca-5768-1408-66.cc-3420-64",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-6126-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3687-1408-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -3120,7 +3120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3840-110-110.lg-5594-82.sh-3089-110.ha-5269-110.he-3070-92.ea-1404-110.fa-5601-1408.cc-3158-110",
@@ -3220,7 +3220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just a chill guy",
     "habboFigure": "hr-155-42.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -3650,7 +3650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "siamo due poli opposti",
     "habboFigure": "hr-3791-1403.hd-205-2.ch-210-110.lg-275-89.sh-5247-92-1408.ha-1003-110.he-3740.ca-5102-110",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Adesso e ora",
     "habboFigure": "hr-4363-39-32.hd-4383-1391-1357.ch-6029-1339-94.lg-3198-94.sh-3206-1322.he-5618-94",
@@ -4063,7 +4063,7 @@
     "online": true,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
-    "habboFigure": "hr-5773-1404.hd-615-1.ch-665-1428.lg-5594-1428.sh-5464-1427-1408.ha-5620-63.he-3070-92.fa-3276-1413.cc-5926-86-1337",
+    "habboFigure": "hr-5773-1404.hd-615-1.ch-3165-110.lg-3006-110-110.sh-908-92.ha-5620-92.he-3070-92.fa-3193-1408.cc-4091-110",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
