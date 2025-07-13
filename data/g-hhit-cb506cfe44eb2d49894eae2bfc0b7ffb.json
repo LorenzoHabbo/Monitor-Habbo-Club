@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-802-32.hd-180-1370.ch-4111-64.lg-275-1408.sh-295-71.he-3324-71-1408.fa-1204.ca-1801-73.cc-3326-64-1408",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "curiosoni, andate via! ©",
     "habboFigure": "hr-5331-40-40.hd-190-10.ch-3030-75.lg-5594-64.sh-305-1408.he-5418-1408-64.ca-4390.wa-5676",
@@ -413,7 +413,7 @@
     "online": true,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
-    "habboFigure": "hr-6055-42-61.hd-4383-1379-1372.ch-5917-1321.lg-4066-110.ha-3586.fa-3276-1328",
+    "habboFigure": "hr-6055-42-61.hd-4383-10-1372.ch-5917-1321.lg-4066-110.ha-3586.fa-3276-1328",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5955-1326-1333.lg-5243-1333.sh-6042.he-6138.fa-5467.cc-3289-1333",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciucciami il kumquat",
     "habboFigure": "hr-3829-42.hd-205-10.ch-3030-74.lg-3483-91-91.sh-906-64.he-3376-1408-66.ca-4965-73-73",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Pikkiopakkio",
     "habboFigure": "hr-3569-42.hd-627-10.ch-665-74.lg-4369-64-90.he-3376-1408-66.ca-4965-73-73",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "est modus in rebus -R |. sono fantagab",
     "habboFigure": "hr-545-45.hd-600-1.ch-6029-1320-71.lg-710-64.sh-3068-71-1320",
@@ -3960,7 +3960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Don't give a F*ck",
     "habboFigure": "hr-3829-1343.hd-3102-1.ch-5559-96.lg-5594-110.sh-4112-101-101.ha-5469-110-101.fa-4168-102.cc-5926-110-101",
@@ -4100,7 +4100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-884-64.lg-5594-1408.sh-5670-64.ea-5897-64-1408.ca-5635-1408-1408.cc-5461-64-1408",
