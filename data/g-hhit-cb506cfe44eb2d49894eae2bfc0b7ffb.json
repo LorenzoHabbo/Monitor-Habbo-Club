@@ -413,7 +413,7 @@
     "online": true,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
-    "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5831-110.lg-3391-82-1408.he-5997-1323.fa-3276-92",
+    "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5831-110.lg-3391-82-1408.he-5997-1323.fa-3276-1326",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Wiyal regime trikru",
     "habboFigure": "hr-5720-1395-40.hd-628-1.ch-5905-99.lg-3355-110-96.sh-907-1416.he-5348",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-3090-40.hd-209-8.ch-215-64.lg-3023-64.sh-3068-1408-1408.ca-5278-88",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-6126-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GAS",
     "habboFigure": "hr-3725-39.hd-209-12.ch-210-64.lg-3078-76.sh-3068-64-1408.ha-3352-64-1408.he-3329-64-1408.fa-3344-64.wa-2001.cc-3326-84-84",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLESƒ",
     "habboFigure": "hr-828-1398.hd-6021-7.ch-6121-1425-1426.lg-6123-1425-77.sh-3275-92.he-6125-63.fa-5435",
@@ -3920,7 +3920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.fa-5835-110.ca-5916-100-86.cc-887-100",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6127-45.hd-600-2.ch-3013-1331.lg-3006-82-92.sh-5308-1331.he-5314-1331-1331.fa-5467.ca-3485",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
     "habboFigure": "hr-5773-1404.hd-615-1.ch-665-1428.lg-5594-1428.sh-5464-1427-1408.ha-5620-63.he-3070-92.fa-3276-1413.cc-5926-86-1337",
@@ -5217,6 +5217,16 @@
     "memberSince": "2025-07-05T09:36:27.000+00:00",
     "uniqueId": "hhit-93562cc7e14a7e4ae0022eabae589bf8",
     "name": "panda_pu_ale",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-891-42.hd-206-10.ch-3030-1408.lg-275-64.sh-906-64",
+    "memberSince": "2025-07-12T16:33:36.000+00:00",
+    "uniqueId": "hhit-30e7ea966f0486482d63608fcef17bd3",
+    "name": "wwweiry",
     "isAdmin": false
   }
 ]
