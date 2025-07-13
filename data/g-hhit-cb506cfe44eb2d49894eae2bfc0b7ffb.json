@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5955-1326-1333.lg-5243-1333.sh-6042.he-6138.fa-5467.cc-3289-1333",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1370.ch-3806-64.lg-3078-82.sh-300-1408.ha-1004-64.fa-5600-1408.ca-3916-1408-1408",
@@ -3960,10 +3960,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Don't give a F*ck",
-    "habboFigure": "hr-3829-1343.hd-3102-1.ch-5559-96.lg-5594-110.sh-4112-101-101.ha-5469-110-101.he-3070-1408.fa-4168-102.cc-5926-110-101",
+    "habboFigure": "hr-3829-1343.hd-3102-1.ch-5559-96.lg-5594-110.sh-4112-101-101.ha-5469-110-101.fa-4168-102.cc-5926-110-101",
     "memberSince": "2024-01-05T03:00:51.000+00:00",
     "uniqueId": "hhit-4cb17d8dc067db5ffce5890d2e317982",
     "name": "Matthewice.",
