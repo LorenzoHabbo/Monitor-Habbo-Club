@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-61.hd-5838-1388-1362.ch-4111-92.lg-3407-1409-1409.sh-3524-1325-110.ea-6152.fa-5948-92",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mi siddia.",
     "habboFigure": "hr-5791-49.hd-3845-27.ch-3688-110.lg-5594-110.he-3070-92.fa-3276-1416.cc-4979-1408",
@@ -3463,7 +3463,7 @@
     "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
-    "habboFigure": "hr-3281-49.hd-3845-8.ch-5559-85.lg-3202-110-110.sh-5247-92-92.he-5348.cc-5441-1427-1427",
+    "habboFigure": "hr-3281-49.hd-3845-8.ch-4111-1326.lg-3202-110-110.sh-5247-92-92.he-5348",
     "memberSince": "2010-12-12T17:51:48.000+00:00",
     "uniqueId": "hhit-84b056cb633d4f8e51fcd5dd32cb1cac",
     "name": "biagio511",
@@ -4803,7 +4803,7 @@
     "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-4181-42.hd-190-2.ch-4361-1335-92.lg-280-81.sh-5803-92.ha-4027-1418-92.he-5088.ea-3640.cc-5485-92-1418",
+    "habboFigure": "hr-5971-49.hd-190-2.ch-4361-1335-92.lg-280-81.sh-5803-92.ha-4027-1418-92.he-5088.ea-3640.cc-5485-92-1418",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-4117-1398-1398.hd-4383-10-5.ch-650-1409.lg-5594-95.sh-5308-1409.ha-5620-1409.ca-5455-1409-93.cc-6077",
@@ -6130,7 +6130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-275-64.ha-3494-73-1408.he-4379.ea-3925-68-1320.fa-1201.cc-4282-73",
