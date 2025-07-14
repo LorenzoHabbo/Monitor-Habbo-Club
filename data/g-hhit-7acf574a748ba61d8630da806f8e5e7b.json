@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3358-103-1408.cc-3289-102",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Allons-Y",
     "habboFigure": "hr-4941-49-1354.hd-3095-1359.ch-4111-92.lg-3596-92-92.sh-3027-92-1408.ha-4194.ea-3484.fa-3865-92.ca-3466-1408-92.cc-6077",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-6126-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3841-42.hd-180-1.ch-3110-64-64.lg-285-82",
