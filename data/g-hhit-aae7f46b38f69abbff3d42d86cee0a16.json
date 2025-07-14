@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "assistente medico The Hundred",
     "habboFigure": "hr-4020-37-37.hd-4383-1-12.ch-5351-1408-80.lg-5909-1408-1408.sh-730-80.he-5844.ea-3484.ca-5455-1408-66",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-665-82.lg-3526-1408-1408.sh-3354-82-1408.he-4318-1408.fa-5601-1408.ca-5454-1408.cc-4943-1408",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5680-1348.hd-4383-10-5.ch-665-64.lg-3006-64-89.sh-3354-110-89.ha-5620-64.he-6125-93.cc-5926-89-1408",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro di Vela- BP -",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-72-73.lg-275-64.ha-3494-73-1408.he-4379.ea-3925-68-1320.fa-1201.cc-4282-73",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-6126-1354.hd-3103-3.ch-5559-63.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -593,7 +593,7 @@
     "online": false,
     "gender": "f",
     "motto": "eccessivo",
-    "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-110.lg-710-110.sh-5247-92-110.ha-4325.he-5482.fa-5601-92.ca-3885-92-1408",
+    "habboFigure": "hr-4117-49-40.hd-3099-27.ch-3013-1428.lg-710-110.sh-5247-92-110.ha-1004-63.he-3891.fa-5601-92.ca-3885-92-1408",
     "memberSince": "2015-12-11T16:11:14.000+00:00",
     "uniqueId": "hhit-6de415084834dc1589253227e0dda9c3",
     "name": "_itsnali",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "peace hend love",
     "habboFigure": "hd-205-10.ch-3110-64-73.lg-280-64.fa-1201.ca-1809",
