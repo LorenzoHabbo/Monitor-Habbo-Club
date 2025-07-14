@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cherubina D.M",
     "habboFigure": "hr-540-38.hd-629-14.ch-685-1408.lg-715-1408.sh-907-1408.he-1605-1408.ca-1812.wa-2011",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -5330,7 +5330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato semplice GD",
     "habboFigure": "hr-5579-46.hd-3845-10.ch-665-80.lg-3483-80-80.ha-4349.he-3833-1408.fa-3276-64.cc-5307-82",
