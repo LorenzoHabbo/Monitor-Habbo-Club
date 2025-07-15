@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5680-45.hd-4383-28-14.ch-5831-110.lg-3391-82-1408.he-6103-1323.fa-3276-1326",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "One Life",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-6010-1403-1404.hd-3845-10.ch-5919-100-1414.lg-3006-110-110.ha-4354-100-68.fa-5467.wa-5599-110-110.cc-5951-1329",
@@ -8870,10 +8870,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "lasciami stare",
-    "habboFigure": "hr-3810-45.hd-625-1.ch-3045-95.lg-3023-95.sh-906-95.ha-1021-95.he-1608.ea-3925-95-1326",
+    "habboFigure": "hr-834-45.hd-625-1.ch-3501-1327.lg-3023-1327.sh-906-98.ha-3026-1327.he-3069-1327-95.ea-3925-98-1327",
     "memberSince": "2023-07-03T17:01:45.000+00:00",
     "uniqueId": "hhit-3574e9f1bb42a775ab0ca9cad00bcd20",
     "name": "Fantagabri",
@@ -9500,7 +9500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Aiutante G.D",
     "habboFigure": "hd-209-1.ch-220-64.lg-285-64.sh-300-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2012",
