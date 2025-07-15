@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-61-40.hd-4383-28-14.ch-665-72.lg-5594-82.ha-5593-82-72.fa-3276-1326",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sta scrivendo...",
     "habboFigure": "hd-180-1370.ch-3792-85-1408.lg-3407-68-68.sh-3524-90-90.ea-1403-91.fa-1208-64",
@@ -6340,7 +6340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-3768-44.hd-4163-1-14.ch-3807-74-76.lg-3526-75-76.sh-3524-74-76.ea-3484",

@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-61-40.hd-4383-28-14.ch-665-72.lg-5594-82.ha-5593-82-72.fa-3276-1326",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
     "habboFigure": "hr-4090-34.hd-205-1.ch-3438-85-85.lg-5594-81.sh-4112-85-85.ea-5897-64-1408.ca-5768-1408-66.cc-3420-64",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6019.ea-6053-95.cc-5926-92-95",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1370.ch-3806-64.lg-3078-82.sh-300-1408.ha-1004-64.fa-5600-1408.ca-3916-1408-1408",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Le leggi della fisica valgono qui?",
     "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
@@ -2840,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -3910,7 +3910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
@@ -3990,10 +3990,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "siamo due poli opposti",
-    "habboFigure": "hr-3791-1403.hd-205-2.ch-210-110.lg-275-89.sh-5247-92-1408.ha-1003-110.he-3740.ca-5102-110",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-210-110.lg-275-89.sh-5247-92-1408.ha-5097-110-110.he-3740.ca-3844-110-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ci siamo nascosti sotto la stessa luna",
     "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-3116-1330-92.sh-305-92.fa-5601-92",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-37.hd-629-1.ch-665-1408.lg-710-64.sh-735-1408.ha-4006.he-6125-64.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408",
@@ -5081,16 +5081,16 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Cadetto G.D.",
-    "habboFigure": "hr-5465-1401-61.hd-3093-28.lg-5970-1330.sh-3089-110.he-1609-1330.fa-1203.ca-3217-110-73.cc-886-110",
+    "habboFigure": "hr-3012-1401.hd-3096-28.ch-665-110.lg-3023-77.sh-740-92.he-3218-92.fa-4168-71",
     "memberSince": "2025-05-26T18:13:44.000+00:00",
     "uniqueId": "hhit-8813e0ca5431520ffa490b36481c3d68",
     "name": "darkcloud",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I sogni sono il riflesso della vita.",
     "habboFigure": "hd-180-10.ch-255-64.lg-281-73.sh-295-1408.ha-1004-64.ea-1404-64.fa-3276-73",
