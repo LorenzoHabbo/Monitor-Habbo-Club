@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Le leggi della fisica valgono qui?",
     "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-831-49.hd-180-8.lg-3078-110.sh-3154-93-110.ha-3986.ea-3484.fa-1201.ca-1816.cc-3692-110-93",
@@ -5090,7 +5090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I sogni sono il riflesso della vita.",
     "habboFigure": "hd-180-10.ch-255-64.lg-281-73.sh-295-1408.ha-1004-64.ea-1404-64.fa-3276-73",
