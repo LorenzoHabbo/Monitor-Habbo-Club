@@ -472,7 +472,7 @@
   {
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
-    "habboFigure": "hr-5898-40-42.hd-4383-28-14.ch-5917-1328.lg-5974-110-110.he-6103-1328.ea-6053-1414.fa-3276-92",
+    "habboFigure": "hr-5898-40-42.hd-4383-28-14.ch-5917-1328.lg-5974-110-110.he-6103-1328.fa-3276-1414",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -816,7 +816,7 @@
     "memberSince": "2010-02-20T20:43:33.000+00:00",
     "uniqueId": "hhit-4b1d63857591fd85de66adbc149c4ce8",
     "name": "darkpaolo95",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1761,6 +1761,16 @@
   },
   {
     "gender": "m",
+    "motto": "Apprendista novello g.d",
+    "habboFigure": "hr-3090-45.hd-208-1.ch-808-64.lg-3088-64-64",
+    "memberSince": "2011-07-16T10:26:14.000+00:00",
+    "uniqueId": "hhit-32d34e8880e66b8cf038a78036722c0f",
+    "name": "louisloris",
+    "online": true,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
     "motto": "SPIA G.D",
     "habboFigure": "hd-3997-30.ch-3808-71-76.lg-4119.fa-1206-90.cc-3360-76",
     "memberSince": "2011-07-19T20:41:43.000+00:00",
@@ -2076,7 +2086,7 @@
     "memberSince": "2011-12-23T18:05:57.000+00:00",
     "uniqueId": "hhit-4892500f792b726b361d8f8946793b2a",
     "name": "Paul.McCartney",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2216,7 +2226,7 @@
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3126,7 +3136,7 @@
     "memberSince": "2015-05-31T17:39:57.000+00:00",
     "uniqueId": "hhit-63b8930e5d278ae209a9862fa264f51b",
     "name": "sofyB04",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3726,7 +3736,7 @@
     "memberSince": "2016-09-13T15:47:49.000+00:00",
     "uniqueId": "hhit-01dfa565db5747bed55ef8e131a13f71",
     "name": "eleonora430",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4406,7 +4416,7 @@
     "memberSince": "2018-04-19T14:01:34.000+00:00",
     "uniqueId": "hhit-e480a63a8bb5954b24873f11579f368c",
     "name": "frances80936ban",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7026,7 +7036,7 @@
     "memberSince": "2022-06-13T11:59:11.000+00:00",
     "uniqueId": "hhit-d3e0ab06fbb5b5de505ea3ba2fd88de8",
     "name": "AmnesiaRebirth",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7816,7 +7826,7 @@
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
     "name": "Pakydok99",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -8176,7 +8186,7 @@
     "memberSince": "2023-02-24T14:33:13.000+00:00",
     "uniqueId": "hhit-812064ec302ada10c2cb7bdb55c20934",
     "name": "MelaDai",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9986,16 +9996,6 @@
     "memberSince": "2023-11-10T14:30:48.000+00:00",
     "uniqueId": "hhit-de64f7f9b2670353ef5c0d93be7128d7",
     "name": "Seiko",
-    "online": false,
-    "isAdmin": false
-  },
-  {
-    "gender": "f",
-    "motto": "apprendista aiutante g.d",
-    "habboFigure": "hr-4182-48-48.hd-4163-10-30.ch-5560-82-81.lg-5594-1408.ha-4196.ea-5897-64-64.wa-5599-1408-64",
-    "memberSince": "2023-11-12T11:18:14.000+00:00",
-    "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
-    "name": "Sweetdevil:!",
     "online": false,
     "isAdmin": false
   }
