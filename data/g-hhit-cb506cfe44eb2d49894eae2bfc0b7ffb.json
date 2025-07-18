@@ -1516,7 +1516,7 @@
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3826,7 +3826,7 @@
     "memberSince": "2023-05-19T19:59:37.000+00:00",
     "uniqueId": "hhit-5a55c313cfed7f62d985fb63d7c50aa3",
     "name": "Entrepreneur",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
