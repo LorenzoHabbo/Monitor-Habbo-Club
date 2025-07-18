@@ -376,7 +376,7 @@
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -426,7 +426,7 @@
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -766,7 +766,7 @@
     "memberSince": "2010-07-05T18:19:40.000+00:00",
     "uniqueId": "hhit-eb4c9d32c92b4769526a749b8dc632f6",
     "name": "Ratel",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -862,7 +862,7 @@
   {
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
-    "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-101-92.lg-4119.sh-5671-92.ha-3709",
+    "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-95-92.lg-4119.sh-5671-92.ha-3709",
     "memberSince": "2010-12-16T21:39:25.000+00:00",
     "uniqueId": "hhit-007c095e376e8345f9d71d61b9cbff61",
     "name": "superdvina10",
@@ -1006,7 +1006,7 @@
     "memberSince": "2011-06-06T18:31:38.000+00:00",
     "uniqueId": "hhit-b7d6d0f59184e1d2d8bc6693bd61b3a4",
     "name": "Rootkit98.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1356,7 +1356,7 @@
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1516,7 +1516,7 @@
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1686,7 +1686,7 @@
     "memberSince": "2014-03-15T21:28:59.000+00:00",
     "uniqueId": "hhit-bc8f78c13efa0fc2cefa94d304153579",
     "name": "Ghenso",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1816,7 +1816,7 @@
     "memberSince": "2014-12-29T12:36:06.000+00:00",
     "uniqueId": "hhit-1ed499593c05ca04da39bae548d66bc1",
     "name": "giuseppe9118",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1866,7 +1866,7 @@
     "memberSince": "2015-04-02T22:11:29.000+00:00",
     "uniqueId": "hhit-4373f8000ce090c83bf56356c58fca54",
     "name": "telejordan",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2110,23 +2110,13 @@
     "isAdmin": false
   },
   {
-    "gender": "m",
-    "motto": "Le leggi della fisica valgono qui?",
-    "habboFigure": "hr-828-40.hd-180-11.ch-3077-110-89.lg-3058-67.sh-3089-110",
-    "memberSince": "2016-06-29T14:41:58.000+00:00",
-    "uniqueId": "hhit-176945b08172456d598b7b0d7e727782",
-    "name": "Euclide",
-    "online": true,
-    "isAdmin": false
-  },
-  {
     "gender": "f",
     "motto": "In apnea da un po’",
-    "habboFigure": "hr-3852-1342.hd-605-28.ch-5831-92.lg-3018-77.sh-5803-92.he-6125-1412.fa-5467.ca-3292-1412.cc-5926-77-1428",
+    "habboFigure": "hr-3852-1342.hd-605-28.ch-5831-92.lg-3018-77.sh-5803-92.he-3258-94-92.fa-5467.cc-5926-77-1428",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2386,7 +2376,7 @@
     "memberSince": "2018-04-13T15:00:36.000+00:00",
     "uniqueId": "hhit-cf8b54e4594e0bece99a87fa477fea08",
     "name": "Giusina1995",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2626,7 +2616,7 @@
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2756,7 +2746,7 @@
     "memberSince": "2019-11-11T17:05:56.000+00:00",
     "uniqueId": "hhit-a61b66ab2e501e56cc34fdfbaae6f99d",
     "name": "80Pazienza",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2846,7 +2836,7 @@
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4152,7 +4142,7 @@
   {
     "gender": "m",
     "motto": "sono sempre in apatia",
-    "habboFigure": "hr-3163-34.hd-205-3.ch-215-110.lg-5594-110.sh-305-92.ha-3690-110.he-3740.ca-5549-63-92",
+    "habboFigure": "hr-3791-1403.hd-205-2.ch-210-110.lg-275-89.sh-5247-92-1408.ha-1003-110.he-3740.ca-5102-110",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4306,7 +4296,7 @@
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4376,7 +4366,7 @@
     "memberSince": "2024-08-15T18:11:53.000+00:00",
     "uniqueId": "hhit-a531d56fdb495ca460578b68237bb0b2",
     "name": "Funkymelinda",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -4856,7 +4846,7 @@
     "memberSince": "2025-02-08T01:42:56.000+00:00",
     "uniqueId": "hhit-2ab10b7119bf86a4e8bb72fe5f5dedb5",
     "name": "mietitrebbia",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -5316,7 +5306,7 @@
     "memberSince": "2025-06-17T20:43:10.000+00:00",
     "uniqueId": "hhit-fe54b6da60c823d66360fd69906f0a58",
     "name": "Lauretta_19",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {

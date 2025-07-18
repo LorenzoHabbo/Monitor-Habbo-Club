@@ -436,7 +436,7 @@
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -476,7 +476,7 @@
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1232,7 +1232,7 @@
   {
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
-    "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-101-92.lg-4119.sh-5671-92.ha-3709",
+    "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-95-92.lg-4119.sh-5671-92.ha-3709",
     "memberSince": "2010-12-16T21:39:25.000+00:00",
     "uniqueId": "hhit-007c095e376e8345f9d71d61b9cbff61",
     "name": "superdvina10",
@@ -2216,7 +2216,7 @@
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2772,7 +2772,7 @@
   {
     "gender": "f",
     "motto": "liberatrice celeste :G.D. 1P||",
-    "habboFigure": "hr-3957-37-37.hd-629-19.ch-5351-1336-67.lg-715-1408.he-1608",
+    "habboFigure": "hr-3673-54.hd-629-19.ch-5998-1414.lg-4369-1328-71.he-3181-1414.cc-9865-1414",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -3056,7 +3056,7 @@
     "memberSince": "2015-04-02T22:11:29.000+00:00",
     "uniqueId": "hhit-4373f8000ce090c83bf56356c58fca54",
     "name": "telejordan",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3717,6 +3717,16 @@
     "uniqueId": "hhit-d2ad67442731bb37c8b7e4ddcc31cbf2",
     "name": "olly20",
     "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "f",
+    "motto": "Apprendista Novello G.D.",
+    "habboFigure": "hr-890-37.hd-629-1.ch-4067-1408-1408.lg-3216-1408.sh-3180-1408-1408.fa-3276-73.ca-3973-1408-64",
+    "memberSince": "2016-09-13T15:47:49.000+00:00",
+    "uniqueId": "hhit-01dfa565db5747bed55ef8e131a13f71",
+    "name": "eleonora430",
+    "online": true,
     "isAdmin": false
   },
   {
@@ -7016,7 +7026,7 @@
     "memberSince": "2022-06-13T11:59:11.000+00:00",
     "uniqueId": "hhit-d3e0ab06fbb5b5de505ea3ba2fd88de8",
     "name": "AmnesiaRebirth",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9986,16 +9996,6 @@
     "memberSince": "2023-11-12T11:18:14.000+00:00",
     "uniqueId": "hhit-2f9a1bdf39ea3c0dceeed4053346dd2d",
     "name": "Sweetdevil:!",
-    "online": false,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
-    "motto": "apprendista  GD",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-255-64.lg-3078-68.sh-906-1408.he-1608.ca-1815-68",
-    "memberSince": "2023-11-12T13:35:16.000+00:00",
-    "uniqueId": "hhit-fea5008d24898e158b3541cbb87130bf",
-    "name": "Lord_XxX",
     "online": false,
     "isAdmin": false
   }
