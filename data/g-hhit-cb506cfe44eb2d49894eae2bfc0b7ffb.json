@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Colpa della nostalgia, ricordi?",
     "habboFigure": "hr-5791-49.hd-3095-3.ch-230-110.lg-3596-92-92.ha-3709.cc-5926-77-92",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.cc-3542-92-77",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "..come onde di notte sulla spiaggia..",
     "habboFigure": "hr-5773-42.hd-627-2.ch-4128-110-92.lg-3078-1426.sh-730-110.ha-5620-100.he-1602-1412.fa-5467",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-31.hd-200-14.ch-210-1408.lg-280-64.sh-290-1408",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "out",
     "habboFigure": "hr-828-1342.hd-3092-1390.ch-3372-92-92.lg-3365-110.sh-3089-92.ha-1002-110.he-3070-1321",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GAS",
     "habboFigure": "hr-3725-39.hd-209-12.ch-210-1408.lg-3078-76.sh-3068-64-1408.ha-3352-64-1408.he-3329-64-1408.fa-3344-64.cc-3326-1408-1408",
@@ -2033,7 +2033,7 @@
     "online": false,
     "gender": "f",
     "motto": "wish you were masarezº",
-    "habboFigure": "hr-3791-1397.hd-6022-1393.ch-3013-92.lg-715-92.sh-3206-1409.ha-1002-89.ea-1404-91.fa-3276-1415.wa-2010.cp-3307-1321-1408",
+    "habboFigure": "hr-3791-1397.hd-6022-1393.ch-3013-92.lg-715-92.sh-3206-1409.ha-1002-89.he-5482.ea-1404-91.fa-3276-1415.wa-2010.cp-3307-1321-1408",
     "memberSince": "2016-01-29T12:09:04.000+00:00",
     "uniqueId": "hhit-81c17c0cc3428c896131be512c3c85ab",
     "name": "Minij",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-6125-64.fa-5624-73.ca-3414-72",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-5559-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-6134",
@@ -4280,7 +4280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "27club",
     "habboFigure": "hr-3048-48-1344.hd-600-30.ch-3183.lg-3190-1421-1334.sh-3275-92.he-3239-81.ea-3170-73.fa-1205-110.ca-1810.wa-6071.cc-3246-1329",
@@ -5210,7 +5210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-3089-110.ca-1816",
