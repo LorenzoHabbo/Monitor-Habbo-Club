@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-40-45.hd-4383-28-30.ch-5917-110.lg-4066-110.he-6103-96.fa-3276-92",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-3871-41.hd-4174-18.ch-4361-1408-1408.lg-280-82.sh-5803-92.ha-3054-1429-1429.fa-3592-63.cc-5926-1429-92",

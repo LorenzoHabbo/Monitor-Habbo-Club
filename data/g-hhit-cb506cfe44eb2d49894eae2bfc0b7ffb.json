@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-3281-1394.hd-180-1389.ch-3038-110.lg-3290-110.sh-3089-110.ha-1016.ea-3141.fa-3276-77.wa-3263-95-1408.cc-3039-110",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-40-45.hd-4383-28-30.ch-5917-110.lg-4066-110.he-6103-96.fa-3276-92",
@@ -2570,10 +2570,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-893-42.hd-180-1.ch-245-1408.lg-280-74.sh-3587-1408-1408.ha-3363",
+    "habboFigure": "hr-828-34.hd-205-2.ch-3001-1324-1409.lg-280-77.sh-3587-92-92.ha-3544.he-5393.ea-5392.fa-3276-91",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-5559-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-6134",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -4080,7 +4080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "viva il futbol",
     "habboFigure": "hr-893-34.hd-190-1370.ch-3030-1408.lg-275-81.sh-295-64.ha-4326.fa-5601-1408.ca-6020-64",
@@ -4280,7 +4280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "27club",
     "habboFigure": "hr-3048-48-1344.hd-600-30.ch-3183.lg-3190-1421-1334.sh-3275-92.he-3239-81.ea-3170-73.fa-1205-110.ca-1810.wa-6071.cc-3246-1329",
