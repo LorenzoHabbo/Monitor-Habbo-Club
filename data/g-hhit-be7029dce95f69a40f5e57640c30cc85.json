@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64.ea-1404-64",
@@ -1503,7 +1503,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5296.ha-3488.cc-3542-92-77",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.cc-3542-92-77",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-831-1397.hd-205-25.ch-3110-110-64.lg-280-110.sh-3524-110-1408.ha-1009-110.he-3376-110-64.fa-5600-1409.ca-5916-110-92.cc-3509-110-110",
