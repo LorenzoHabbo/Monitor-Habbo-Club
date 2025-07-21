@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Habbo X !",
     "habboFigure": "hr-5388-33.hd-5041-2.ch-235-92.lg-4167-1426.sh-3524-110-92.he-5088.cc-5800-110-110",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Your comfort zone will kill you",
     "habboFigure": "hd-180-14.ch-210-1408.lg-270-1408.ha-4050.cc-5182-1408",
@@ -6590,7 +6590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Che noia.",
     "habboFigure": "hr-4024-40.hd-3845-14.ch-3688-1408.lg-280-1408.sh-3524-1408-1408.ha-3857-1408-1408.he-4022.ca-4037-80-1408",
