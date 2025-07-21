@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-31.hd-200-14.ch-210-1408.lg-280-64.sh-290-1408",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "out",
     "habboFigure": "hr-828-1342.hd-3092-1390.ch-3372-92-92.lg-3365-110.sh-3089-92.ha-1002-110.he-3070-1321",
@@ -2850,10 +2850,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "papabile",
-    "habboFigure": "hr-4162-42.hd-190-10.ch-215-64.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.cc-3398-64-1408",
+    "habboFigure": "hr-4162-40.hd-190-10.ch-4339-64-1408.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
     "memberSince": "2020-02-24T13:11:58.000+00:00",
     "uniqueId": "hhit-42e997113909c856fec3b955c57ba7b0",
     "name": "b0nostrain",
@@ -3690,10 +3690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
-    "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5818-1408.fa-3276-1328",
+    "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
     "memberSince": "2022-11-04T07:39:18.000+00:00",
     "uniqueId": "hhit-36b948d8952154e83038ddc5cc2331b5",
     "name": "saretta_ban",
@@ -4100,7 +4100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
