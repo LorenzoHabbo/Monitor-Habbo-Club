@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3358-103-1408.cc-3289-102",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-40-45.hd-4383-28-30.ch-5917-110.lg-4066-110.he-6103-96.fa-3276-92",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5257.lg-5584.sh-5869-1408-1408.ha-4324.ea-4161.fa-5467",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pigghjta ngule",
     "habboFigure": "hr-125-31.hd-209-10.ch-878-73-1408.lg-3078-82.sh-906-64.cc-3294-64-1408",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-107-92.lg-4341-92.sh-5671-107.ha-3709.he-3071-107",
@@ -1950,7 +1950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hd-209-1.ch-215-1408.lg-275-81.sh-908-1408.ea-3484",
@@ -2500,10 +2500,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
-    "habboFigure": "hr-3499-37.hd-3103-1.ch-3323-110-1408.lg-3057-92.sh-3587-1322-1408.ha-3488.fa-3344-1325.ca-5026-63.wa-5370.cc-6134",
+    "habboFigure": "hr-3499-37.hd-6159-1-14.ch-3683-92-110.lg-6017-1336-1408.sh-5931.ha-3488.fa-6132.cc-6150",
     "memberSince": "2012-12-21T14:31:51.000+00:00",
     "uniqueId": "hhit-85a5e116895a72d99a5aec756784a41d",
     "name": "Gladiatore-x",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -3080,7 +3080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-34.hd-180-1370.ch-225-85.lg-3078-1408.sh-300-1408.ea-3484.wa-2001.cc-4978-85-83",
@@ -6730,7 +6730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-828-1407.hd-3095-1.ch-3215-110.lg-275-110.ea-1402.fa-3276-64",
