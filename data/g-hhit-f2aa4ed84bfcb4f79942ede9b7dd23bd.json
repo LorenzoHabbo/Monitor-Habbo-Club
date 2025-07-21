@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -2873,7 +2873,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-110.sh-305-92.he-3070-92.ea-1404-110",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-110.sh-3035-63.he-3070-92.ea-1404-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-3871-41.hd-4174-18.ch-4361-1408-1408.lg-280-82.sh-5803-92.ha-3054-1429-1429.fa-3592-63.cc-5926-1429-92",
@@ -7600,7 +7600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "in my mind crikey.",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
