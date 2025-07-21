@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-3602-61-1349.hd-5696-10-1364.ch-3032-110-64.lg-275-1418.sh-5247-92-110.he-3070-1408.fa-5600-1415.ca-4130-110-63.cc-4091-110.cp-3315-1418",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-5619-49.hd-5684-28.ch-5921-1425-1337.lg-4369-110-64.sh-3206-110.he-5997-1321.ea-1402.fa-1209-110.ca-5028-110-64.wa-3366-110-1425.cc-5926-110-1408",
@@ -4140,10 +4140,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
-    "habboFigure": "hr-3829-45.hd-3845-1.ch-5192.lg-3418-64.sh-5247-92-64.ha-5191.he-5074-92.ca-5936-92.cc-3289-110",
+    "habboFigure": "hr-3829-45.hd-3845-1.ch-255-110.lg-281-110.sh-5247-92-64.ha-5191.he-5074-92.ca-5936-92",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-3871-41.hd-4174-18.ch-4361-1408-1408.lg-280-82.sh-5803-92.ha-3054-1429-1429.fa-3592-63.cc-5926-1429-92",
@@ -4520,10 +4520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
-    "habboFigure": "hr-4363-1401-1347.hd-4383-10-5.ch-4087-1412.lg-5594-110.sh-5308-1413.ha-3026-1413.he-6125-100",
+    "habboFigure": "hr-4363-1342-52.hd-4383-10-5.ch-5560-1338-86.lg-5594-1333.sh-4112-1334-110.he-6125-93.cc-6077",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -5590,7 +5590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3836-92-89.lg-3502-92.ha-3709.he-5808-96.fa-5600-89",
@@ -6400,7 +6400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6019.ea-6053-95.cc-5926-92-95",
