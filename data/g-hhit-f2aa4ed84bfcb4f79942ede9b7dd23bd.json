@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5285-1403-40.hd-205-2.ch-3934-92-64.lg-3968-91.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-92",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -6900,7 +6900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-3520-34.hd-180-10.ch-3491-80-81.lg-3483-1320-80",
@@ -9393,7 +9393,7 @@
     "online": false,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
-    "habboFigure": "hr-3163-61.hd-205-1.ch-255-110.lg-280-92.sh-908-110.ha-3156-92.he-3070-92",
+    "habboFigure": "hr-3163-61.hd-205-1.ch-255-110.lg-280-92.sh-908-110.ha-3156-1326.he-3070-92",
     "memberSince": "2015-06-24T12:57:08.000+00:00",
     "uniqueId": "hhit-ca1d8f33e2c6c5fd6b7211b90021aaaa",
     "name": "Maessi",

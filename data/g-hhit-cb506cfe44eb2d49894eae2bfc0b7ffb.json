@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-3281-1394.hd-180-1389.ch-4111-110.lg-3057-110.sh-3089-110.ea-1402.fa-3344-1325.cc-4107-110-91",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5285-1403-40.hd-205-2.ch-3934-92-64.lg-3968-91.he-3070-92.ea-1404-110.fa-5601-1408.cc-5925-92",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-107-92.lg-4341-92.sh-5671-107.ha-3709.he-3071-107",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º",
     "habboFigure": "hr-4090-48.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1408.ha-3431-68-1320.ea-5897-64-1408.ca-5768-1408-66.cc-3360-68",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mondo grigio",
     "habboFigure": "hr-5606-49-56.hd-5319-28-28.ch-3013-110.lg-3933-1418.sh-6043.he-6019.fa-5975.ca-6041.wa-5370.cc-6070",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-3520-34.hd-180-10.ch-3491-80-81.lg-3483-1320-80",
@@ -1923,7 +1923,7 @@
     "online": false,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
-    "habboFigure": "hr-3163-61.hd-205-1.ch-255-110.lg-280-92.sh-908-110.ha-3156-92.he-3070-92",
+    "habboFigure": "hr-3163-61.hd-205-1.ch-255-110.lg-280-92.sh-908-110.ha-3156-1326.he-3070-92",
     "memberSince": "2015-06-24T12:57:08.000+00:00",
     "uniqueId": "hhit-ca1d8f33e2c6c5fd6b7211b90021aaaa",
     "name": "Maessi",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "You will never know, I will never show",
     "habboFigure": "hr-4363-61-61.hd-615-2.ch-3013-92.lg-3006-110-110.sh-5247-92-92.he-3740.ea-3108-1408-1408.ca-3885-110-92.cc-5926-92-92",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Helper al tuo servizio! » Hooligans",
     "habboFigure": "hr-828-1404.hd-5317-2-28.ch-3203-77.lg-3596-92-77.sh-5247-92-77.ea-3575.fa-3276-95.cc-6163-77.cp-5946",
@@ -2573,7 +2573,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-893-34.hd-209-14.ch-3030-1408.lg-281-1408.sh-3587-1408-1408.ea-5392.fa-5435",
+    "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.fa-5948-92.ca-5936-92.cc-5926-110-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "papabile",
     "habboFigure": "hr-4162-40.hd-190-10.ch-4339-64-71.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
@@ -3320,7 +3320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-115-42.hd-190-10.ch-255-1408.lg-3023-64.sh-305-1408.ha-1004-64.he-1608.ea-1404-1408.fa-1212",
@@ -4143,7 +4143,7 @@
     "online": true,
     "gender": "m",
     "motto": "vonn ca staij buon ma maj megl e lor",
-    "habboFigure": "hr-3163-31.hd-205-14.ch-3934-63-110.lg-281-1427.sh-305-92.ha-1003-110.he-3740.ca-3844-1326-1408",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-5093-63.lg-281-1427.sh-305-92.he-3740.ca-3844-92-92.cc-5800-1408-1408",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4380,7 +4380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6127-45.hd-600-2.ch-3013-1331.lg-3006-82-92.sh-5308-1331.he-5314-1331-1331.fa-5467.ca-3485",
@@ -5210,7 +5210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-3089-110.ca-1816",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Top 1 habbino + attraente (ban)",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3030-92.lg-280-77.sh-5803-92.ha-4052.he-3070-92.fa-3276-1329.ca-3414-77.cc-5926-77-92",
