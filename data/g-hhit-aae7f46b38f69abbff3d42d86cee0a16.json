@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-3768-42.hd-180-19.ch-3030-1408.lg-280-73",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-828-61.hd-180-8.ch-3688-110.lg-5732-110-93.sh-295-110.he-5348.ea-1402.ca-1816.cc-5800-110-93",
@@ -1393,7 +1393,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-1404.hd-615-28.ch-4087-1341.lg-4082.sh-5803-92.ha-3986.he-3559.fa-5601-92.cc-3390-110-92",
+    "habboFigure": "hr-5773-1404.hd-615-28.ch-4087-92.lg-4082.sh-5803-92.ha-3986.he-3559.fa-5601-92.cc-3390-110-92",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
