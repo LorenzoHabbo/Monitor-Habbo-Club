@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Duermo poco, sueño mucho",
     "habboFigure": "hr-5210-45-1343.hd-209-18.ch-267-110.lg-5594-1429.sh-5803-92.ha-5450.fa-5600-68",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -3430,10 +3430,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "atleta paraolimpico",
-    "habboFigure": "hr-170-61.hd-190-17.ch-3167.lg-5594-91.sh-5464-1427-63.ha-3495-1427-100.cc-4091-110.cp-3308-63-92",
+    "habboFigure": "hr-170-61.hd-190-17.ch-3167.lg-5594-91.sh-5464-1427-63.ha-3495-1427-100.cc-4091-110.cp-3313-1427",
     "memberSince": "2011-01-09T10:47:09.000+00:00",
     "uniqueId": "hhit-6994400e500345d29941e9cbda2f4804",
     "name": "pierpdogg",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5791-1405.hd-205-18.ch-215-1408.lg-275-81.sh-5803-92.ha-4195.cc-5800-1339-1408",
@@ -7480,7 +7480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-5624-1417.wa-3773-1322",
@@ -7720,7 +7720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Corleone »",
     "habboFigure": "hr-5773-59.hd-3100-10.ch-5560-1409-110.lg-3364-110-110.sh-5670-1325.he-3557.ea-1404-110.fa-1206-96",
@@ -8150,7 +8150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ho seminato in terreni aridi",
     "habboFigure": "hr-3020-1342.hd-180-28.ch-5856.lg-5594-63.sh-305-92.ha-1003-1428.ea-3574.fa-5975",
