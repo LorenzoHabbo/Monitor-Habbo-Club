@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-3281-1394.hd-180-1389.ch-4111-110.lg-3057-110.sh-3089-110.ea-1402.fa-3344-1325.cc-4107-110-91",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-109.lg-275-109.sh-305-92.ea-3108-92-92",
@@ -5210,7 +5210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-3089-110.ca-1816",
