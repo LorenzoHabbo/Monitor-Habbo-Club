@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-60.hd-3845-8.ch-4230.lg-5163-66.sh-3206-1409.fa-5158-1320.cc-3374-66",
@@ -1503,7 +1503,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.cc-3542-92-77",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-107.sh-5296.ha-3488.fa-5600-92.cc-3542-107-107",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-3070-1327.fa-5467",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -4790,10 +4790,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-5971-51.hd-190-2.ch-3489-92-110.lg-5594-68.sh-305-110.he-3070-1427.ea-6053-110.cc-5800-1339-1339",
+    "habboFigure": "hr-4941-41-41.hd-5913-18.ch-4361-1427-77.lg-280-81.sh-5803-92.ea-6053-1427.ca-5603-106-1420.cc-5800-92-92",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -4820,7 +4820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5681-1342-1347.hd-4383-10-5.ch-4087-1326.lg-5594-92.sh-5308-1326.ha-3709.cc-6077",
@@ -6120,7 +6120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "gajin Shiro YaKºza",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-82.lg-275-64.ha-3494-72-82.he-4379.ea-3925-90-66.fa-1201.cc-3389-72-81",
@@ -8090,7 +8090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1.ch-878-85-1408.lg-270-1408.ha-1004-64.fa-5600-1408",
