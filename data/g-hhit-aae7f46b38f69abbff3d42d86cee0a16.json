@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-831-1397.hd-205-25.ch-3110-110-64.lg-280-110.sh-3524-110-1408.ha-1009-110.he-3376-110-64.fa-5600-1409.ca-5916-110-92.cc-3509-110-110",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1425-100.lg-270-1408.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.wa-5676.cc-5826-73",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5681-1342-1347.hd-4383-10-5.ch-4087-1326.lg-5594-92.sh-5308-1326.ha-3709.cc-6077",
@@ -623,7 +623,7 @@
     "online": true,
     "gender": "f",
     "motto": "La prima volta",
-    "habboFigure": "hr-4363-61-61.hd-615-2.ch-3013-92.lg-3006-110-110.sh-5247-92-92.he-3740.ea-3108-1408-1408.ca-3885-110-92.cc-5926-92-92",
+    "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5773-1342.hd-627-1383.ch-3935-92-110.lg-3526-77-77.sh-5247-92-92.he-3891.ea-5576-85-110.fa-3276-1412.cc-5926-110-110",
