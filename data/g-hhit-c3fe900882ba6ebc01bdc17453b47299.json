@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -433,7 +433,7 @@
     "online": false,
     "gender": "f",
     "motto": "il tempo passa!|",
-    "habboFigure": "hr-5617-34-34.hd-3845-1369.ch-4368-76.lg-4138-1320.sh-5247-1320-1408.he-3974.fa-3276-73.ca-5365-1320-1408.cc-5485-1320-1408",
+    "habboFigure": "hr-5617-34-34.hd-3845-1369.ch-4368-76.lg-4138-82.sh-5247-82-66.he-3974.fa-3276-73.ca-4173-1320",
     "memberSince": "2011-01-24T14:11:30.000+00:00",
     "uniqueId": "hhit-e7fd533ab1e27993239820e8f1667546",
     "name": "-Curiosity.",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "You will never know, I will never show",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-1350.hd-6022-13.ch-824-1408.lg-3201-81-81.sh-908-1408.ha-4094-1408-1408.ea-5576-63-1408",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3673-42.hd-3845-10.ch-3497-64.lg-3483-64-1408.ha-3709.fa-3276-64.ca-4037-64-1408.cc-3744-64-1408",
