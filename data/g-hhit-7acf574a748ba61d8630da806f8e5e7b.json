@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3342-64-64.lg-3596-64-64.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.ca-5981-1428-1408.cc-5800-64-110",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin esperto Ykz Shiro",
     "habboFigure": "hr-3841-32.hd-205-1370.ch-3840-1320-85.lg-275-81.sh-3524-1320-64.ha-4192.he-6125-64.ea-1404-64.fa-3276-73.ca-6018",
