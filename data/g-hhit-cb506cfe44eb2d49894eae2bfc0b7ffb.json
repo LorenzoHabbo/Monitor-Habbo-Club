@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-3281-1394.hd-180-1389.ch-4111-110.lg-3057-110.sh-3089-110.ea-1402.fa-3344-1325.cc-4107-110-91",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6126-1395.hd-628-1.ch-5905-99.lg-3355-110-96.sh-907-1416.he-5348",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6019.ea-6053-95.cc-5926-92-95",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Psicologo senza laurea",
     "habboFigure": "hr-3860-61-61.hd-180-2.ch-3979-110.lg-4138-110.sh-3587-110-92.ha-3612-110.fa-5975.cc-6077",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3671-31-40.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.ca-5463.wa-3773-106.cc-5945",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-1408.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -3860,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "perchè mi clicchi?",
     "habboFigure": "hr-890-45.hd-625-1.ch-665-110.lg-3023-92.sh-906-92.ha-1002-92.he-3082-110.ea-3925-110-92.ca-1801-92",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-109.lg-275-109.sh-305-92.ea-3108-92-92",
@@ -4080,7 +4080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "viva il futbol",
     "habboFigure": "hr-893-34.hd-190-1370.ch-3030-1408.lg-275-81.sh-295-64.ha-4326.fa-5601-1408.ca-6020-64",
@@ -4090,7 +4090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Che ora son mi corazon",
     "habboFigure": "hr-3163-1395.hd-3102-1.ch-803-110.lg-5594-110.sh-4112-79-93.ha-3986.he-3070-1408.cc-5926-79-93",
@@ -4290,7 +4290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uff... che noia",
     "habboFigure": "hr-4363-39-32.hd-4383-1391-1357.ch-6029-1339-94.lg-3198-94.sh-3206-1322.he-5618-94",
@@ -5280,10 +5280,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Top 1 habbino + attraente (ban)",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3030-92.lg-280-77.sh-5803-92.ha-4052.he-3070-92.fa-3276-1329.ca-3414-77.cc-5926-77-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3030-92.lg-280-77.sh-5803-92.ha-4052.he-3070-92.fa-3276-1329.cc-5926-77-92",
     "memberSince": "2025-06-11T17:45:44.000+00:00",
     "uniqueId": "hhit-622c1f162275078ac798216ac048101d",
     "name": "LilBaby",
