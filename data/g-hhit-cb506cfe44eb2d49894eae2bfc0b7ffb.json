@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5955-1326-1333.lg-5243-1333.sh-6042.he-5827-92-1433.fa-5467.cc-3289-1333",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scagnozzo Esperto G.D",
     "habboFigure": "hr-540-42.hd-629-1.ch-665-91.lg-3078-64.sh-740-1408.he-1602-72.ca-1801-1408",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
     "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.ha-3431-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-5770-72.cc-3360-68.cp-3284-73",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-6019.ea-6053-95.cc-5926-92-95",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-5559-1334.lg-3526-1429-1408.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-3520-34.hd-180-10.ch-3491-80-81.lg-3483-1320-80",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Decime Esperta G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-3683-1408-1408.lg-270-81.sh-300-81.ha-1009-81.ea-3484.cc-3294-81-81",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-5559-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-6134",
@@ -2930,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-61.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-93-110",
@@ -3190,7 +3190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Regolatevi!",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-710-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-210-92.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5926-110-1408",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-1408.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -3863,7 +3863,7 @@
     "online": true,
     "gender": "f",
     "motto": "perchè mi clicchi?",
-    "habboFigure": "hr-834-45.hd-625-1.ch-3501-1327.lg-3023-1327.sh-906-98.ha-3026-1327.he-3069-1327-95.ea-3925-98-1327",
+    "habboFigure": "hr-890-45.hd-625-1.ch-665-110.lg-3023-92.sh-906-92.ha-1002-92.he-3082-110.ea-3925-110-92.ca-1801-92",
     "memberSince": "2023-07-03T17:01:45.000+00:00",
     "uniqueId": "hhit-3574e9f1bb42a775ab0ca9cad00bcd20",
     "name": "Fantagabri",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vonn ca staij buon ma maj megl e lor",
     "habboFigure": "hr-3163-31.hd-205-14.ch-215-63.lg-281-1427.sh-305-92.ha-1003-110.he-3740.ca-3844-1326-1408",
@@ -4380,7 +4380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6127-45.hd-600-2.ch-3013-1331.lg-3006-82-92.sh-5308-1331.he-5314-1331-1331.fa-5467.ca-3485",
@@ -4700,7 +4700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-1426.sh-908-92.he-3070-92.ea-1404-110",
