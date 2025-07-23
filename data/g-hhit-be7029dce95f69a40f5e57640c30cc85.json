@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mi siddia.",
     "habboFigure": "hr-5791-49.hd-3845-27.ch-3688-110.lg-5594-110.he-3070-92.fa-3276-1416.cc-4979-1408",
@@ -4570,7 +4570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-185-1.ch-3323-1408-64.lg-281-64.sh-295-64.ea-3925-64-66.fa-1205-1320.ca-4115-64-1408.cc-3360-64",
@@ -6120,7 +6120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "gajin Shiro YaKºza",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-82.lg-275-64.ha-3494-72-82.he-4379.ea-3925-90-66.fa-1201.cc-3389-72-81",
@@ -6580,7 +6580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "motto motto otto tto to o  giox",
     "habboFigure": "hr-165-42.hd-3603-1.ch-6015-82-1408.lg-6017-64-82.ha-6014-64-82.fa-3865-64.cc-260-1408",
@@ -8093,7 +8093,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hd-180-1.ch-878-85-1408.lg-270-1408.ha-1004-64.fa-5600-1408",
+    "habboFigure": "hd-180-1.ch-878-85-1408.lg-270-1408.ha-1004-64.he-1608.fa-5600-1408",
     "memberSince": "2014-08-14T15:40:09.000+00:00",
     "uniqueId": "hhit-283794c05c88bed9049f06ac9032bc0b",
     "name": "Jiren22",
