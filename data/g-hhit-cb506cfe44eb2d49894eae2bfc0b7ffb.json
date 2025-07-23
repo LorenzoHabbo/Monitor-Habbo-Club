@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ƒƒSerendipityƒƒ",
     "habboFigure": "hr-3841-36.hd-207-1.ch-3840-66-1408.lg-4167-64.sh-3524-66-1408.ha-6107.ea-1404-91.wa-2001.cc-6118",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5955-1326-1333.lg-5243-1333.sh-6042.he-5827-92-1433.fa-5467.cc-3289-1333",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-5624-1417.wa-3773-1322",
@@ -2470,7 +2470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bobba boy",
     "habboFigure": "hr-125-32.hd-190-1370.ch-3840-1408-64.lg-5970-1408.sh-908-91.ha-5852.fa-5601-1408.cc-5182-1408",
@@ -2930,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-61.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-93-110",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-1408.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "perchè mi clicchi?",
     "habboFigure": "hr-890-45.hd-625-1.ch-665-110.lg-3023-92.sh-906-92.ha-1002-92.he-3082-110.ea-3925-110-92.ca-1801-92",
@@ -4050,10 +4050,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-255-109.lg-3058-110.sh-305-92.ea-3108-92-92.cc-260-63",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-255-109.lg-275-109.sh-305-92.ea-3108-92-92",
     "memberSince": "2024-01-03T01:51:17.000+00:00",
     "uniqueId": "hhit-7f229ac597d1000643b8192aa5e48837",
     "name": "M-Batshuayi-",
@@ -4280,7 +4280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uff... che noia",
     "habboFigure": "hr-4363-39-32.hd-4383-1391-1357.ch-6029-1339-94.lg-3198-94.sh-3206-1322.he-5618-94",
@@ -5200,7 +5200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-3089-110.ca-1816",
@@ -5270,7 +5270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Top 1 habbino + attraente (ban)",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3030-92.lg-280-77.sh-5803-92.ha-4052.he-3070-92.fa-3276-1329.cc-5926-77-92",
