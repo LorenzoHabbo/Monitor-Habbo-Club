@@ -133,7 +133,7 @@
     "online": true,
     "gender": "m",
     "motto": "06-01-28/27-05-25",
-    "habboFigure": "hr-3829-1342.hd-207-1.ch-803-110.lg-3596-1334-1408.sh-4112-92-1408.he-3660-92-1408.fa-5601-92.cc-5926-1427-1408",
+    "habboFigure": "hr-3829-1342.hd-207-1.ch-5596-110.lg-3596-110-1408.sh-4112-92-1408.ha-4192.he-3660-92-1408.fa-5601-92.cc-5926-1427-1408",
     "memberSince": "2007-06-18T12:50:35.000+00:00",
     "uniqueId": "hhit-d556ecaf14bf2c7130454858c4e3bc8a",
     "name": "Lodato",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "curiosoni, andate via! ©",
     "habboFigure": "hr-5331-40-31.hd-190-10.ch-3683-1408-82.lg-5594-90.sh-305-1408.ca-4390.wa-5676",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-4392-1426-98.lg-3006-98-98.sh-5717.fa-5435",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3531-34-34.hd-190-14.ch-3688-64.lg-3596-64-1408.sh-3419-64-64.ha-1004-64.he-3833-1320.fa-3378-1320-1408.ca-6020-90.wa-4317-1408",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3443.lg-3078-82.sh-290-64.ha-3441.fa-1211.ca-5770-1408",
@@ -2183,7 +2183,7 @@
     "online": true,
     "gender": "m",
     "motto": "Helper al tuo servizio! » Hooligans",
-    "habboFigure": "hr-3163-1404.hd-5317-4-29.ch-5452-77-92.lg-3596-92-77.sh-5247-92-77.fa-5601-1409",
+    "habboFigure": "hr-828-1404.hd-5317-1359-28.ch-5830-92.lg-3418-1338.fa-3276-110.ca-5549-63-1408",
     "memberSince": "2017-02-25T13:35:17.000+00:00",
     "uniqueId": "hhit-0ef6bf9c5b7a01934f53374fa09f0a9c",
     "name": "@P-E-P-P-E@",
@@ -3100,7 +3100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "te dejo atras",
     "habboFigure": "hr-5619-1342.hd-615-18.ch-3013-86.lg-710-1337.sh-740-92.he-3082-92.ea-1404-110.fa-5835-96",
@@ -4080,7 +4080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cigarettes After S*x",
     "habboFigure": "hr-3163-56.hd-3845-1.ch-803-110.lg-5594-110.sh-4112-1417-1417.ha-4192.he-5088.fa-4168-101.ca-5934-1408.cc-4979-101",
@@ -4213,7 +4213,7 @@
     "online": true,
     "gender": "m",
     "motto": "Kobun YKZ Shiro",
-    "habboFigure": "hr-5019-42.hd-3845-8.ch-5559-64.lg-4138-64.sh-5247-1408-64.ea-5576-64-64.ca-5934-66.cc-3420-64",
+    "habboFigure": "hr-5019-42.hd-3845-8.ch-5559-92.lg-4138-110.sh-5247-92-64.he-3070-1410.ea-5576-110-110.ca-5934-66.cc-3420-110",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
@@ -4270,7 +4270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "27club",
     "habboFigure": "hr-3021-44-1347.hd-600-30.ch-3183.lg-3190-1421-1334.sh-3275-92.ha-4089-1408.he-3239-81.ea-3170-73.fa-1209-88.ca-3916-64-1331.wa-6071.cc-3246-1329",
@@ -4690,7 +4690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-1426.sh-908-92.he-3070-92.ea-1404-110",
