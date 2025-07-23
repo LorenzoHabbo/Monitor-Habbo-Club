@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "We come for you, no chances",
     "habboFigure": "hr-831-1396.hd-205-25.ch-3059-110.lg-280-1325.sh-3524-92-92.ha-1002-110.he-3070-1408.fa-5600-1409.cc-3158-110",
@@ -6180,7 +6180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-1342-1342.hd-4383-10-14.ch-3836-92-89.lg-3502-92.ha-3709.he-5808-96.fa-5600-89",
