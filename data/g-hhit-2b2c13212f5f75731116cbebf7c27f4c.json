@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3030-90.lg-280-90.sh-300-90.ha-5744-90-66.fa-5636-64.ca-5739-90-66.cc-3692-90-66",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "One Life",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista  g.d.",
     "habboFigure": "hr-3090-31.hd-205-1370.ch-255-1320.lg-281-1408.sh-3068-64-1408.ha-1005-64.he-1601.fa-3276-72.cp-3127-1408",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novella G.D",
     "habboFigure": "hr-3673-35.hd-600-10.ch-3517-64-1408.lg-700-64.sh-735-64.ha-3352-64-1408.he-6125-64.wa-3661-64-1408",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "pace?",
     "habboFigure": "hr-545-45.hd-600-1.ch-665-64.lg-710-64.sh-3068-1408-64.he-1608.fa-3276-72.ca-1801-1408",
@@ -7050,7 +7050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "u lupu famiglia tori",
     "habboFigure": "hr-170-45.hd-205-14.ch-267-64.lg-281-1408.sh-305-1408.ha-1003-64.fa-1202-1408",
