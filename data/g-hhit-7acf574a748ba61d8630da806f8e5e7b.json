@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-90-66.fa-1201.cc-3360-1408",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1.ch-3540-85.lg-270-1408.ha-1004-64.he-1608.fa-5600-1408",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La prima volta",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-665-1326.lg-710-110.sh-5803-92.he-5808-92.ea-5576-1408-1408.fa-5456-95.ca-3292-92",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Be a cicciobomba",
     "habboFigure": "hr-5210-61-49.hd-3845-2.ch-3203-92.lg-5594-63.sh-4112-92-1408.ha-4192.he-5808-92.fa-5601-1408.ca-5936-92.cc-5926-110-67",
