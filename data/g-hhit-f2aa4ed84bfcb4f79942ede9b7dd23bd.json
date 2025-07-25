@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-5619-49.hd-5684-28.ch-5921-1425-1337.lg-4369-110-64.sh-3206-110.he-5997-1321.ea-1402.fa-1209-110.ca-5028-110-64.wa-3366-110-1425.cc-5926-110-1408",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-6098.lg-4066-1409.sh-3016-110.ea-5641",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Duermo poco, sueño mucho",
     "habboFigure": "hr-831-34.hd-209-18.ch-210-110.lg-281-63.sh-305-86.ha-4136-92.he-5088.fa-5600-68.cc-5810-92",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-280-91.sh-908-92.ea-1404-110.fa-5601-1408",
@@ -4140,7 +4140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3829-45.hd-3845-1.ch-255-110.lg-275-1425.sh-5247-92-64.ha-5191.he-5074-92.fa-5691-92-79.ca-5936-92",
@@ -9150,10 +9150,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "f",
+    "online": false,
+    "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3671-31-40.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.ca-5463.wa-3773-106.cc-5945",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
