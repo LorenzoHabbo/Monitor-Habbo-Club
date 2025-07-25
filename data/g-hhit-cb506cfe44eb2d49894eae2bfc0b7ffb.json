@@ -360,10 +360,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5503-1342.hd-600-2.ch-665-105.lg-3483-77-77.sh-3035-1408.ha-4194.he-3070-92.fa-3276-100",
+    "habboFigure": "hr-5503-34.hd-600-1.ch-3788-74.lg-4066-74.ha-4194.fa-3276-72",
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
     "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-5770-72.cc-3360-68.cp-3284-73",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3443.lg-3078-82.sh-290-64.ha-3441.fa-1211.ca-5770-1408",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La prima volta",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non perdere tempo con chi non lo merit",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -5180,7 +5180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-3089-110.ca-1816",
