@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-61.hd-3091-3.ch-4994-1409-90.lg-3057-1409.sh-5308-1410.ha-3352-1409-64.he-5578-1408.fa-5601-68.ca-5769-91-66",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64.ea-1404-64",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-1347-40.hd-4383-28-1372.ch-5907-1326-1326.lg-4066-110.he-6103-1327.fa-3276-92",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Discepolo Lv.12 TH - CEO of McDonald's",
     "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6080.ea-5490.fa-5636-89.ca-5737-1325.cc-5826-63",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-3768-42.hd-180-19.ch-3030-1408.lg-280-73",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3671-31-40.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.ca-5463.wa-3773-106.cc-5945",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La prima volta",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Better than never trusting",
     "habboFigure": "hr-5772-44-40.hd-600-1.ch-5560-64-64.lg-5582-64-64.he-5820-1408.fa-5467.ca-6018",
