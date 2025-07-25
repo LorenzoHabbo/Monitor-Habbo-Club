@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3604-1367.ch-3203-110.lg-3216-96.he-1609-96.fa-1204.ca-3844-110-96.wa-4060-96-1336",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -1103,7 +1103,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
-    "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-5770-72.cc-3360-68.cp-3284-73",
+    "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.ha-3431-64-1408.he-3660-64-1408.ea-5897-64-1408.ca-5770-72.cc-3360-68.cp-3284-73",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2020,10 +2020,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-893-42.hd-205-14.ch-3934-64-64.lg-3933-1408.sh-3587-1408-1408.ha-3144-1408-64.he-3821-85-84.ea-5392.fa-5948-1408.ca-3414-1408",
+    "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.cc-5800-63-63",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-5559-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-6134",
