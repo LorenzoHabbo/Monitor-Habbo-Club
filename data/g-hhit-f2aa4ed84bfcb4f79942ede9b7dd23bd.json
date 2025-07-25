@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-6098.lg-4066-1409.sh-3016-110.ea-5641",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Duermo poco, sueño mucho",
     "habboFigure": "hr-831-34.hd-209-18.ch-210-110.lg-281-63.sh-305-86.ha-4136-92.he-5088.fa-5600-68.cc-5810-92",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-76-1408.lg-275-80",
@@ -2870,10 +2870,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-61.hd-4023-2.ch-3934-92-64.lg-5594-91.cc-3360-90",
+    "habboFigure": "hr-3791-1342.hd-208-14.ch-210-92.lg-280-64.sh-908-92.he-3891",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
     "habboFigure": "hr-5971-1404.hd-190-24.ch-5559-92.lg-280-81.sh-5803-92.ha-1003-63.he-5088.ea-3640.cc-5800-87-92",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "||",
     "habboFigure": "hr-4363-1395-1347.hd-4383-1383-5.ch-5351-92-98.lg-3136-92.sh-6064-68-98.he-5314-1327-1327.cc-6077",
@@ -6400,7 +6400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-3778-92.ea-6053-95",
@@ -7600,7 +7600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "in my mind crikey",
     "habboFigure": "hr-828-1351.hd-180-1370.ch-3030-108.lg-3057-110.sh-3016-1416.ha-1002-1416.cp-3317-96-1321",
