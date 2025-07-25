@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-5559-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-6134",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3840-92-110.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5461-110-1408",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-64.lg-285-88.sh-290-1408.ha-1002-91.ea-1404-64.fa-1205-1408.wa-2012.cc-3280-64-1320",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "USMC Soldato Semplice OP",
     "habboFigure": "hr-5914-45-1346.hd-3096-1390.ch-4067-83-1408.lg-3216-82.sh-5671-1326.he-5721-83-1326",
