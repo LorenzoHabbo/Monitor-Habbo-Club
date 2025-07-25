@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-3281-1394.hd-180-1389.ch-4111-110.lg-3057-110.sh-3089-110.ea-1402.fa-3344-1325.cc-4107-110-91",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-76-1408.lg-275-80",
@@ -130,10 +130,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "06-01-28/27-05-25",
-    "habboFigure": "hr-828-42.hd-180-1.ch-3030-102.lg-275-1423",
+    "habboFigure": "hr-3829-1342.hd-207-1.ch-5596-110.lg-3596-110-1408.sh-4112-92-1408.ha-4192.he-3660-92-1408.fa-5601-92.cc-5926-92-110",
     "memberSince": "2007-06-18T12:50:35.000+00:00",
     "uniqueId": "hhit-d556ecaf14bf2c7130454858c4e3bc8a",
     "name": "Lodato",
@@ -410,10 +410,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
-    "habboFigure": "hr-5898-40-61.hd-4383-28-1372.ch-4087-110.lg-4066-110.he-6103-96.fa-3276-92",
+    "habboFigure": "hr-5898-1347-40.hd-4383-28-1372.ch-3598-1327-1326.lg-4066-110.he-6103-1327.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -770,10 +770,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-280-91.sh-908-92.ea-1404-110.fa-5601-1408.cc-5810-92",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-280-91.sh-908-92.ea-1404-110.fa-5601-1408",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -1333,7 +1333,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º",
-    "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.ha-3431-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-5770-72.cc-3360-68.cp-3284-73",
+    "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.ha-3431-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-4965-73-71.cc-3360-68.cp-3284-73",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "non perdere tempo con chi non lo merit",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-6034-61-41.hd-5525-26-28.ch-3934-110-64.lg-5594-1335.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-6044.cc-5926-64-92",
@@ -2573,7 +2573,7 @@
     "online": true,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLESƒ",
-    "habboFigure": "hr-3829-1398.hd-6021-7.ch-3668-77-92.lg-5398.sh-5247-92-92.fa-5435.cc-5810-77",
+    "habboFigure": "hr-5437-1398.hd-6021-7.ch-3668-77-92.lg-5398.sh-5247-92-92.he-3070-92.fa-5435.cc-5810-92",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
@@ -2733,7 +2733,7 @@
     "online": false,
     "gender": "f",
     "motto": "apprendista novello gd",
-    "habboFigure": "hr-3673-61.hd-3956-1370-1372.ch-5607-110.lg-3502-110.sh-3383-110-64.ha-4192.he-1608.ca-3175-1408.wa-3263-110-64",
+    "habboFigure": "hr-3673-61.hd-3956-30-1372.ch-3433-110-1408.lg-3434-110-1408.sh-3435-110-64.ha-3431-110-1408.he-1608",
     "memberSince": "2019-11-20T15:08:32.000+00:00",
     "uniqueId": "hhit-4753385a405b47f440c8d1ee56cdeeaf",
     "name": "sognoilcies",
@@ -3170,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-5317-28-1367.ch-3030-92.lg-3596-92-1408.he-3820-64.fa-4044.ca-4936.wa-4060-92-92.cc-3946-92",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hd-205-1370.ch-210-1408.lg-280-1408.sh-305-1408.ha-1002-1408.he-3833-71.fa-5624-1408",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-64.lg-285-88.sh-290-1408.ha-1002-91.ea-1404-64.fa-1205-1408.wa-2012.cc-3280-64-1320",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "27club",
     "habboFigure": "hr-3021-44-1347.hd-600-30.ch-3183.lg-3190-1421-1334.sh-3275-92.ha-4089-1408.he-3239-81.ea-3170-73.fa-1209-88.ca-3916-64-1331.wa-6071.cc-3246-1329",
@@ -4400,7 +4400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-615-28.ch-660-1418.lg-710-1418.sh-5803-92.ha-5378-92-110.he-3559.fa-5601-92",
@@ -4670,7 +4670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-1426.sh-908-92.he-3070-92.ea-1404-110",
