@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "All that I want is stillness of heart",
     "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-85-85.lg-700-82.sh-730-85.fa-3276-72.wa-2001",
@@ -9150,7 +9150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3671-31-40.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.fa-3276-97.ca-5463.wa-3773-106.cc-5945",
