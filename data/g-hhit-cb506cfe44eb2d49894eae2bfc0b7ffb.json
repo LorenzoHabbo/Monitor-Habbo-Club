@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Psicologo senza laurea",
     "habboFigure": "hr-3860-61-61.hd-180-2.ch-3979-110.lg-4138-110.sh-3587-92-110.ha-3662-110-92.fa-5975",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La prima volta",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -4030,7 +4030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-31.hd-629-1.ch-665-1320.lg-710-1408.sh-905-1320.he-3858-1320.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-6119",
@@ -5180,7 +5180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D. belle ti voglio bene |",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-3089-110.ca-1816",
