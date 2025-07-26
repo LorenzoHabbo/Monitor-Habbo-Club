@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -520,10 +520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "m",
+    "online": true,
+    "gender": "f",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
+    "habboFigure": "hr-3671-31-40.hd-600-1.ch-3135-68.lg-3502-1326.ca-3131-1408-1408.cc-3373-1326",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-1807.cc-4979-1408",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-4363-1404-1403.hd-600-1.ch-3135-107.lg-3198-107.sh-3687-106-110.ea-3196-106",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "In apnea da un po’",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-5970-78.sh-5803-92.he-3070-92.fa-5467.cc-5925-92",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trainer Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-3770-1408-73.lg-3078-1408.he-3329-71-73",
