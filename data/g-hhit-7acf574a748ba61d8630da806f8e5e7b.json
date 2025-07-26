@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "come può uno scoglio arginare il mare.",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3358-103-1408.cc-3289-102",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5773-42.hd-4383-28-1372.ch-5907-1326-1326.lg-4066-110.he-6103-1327.fa-3276-92",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "||",
     "habboFigure": "hr-4363-1342-1347.hd-4383-10-5.ch-4122.lg-5594-1423.sh-4112-1327-101.he-6125-93.cc-6077",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º",
     "habboFigure": "hr-4090-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.ha-3431-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-4965-73-71.cc-3360-68.cp-3284-73",
@@ -2000,10 +2000,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a chill guy",
-    "habboFigure": "hr-5306-1355-59.hd-3102-11.ch-3498-1424.lg-5594-1424.ha-3662-107-96.he-3893.ea-3887.ca-3883.cc-5926-96-107",
+    "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2020,10 +2020,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3602-1407-41.hd-3721-28.ch-3934-92-110.lg-3933-64.sh-3587-92-92.ha-3662-63-92.he-3070-92.ea-3575.ca-3844-92-92.cc-3867-110-110",
+    "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.fa-5948-92.ca-5936-92.cc-5926-110-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-115-42.hd-190-10.ch-255-1408.lg-3023-64.sh-305-1408.ha-1004-64.he-1608.ea-1404-1408.fa-1212",
@@ -3020,7 +3020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "nonhoideadelperchéio",
     "habboFigure": "hr-5619-1403.hd-600-10.ch-3005-110-110.lg-710-63.sh-905-92.he-3070-92.fa-5624-1426.cc-5926-1428-110",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Better than never trusting",
     "habboFigure": "hr-5772-44-40.hd-600-1.ch-5560-64-64.lg-5582-64-64.he-5820-1408.fa-5467.ca-6018",
