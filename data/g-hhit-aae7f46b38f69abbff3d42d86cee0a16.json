@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "peestop",
     "habboFigure": "hr-831-1396.hd-205-25.ch-3059-110.lg-280-1325.sh-3524-92-92.ha-1002-110.he-3070-1408.fa-5600-1409.cc-3158-110",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-90-66.fa-1201.cc-3360-1408",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-4363-1342-1342.hd-3845-2.ch-3935-92-110.lg-3018-110.sh-725-110.he-3070-92.ca-3844-110-92.cp-3315-110",
