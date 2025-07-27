@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non c'è competizione",
     "habboFigure": "hr-5681-1403-57.hd-3100-1390.ch-3598-106-92.lg-3596-106-92.ha-4196.fa-3276-97",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3443.lg-3078-82.sh-290-64.ha-3441.fa-1211.ca-5770-1408",
@@ -1480,10 +1480,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
-    "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
+    "habboFigure": "hr-4363-1404-1403.hd-600-1.ch-3135-107.lg-3198-107.sh-3687-106-110.ea-3196-106",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Better than never trusting",
     "habboFigure": "hr-5772-44-40.hd-600-1.ch-5560-64-64.lg-5582-64-64.he-5820-1408.fa-5467.ca-6018",
