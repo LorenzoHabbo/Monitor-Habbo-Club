@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-3342-76-1408.lg-3058-110.sh-3016-64.ea-3484.cc-3509-1417-1417",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "non c'è competizione",
     "habboFigure": "hr-5681-1403-57.hd-3100-1390.ch-3598-106-92.lg-3596-106-92.ha-4196.fa-3276-97",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-14.ch-3443.lg-3078-82.sh-290-64.ha-3441.fa-1211.ca-5770-1408",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uff... che noia",
     "habboFigure": "hr-4363-33-32.hd-4383-1-8.ch-5919-1425-1410.lg-3526-1425-1410.sh-5671-1410.he-3070-1410.ca-4958",
