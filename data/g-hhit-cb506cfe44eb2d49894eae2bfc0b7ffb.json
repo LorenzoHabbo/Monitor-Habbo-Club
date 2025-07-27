@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ƒƒSerendipityƒƒ",
     "habboFigure": "hr-3841-36.hd-207-1.ch-3840-66-1408.lg-4167-64.sh-3524-66-1408.ea-1404-91.wa-2001.cc-6077",
@@ -620,10 +620,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-5831-92.lg-5243-92.sh-5717.ea-3978-92-110.fa-5435",
+    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-665-92.lg-3006-104-104.sh-5717.he-5827-92-1326.fa-5435.cc-6119",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -1493,7 +1493,7 @@
     "online": true,
     "gender": "f",
     "motto": "mondo grigio",
-    "habboFigure": "hr-5606-49-56.hd-5319-28-28.ch-3013-110.lg-3933-1418.sh-6043.he-6019.fa-5975.ca-6041.wa-5370.cc-6070",
+    "habboFigure": "hr-6055-49-56.hd-5319-28-28.ch-3013-110.lg-3933-1418.sh-6043.he-6019.fa-5975.ca-6041.wa-5370.cc-6119",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-6034-60-49.hd-5525-28-28.ch-3934-105-1428.lg-3933-92.sh-3587-93-105.he-5643.ea-5392.fa-5391.ca-3414-93",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-61.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-93-110",
@@ -5210,7 +5210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cadetto G.D. SEI BANALEE SKIFO",
     "habboFigure": "hr-3260-31.hd-3093-28.ch-3015-110.lg-5970-77.sh-4112-92-110.he-3894-92.fa-4168-1326.wa-3895-71",
@@ -5270,7 +5270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "USMC Soldato Semplice OP",
     "habboFigure": "hr-5914-45-1347.hd-3096-1390.ch-3214-92.lg-3283-75-92.sh-5671-1326.he-5721-1326-1327",
