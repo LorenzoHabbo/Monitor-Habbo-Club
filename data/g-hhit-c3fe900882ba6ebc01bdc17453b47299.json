@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Malessere",
     "habboFigure": "hr-893-40.hd-205-10.ch-4111-1408.lg-281-1408.sh-295-1408.ea-1404-1408.fa-3276-85",
