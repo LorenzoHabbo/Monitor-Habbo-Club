@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-893-1347.hd-3845-1371.ch-4220-77.lg-3384-1338-80.sh-3089-1314.ha-1002-1314.ea-3169-106.fa-5157-80",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3940-92-105.lg-275-105.sh-5296.ha-3488.fa-5600-92.cc-6119",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1403.hd-205-2.ch-3934-92-64.lg-280-63.sh-3693-1409-90.he-3070-92.ea-1404-110.fa-5601-68.cc-5925-91",
@@ -1023,7 +1023,7 @@
     "online": true,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-4941-61-40.hd-190-18.ch-3668-92-1427.lg-3915-81-1408.sh-5803-92.ha-3667-92-1412.cc-5800-1337-1337",
+    "habboFigure": "hr-828-61.hd-190-18.ch-3668-110-92.lg-281-92.sh-5803-92.ha-3667-63-92.fa-3296.wa-4060-63-1408.cc-5461-110-110",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-5624-1417.wa-3773-1322",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-828-1403.hd-205-10.ch-3934-92-64.lg-5594-1335.sh-3587-92-92.ha-3544.he-3070-92.cc-5926-1325-92",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#",
     "habboFigure": "hr-3322-37.hd-3845-1.ch-4337-64-1408.lg-3391-64-1408.sh-3419-64-64.ha-3709.he-5348.fa-3344-90.ca-3916-1408-64.wa-2001.cc-3420-64.cp-3120-1408",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-1.ch-5559-92.lg-5584.sh-5868.ea-3169-102.fa-5636-1408.ca-6020-1408.wa-5599-63-1408.cc-6134",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3631-1-1367.ch-4067-1413-110.lg-4017-96-1320.sh-3354-96-68.ha-3709.he-3070-1321.ea-3484.ca-5278-1432",
@@ -3570,10 +3570,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per gli amici Equazione",
-    "habboFigure": "hr-3163-61.hd-205-1359.ch-255-92.lg-5594-1338.sh-3035-92.he-3070-92.cc-5925-92",
+    "habboFigure": "hr-3163-61.hd-205-1359.ch-255-92.lg-5594-1338.sh-3035-92.he-3070-1321.cc-5925-92",
     "memberSince": "2022-06-14T18:48:25.000+00:00",
     "uniqueId": "hhit-957997a7ff103a260a87e916c62c1b48",
     "name": "y=xt",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6127-45.hd-600-2.ch-3013-1331.lg-3006-82-92.sh-5308-1331.he-5314-1331-1331.fa-5467.ca-3485",
