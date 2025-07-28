@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1403.hd-205-2.ch-3934-92-64.lg-5594-1409.sh-3693-1409-90.he-3070-92.ea-1404-110.fa-5601-71.cc-5810-91",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
     "habboFigure": "hr-3520-34.hd-205-10.ch-3491-80-81.lg-3483-1320-80",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bobba boy",
     "habboFigure": "hr-125-32.hd-190-1370.ch-3840-1408-64.lg-5970-1408.sh-908-91.ha-5852.fa-5601-1408.cc-5182-1408",
@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -4023,7 +4023,7 @@
     "online": true,
     "gender": "m",
     "motto": "capo dei tori",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3050-100-110.lg-275-110.sh-3154-93-93.ea-1404-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3050-100-110.lg-275-92.sh-3154-93-93.ea-1404-110",
     "memberSince": "2024-01-03T01:51:17.000+00:00",
     "uniqueId": "hhit-7f229ac597d1000643b8192aa5e48837",
     "name": "M-Batshuayi-",
