@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -1320,10 +1320,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "        Born to be rich",
-    "habboFigure": "hr-890-35.hd-629-1364.ch-5699-110.lg-3192-72.sh-5671-110.ha-6108.ca-5502.cc-3360-110",
+    "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -4920,7 +4920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato GD",
     "habboFigure": "hr-3810-32.hd-600-1370.ch-665-64.lg-3116-64-1408.sh-4112-1408-1408.fa-3276-73",
@@ -5640,7 +5640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-3185-77.lg-4066-63.sh-3016-99.ea-3169-1408.ca-3292-63",
@@ -6040,7 +6040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-40.hd-180-28.ch-3030-1408.lg-280-1408.he-1609-92.fa-3276-63.cc-5926-63-1408",
@@ -6120,7 +6120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-90-66.fa-1201.cc-3360-1408",
@@ -6770,7 +6770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "I'm a tiny builder ƒ",
     "habboFigure": "hr-4186-34.hd-3631-10-30.ch-4087-1408.lg-3361-81.sh-5308-1408.fa-3276-72",
@@ -7600,7 +7600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-5624-1417.wa-3773-1322",
