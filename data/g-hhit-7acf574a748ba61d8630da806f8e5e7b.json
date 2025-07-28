@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3342-64-64.lg-3596-64-64.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.ca-5981-1428-1408.cc-5800-64-110",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -2020,10 +2020,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-1403-1404.hd-3721-10.ch-3934-89-100.lg-3418-1325.sh-3587-92-92.ha-3570.he-3716.ea-3978-92-110.cc-3867-1409-1325",
+    "habboFigure": "hr-828-1403.hd-205-10.ch-3934-92-64.lg-5594-1335.sh-3587-92-92.ha-3544.he-3070-92.cc-5926-1325-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato scelto GD.",
     "habboFigure": "hr-5619-1345.hd-3604-1367.ch-5831-96.lg-3136-96.sh-3338-96.ha-5704.he-3081-72.fa-1209-96.ca-5771-96-96.cc-5926-96-96",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uff... che noia",
     "habboFigure": "hr-4363-33-1397.hd-4383-1-8.ch-5919-1338-1410.lg-3526-1338-1410.sh-5671-1410.he-3070-1410.ca-4958",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-40.hd-627-1369.ch-665-1408.lg-5970-91.sh-908-1408.ha-4132.fa-3276-73.ca-5916-91-1408.cc-5926-1408-1408",
@@ -4640,7 +4640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Be a cicciobomba",
     "habboFigure": "hr-5210-61-49.hd-3845-2.ch-3203-92.lg-5594-63.sh-4112-92-1408.ha-4192.he-5808-92.fa-5601-1408.ca-5936-92.cc-5926-110-67",
