@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Duermo poco, sueño mucho",
     "habboFigure": "hr-5210-45-34.hd-209-1370.ch-255-64.lg-281-1408.sh-305-1408.ha-4136-1408.he-5088.fa-5600-68.cc-4137-1408",
@@ -860,10 +860,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3785-1403.hd-3721-2.ch-3934-110-110.lg-3116-110-110.sh-5247-92-110.ha-6198.ea-5576-110-110.fa-3276-1409.ca-5026-92.cc-5800-92-92",
+    "habboFigure": "hr-3163-1403.hd-3721-2.ch-3934-110-110.lg-3116-110-110.sh-5247-92-110.ha-6198.ea-5576-110-110.fa-3276-1409.ca-5026-92.cc-5800-92-92",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1405.hd-209-2.ch-3934-92-64.lg-5594-63.sh-3693-1409-94.ha-6198.he-3070-92.fa-5600-92",

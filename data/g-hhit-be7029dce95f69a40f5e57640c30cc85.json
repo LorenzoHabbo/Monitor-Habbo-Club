@@ -920,10 +920,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3785-1403.hd-3721-2.ch-3934-110-110.lg-3116-110-110.sh-5247-92-110.ha-6198.ea-5576-110-110.fa-3276-1409.ca-5026-92.cc-5800-92-92",
+    "habboFigure": "hr-3163-1403.hd-3721-2.ch-3934-110-110.lg-3116-110-110.sh-5247-92-110.ha-6198.ea-5576-110-110.fa-3276-1409.ca-5026-92.cc-5800-92-92",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "peestop",
     "habboFigure": "hr-831-1396.hd-205-25.ch-3059-110.lg-280-1325.sh-3524-92-92.ha-1002-110.he-3070-1408.fa-5600-1409.cc-3158-110",
@@ -5640,7 +5640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-5833-1427-1408.lg-3058-1427.sh-3016-64.ea-3484",
