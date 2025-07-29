@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5257.lg-6137.sh-5869-1408-1408.ha-4324.ea-4161.fa-5467",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "pigghjta ngule",
     "habboFigure": "hr-125-31.hd-209-10.ch-878-73-1408.lg-3078-82.sh-906-64.cc-3294-64-1408",
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1395-1404.hd-180-2.ch-3498-94.lg-5594-94.ha-6198.he-3559.ea-5897-94-94.cc-3907",
