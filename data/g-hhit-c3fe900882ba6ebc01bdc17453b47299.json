@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Afk anni luce",
     "habboFigure": "hr-828-1342.hd-205-15.ch-215-64.lg-280-92.sh-3035-110.he-3070-92.fa-3276-1329",
@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -543,7 +543,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3957-34-48.hd-600-10.ch-660-64.lg-710-64.sh-730-1408.ea-3961.fa-3276-72.cc-5800-73-73",
+    "habboFigure": "hr-3957-34-48.hd-600-10.ch-660-64.lg-4082.sh-730-1408.ea-3961.fa-3276-72.ca-3989-76-1408",
     "memberSince": "2011-08-12T23:33:33.000+00:00",
     "uniqueId": "hhit-96477e0e09cff7aeeecf335cecd90cb7",
     "name": "folklore",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-1350.hd-6022-13.ch-824-1408.lg-3201-81-81.sh-908-1408.ha-4094-1408-1408.ea-5576-63-1408",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-4114-84-1408.ha-1002-1408.he-6125-64.fa-5624-73.ca-3414-72",
