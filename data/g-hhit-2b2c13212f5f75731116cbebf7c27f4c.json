@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5257.lg-6137.sh-5869-1408-1408.ha-4324.ea-4161.fa-5467",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1395-1404.hd-180-2.ch-3030-92.lg-280-1425.ha-3855-92.cc-5800-110-110",
