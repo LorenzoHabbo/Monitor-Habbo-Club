@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -2232,8 +2232,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "º Comandante G.D º",
-    "habboFigure": "hr-5275-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1320.ha-3431-68-1320.he-3660-64-1408.ea-5897-64-1408.ca-4965-66-71.cc-3360-68.cp-3284-73",
+    "motto": "º Comandante G.D º roseboss amicona",
+    "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-81.sh-4112-64-73.ea-5897-64-1408.ca-5768-74-1320",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2933,7 +2933,7 @@
     "online": true,
     "gender": "f",
     "motto": "Ho tolto i petali alle margherite",
-    "habboFigure": "hr-5773-1404.hd-3105-1383.ch-5919-92-1338.lg-3781-110-1408.sh-5247-1408-1408.he-3579.fa-1202-110.cc-5925-1414",
+    "habboFigure": "hr-5445-1397.hd-3105-1392.ch-3013-1326.lg-5243-1408.sh-5247-92-1410.he-3358-1410-92.fa-3276-1413.cc-5518-92-89",
     "memberSince": "2014-08-14T11:40:31.000+00:00",
     "uniqueId": "hhit-8d92b048211fc5db27afd3c2ed777509",
     "name": "_celine",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista G.D.",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3022-1430-1430.lg-3078-92.sh-3027-92-110.ea-3484.cc-4978-110-1432",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-34.hd-4383-10-1393.ch-3598-110-110.lg-4066-110.ha-3054-110-1409.he-3070-96",
@@ -4603,7 +4603,7 @@
     "online": true,
     "gender": "m",
     "motto": "just a chill guy",
-    "habboFigure": "hr-3860-1395-1404.hd-180-2.ch-3030-92.lg-280-1425.ha-3855-92.cc-5800-110-110",
+    "habboFigure": "hr-3860-1395-1404.hd-180-2.ch-3498-94.lg-5594-94.ha-6198.he-3559.ea-5897-94-94.cc-3907",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -5000,7 +5000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello gd",
     "habboFigure": "hr-3673-61.hd-3956-1370-1372.ch-5607-110.lg-3502-110.sh-3383-110-64.ha-4192.he-1608.ca-3175-1408.wa-3263-110-64",
@@ -6537,16 +6537,6 @@
     "memberSince": "2021-12-01T16:59:59.000+00:00",
     "uniqueId": "hhit-8ea9d38aab378a86d6c682ffbea73490",
     "name": "Manuel1996",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "f",
-    "motto": "Soldato G.D. sognoilcies amica",
-    "habboFigure": "hr-890-35.hd-629-1.ch-660-72.lg-710-72.sh-735-81.he-1602-81.ca-1802.wa-2009-81",
-    "memberSince": "2021-12-11T21:41:45.000+00:00",
-    "uniqueId": "hhit-2772179b7e4e1f6f141c870c8bbba44e",
-    "name": "roseboss",
     "isAdmin": false
   },
   {
@@ -8210,7 +8200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-39.hd-209-8.ch-225-1408.lg-3201-1408-1408.sh-906-64.he-1608",
@@ -8950,7 +8940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "perchè mi clicchi?",
     "habboFigure": "hr-890-45.hd-625-1.ch-665-110.lg-3023-92.sh-906-92.ha-1002-92.he-3082-110.ea-3925-110-92.ca-1801-92.wa-3074-110-1408",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-11-08T16:40:54.000+00:00",
     "uniqueId": "hhit-87738591e8f965854080727e6c36bfc7",
     "name": "momo1",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Molto monello - Grove",
+    "habboFigure": "hr-100.hd-180-14.ch-878-71-75.lg-3216-71.ha-1014.he-1610.fa-1202-72",
+    "memberSince": "2023-11-10T10:20:49.000+00:00",
+    "uniqueId": "hhit-0ba04466bbd0c9031bb2e4a40630f113",
+    "name": "Ermal_Monello",
     "isAdmin": false
   }
 ]
