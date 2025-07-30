@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5257.lg-6137.sh-5869-1408-1408.ha-4324.ea-4161.fa-5467",
@@ -5110,7 +5110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "j",
     "habboFigure": "hr-5680-1401.hd-3100-1370.ch-5917-92.lg-5594-1336.sh-3089-92.ha-4192.he-5314-100-92.ea-3484.fa-5601-1408.cc-5926-100-92",
@@ -5920,10 +5920,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "non c'è competizione",
-    "habboFigure": "hr-5680-61.hd-3100-1390.ch-3658-110-110.lg-3006-96-110.he-6066-96.fa-3276-97",
+    "habboFigure": "hr-5680-61.hd-3100-1390.ch-3658-110-110.lg-3006-96-110.he-6066-96.fa-3276-1328",
     "memberSince": "2012-02-04T18:51:43.000+00:00",
     "uniqueId": "hhit-e1f833cd4352e443b025fb5c33b15792",
     "name": "Chanel22",
@@ -6673,7 +6673,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3768-51.hd-209-28.ch-3203-64.lg-5970-110.sh-3089-110.ha-4188-110.ea-3226-110.fa-3590.ca-5960-110-101.wa-3264-92-110.cc-5926-101-110.cp-3313-92",
+    "habboFigure": "hr-3768-40.hd-209-14.ch-210-1408.lg-5970-1408.ha-4188-1408.fa-3590.ca-5960-1408-1408.cc-5926-1408-1408",
     "memberSince": "2012-11-08T17:16:50.000+00:00",
     "uniqueId": "hhit-ba0016ccd83292e1f94ca9898d1a0253",
     "name": "ChazOrtiz",
@@ -6970,7 +6970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mondo grigio",
     "habboFigure": "hr-5606-49-60.hd-5319-28-28.ch-5245-74.lg-5594-1418.sh-6042.he-6019.fa-5975.ca-5026-92.wa-5370.cc-6119",
