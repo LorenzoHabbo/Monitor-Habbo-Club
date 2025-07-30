@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -653,7 +653,7 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-3852-1405.hd-605-28.ch-665-92.lg-5970-1427.ha-5301-96.he-5808-92.fa-5467.cc-5925-1427",
+    "habboFigure": "hr-3852-1405.hd-605-28.ch-665-92.lg-5970-1427.ha-5301-1326.he-5808-92.fa-5467.cc-5925-1427",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "0904",
     "habboFigure": "hr-3012-1397.hd-629-1393.ch-6029-1420-1337.lg-3006-1338-110.sh-730-110.he-3329-1337-1420.fa-3276-1415.wa-5599-1337-1420",
