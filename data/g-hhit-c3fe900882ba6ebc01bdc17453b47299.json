@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "stasera sincero",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-5956-110-92.lg-5594-110.sh-3016-110.he-5348.fa-5600-92",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Decime Esperta G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-3683-1408-1408.lg-270-81.sh-300-81.ha-1009-81.ea-3484.cc-3294-81-81",
@@ -2033,7 +2033,7 @@
     "online": true,
     "gender": "m",
     "motto": "-",
-    "habboFigure": "hr-5791-34.hd-5913-1.ch-3668-1408-64.lg-5594-64.sh-5247-1408-1408.ha-6198.ea-3978-1408-1408.ca-3485.cc-5800-64-64",
+    "habboFigure": "hr-5791-34.hd-5913-1.ch-3668-1408-64.lg-3526-64-1408.sh-5803-1408.ha-6198.ea-3978-1408-1408.cc-5800-1408-1408",
     "memberSince": "2021-07-07T23:08:02.000+00:00",
     "uniqueId": "hhit-ffc1e591057e3a3cf9a466630ae4efbd",
     "name": "Nyal",
