@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-6098.lg-4066-1409.sh-3016-110.ha-3544.ea-5641",
@@ -2873,7 +2873,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1405.hd-209-2.ch-3934-92-64.lg-5594-63.sh-3693-1409-1322.ha-6198.he-3070-92.fa-5600-92",
+    "habboFigure": "hr-3163-1405.hd-209-26.ch-3934-92-64.lg-5594-63.sh-3693-1334-92.ha-6198.he-3070-92.ea-1405.fa-5600-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -9150,7 +9150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
