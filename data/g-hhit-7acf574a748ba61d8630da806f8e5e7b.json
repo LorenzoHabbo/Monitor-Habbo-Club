@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-1350.hd-6022-13.ch-824-1408.lg-3201-81-81.sh-908-1408.ha-4094-1408-1408.ea-5576-63-1408",
@@ -2753,7 +2753,7 @@
     "online": false,
     "gender": "m",
     "motto": "Tecnicamente Tecnico YaºKuºZa©",
-    "habboFigure": "hr-5962-34.hd-5837-1-14.ch-5608-66.lg-5594-82.ha-6116-64",
+    "habboFigure": "hr-5962-34.hd-5837-1-14.ch-5608-66.lg-5594-82.ha-6116-64.fa-1211",
     "memberSince": "2021-11-18T16:02:21.000+00:00",
     "uniqueId": "hhit-218871d4f17d91b77b5dc2fdb52b2aa2",
     "name": "Jarchy",
@@ -3842,8 +3842,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "La Tigre.               Gaki YKZ Shiro",
-    "habboFigure": "hd-3094-1362.ch-220-92.lg-270-1321.sh-300-64.ha-3268-93-110.ca-3084-92-110.cc-3508-1321-1408",
+    "motto": "La Tigre.",
+    "habboFigure": "hr-3012-57.hd-3103-10.ch-4111-92.lg-3201-110-110.sh-3419-64-110.ca-4936.wa-3073-67.cc-4091-63",
     "memberSince": "2024-08-22T16:11:03.000+00:00",
     "uniqueId": "hhit-920ad88f0afa9eb3037544d503189bd5",
     "name": "Najim",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Be a cicciobomba",
     "habboFigure": "hr-5210-61-49.hd-3845-1391.ch-3203-92.lg-5594-1428.sh-4112-110-92.ha-4192.he-5808-92.fa-5601-1408.ca-5936-92.cc-5926-1409-67",
