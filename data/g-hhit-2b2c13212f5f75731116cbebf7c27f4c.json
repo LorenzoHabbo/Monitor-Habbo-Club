@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "L'invidia e' una brutta bestia",
     "habboFigure": "hr-5898-1347-40.hd-4383-28-1372.ch-5917-110.lg-5974-110-110.he-6103-1414.fa-3276-92",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-3342-76-1408.lg-3058-110.sh-3016-64.ea-3484.cc-3509-1417-1417",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3022-1430-1430.lg-3078-92.sh-3027-92-110.ea-3484.cc-4978-110-1432",
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3334-1331-92.lg-3596-1331-1408.sh-3338-1331.ha-3855-1331.ca-4037-1331-92.cc-5961-1331-92",
