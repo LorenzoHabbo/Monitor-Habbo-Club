@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "whatever",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "All that I want is stillness of heart",
     "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-81-81.lg-3355-81-66.fa-3276-72",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Acciderbolina!",
     "habboFigure": "hr-4118-42.hd-629-1.ch-817-64.lg-3320-64-1408.cc-3515-64-64",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-1395.hd-627-14.ch-665-67.lg-710-110.sh-3089-1417.he-5314-1417-1415.ea-3148-110-110.fa-3276-72.cc-5926-1331-1408",
