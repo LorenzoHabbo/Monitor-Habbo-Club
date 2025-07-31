@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-5921-1425-1337.lg-4369-110-64.sh-3206-110.he-5997-1321.ea-1402.fa-1209-110.ca-5028-110-64.wa-3366-110-1425.cc-5926-110-1408",
@@ -2490,7 +2490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-3499-37.hd-6159-1-14.ch-3683-92-110.lg-6017-1336-1408.sh-5931.ha-3488.fa-6132.ca-5026-92.cc-6150",
@@ -5890,7 +5890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Messaggero del Patto G.D.",
     "habboFigure": "hr-3800-36-36.hd-3845-1.ch-3683-73-1408.lg-5594-82.he-5578-1408.fa-3276-81.ca-4965-82-73.wa-2008.cc-5810-82",
