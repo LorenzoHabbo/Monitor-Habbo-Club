@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "All that I want is stillness of heart",
     "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-81-81.lg-3355-81-66.fa-3276-72",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1395-1395.hd-627-14.ch-665-67.lg-710-110.sh-3089-1417.he-5314-1417-1415.ea-3148-110-110.fa-3276-72.cc-5926-1331-1408",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOKKASORT",
     "habboFigure": "hr-828-1403.hd-3721-18.lg-3136-92.sh-3206-110.he-3740.ea-1404-110.fa-5601-92.cc-4300-110-92",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3673-1407.hd-3631-1383-1359.ch-3497-110.lg-3418-110.ha-3709.fa-3296.ca-4037-63-1408.cc-3744-110-110",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-5791-34.hd-5913-1.ch-3668-1408-1408.lg-281-64.sh-5803-1408.ha-6198.ea-3978-1408-1408.cc-5800-1408-1408",
