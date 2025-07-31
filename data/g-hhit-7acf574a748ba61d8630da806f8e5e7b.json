@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "μ       caffè",
     "habboFigure": "hr-4363-56-1347.hd-4383-10-5.ch-4087-1417.lg-4369-110-1408.sh-5308-1326.ha-3709.cc-6119",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-81.sh-4112-64-85.he-3858-90.ea-5897-64-1408",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-1396.hd-629-1.ch-3598-95-92.lg-5970-1338.sh-6064-92-99.he-3778-92.ea-6053-95",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "roseboss amica del |",
     "habboFigure": "hr-4363-1395-1395.hd-4383-2-11.ch-4199-1338.lg-3200-1338.sh-5671-1414",
