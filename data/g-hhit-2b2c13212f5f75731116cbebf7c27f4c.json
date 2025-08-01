@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-6137.sh-5869-84-84.ha-1008.ea-4161.fa-5467",
@@ -820,10 +820,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
-    "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
+    "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.ha-6091.cc-3542-110-1408",
     "memberSince": "2010-02-20T20:43:33.000+00:00",
     "uniqueId": "hhit-4b1d63857591fd85de66adbc149c4ce8",
     "name": "darkpaolo95",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-3845-8.ch-5596-1408.lg-3078-1408.sh-305-73.fa-3378-64-1408.cp-3120-1408",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-1337.lg-5623.sh-3275-77.ha-5443.he-6019.fa-5600-89.ca-5575",
@@ -5940,7 +5940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-5317-28-1367.ch-3030-92.lg-3596-92-1408.he-3820-64.fa-4044.ca-4936.wa-4060-92-92.cc-3946-92",
@@ -7840,7 +7840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3840-92-110.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5461-110-1408",

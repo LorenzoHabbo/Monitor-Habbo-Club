@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-45.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-1011-92.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-6137.sh-5869-84-84.ha-1008.ea-4161.fa-5467",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-3266-110-110.lg-710-1427.sh-5803-92.he-5808-1341.fa-3276-1413.ca-3292-110.cc-5925-1408",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Manovalanza Corleone",
     "habboFigure": "hr-4363-1400-1400.hd-4383-9-1367.ch-5245-77.lg-5594-77.sh-3089-77.he-6125-1408.fa-3276-96.wa-5370.cc-5926-92-93",
@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-1337.lg-5623.sh-3275-77.ha-5443.he-6019.fa-5600-89.ca-5575",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-5317-28-1367.ch-3030-92.lg-3596-92-1408.he-3820-64.fa-4044.ca-4936.wa-4060-92-92.cc-3946-92",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3840-92-110.lg-5594-1338.sh-3089-110.he-3070-92.ea-1404-110.fa-5601-1408.ca-5769-92-110.cc-5461-110-1408",
@@ -4040,7 +4040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73",
@@ -4083,7 +4083,7 @@
     "online": true,
     "gender": "m",
     "motto": "a volte è un inferno la notte",
-    "habboFigure": "hr-3163-34.hd-205-18.ch-210-89.lg-280-110.sh-305-110.ha-6090-110-1408.he-3740.ea-1404-110.ca-3844-110-89.cc-3420-110",
+    "habboFigure": "hr-3163-34.hd-205-2.ch-215-92.lg-3017-64-110.sh-305-92.ha-5097-110-92.he-3740.fa-5601-1408.ca-3844-110-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4640,7 +4640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "assurdamente assurdo",
     "habboFigure": "hr-3829-34.hd-205-1.ch-245-1408.lg-275-1408.sh-908-64.ea-1404-64.fa-1202-64.cc-3420-64",
