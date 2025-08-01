@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-4370-1394.hd-180-1389.ch-4111-110.lg-3057-110.sh-3089-110.ea-1402.fa-3344-1325.ca-1811.cc-4107-1412-91",
@@ -673,7 +673,7 @@
     "online": false,
     "gender": "f",
     "motto": "Creo Dipendenza",
-    "habboFigure": "hr-515-40.hd-6022-14.ch-3332-1408-1408.lg-3333-1408.sh-735-68.he-3579.fa-1211",
+    "habboFigure": "hr-515-40.hd-6022-14.ch-3332-1408-1408.lg-3333-1408.sh-735-68.ha-6091.he-3579.fa-1211",
     "memberSince": "2010-03-11T10:23:36.000+00:00",
     "uniqueId": "hhit-984959b8157e123a0e2ca6575c5a970b",
     "name": "Tabacco",
@@ -713,7 +713,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3322-61.hd-3721-10.ch-804-110.lg-285-64.sh-3587-1321-92.ha-3488.he-3754.ea-3750.cc-3542-89-1320.cp-3119-110",
+    "habboFigure": "hr-3322-61.hd-3721-10.ch-804-110.lg-285-64.sh-3587-1321-92.ha-3488.he-3754.ea-3750.cc-3542-89-1320",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "PrincipeyvanVIP",
@@ -753,7 +753,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1405.hd-209-2.ch-3934-92-64.lg-5594-63.sh-3693-68-1322.ha-6198.fa-5600-92",
+    "habboFigure": "hr-3163-1405.hd-209-2.ch-3934-92-64.lg-5594-63.sh-3693-68-1322.ha-6198.he-3070-92.fa-5600-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-58-58.hd-3092-28.ch-3498-92.lg-5594-110.he-5088.ca-3084-110-110.cc-4979-110",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-61.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-93-110",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-1395.hd-209-1380.ch-3840-110-110.lg-5594-110.sh-3089-110.ha-5269-110.ea-1404-110.fa-5601-1408.cc-3420-64",
@@ -4083,7 +4083,7 @@
     "online": true,
     "gender": "m",
     "motto": "a volte è un inferno la notte",
-    "habboFigure": "hr-3163-1403.hd-205-17.ch-807-109.lg-281-92.sh-305-92.he-3070-92.ca-3844-1408-1408",
+    "habboFigure": "hr-828-1407.hd-205-18.ch-215-64.lg-275-64.sh-908-92.he-3740.ca-3844-64-92.cc-3420-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4160,7 +4160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5306-61-40.hd-3845-8.ch-4190-110-1408.lg-3116-110-1408.sh-5247-1408-1408.he-3070-1410.fa-4168-99.cc-4184-64-1408",
@@ -5240,7 +5240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "USMC Soldato Semplice OP",
     "habboFigure": "hr-5914-1404-1347.hd-3096-1390.ch-3214-92.lg-3283-74-74.sh-5671-1326.he-5721-1326-1327",
