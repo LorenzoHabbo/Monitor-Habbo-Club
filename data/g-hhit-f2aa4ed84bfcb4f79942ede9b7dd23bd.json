@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-38.hd-209-8.ch-235-64.lg-4167-82.sh-3068-1408-82.ha-5852.he-1608.fa-5835-91",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-3070-1327.fa-5467",
@@ -7130,7 +7130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "« one more light '„~>¸",
     "habboFigure": "hr-828-42.hd-205-10.ch-3030-64.lg-280-110.sh-3587-92-92.ha-3488.he-3579.fa-3276-73.cc-3360-110",
@@ -7693,7 +7693,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-802-53.hd-180-3.ch-3203-100.lg-275-110.sh-290-92.he-3228-110.cp-3128-100",
+    "habboFigure": "hr-802-53.hd-180-3.ch-3001-100-110.lg-275-110.sh-290-92.he-3228-110.cp-3128-100",
     "memberSince": "2014-03-15T21:28:59.000+00:00",
     "uniqueId": "hhit-bc8f78c13efa0fc2cefa94d304153579",
     "name": "Ghenso",
@@ -9380,7 +9380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
     "habboFigure": "hr-3163-61.hd-205-1.ch-215-92.lg-280-92.sh-906-110.ha-3145-110-110.ca-5278-1414.cc-3158-110",
