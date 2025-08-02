@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-3707-39-44.hd-4383-1-30.ch-4067-73-1408.lg-3361-73.sh-3587-91-1408.he-3579.fa-3276-72.ca-3702-1408-73",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-4363-61-61.hd-615-28.ch-655-92.lg-3018-110.sh-5247-92-92.he-3740.fa-3276-100.cc-3289-110",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-828-1355.hd-3095-8.ch-3015-92.lg-275-1425.ea-1402.fa-3276-64",
