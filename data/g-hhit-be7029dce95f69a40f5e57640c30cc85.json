@@ -5630,7 +5630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-3342-76-1408.lg-3058-110.sh-3016-64.ea-3484.cc-3509-1417-1417",
@@ -8240,7 +8240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-34-42.hd-3845-1.ch-5302-64-81.lg-715-73.sh-3068-82-64.ha-3613-82.he-3557.fa-4168-73.ca-5770-81",
@@ -8740,7 +8740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
