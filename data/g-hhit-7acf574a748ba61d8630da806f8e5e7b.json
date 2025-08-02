@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "confida tutto al cielo...",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3358-103-1408.cc-3289-102",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sposata irl |A|",
     "habboFigure": "hr-3847-1403.hd-5319-1-1367.ch-3629-100-92.lg-3006-110-100.sh-3354-100-92.he-4977-92-1412.fa-5467.ca-5807-91-92",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-2.ch-3668-92-110.lg-5594-110.sh-5247-92-110.he-3891.fa-5601-92.cc-5800-110-110",
@@ -3613,7 +3613,7 @@
     "online": true,
     "gender": "m",
     "motto": "a volte è un inferno la notte",
-    "habboFigure": "hr-3163-34.hd-205-17.ch-3030-92.lg-275-92.sh-300-92.ha-4294.fa-4185-90.cc-3917-103",
+    "habboFigure": "hr-3163-34.hd-205-17.ch-3030-92.lg-275-92.sh-300-92.ha-3690-91.fa-4185-90.cc-3917-91",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "roseboss amica del |",
     "habboFigure": "hr-4363-1404-1404.hd-4383-2-11.ch-4199-78.lg-3200-1414.sh-5671-1414",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto GD",
     "habboFigure": "hr-3829-40.hd-3604-10.ch-210-91.lg-281-64.sh-3524-91-91.fa-5601-68.ca-3916-64-64",
