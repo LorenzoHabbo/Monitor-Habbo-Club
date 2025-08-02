@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-61.hd-5838-1388-1362.ch-4111-110.lg-3407-1409-1409.sh-3524-1325-110.ea-6152.fa-5948-92.ca-5983-1321",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "peestop",
     "habboFigure": "hr-831-1396.hd-205-25.ch-3059-110.lg-280-1325.sh-3524-92-92.ha-1002-110.he-3070-1408.fa-5600-1409.cc-3158-110",
@@ -5100,7 +5100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "j",
     "habboFigure": "hr-5680-1401.hd-3100-1370.ch-5917-92.lg-5594-1336.sh-3089-92.ha-4192.he-5314-100-92.ea-3484.fa-5601-1408.cc-5926-100-92",
@@ -8240,7 +8240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-34-42.hd-3845-1.ch-5302-64-81.lg-715-73.sh-3068-82-64.ha-3613-82.he-3557.fa-4168-73.ca-3973-82-64",
