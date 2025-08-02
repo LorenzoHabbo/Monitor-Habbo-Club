@@ -3630,7 +3630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novella G.D",
     "habboFigure": "hr-4343-35-42.hd-600-10.ch-665-64.lg-3695-64.sh-735-64.he-6125-64",
@@ -6410,7 +6410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-42.hd-207-10.ch-3208-110-1408.lg-4114-110-110.sh-295-110.he-3070-92",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " stagista barista g.d",
     "habboFigure": "hr-3048-1394-49.hd-3095-1365.ch-3237-92-1408.lg-3235-92.ea-1402.fa-3147-96.cc-4979-92",
