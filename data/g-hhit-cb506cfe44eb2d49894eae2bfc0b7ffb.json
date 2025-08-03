@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-5914-1404-1400.hd-600-10.ch-4392-92-1322.lg-5927-92-102.sh-3089-1410.ha-6198.he-3071-102.fa-5467",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLESƒ",
     "habboFigure": "hr-4991-50.hd-209-1367.lg-3138-92-92.ha-5336.he-5139-102.ea-1401-1322.fa-1211.ca-5251.cp-3313-93",
@@ -2950,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "R6 emerald player   //   TRM supporter",
     "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-6147.lg-5265.sh-5639.ha-6198.he-6148.ea-5392.fa-5948-1408.cc-6102-94",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Suka",
     "habboFigure": "hr-3673-1402.hd-600-1.ch-665-92.lg-5970-110.sh-3016-110.he-5808-110.fa-3276-72.cc-4979-1427",
@@ -4030,7 +4030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "viva il futbol",
     "habboFigure": "hr-893-34.hd-190-1370.ch-3030-1408.lg-275-1408.sh-295-64.ha-6091.fa-5601-1408.ca-6020-64",
@@ -4370,7 +4370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-615-28.ch-5560-64-64.lg-5970-110.sh-5803-64.ha-3986.ea-3148-110-110.cc-5810-92",
@@ -5327,6 +5327,16 @@
     "memberSince": "2025-07-12T16:33:36.000+00:00",
     "uniqueId": "hhit-30e7ea966f0486482d63608fcef17bd3",
     "name": "wwweiry",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-125-42.hd-180-14.ch-215-64.lg-285-82.sh-305-1408.wa-2007",
+    "memberSince": "2025-08-01T10:44:07.000+00:00",
+    "uniqueId": "hhit-5eb0e362e7c89f49fb0b98b726d8b243",
+    "name": "Ammerde?",
     "isAdmin": false
   }
 ]
