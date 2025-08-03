@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-61.hd-5838-1388-1362.ch-5860-110.lg-275-1409.sh-5869-1330-92.he-6148.ea-5135.fa-5433",
@@ -6750,7 +6750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "I'm a tiny builder ƒ",
     "habboFigure": "hr-4186-34.hd-3631-10-30.ch-3836-72-72.lg-3216-72.sh-5308-1408.fa-3276-72",
