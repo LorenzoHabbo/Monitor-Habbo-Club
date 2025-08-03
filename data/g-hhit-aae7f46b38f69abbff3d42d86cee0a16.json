@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-893-1347.hd-3845-1371.ch-4220-77.lg-3384-1338-80.sh-3089-1314.ha-1002-1314.ea-3169-106.fa-5157-80",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "μ       caffè",
     "habboFigure": "hr-5681-1394-1342.hd-4383-10-5.ch-4087-1332.lg-5594-110.sh-5671-1332.ha-3709.cc-6119",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3030-1408.lg-275-1408.ha-3709.he-5808-1408.ea-3925-1408-1408.wa-2004-71",
