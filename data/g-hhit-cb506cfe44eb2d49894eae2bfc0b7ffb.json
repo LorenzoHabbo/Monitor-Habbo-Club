@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-831-1394.hd-180-1370.ch-4111-110.lg-3023-110.sh-3524-110-1408.ha-3494-110-1408.he-3070-1408.fa-1201.ca-1816.cc-3002-110",
@@ -320,10 +320,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
-    "habboFigure": "hr-5773-1404.hd-6022-10.ch-3045-92.lg-3174-1323-92.sh-5308-92.ha-4296-1323-92.he-5074-92.fa-3193-92.cc-4033-1323-92",
+    "habboFigure": "hr-4131-1403-1404.hd-600-10.ch-665-92.lg-3174-86-92.sh-5308-86.ha-4136-92.fa-5467.ca-5981-1413-1412.wa-3263-89-1325.cc-3975-86-92",
     "memberSince": "2008-12-27T09:57:25.000+00:00",
     "uniqueId": "hhit-104d9e5d6a33be4b04f2046f96f20bb2",
     "name": "rrosina",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-5805-110-92.lg-275-105.sh-5803-92.ha-6198.fa-5600-92",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-280-63.sh-908-92.ha-3145-110-110.ca-5278-1414.cc-3158-110",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-31.hd-629-1.ch-665-1320.lg-710-1408.sh-905-1320.ha-5620-1320.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-6119",
