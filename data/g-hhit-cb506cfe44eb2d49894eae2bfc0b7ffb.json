@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Eravamo l'avanguardia del metaverso.",
     "habboFigure": "hr-5555-1355-1344.hd-180-2.ch-3342-1320-1408.lg-275-99.sh-5551.he-3071-1408.ea-1401-110.ca-5583.cc-5622",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-92.lg-3502-92.sh-5717.he-3070-92.fa-3993-1326.cc-6119",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1010,10 +1010,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Blue magic!",
-    "habboFigure": "hr-3871-1395.hd-190-18.ch-267-92.lg-5594-82.sh-305-110.ha-6198.he-3070-1427.fa-3296.cc-5800-1427-1427",
+    "habboFigure": "hr-5306-1400-49.hd-190-18.ch-3668-110-96.lg-5594-82.sh-305-110.ha-6198.he-3070-1427.fa-3296.cc-5800-63-92",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-31.hd-200-14.ch-3030-1408.lg-280-64.sh-290-1408",
@@ -1530,10 +1530,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "On my way",
-    "habboFigure": "hr-3520-34.hd-205-10.ch-3491-80-81.lg-3483-1320-80",
+    "habboFigure": "hr-3520-34.hd-205-10.ch-3491-80-81.lg-3483-1320-80.cc-6119",
     "memberSince": "2013-06-27T19:59:41.000+00:00",
     "uniqueId": "hhit-b8608ea679eac1ba73f0cb5194fcf177",
     "name": "leonar92mito",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -2710,7 +2710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello gd",
     "habboFigure": "hr-3673-61.hd-3956-1370-1372.ch-5607-110.lg-3502-110.sh-3383-110-64.ha-4192.he-1608.ca-3175-1408.wa-3263-110-64",
@@ -4373,7 +4373,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-1404.hd-615-28.ch-5560-64-64.lg-5970-110.sh-5803-64.ha-3986.ea-3148-110-110.cc-5810-92",
+    "habboFigure": "hr-5773-1404.hd-615-28.ch-4087-110.lg-5970-110.sh-5803-64.ha-3986.ea-3148-110-110.cc-6119",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -5150,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-5928.ca-1816.cc-6119",
@@ -5333,7 +5333,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-125-42.hd-180-14.ch-215-64.lg-285-82.sh-305-1408.wa-2007",
+    "habboFigure": "hr-676-42.hd-180-14.ch-255-73.lg-3078-82.sh-305-1408.ha-1004-73",
     "memberSince": "2025-08-01T10:44:07.000+00:00",
     "uniqueId": "hhit-5eb0e362e7c89f49fb0b98b726d8b243",
     "name": "Ammerde?",
