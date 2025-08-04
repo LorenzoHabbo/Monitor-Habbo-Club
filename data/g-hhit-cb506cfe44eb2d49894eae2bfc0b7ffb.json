@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-45.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-1011-92.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaijin Ykz",
     "habboFigure": "hr-831-1394.hd-180-1370.ch-4111-110.lg-3023-110.sh-3524-110-1408.ha-3494-110-1408.he-3070-1408.fa-1201.ca-1816.cc-3002-110",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CLONI, ROVINA DI HABBO",
     "habboFigure": "hr-4181-1405.hd-190-18.ch-3498-63.lg-3483-1338-1338.sh-3035-110.he-3070-92.ea-1404-110.cc-3002-110",
@@ -1420,10 +1420,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-68-1408",
+    "habboFigure": "hr-828-31.hd-3091-14.ch-3109-1408-1408.lg-3116-1408-1408.sh-3115-1408-1408",
     "memberSince": "2013-01-06T18:47:45.000+00:00",
     "uniqueId": "hhit-66ba2a28c07b02a2d152ff0c620e943a",
     "name": "UltimRomantico",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3006-110-110.ha-5364.he-5279.fa-3276-1328",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -5150,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-5928.ca-1816.cc-6119",
