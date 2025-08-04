@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mondo grigio",
     "habboFigure": "hr-5606-49-60.hd-5319-28-28.ch-5921-74-1418.lg-5594-1418.sh-6042.ha-6198.he-5764-105.fa-5975.ca-5026-92.wa-5370.cc-5926-92-92",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLESƒ",
     "habboFigure": "hr-4991-50.hd-209-1367.lg-3138-92-92.ha-5336.he-5139-102.ea-1401-1322.fa-1211.ca-5251.cp-3313-93",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-3673-31.hd-629-1.ch-665-1320.lg-710-1408.sh-905-1320.ha-5620-1320.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-6119",
@@ -5150,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-5928.ca-1816.cc-6119",
