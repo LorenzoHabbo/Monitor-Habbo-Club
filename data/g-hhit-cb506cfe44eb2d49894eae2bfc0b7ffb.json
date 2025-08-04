@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CLONI, ROVINA DI HABBO",
     "habboFigure": "hr-5306-42-40.hd-190-1.ch-3668-63-92.lg-280-82.sh-5803-92.ha-4195",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-3426-1408-82.fa-3344-91",
