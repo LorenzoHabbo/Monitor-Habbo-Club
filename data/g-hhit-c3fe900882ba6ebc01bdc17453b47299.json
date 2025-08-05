@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "And even if I could it'll all be gray.",
     "habboFigure": "hr-3673-61.hd-600-1.ch-824-110.lg-3596-110-1408.he-3070-92.cc-3397-110-92",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "saturn",
     "habboFigure": "hr-5619-54.hd-615-10.ch-660-1324.lg-710-77.sh-908-110.he-3858-92.fa-5467",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-5306-45-45.hd-180-1.ch-805-82.lg-281-64.sh-5803-1408.ha-6198.ea-3978-1408-1408.cc-5800-1408-1408",
