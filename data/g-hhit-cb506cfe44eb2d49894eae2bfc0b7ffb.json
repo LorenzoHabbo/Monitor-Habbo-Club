@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-665-92.lg-3006-104-104.sh-6042.he-5698-92-92.fa-5435.ca-6081-92",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-5594-1408.sh-3693-1409-90.he-3070-92.ea-1404-110.fa-5601-71.ca-5768-92-92",
@@ -933,7 +933,7 @@
     "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
-    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
+    "habboFigure": "hr-893-37.hd-180-1.ch-3443.lg-270-81.sh-3348-1410.ha-3605-110-92.ca-3444-92",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
     "name": "domenic76093",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1408.ha-3431-68-1320.ea-5897-1408-1408.ca-4965-72-68.cc-3360-68.cp-3284-73",
@@ -1560,10 +1560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ginecologo senza laurea",
-    "habboFigure": "hr-3860-61-61.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-92-110.ha-3620.he-3644.fa-5975.ca-5502",
+    "habboFigure": "hr-3860-61-42.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-1408.ha-3586.he-3644.fa-5975.wa-4060-63-1408",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -2873,7 +2873,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4363-61-61.hd-600-10.ch-665-1418.lg-3018-1418.sh-5308-92.he-3082-110.ea-3484.fa-3276-100.cc-5926-1418-1408",
+    "habboFigure": "hr-3852-1353.hd-3845-28.ch-5595-1337.lg-5594-110.sh-3089-110.he-5314-110-110.ea-3484.fa-3276-92.cc-5461-1337-110",
     "memberSince": "2020-03-21T23:19:55.000+00:00",
     "uniqueId": "hhit-b69295b42fb1ca6d0dad63076b56fbe3",
     "name": "carla0000",
@@ -2963,7 +2963,7 @@
     "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
-    "habboFigure": "hr-5772-59-58.hd-3956-1-1367.ch-3137-96-1408.lg-3138-96-1408.ha-3709.he-3070-1410",
+    "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
     "memberSince": "2020-04-16T19:05:48.000+00:00",
     "uniqueId": "hhit-490270c147909efac0d7d7a505768db0",
     "name": "Annasicily",
@@ -3563,7 +3563,7 @@
     "online": true,
     "gender": "m",
     "motto": "dissin' the whole hotel like I'm Drake",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-255-86.lg-280-77.sh-3035-1334.he-3070-1321.fa-3276-1330",
+    "habboFigure": "hr-3163-1407.hd-205-2.ch-255-86.lg-5594-77.sh-3035-1334.he-3070-93.fa-3276-1330.cc-5925-92",
     "memberSince": "2022-06-14T18:48:25.000+00:00",
     "uniqueId": "hhit-957997a7ff103a260a87e916c62c1b48",
     "name": "y=xt",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.ca-6081-1428.cc-5926-63-1427",
@@ -4083,7 +4083,7 @@
     "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
-    "habboFigure": "hr-5962-34.hd-205-2.ch-210-64.lg-275-110.sh-300-110.ha-1002-110.he-3740.ca-5549-64-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-281-64.sh-305-92.he-3740.ca-3844-110-1412.cp-3316-1408",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4280,7 +4280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-190-10.ch-267-64.lg-281-64.sh-906-1408.ha-1001.ea-1404-64.fa-1204",
@@ -5250,7 +5250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Amo me stesso",
     "habboFigure": "hr-893-34.hd-180-1370.ch-3030-1408.lg-3088-72-1408.sh-3068-1408-1408.fa-3276-73",
