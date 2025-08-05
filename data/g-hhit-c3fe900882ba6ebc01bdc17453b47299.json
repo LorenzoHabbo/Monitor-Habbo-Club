@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "And even if I could it'll all be gray.",
     "habboFigure": "hr-3810-49.hd-3845-28.ch-665-110.lg-3526-110-110.ha-5299-110-71.he-3070-92.ea-5897-110-110.fa-5467.cc-5926-110-92",
@@ -960,10 +960,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
-    "habboFigure": "hr-3056-61.hd-200-20.ch-3203-1325.lg-4138-103.sh-3206-110.ca-5583",
+    "habboFigure": "hr-155-36.hd-5522-14-14.ch-878-1408-1408.lg-3023-91.sh-300-1408.ha-3298-64-1408.fa-1204.ca-1813.wa-2011.cc-3280-64-1408",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-145-34.hd-3845-14.ch-210-64.lg-275-1320.sh-305-1408.ha-3710.he-1610",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "fors è arragg",
     "habboFigure": "hr-3021-56-49.hd-600-30.ch-3250-1331.lg-3190-1421-1334.sh-3275-92.he-3239-1315.ea-3270-1408-1408.fa-3193-73.ca-5278-84.wa-6071.cc-3246-1329",
