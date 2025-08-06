@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-6098.lg-4066-1409.sh-3016-110.ea-3727",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-5594-1408.sh-3693-1409-90.he-3070-92.ea-1404-110.fa-5601-71.ca-5768-92-92",
@@ -4463,7 +4463,7 @@
     "online": false,
     "gender": "m",
     "motto": "™",
-    "habboFigure": "hr-4193-1404.hd-190-17.ch-215-92.lg-275-81.sh-5803-92.ha-3667-63-1408.he-3070-1427.cc-5461-1408-1408",
+    "habboFigure": "hr-4193-1404.hd-190-17.ch-215-92.lg-275-81.sh-5803-92.ha-3667-92-86.he-3070-1427.cc-5461-1408-1408",
     "memberSince": "2011-07-09T17:21:13.000+00:00",
     "uniqueId": "hhit-33432cd23dee0499471126757c0dd0be",
     "name": "Breaking",
@@ -7590,7 +7590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "in my mind crikey",
     "habboFigure": "hd-180-1370.ch-3030-76.lg-270-64.ha-1002-76",

@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ama chi ti Ama Alza la VoceFattiSentir",
     "habboFigure": "hr-5898-1347-40.hd-4383-28-14.ch-5917-110.lg-4114-110-1414.he-6103-1414.fa-3276-92",
@@ -2820,10 +2820,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello G.D.",
-    "habboFigure": "hd-180-1.ch-235-85.lg-275-66.sh-295-64.ha-1002-64.ea-1403-1408.fa-3344-66",
+    "habboFigure": "hd-185-1.ch-235-85.lg-275-66.sh-295-64.ha-1002-64.ea-1403-1408.fa-3344-66",
     "memberSince": "2013-12-23T10:26:05.000+00:00",
     "uniqueId": "hhit-06674468935eca0b94e96b9e40e7b974",
     "name": "cronum",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3022-1430-1430.lg-3078-92.sh-3027-92-110.ea-3484.cc-4978-110-1432",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -9980,7 +9980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato scelto GD.",
     "habboFigure": "hr-6084-60-55.hd-3631-1-1366.ch-4166-99-1326.lg-4167-99.sh-5928.ha-6101-1326.he-5758.fa-3276-1328.ca-5635-1322-1322",
