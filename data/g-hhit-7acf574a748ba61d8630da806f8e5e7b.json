@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-3486-1408-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-1408",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-3619-76-66.ha-3775.he-6019.fa-4185-73.ca-6018.cc-4282-76",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato scelto GD.",
     "habboFigure": "hr-6084-60-55.hd-3631-1-1366.ch-4166-99-1326.lg-4167-99.sh-5928.ha-6101-1326.he-5758.fa-3276-1328.ca-5635-1322-1322",
