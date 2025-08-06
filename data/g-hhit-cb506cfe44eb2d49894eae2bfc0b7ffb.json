@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-42.hd-180-7.ch-3022-1408-110.lg-3018-110.sh-295-1408.ea-1404-63.fa-4168-1414",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Eravamo l'avanguardia del metaverso.",
     "habboFigure": "hr-5555-1355-1344.hd-180-2.ch-3342-1320-1408.lg-275-99.sh-5551.he-3071-1408.ea-1401-110.ca-5583.cc-5622",
@@ -900,10 +900,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5517-49-40.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
+    "habboFigure": "hr-3977-49.hd-180-28.ch-3688-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
     "memberSince": "2011-03-21T19:34:12.000+00:00",
     "uniqueId": "hhit-1dfb91044a02da3bb2708e05be09ebf6",
     "name": ".Mestruato.",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "chilli sauce™",
     "habboFigure": "hr-4193-1404.hd-190-17.ch-215-92.lg-275-81.sh-5803-92.ha-3667-92-86.he-3070-1427.cc-5461-1408-1408",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3432-68-1320.lg-3434-68-1320.sh-3435-68-1408.ha-3431-68-1320.ea-5897-1408-1408.ca-4965-72-68.cc-3360-68.cp-3284-73",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-828-1405.hd-195-18.ch-3001-1335-1408.lg-285-110.sh-908-92.he-3070-92.ca-4115-110-92.cc-5485-92-96",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-185-1370.ch-3806-1408.lg-3116-64-1408.sh-295-64.ha-1004-64.ea-1404-64.fa-3276-72.ca-5770-1408",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "bannato (sono Spercus)\r",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-280-63.sh-908-92.ha-3145-110-110.ca-5278-1414.cc-3158-110",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -4373,7 +4373,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-1404.hd-615-25.ch-5998-1421.lg-710-1421.sh-5803-92.ha-3709.he-5314-1421-92.fa-5835-92.ca-6081-1421.cc-6119",
+    "habboFigure": "hr-5619-1404.hd-615-25.ch-5998-1421.lg-710-1421.sh-5803-92.ha-3709.he-5314-1421-92.fa-5835-92.ca-6081-1421",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -5150,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-5928.ca-1816.cc-6119",
@@ -5220,7 +5220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Top 1 habbino + attraente (ban)",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-110.lg-275-110.sh-5803-92.he-1609-106.fa-5467.cp-5462",
