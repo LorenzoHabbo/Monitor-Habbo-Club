@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SHEIDEDA @ The Hundred - crikey",
     "habboFigure": "hr-3520-45.hd-180-1.ch-5093-64.lg-3361-64.sh-4112-64-64.he-3376-68-81.fa-3344-91.wa-2001.cc-3593-64-68",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "confida tutto al cielo...",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3189-103.cc-3289-102",
@@ -543,7 +543,7 @@
     "online": true,
     "gender": "m",
     "motto": "Discepolo Lv.12 TH - CEO of McDonald's",
-    "habboFigure": "hr-3247-61.hd-209-10.ch-3059-1326.lg-3267-71-92.sh-3419-64-71.ha-3220-71-110.ea-3226-1327.fa-1206-110.ca-4115-89-71",
+    "habboFigure": "hr-3768-31.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6080.ea-4161.fa-5636-89.ca-5737-1325.cc-5826-63",
     "memberSince": "2009-12-31T16:15:39.000+00:00",
     "uniqueId": "hhit-9b12dd7dcb4025a08395687ee2d6cf44",
     "name": "SuperHawk",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
@@ -993,14 +993,14 @@
     "online": true,
     "gender": "m",
     "motto": "JUN KOSEI YAºKUºZA",
-    "habboFigure": "hr-5791-49.hd-209-28.ch-3215-1414.lg-5594-64.sh-3180-1414-1408.he-5137.fa-3276-1328.ca-5028-92-64.wa-3178-1414.cc-4109-1414-1414",
+    "habboFigure": "hr-828-41.hd-207-28.ch-4339-110-1428.lg-3019-64.he-3070-92.fa-5601-92.ca-3985-1408.cc-4979-1408",
     "memberSince": "2011-12-21T21:58:29.000+00:00",
     "uniqueId": "hhit-c31a78d702e0fa9c972dae324a362e58",
     "name": ".AngelPop",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -1090,10 +1090,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
-    "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-90-66.fa-3462-82.cc-3360-1408",
+    "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-64-72.he-4379.ea-3925-90-66.fa-3462-82.cc-4282-64",
     "memberSince": "2012-03-30T21:06:58.000+00:00",
     "uniqueId": "hhit-f72ca46d0fcfc8efbf49fa6f7ee8b07e",
     "name": "mistiix",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-185-1370.ch-3806-1408.lg-3116-64-1408.sh-295-64.ha-1004-64.ea-1404-64.fa-3276-72.ca-5770-1408",
@@ -1603,7 +1603,7 @@
     "online": true,
     "gender": "m",
     "motto": "Gaijin esperto Ykz Shiro",
-    "habboFigure": "hr-3841-32.hd-205-1370.ch-3840-1320-85.lg-275-81.sh-3524-1320-64.ha-4192.he-6125-64.ea-1404-64.fa-3276-73.ca-6018",
+    "habboFigure": "hr-155-1404.hd-205-1370.ch-3167.lg-3257-1409.sh-3016-110.ha-3140-1408.ea-1402",
     "memberSince": "2016-06-30T18:10:40.000+00:00",
     "uniqueId": "hhit-d558b0d1c5a74a81c7c67605927f1add",
     "name": "smiledanie26",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-3619-76-66.ha-3775.he-6019.fa-4185-73.ca-6018.cc-4282-76",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-270-1408.ha-1002-1408.he-6125-1408.fa-5624-73.ca-3414-73",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5998-110.lg-3192-110.he-3740.ca-3885-1410-110",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3841-42.hd-180-1.ch-3110-64-64.lg-285-82",
@@ -3100,7 +3100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.ca-6081-1428.cc-5926-63-1427",
@@ -3463,7 +3463,7 @@
     "online": false,
     "gender": "m",
     "motto": "USMC Tenente- lost per sempre|",
-    "habboFigure": "hd-190-30.lg-3968-1408.sh-5274-1408-1408.he-5915.fa-3350.ca-3225-73-72",
+    "habboFigure": "hd-190-30.lg-3968-1408.sh-5274-1408-1408.ha-6090-1408-1408.he-5915.fa-3350.ca-3225-73-72",
     "memberSince": "2023-11-15T10:31:43.000+00:00",
     "uniqueId": "hhit-8d4193246a03dff26533ecc3049feffe",
     "name": "_sandrino00_",
@@ -3623,7 +3623,7 @@
     "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
-    "habboFigure": "hr-3163-1403.hd-205-17.ch-210-110.lg-275-1333.sh-908-92.he-3740.fa-4185-90.cc-5800-110-110",
+    "habboFigure": "hr-828-1403.hd-205-2.ch-210-110.lg-275-89.sh-305-92.he-3740.ea-5576-110-110.cc-5925-1427",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3820,10 +3820,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto GD",
-    "habboFigure": "hr-3829-40.hd-3604-10.ch-210-1408.lg-281-1408.sh-3524-1408-1408.fa-5601-1408",
+    "habboFigure": "hr-3829-40.hd-3604-10.ch-210-91.lg-3483-64-64.sh-3524-64-91.ha-3857-64-90.fa-4013",
     "memberSince": "2024-08-18T15:11:21.000+00:00",
     "uniqueId": "hhit-6a441a2a4e98e3c16d2b7304d4218797",
     "name": "Andrea1995O",
@@ -3903,7 +3903,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-54.hd-615-25.ch-5998-1421.lg-710-1421.sh-5803-92.ha-3709.he-5314-1421-92.fa-5835-92.ca-6081-1421",
+    "habboFigure": "hr-5619-61.hd-615-25.ch-3266-110-92.lg-710-110.sh-5803-92.ha-3709.he-5314-110-92.fa-5835-92",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
     "name": "Habbina800",
@@ -4643,7 +4643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Be a cicciobomba",
-    "habboFigure": "hr-5210-1395-1395.hd-3845-7.ch-215-92.lg-5594-63.sh-4112-110-1408.ha-4192.he-3833-1408.fa-5601-1408.ca-5936-1408.cc-5926-110-1413",
+    "habboFigure": "hr-5210-1394-1345.hd-3845-7.ch-215-92.lg-5594-63.sh-4112-110-1408.ha-4192.he-3833-1408.fa-5601-1408.ca-5936-1408.cc-5926-110-1413",
     "memberSince": "2025-04-03T21:40:18.000+00:00",
     "uniqueId": "hhit-9c42780b101c7476070371cacd83a703",
     "name": "Siri9723",
@@ -4660,7 +4660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "shoganai",
     "habboFigure": "hr-3090-34.hd-205-14.ch-267-64.lg-280-1408.sh-905-64.ha-1004-64.fa-5601-1408",
