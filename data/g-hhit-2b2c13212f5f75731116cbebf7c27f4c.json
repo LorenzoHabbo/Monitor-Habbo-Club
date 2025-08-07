@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3030-90.lg-280-90.sh-300-90.ha-5744-90-66.fa-5636-64.ca-5739-90-66.cc-3692-90-66",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Recluta G.D",
     "habboFigure": "hr-3090-42.hd-209-1370.ch-806-85.lg-3023-85.sh-906-64.ha-1023-64.he-1608.ea-1404-1408.fa-1201.ca-1813.cc-260-64",
@@ -1680,10 +1680,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Since 2011",
-    "habboFigure": "hr-5679-38-42.hd-629-1369.ch-3517-71-75.lg-695-1408.sh-730-64.he-3376-71-75",
+    "habboFigure": "hr-5679-43-42.hd-629-1370.ch-3517-84-83.lg-695-1408.sh-730-83.he-3376-84-83",
     "memberSince": "2011-05-21T15:01:12.000+00:00",
     "uniqueId": "hhit-3072de7fce1552e4aeec070d23f82860",
     "name": "b.pucca.d",
