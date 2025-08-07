@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "avada kalabria",
     "habboFigure": "hr-3020-49.hd-3092-8.ch-3203-1424.lg-3290-92.ea-3168-1320.fa-1205-92.ca-1807",
@@ -3220,7 +3220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-42.hd-205-1.ch-235-82.lg-280-64.sh-300-1408.ha-1004-64.fa-1201",
@@ -4780,7 +4780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "chilli sauce™",
     "habboFigure": "hr-828-41.hd-190-18.ch-215-92.lg-285-81.sh-5803-92.ha-4195.fa-5601-1408.cc-5800-63-63",
@@ -8230,7 +8230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-34-42.hd-3845-1.ch-5302-64-81.lg-715-73.sh-3068-82-64.ha-3613-82.he-3557.fa-4168-73.ca-5770-81",
@@ -8830,7 +8830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
