@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-38.hd-209-8.ch-235-64.lg-4167-82.sh-3068-1408-82.ha-5852.he-1608.fa-5835-91",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT ♡",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-84-83.lg-4191-84-84.sh-300-84.ha-5520-84-83.he-1601.fa-1201.ca-3444-1408.wa-2004-83.cc-5826-1408",
@@ -1760,10 +1760,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GAS",
-    "habboFigure": "hr-3260-61.hd-209-12.ch-3032-1408-1408.lg-3257-110.sh-3016-110.fa-3344-110.cc-3326-110-110",
+    "habboFigure": "hr-3322-42.hd-209-12.ch-255-75.lg-3078-76.fa-3344-64",
     "memberSince": "2014-12-25T13:32:15.000+00:00",
     "uniqueId": "hhit-d5f2f64d08afec8aae1a8d6fd674c4c3",
     "name": "JACK-01",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-5681-32-40.hd-3631-1370-20.ch-665-86.lg-3006-1414-1339.sh-730-92.he-6019.ea-5576-110-110.ca-6185.cc-6031-1326-1416",
@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-1337.lg-5623.sh-3275-77.ha-5443.he-6019.fa-5600-89.ca-5575",
@@ -2583,7 +2583,7 @@
     "online": true,
     "gender": "m",
     "motto": "#",
-    "habboFigure": "hr-3322-37.hd-3845-1.ch-4337-64-1408.lg-3391-64-1408.sh-3419-64-64.ha-3709.he-5348.fa-3344-90.ca-3916-1408-64.wa-2001.cc-3420-64.cp-3120-1408",
+    "habboFigure": "hr-3322-36.hd-5522-10-10.ch-3030-66.lg-280-66.ha-4052.wa-3074-1408-1408.cc-4109-66-1408",
     "memberSince": "2019-04-11T14:54:30.000+00:00",
     "uniqueId": "hhit-0d682895eab73fbd019c8ee72e54a009",
     "name": ".:The:.Boss:",
@@ -2773,7 +2773,7 @@
     "online": true,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-3353-1408.sh-5032.ha-5730-1408.ea-3169-102.fa-5636-92.ca-3545-80.wa-3661-1408-1408",
+    "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-5623.sh-5032.ea-3169-102.fa-5636-92.ca-6020-80",
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-93-1430",
@@ -3140,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Regolatevi!",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-710-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-77.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6127-45.hd-600-2.ch-5921-1331-1408.lg-5594-63.sh-5308-91.he-5314-1331-1331.fa-5467.ca-3485",
