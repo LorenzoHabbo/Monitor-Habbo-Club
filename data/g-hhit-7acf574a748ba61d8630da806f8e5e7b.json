@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-3845-8.ch-5596-1408.lg-3078-1408.sh-305-73.fa-3378-64-1408.cp-3120-1408",
@@ -1530,10 +1530,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
-    "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
+    "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.ca-3844-92-92",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-45.hd-3956-1-19.ch-4392-81-1408.lg-3526-81-81.sh-5274-81-81.ha-5620-1408.he-3974.ca-3973-1408-1408",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5998-110.lg-3192-110.he-3740.ca-3885-1410-110",
@@ -3060,7 +3060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trainer Brigata Nera Hooligans",
     "habboFigure": "hr-5503-44.hd-629-1.ch-3770-1408-73.lg-3078-1408.he-3329-71-73",
@@ -3623,7 +3623,7 @@
     "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
-    "habboFigure": "hr-4117-45-45.hd-205-1.ch-4165-89-92.lg-280-1334.sh-3027-64-64.ea-1402.fa-3276-73",
+    "habboFigure": "hr-4117-45-45.hd-205-1.ch-4165-89-92.lg-280-1334.sh-3027-64-64.ha-3495-92-92.ea-1402.fa-3276-73",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-6029-64-1408.lg-5594-1408.sh-5670-64.ea-5897-64-1408.ca-5635-64-1408.cc-5461-64-1408",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "roseboss amica del |",
     "habboFigure": "hr-4363-54-32.hd-4383-2-11.ch-4199-92.lg-3200-1414.sh-5671-1414.he-5314-1414-1414",
@@ -3840,7 +3840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-270-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -3990,7 +3990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-48-40.hd-190-1.ch-3342-1408-1408.lg-285-91.sh-295-64.ha-4192.ea-1404-1408.ca-5278-88.cc-3294-73-1408",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred guardia esperta",
     "habboFigure": "hr-4126-1395-55.hd-4163-2-1369.ch-5560-92-1326.lg-5594-77.sh-3383-110-92.he-3070-92.fa-4168-1326.ca-5282-1426.cc-5926-1338-110",
