@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5928.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "keep it hot like sauna",
     "habboFigure": "hr-515-1403.hd-615-22.ch-3013-110.lg-700-64.sh-725-92.he-6019.fa-5467.cc-5800-1418-1418",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-210-1408.lg-3078-1408.sh-906-1408.ha-1002-1408.wa-4317-1408.cc-5558-1408-1408",
