@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-1333.lg-5243-1333.sh-3587-92-92.he-6138.fa-5467.ca-5455-1333-93",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato di Freezer-rivale di Vegeta",
     "habboFigure": "hr-125-34.hd-200-1.ch-240-1408.lg-275-64.sh-3068-1408-1408.ea-1403-1408.fa-1206-64",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5617-1394-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-5624-1417.wa-3773-1322",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GAS",
     "habboFigure": "hr-3322-42.hd-209-12.ch-255-75.lg-3078-76.fa-3344-64",
@@ -1900,10 +1900,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
-    "habboFigure": "hr-3871-40.hd-6021-1.ch-3486-1408-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-1408",
+    "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-1408",
     "memberSince": "2015-09-24T17:37:16.000+00:00",
     "uniqueId": "hhit-40fde95fcb03d0f10e613e0c87f880e2",
     "name": "J3Tears",
@@ -2480,10 +2480,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I make no Promises",
-    "habboFigure": "hr-155-39.hd-180-8.lg-3019-1427.sh-3115-1408-1408.wa-3073-63",
+    "habboFigure": "hr-155-39.hd-180-8.ch-210-1408.lg-270-1408.sh-3115-1408-1408",
     "memberSince": "2018-11-20T22:22:30.000+00:00",
     "uniqueId": "hhit-c4c4f341929bb0f15b11669fd20f9e14",
     "name": "SkyRoom",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-5623.sh-5032.ea-3169-102.fa-5636-92.ca-6020-80",
@@ -3790,10 +3790,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Suka",
-    "habboFigure": "hr-4182-33-1394.hd-600-1.ch-3658-92-92.lg-5970-77.sh-3016-110.he-5808-110.fa-3276-72.cc-5926-110-110",
+    "habboFigure": "hr-4182-33-1394.hd-4383-1-1373.ch-3658-92-92.lg-5970-77.sh-3016-110.he-5808-110.fa-3276-72.cc-5926-110-110",
     "memberSince": "2023-06-21T11:03:47.000+00:00",
     "uniqueId": "hhit-e45c93c0edc3d2aa8fbececd0e560657",
     "name": "Ninilavolpe",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se non sei pelato non sei serio",
     "habboFigure": "hr-681-42.hd-205-14.ch-230-66.lg-3864.sh-905-64.ha-3862.ea-1404-64.fa-4013.wa-2004-1408.cc-3863-64",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "̸̢̮͊̉͐̚ ̴͈̮̺͘u̴͕̚t̴̥̮͊̏̓͝e̷͖̐̈́̽ṅ̸̜̈́̀̿",
     "habboFigure": "hr-110-42.hd-200-30.ch-255-64.lg-3023-64.sh-906-64.ha-3546-64.he-3543-64.ea-1404-64.fa-1210.ca-3545-64.cp-3288-64",
@@ -5010,7 +5010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a poor clone from a poor family",
     "habboFigure": "hd-180-10.ch-215-1408.lg-285-1408.sh-3068-1408-1408",
