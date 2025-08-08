@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sono un cane che morde|",
     "habboFigure": "hr-5898-1347-40.hd-4383-28-14.ch-5917-110.lg-4114-110-1414.he-6103-1414.fa-3276-92",
@@ -2380,10 +2380,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "broddoy",
-    "habboFigure": "hr-3322-31.hd-209-1370.ch-3321-1408.lg-3320-82-1408.ha-3461.he-1601",
+    "motto": "",
+    "habboFigure": "hr-3322-31.hd-209-1370.ch-3030-1408.lg-3320-82-1408.he-1601",
     "memberSince": "2012-06-17T23:14:50.000+00:00",
     "uniqueId": "hhit-81d6e34cf09d3efa689786a4e22ea95a",
     "name": ".:NiK95:.",
@@ -2933,7 +2933,7 @@
     "online": true,
     "gender": "f",
     "motto": "Don't u worry pccrell song e nov",
-    "habboFigure": "hr-4363-1403-1404.hd-600-1383.ch-4128-110-1326.lg-3006-110-1415.sh-5247-92-1415.he-5380-1415.fa-1202-110.wa-6165-1427",
+    "habboFigure": "hr-4363-1403-1404.hd-600-1383.ch-4128-110-74.lg-3006-110-1415.sh-5247-92-1415.he-5380-1415.fa-1202-110.wa-6165-1427",
     "memberSince": "2014-08-14T11:40:31.000+00:00",
     "uniqueId": "hhit-8d92b048211fc5db27afd3c2ed777509",
     "name": "_celine",
@@ -6590,7 +6590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "villain[S]",
     "habboFigure": "hr-100.hd-185-10.ch-267-80.lg-281-91.he-1609-64.ca-1805-74.wa-2008",
