@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-210-1408.lg-270-1408.sh-5869-84-84.fa-5467",
@@ -810,17 +810,17 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
-    "habboFigure": "hr-893-37.hd-3845-1.ch-225-1408.lg-270-81.sh-906-64",
+    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
     "name": "domenic76093",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-64",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-64-72.he-4379.ea-3925-90-66.fa-1201.cc-3360-73",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
     "habboFigure": "hr-828-1403.hd-205-2.ch-215-110.lg-3201-1333-1333.sh-305-92.ha-3690-110.he-3740",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6127-45.hd-600-2.ch-5921-1331-1408.lg-5594-63.sh-5308-91.he-5314-1331-1331.fa-5467.ca-3485.wa-6165-1329",
@@ -4640,7 +4640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Be a cicciobomba",
     "habboFigure": "hr-5210-1394-1345.hd-3845-7.ch-215-92.lg-5594-63.sh-4112-110-1408.ha-4192.he-3833-1408.fa-5601-110.ca-5936-1408.cc-5926-110-1413",
