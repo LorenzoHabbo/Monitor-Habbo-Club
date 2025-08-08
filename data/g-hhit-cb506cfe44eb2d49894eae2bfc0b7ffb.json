@@ -240,10 +240,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cambia il tuo motto...~",
-    "habboFigure": "hr-3841-45.hd-200-1.ch-5488-68.lg-3460.ha-3620.he-1601.fa-1202-68.ca-1806-68.cc-5826-68",
+    "habboFigure": "hr-4162-42.hd-3604-1.ch-5488-68.lg-3460.ha-3620.he-1601.fa-1202-68.ca-1806-68.cc-5826-68",
     "memberSince": "2008-03-31T14:27:32.000+00:00",
     "uniqueId": "hhit-d45bd1351f83e6c10da9ca104d657024",
     "name": "SnakeMania",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -5130,7 +5130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3596-110-1408.sh-5928.ca-1816.cc-6119",
