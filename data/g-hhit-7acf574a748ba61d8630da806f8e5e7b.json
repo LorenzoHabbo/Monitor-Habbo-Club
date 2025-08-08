@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5361-1416.lg-5363-93.sh-5803-92.ha-3570.he-5915.ea-6053-96.ca-3885-96-92.cc-5800-1432-1432",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato scelto GD.",
     "habboFigure": "hr-3044-61.hd-3956-1390-30.ch-4142-92-92.lg-3190-96-96.sh-3206-92.ha-4134-92-92.he-3833-93.fa-3276-97.ca-1810.wa-2008.cc-3975-92-92",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto GD",
     "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-71.lg-3078-81.sh-3524-64-91.fa-5601-1408.cc-3917-64",
