@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLESƒ",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-5139-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
@@ -3760,10 +3760,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "roseboss amica del |",
-    "habboFigure": "hr-4363-32-32.hd-4383-1-11.ch-4158-1430-1325.lg-3200-67.sh-5464-1430-1326",
+    "habboFigure": "hr-4363-1395-32.hd-4383-1-9.ch-4087-77.lg-5970-1426.sh-5670-1325.he-3070-77.ca-5365-77-1325.cc-5761-1324-1324",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "the hundred guardia esperta",
     "habboFigure": "hr-4126-1395-55.hd-4163-2-1369.ch-5560-92-1326.lg-5594-77.sh-3383-110-92.he-3070-92.fa-4168-1326.ca-5282-1426.cc-5926-1338-110",
