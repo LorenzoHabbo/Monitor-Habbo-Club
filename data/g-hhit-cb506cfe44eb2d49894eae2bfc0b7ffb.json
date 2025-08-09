@@ -60,9 +60,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "ƒƒSerendipityƒƒ",
+    "motto": "Kakolukiam",
     "habboFigure": "hr-3841-42.hd-207-1.ch-3840-66-1408.lg-4167-64.sh-3524-66-91.ea-1404-1408.ca-1807.wa-2001.cc-6077",
     "memberSince": "2006-05-20T08:20:25.000+00:00",
     "uniqueId": "hhit-710d308792ab44680b9b015e8359dc99",
@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1404.hd-600-10.ch-5351-110-1410.lg-3134-110-1408.sh-6043.ha-5704.he-5578-1321.fa-5467.wa-6165-93.cc-5690-63",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-4363-1346-1346.hd-4383-1392-1364.ch-3005-92-1326.lg-5594-1338.sh-5803-1326.ha-3709.he-5808-1414.fa-4046.ca-5981-1326-1408.wa-5370.cc-5925-1327",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ginecologo senza laurea",
     "habboFigure": "hr-3860-61-42.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-1408.ha-3586.he-1601.fa-5975.ca-5502",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GAS",
     "habboFigure": "hr-3322-42.hd-209-12.ch-255-75.lg-3078-76.fa-3344-64",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
@@ -3923,7 +3923,7 @@
     "online": true,
     "gender": "m",
     "motto": "Chi sono io?",
-    "habboFigure": "hr-3990-51-40.hd-3537-22.ch-3077-110-92.lg-3361-101.sh-5295.ha-4120.fa-5975.ca-5678.cc-4091-110",
+    "habboFigure": "hd-209-1365.lg-5909-110-1408.sh-5295.ha-4349.ca-5273-101-110.wa-3263-101-110.cp-3313-92",
     "memberSince": "2023-11-03T23:25:54.000+00:00",
     "uniqueId": "hhit-fec333ed2c090448eba7874a06d01270",
     "name": "ChazDrinking",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
     "habboFigure": "hr-828-1403.hd-205-2.ch-215-110.lg-3201-1333-1333.sh-305-92.ha-3690-110.he-3740",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-34.hd-205-2.ch-245-92.lg-275-110.sh-908-92.he-3070-92.fa-5601-92.cc-3420-110",
@@ -5220,7 +5220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Amo me stesso",
     "habboFigure": "hr-893-34.hd-180-1370.ch-3030-1408.lg-3088-72-1408.sh-3068-1408-1408.fa-3276-73",
@@ -5317,6 +5317,16 @@
     "memberSince": "2025-08-04T16:50:46.000+00:00",
     "uniqueId": "hhit-7faaafba8354063371d387d3bd63a958",
     "name": "CaPaReZZa?!_12:",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "STAY HIGH MY BROTHER -. - <3",
+    "habboFigure": "hr-115-45.hd-205-1.ch-255-1320.lg-3078-64.sh-906-64.ha-1004-73.ea-1404-1408.fa-1201.ca-1801-64.wa-3074-64-64.cp-3127-64",
+    "memberSince": "2025-08-07T02:28:49.000+00:00",
+    "uniqueId": "hhit-8fe657406bb9f10d2e59ccee941c86c2",
+    "name": "erFrancisBacon",
     "isAdmin": false
   }
 ]
