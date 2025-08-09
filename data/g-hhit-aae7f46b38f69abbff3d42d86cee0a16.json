@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-665-81.lg-3526-1408-1408.sh-3354-81-1408.he-4318-81.fa-5601-1408.ca-5454-1408.wa-4317-1408.cc-4943-1408",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mondo grigio - yøløwn",
     "habboFigure": "hr-5606-49-60.hd-4023-28.ch-5921-110-1418.lg-5594-1418.sh-6043.ha-6198.he-5764-105.fa-5975.ca-5026-64.wa-5370.cc-6070",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1379.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.ca-6081-1428.cc-6119",
