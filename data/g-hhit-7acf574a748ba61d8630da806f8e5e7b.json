@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-61.hd-3091-3.ch-4994-1409-90.lg-3057-1409.sh-5308-1410.ha-3352-1409-64.he-5578-1408.fa-5601-68.ca-5769-91-66",
@@ -352,7 +352,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "PiveroScemoMiAmoTroppoPerCascareInTrap",
+    "motto": "PoveroScemoMiAmoTroppoPerCascareInTrap",
     "habboFigure": "hr-5914-34-1347.hd-4383-28-14.ch-5917-110.lg-4114-110-1414.ha-3118-110-110.he-3082-1414.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista scelto GD",
     "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-71.lg-3078-81.sh-3524-64-91.fa-5601-1408.cc-3917-64",
