@@ -1320,10 +1320,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
-    "habboFigure": "hr-125-31.hd-4174-2.ch-3203-110.lg-3136-66.ha-5325.he-3579.ea-3750.fa-5384-92.ca-5575.wa-2004-68.cc-5322.cp-3204",
+    "habboFigure": "hr-125-31.hd-4174-2.ch-3203-110.lg-3136-66.ha-5325.he-3579.ea-3575.fa-5384-92.ca-5575.wa-2004-68.cc-5322.cp-3204",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "f",
     "motto": "PoveroScemoMiAmoTroppoPerCascareInTrap",
-    "habboFigure": "hr-5914-34-1347.hd-4383-28-14.ch-5917-110.lg-4114-110-1414.ha-3118-110-110.he-3082-1414.fa-3276-92",
+    "habboFigure": "hr-5914-34-1347.hd-4383-28-14.ch-5917-110.lg-4114-110-1414.ha-3118-110-110.he-3082-1414.fa-3276-92.wa-6165-1326",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -6670,7 +6670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5761-91-110",
