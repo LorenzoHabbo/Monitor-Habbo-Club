@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "colorato ma anke fruttato",
     "habboFigure": "hr-4117-31-31.hd-205-10.ch-3030-1408.lg-275-80.sh-906-1408.he-3752.fa-5467",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "curami, curami sempre",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "PoveroScemoMiAmoTroppoPerCascareInTrap",
     "habboFigure": "hr-6055-1407-61.hd-4383-10-3.ch-5560-110-110.lg-3596-110-110.ha-3709.he-5808-1408.fa-3276-92",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-6137.sh-5869-84-1408.ha-1008.ea-4161.fa-5467",
