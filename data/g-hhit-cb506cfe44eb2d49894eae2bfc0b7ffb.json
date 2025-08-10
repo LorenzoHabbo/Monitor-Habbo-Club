@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Kakolukiam",
     "habboFigure": "hr-3841-42.hd-207-1.ch-3840-66-1408.lg-4167-64.sh-3524-66-91.ea-1404-1408.ca-1807.wa-2001.cc-6077",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Musica Inaudita",
     "habboFigure": "hr-125-42.hd-180-1.ch-3030-1408.lg-285-82.sh-4112-90-90.cp-3288-64",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -1860,10 +1860,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ti porterò i tuoi fiori, i girasoli\r",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-281-110.sh-908-110.ha-3145-110-110.he-3070-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-110.lg-280-1428.sh-908-92.ha-3145-92-92.he-5844.ca-3176-110-92.cc-3509-106-110",
     "memberSince": "2015-06-24T12:57:08.000+00:00",
     "uniqueId": "hhit-ca1d8f33e2c6c5fd6b7211b90021aaaa",
     "name": "Maessi",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-1408",
@@ -2660,7 +2660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-3290-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kyodai YKZ",
     "habboFigure": "hr-829-49.hd-207-10.ch-4140-110.lg-3596-110-1408.sh-295-110.ha-1026.fa-1209-110.ca-5028-110-110.cc-3946-110",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "perchè mi clicchi?",
     "habboFigure": "hr-890-45.hd-625-1.ch-665-110.lg-3023-92.sh-906-92.ha-1002-92.he-3082-110.ea-3925-110-92.ca-1801-92.wa-3074-110-1408",
@@ -4063,7 +4063,7 @@
     "online": true,
     "gender": "m",
     "motto": "la salute mentale è roba da ricchi",
-    "habboFigure": "hr-3163-1404.hd-205-2.ch-3934-92-110.lg-280-63.sh-305-92.he-3740.ea-6196.cc-5800-64-64",
+    "habboFigure": "hr-5971-34.hd-205-15.ch-215-92.lg-3017-64-110.sh-305-92.he-3740.ea-6196.cc-3532-64-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "roseboss amica del |",
     "habboFigure": "hr-4363-39-32.hd-4383-1391-1357.ch-6029-1339-94.lg-3198-94.sh-3206-1322.he-5618-94.wa-6165-94",
