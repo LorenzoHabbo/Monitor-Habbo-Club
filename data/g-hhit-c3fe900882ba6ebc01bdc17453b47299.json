@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5296.ha-3488.fa-5600-92.wa-6165-77.cc-3542-92-77",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-49.hd-3095-8.ch-3015-71.lg-275-92.ea-1402.fa-3276-64",
