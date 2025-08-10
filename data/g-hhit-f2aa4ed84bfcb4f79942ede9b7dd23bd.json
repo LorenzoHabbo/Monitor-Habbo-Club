@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-3602-61-1349.hd-5696-10-1364.ch-3032-110-64.lg-275-1418.sh-5247-92-110.ha-6101-92.fa-5600-1415.ca-4130-110-63.cc-4091-110.cp-3315-1418",
@@ -280,9 +280,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "",
+    "motto": ".",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-6098.lg-4167-1409.sh-3016-110.ha-6101-92",
     "memberSince": "2006-10-06T18:37:46.000+00:00",
     "uniqueId": "hhit-1e5ce1e418595d5b24ad5ba72c5b292c",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1403.hd-600-10.ch-5921-84-106.lg-3019-110.sh-5308-84.ha-3776.fa-5467.ca-6185.wa-6165-1338.cc-5926-1337-84",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5608-73.lg-5594-80.sh-3524-64-1408.ha-5591.ca-5936-66.cc-5800-64-64",
@@ -5460,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-5465-42-44.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-64-72.he-4379.ea-3925-90-66.fa-1201.cc-3360-73",
@@ -7070,7 +7070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ginecologo senza laurea",
     "habboFigure": "hr-3860-61-42.hd-180-2.ch-3030-110.lg-4138-110.sh-3587-110-1408.ha-3586.he-1601.fa-5975.ca-5502.cc-6077",
@@ -9970,7 +9970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
