@@ -5640,7 +5640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "XD",
     "habboFigure": "hr-515-44.hd-600-1.ch-655-81.lg-715-82.sh-3354-64-1408.he-1610.fa-3276-72",
@@ -6300,7 +6300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kyodai YKZ",
     "habboFigure": "hr-829-49.hd-207-10.ch-4140-110.lg-3596-110-1408.sh-295-110.ha-1026.fa-1209-110.ca-5028-110-110.cc-3946-110",
@@ -6590,7 +6590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "villain[S]",
     "habboFigure": "hr-100.hd-185-10.ch-267-80.lg-281-91.he-1609-64.ca-1805-74.wa-2008",
