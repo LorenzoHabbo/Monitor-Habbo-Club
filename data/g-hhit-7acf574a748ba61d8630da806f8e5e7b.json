@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "μ       caffè",
     "habboFigure": "hr-4363-1342-1347.hd-4383-10-5.ch-4122.lg-5594-1423.sh-4112-1327-101.he-6125-93.cc-6119",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-185-1370.ch-5608-64.lg-3116-64-1408.sh-295-64.ha-1004-64.ea-1404-64.fa-3276-72.ca-5770-1408",
@@ -1473,7 +1473,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sono gentile ma non stupido.",
-    "habboFigure": "hr-3260-1353.hd-3093-17.ch-235-92.lg-285-82.ha-1013-1409.he-3070-66.fa-3276-1325.ca-5983-66",
+    "habboFigure": "hr-3260-1353.hd-3093-17.ch-235-110.lg-285-82.ha-1013-1409.he-3070-66.fa-3276-1325.ca-5983-66",
     "memberSince": "2015-11-29T16:34:27.000+00:00",
     "uniqueId": "hhit-bca96ef263ef3ba26ea9ea1de0051266",
     "name": "You-sri",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-6083-1342.hd-605-28.ch-665-92.lg-3018-77.sh-5803-92.ha-1005-1413.he-3070-1408.fa-5467.ca-3292-92",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DISINSTALLATO",
     "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-71.lg-3078-81.sh-3524-64-91.fa-5601-1408.cc-3917-64",
