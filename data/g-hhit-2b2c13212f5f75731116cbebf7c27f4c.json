@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hd-209-1.ch-235-1320.lg-3391-90-1408.sh-3524-66-1408.ea-3484",
@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3022-1430-1430.lg-3078-92.sh-3027-92-110.ea-3484.cc-4978-110-1432",
@@ -4560,7 +4560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ",
     "habboFigure": "hr-5914-1403-1404.hd-3845-10.ch-5907-92-92.lg-3006-110-110.ha-4354-110-92.fa-5467.wa-5599-110-110.cc-5951-1326",
@@ -5200,7 +5200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-93-1430",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-49.hd-3095-8.ch-3015-71.lg-275-92.ea-1402.fa-3276-64",
@@ -9253,7 +9253,7 @@
     "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
-    "habboFigure": "hr-5773-42.hd-605-1.ch-665-82.lg-5594-64.sh-5274-64-64.ha-3620.he-5765-68.fa-5467",
+    "habboFigure": "hr-5773-42.hd-605-1.ch-665-82.lg-5594-64.sh-5274-64-64.he-5348.fa-5467.cc-6119",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
