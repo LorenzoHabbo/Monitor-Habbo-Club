@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "One Life",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -4650,10 +4650,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
-    "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-1337.lg-5623.sh-3275-77.ha-5443.he-6019.fa-5600-89.ca-5575",
+    "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-1337.lg-695-1408.sh-3275-77.he-6019.fa-5600-89",
     "memberSince": "2018-12-05T18:40:26.000+00:00",
     "uniqueId": "hhit-80f62fb44bfd97936e236984558d2905",
     "name": "fintolol",
@@ -6870,7 +6870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quando uno cade, noi continuiamo (33)",
     "habboFigure": "hr-3090-37.hd-180-1.ch-230-1408.lg-3023-64.sh-300-1408.wa-2001",
