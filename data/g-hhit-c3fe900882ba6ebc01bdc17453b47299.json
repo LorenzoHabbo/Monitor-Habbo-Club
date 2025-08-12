@@ -160,7 +160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "curami, curami sempre",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "•",
     "habboFigure": "hr-3841-42.hd-4015-8.ch-3334-90-1408.lg-4066-1408.sh-3338-91.ha-5469-91-1408.he-5088.fa-4049.ca-4173-1408.wa-5123-64.cc-5077-91",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOKKASORT",
     "habboFigure": "hr-5791-39.hd-3536-28-10.ch-3222-92.lg-5594-82.sh-3524-110-96.ha-1002-92.fa-4168-1408.ca-3414-73.cc-3867-110-110",
