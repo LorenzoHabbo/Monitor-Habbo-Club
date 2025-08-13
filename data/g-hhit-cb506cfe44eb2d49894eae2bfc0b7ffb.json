@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1353.hd-5696-1393-1365.ch-5245-1337.lg-5243-1337.sh-5803-1337.he-5766-92-1408.fa-5467.ca-5444-1339-92.wa-5370.cc-5461-1337-1339",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-83.cc-4979-1408",
@@ -2503,7 +2503,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3090-37.hd-180-1.ch-235-72.lg-285-64.sh-305-1408.ca-1801-1408",
+    "habboFigure": "hr-4090-37.hd-190-1.ch-3030-72.lg-5594-64.sh-3587-1408-1408.ha-1003-64.fa-5948-1408.ca-5936-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1379.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.ca-6081-1428.cc-6119",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "non spezzarmi il |",
     "habboFigure": "hr-6083-1354.hd-5684-1.ch-5607-110.lg-5970-1427.sh-3089-110.he-5808-110.wa-6165-92.cc-4979-92.cp-3313-92",
@@ -3890,7 +3890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-555-45.hd-615-1.ch-685-1408.lg-710-64.sh-730-1408.ha-1004-1408.fa-3276-72.wa-2007",
@@ -4270,7 +4270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-5619-31.hd-629-1.ch-3598-74-1408.lg-710-1408.sh-908-74.ha-5620-74.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-6119",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "donna fammi un panino",
     "habboFigure": "hr-5619-40.hd-3845-10.ch-665-1320.lg-3216-1320.he-3543-1320.ea-1406.fa-5456-72.ca-5521-73.cc-5826-71",
@@ -4740,7 +4740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-208-19.ch-3880-1408.lg-281-76.sh-905-71.ha-3117-64.he-1601.fa-1202-72.ca-1815-66.cp-3128-64",
@@ -5150,7 +5150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cadetto G.D.",
     "habboFigure": "hr-3260-31.hd-3093-28.lg-3088-1408-64.sh-3035-110.he-1609-73.ca-5769-1408-110.wa-6165-73.cc-3186-110",
