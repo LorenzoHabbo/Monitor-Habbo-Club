@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "colorato ma anke fruttato",
     "habboFigure": "hr-4117-31-31.hd-205-10.ch-3030-1408.lg-275-80.sh-906-1408.he-3752.fa-5467",
@@ -8080,10 +8080,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Masarez º",
-    "habboFigure": "hd-180-19.ch-807-82.lg-3596-82-1408.ha-3709.wa-4060-82-1408.cc-3609-82-1408",
+    "habboFigure": "hr-155-42.hd-180-19.ch-807-82.lg-3596-64-1408.wa-4060-64-64.cc-3609-64-66",
     "memberSince": "2014-08-23T13:37:38.000+00:00",
     "uniqueId": "hhit-5ca413a1e9d8ace310a9555dfd8540ca",
     "name": "boysalvato26",
