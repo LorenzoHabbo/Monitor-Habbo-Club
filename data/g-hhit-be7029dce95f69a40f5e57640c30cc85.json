@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Chi fa da sè fa per tre...",
     "habboFigure": "hr-155-31.hd-180-1.ch-210-1408.lg-281-1408.sh-295-1408.he-1601",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "curami, curami sempre",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-3203-110.lg-3202-107-1408.sh-295-1424.fa-1204.ca-3131-110-64.wa-2012",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -5910,7 +5910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "non c'è competizione",
     "habboFigure": "hr-6083-1396.hd-3100-1390.ch-5907-93-108.lg-4066-92.he-3660-110-92.fa-3276-97.cp-3207-98-93",
