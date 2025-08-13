@@ -93,7 +93,7 @@
     "online": false,
     "gender": "m",
     "motto": "Lorem ipsum dolor sit amet",
-    "habboFigure": "hr-5841-49.hd-5042-28.lg-6089-1341-1341.ha-3556.ea-3493-1325-1410.fa-3296.ca-6189.wa-5674.cc-6102-1408.cp-5881-63",
+    "habboFigure": "hr-5841-49.hd-5042-28.lg-6089-1341-1341.ha-3556.ea-3493-1325-1410.fa-3296.ca-6189.wa-6165-94.cc-6102-94.cp-5881-63",
     "memberSince": "2007-02-07T17:10:24.000+00:00",
     "uniqueId": "hhit-46adc97f1322e441b2e63b2e157b542c",
     "name": "Gully",
@@ -183,7 +183,7 @@
     "online": false,
     "gender": "m",
     "motto": "The Dark Lord.",
-    "habboFigure": "hd-190-1.ch-3203-1428.lg-6089-1410-1320.sh-5247-92-1408.ha-1015.he-3732.ea-4346-110-110.fa-1203.cc-6102-1410",
+    "habboFigure": "hd-190-1.ch-3203-1428.lg-6089-1410-1320.sh-5247-92-1408.ha-1015.he-3660-92-92.ea-4346-110-110.fa-1203.cc-6102-1410",
     "memberSince": "2008-03-04T12:02:33.000+00:00",
     "uniqueId": "hhit-dfa939003671ccb93b85546ffc8a96a4",
     "name": "DarkDragon:.",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I was dancing in the rain",
     "habboFigure": "hr-5791-38.hd-190-10.ch-3342-64-1408.lg-4138-73.sh-3524-64-1408.fa-3276-72.cc-5441-64-1408",
@@ -880,10 +880,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
-    "habboFigure": "hr-3163-61.hd-3721-18.ch-3030-110.lg-3933-1427.sh-3587-110-92.ha-3544.cc-3867-110-1427",
+    "habboFigure": "hr-3163-1342.hd-6021-2.ch-3203-106.lg-6089-1422-105.sh-3206-106.he-6094-106.ea-4986.cc-6102-106",
     "memberSince": "2011-07-24T14:39:10.000+00:00",
     "uniqueId": "hhit-be256d1950981bb381b5d2f4d1a290c9",
     "name": "Visir",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-58-58.hd-3102-10.ch-3498-92.lg-3596-110-110.sh-295-1408.he-5088.ca-3084-110-110.cc-4979-110",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLES",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-6089-1325-1410.sh-3275-96.ha-5336.he-6094-102.ea-6053-110.fa-1211.ca-1815-95.wa-6165-1332.cc-6102-1413",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO NO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-3290-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Vice Ministro Nevada »",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3203-77.lg-3526-1338-80.sh-3206-89.ha-5344.he-5578-1408.ea-3170-89.fa-3296.ca-3175-63.cc-6163-89",
