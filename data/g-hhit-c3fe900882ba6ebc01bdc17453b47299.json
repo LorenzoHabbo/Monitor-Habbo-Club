@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOKKASORT",
     "habboFigure": "hr-5791-1407.hd-3536-18-14.ch-5559-110.lg-280-110.sh-5803-110.he-3579.cc-3867-110-1410",
@@ -1490,10 +1490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO NO",
-    "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-3290-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
+    "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-275-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
     "memberSince": "2019-11-11T17:05:56.000+00:00",
     "uniqueId": "hhit-a61b66ab2e501e56cc34fdfbaae6f99d",
     "name": "80Pazienza",
