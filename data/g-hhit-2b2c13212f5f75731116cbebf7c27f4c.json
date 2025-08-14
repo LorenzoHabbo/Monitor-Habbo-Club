@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6083-59.hd-4383-2-14.ch-5998-92.lg-5974-92-110.wa-6165-110.cc-6119",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6083-1403.hd-3845-10.ch-6086-1326-1414.lg-6088-1326-1414.fa-5467.cc-6119",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "APPRENDISTA NOVELLOG.D",
     "habboFigure": "hr-890-48.hd-629-1.ch-884-64.lg-3216-64",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
