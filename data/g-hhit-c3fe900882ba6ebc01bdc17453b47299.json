@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ºBandicootº",
     "habboFigure": "hr-3860-42-40.hd-3721-14.ch-3934-1408-64.lg-3418-64.sh-295-64.ha-3709.he-5088.ca-3844-64-1408.cc-3867-64-1408",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
     "habboFigure": "hd-180-8.ch-875-94-1408.lg-280-1419.sh-3524-110-1408.ea-5897-96-96.fa-1205-1408.ca-3916-75-75.cc-3827-94-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-6063-48.hd-5913-1.ch-6039.lg-5970-1408.sh-6064-73-64.ha-3952.he-5698-64-64.ea-5910-64-64.fa-5122-1408.ca-6081-64.cc-4979-64",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Almeno farsi male presuppone il moto.",
     "habboFigure": "hr-3673-32.hd-3845-1.ch-665-64.lg-3023-64.sh-3180-64-64.ha-3352-64-64.ca-1804-64",
