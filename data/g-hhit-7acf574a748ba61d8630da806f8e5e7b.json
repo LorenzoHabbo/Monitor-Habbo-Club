@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.wa-3773-106.cc-5945",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-3619-76-66.ha-4319.he-6019.fa-4185-73.ca-6018.cc-4282-76",
@@ -3610,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "il tempo cura, non ho una cura",
     "habboFigure": "hr-828-54.hd-205-2.ch-210-64.lg-280-92.sh-295-92.he-1609-92.fa-3276-1329",
