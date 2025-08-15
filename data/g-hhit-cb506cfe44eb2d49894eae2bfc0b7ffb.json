@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-890-35.hd-625-1.ch-884-71.lg-3216-66.sh-907-71.he-3274-1320.fa-3276-72.ca-1801-66",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6086-92-1414.lg-3006-1414-92.sh-6064-1326-1414.he-6138.fa-5435",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-1414.lg-275-110.sh-305-92.ea-1404-110.fa-5835-92",
@@ -4050,7 +4050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "il tempo cura, non ho una cura",
     "habboFigure": "hr-3163-1404.hd-205-13.ch-255-86.lg-275-1409.sh-305-92.ha-4027-86-92.fa-5601-1408",
