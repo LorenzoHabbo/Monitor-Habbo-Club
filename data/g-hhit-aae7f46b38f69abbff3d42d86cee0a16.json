@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "peestop",
     "habboFigure": "hr-831-1396.hd-205-1363.ch-215-92.lg-280-79.sh-3524-92-1315.ha-1004-110.he-3070-1408.ea-1405.fa-3296.cc-3360-103",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-37.hd-180-1.ch-3030-81.lg-3391-64-1408.ha-3709.he-6125-1408.fa-3276-72.ca-3883.cc-5826-82",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-6083-1342.hd-605-28.ch-665-92.lg-710-77.sh-5803-92.ha-1002-1324.he-3070-1410.fa-5467.ca-1816.cc-6102-1323",
