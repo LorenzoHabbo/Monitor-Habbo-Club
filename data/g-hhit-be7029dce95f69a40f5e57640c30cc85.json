@@ -710,10 +710,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Habbo Hotel",
-    "habboFigure": "hr-155-42.hd-180-1.ch-215-76.lg-275-82.ha-6091",
+    "habboFigure": "hr-3090-42.hd-180-1.ch-804-76.lg-3418-76.sh-3595-76.ha-6091.ea-1404-1408",
     "memberSince": "2008-03-16T07:23:35.000+00:00",
     "uniqueId": "hhit-89ac1af00a3f6fbec80b7256db553ee1",
     "name": "HRLD",
@@ -5910,7 +5910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "non c'è competizione",
     "habboFigure": "hr-5969-1396.hd-3100-1390.ch-6086-92-92.lg-5974-1323-92.he-5314-1323-92.fa-3276-97.cp-3207-98-93",
@@ -6900,7 +6900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato di Freezer-rivale di Vegeta",
     "habboFigure": "hr-125-34.hd-200-1.ch-240-1408.lg-275-64.sh-3068-1408-1408.ea-1403-1408.fa-1206-64",
@@ -8370,7 +8370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "--.- --- .-.. -..",
     "habboFigure": "hr-3764-34.hd-600-10.ch-4299-64-81.lg-3483-71-1408.sh-730-64.ha-3656.ea-1403-64",
