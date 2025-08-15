@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-6137.sh-5869-84-1408.ha-1008.ea-4161.fa-5467",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " G.D.",
     "habboFigure": "hr-3090-36.hd-209-14.ch-255-64.lg-3023-1408.sh-906-1408.fa-1205-64",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello G.D",
     "habboFigure": "hd-185-1.ch-235-85.lg-275-66.sh-295-64.ea-1403-1408.fa-3344-66",
@@ -5360,10 +5360,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
-    "habboFigure": "hr-3810-57.hd-3845-10.ch-5699-108.lg-3200-1424.sh-3154-106-107.he-3082-108.fa-3276-108.cc-5382-106",
+    "habboFigure": "hr-3810-40.hd-3845-10.ch-5699-64.lg-695-1408.fa-3276-1408.cc-5382-81",
     "memberSince": "2020-04-27T14:00:56.000+00:00",
     "uniqueId": "hhit-9ca83877f1b71181a8f009d0ac76c1b3",
     "name": "Ellie_williams",
@@ -7100,7 +7100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "u lupu famiglia tori",
     "habboFigure": "hr-893-42.hd-180-1.ch-3030-71.lg-275-74.sh-908-1408.ha-1002-1408",
@@ -9293,7 +9293,7 @@
     "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
-    "habboFigure": "hr-6055-42-42.hd-600-1.ch-4368-64.lg-5594-64.sh-5274-64-64.he-6103-82.fa-5467.cc-5800-64-64",
+    "habboFigure": "hr-6055-42-40.hd-600-1.ch-4368-64.lg-5594-64.sh-5274-64-64.he-6103-82.fa-5467.cc-5800-82-82",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
