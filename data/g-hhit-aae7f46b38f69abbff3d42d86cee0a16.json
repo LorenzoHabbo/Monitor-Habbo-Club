@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "assistente medico The Hundred",
     "habboFigure": "hr-4020-37-37.hd-4383-1-12.ch-4067-81-80.lg-3387-81-80.sh-730-81.he-5845.ea-3484.ca-5455-81-66",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I K A R I - YKZ",
     "habboFigure": "hr-3370-49.hd-207-28.ch-5833-1320-110.lg-3365-1320.sh-3206-91.fa-1205-92.cc-4184-92-92",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-6083-32.hd-3631-1370-20.ch-3137-86-1408.lg-3006-1414-1339.sh-3206-1315.ha-1005-1326.he-6082-86-1408.fa-5467.ca-6081-105",
