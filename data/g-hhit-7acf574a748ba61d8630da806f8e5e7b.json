@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1353.hd-5696-1393-1365.ch-5245-1337.lg-5243-1337.sh-5803-1337.he-5766-92-1408.fa-5467.ca-5444-1339-92.wa-5370.cc-5461-1337-1339",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-40.hd-190-1.ch-5608-1408.lg-5594-82.sh-3383-66-90.ha-1002-85.fa-3344-1408.cc-3744-91-64",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.ea-1404-64.fa-3276-72.ca-5770-73",
@@ -4430,16 +4430,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "Vedo ciò che altri non possono vedere.",
-    "habboFigure": "hr-3829-45.hd-3845-10.ch-3030-1408.lg-285-82.fa-1212",
-    "memberSince": "2025-01-10T13:29:20.000+00:00",
-    "uniqueId": "hhit-36ed65b991627d744a2cb90444022463",
-    "name": "Varys",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "f",
     "motto": "",
@@ -4620,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Be a cicciobomba",
     "habboFigure": "hr-5210-61-1342.hd-3845-7.ch-215-92.lg-5594-63.sh-4112-110-1408.ha-4192.he-3833-1408.fa-5601-1408.ca-5936-1408.cc-5926-110-1413",
