@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Oratore sacro the100  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.he-3324-71-1408.fa-5467",
