@@ -133,7 +133,7 @@
     "online": false,
     "gender": "m",
     "motto": "Youth Hooligans",
-    "habboFigure": "hr-3520-38.hd-209-1.ch-255-76.lg-4113-64-76.sh-3115-64-64.he-1609-1408.ea-1404-1408",
+    "habboFigure": "hr-3520-38.hd-209-1.ch-255-76.lg-4113-64-76.sh-3115-64-64.ha-6091.he-1609-1408.ea-1404-1408",
     "memberSince": "2007-10-03T17:13:13.000+00:00",
     "uniqueId": "hhit-e2e0913b2081a6452c2ed2a713aefc57",
     "name": "maurolp",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1353.hd-5696-1393-1365.ch-5245-1337.lg-5243-1337.sh-5803-1337.he-5766-92-1408.fa-5467.ca-5444-1339-92.wa-5370.cc-5461-1337-1339",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-45.hd-190-10.ch-5608-64.lg-5594-82.sh-3383-66-90.ha-5851.fa-3462-91.cc-3744-91-64",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6083-33.hd-629-1.ch-3598-1408-1408.lg-3018-1338",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello GD",
     "habboFigure": "hr-4118-61.hd-3103-2.ch-803-110.lg-3023-92.sh-3089-110.ha-3171-110-1408.ca-3219-92.wa-2003",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-1322",
@@ -2033,17 +2033,17 @@
     "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-6083-1342.hd-605-28.ch-665-92.lg-710-77.sh-5803-92.ha-1002-1324.he-3070-1410.fa-5467.ca-1816.cc-6102-1323",
+    "habboFigure": "hr-6083-1342.hd-605-28.ch-665-92.lg-710-1324.sh-5803-92.ha-1002-92.he-3070-1410.fa-5467.ca-1816",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "gajiin ykz",
-    "habboFigure": "hr-3977-1350.hd-190-1370.ch-3688-110.lg-281-1411.sh-3587-92-63.ha-5305-110-1416.he-3070-1427.ea-3978-110-1417.cc-886-110",
+    "habboFigure": "hr-3768-1401.hd-180-1370.ch-3486-67-89.lg-280-110.sh-3621-105-92.he-5088.ca-5278-110.wa-4040-67.cc-4041-67",
     "memberSince": "2016-07-05T09:40:58.000+00:00",
     "uniqueId": "hhit-4acc4ccffb9a5eb6c7606f71196096e6",
     "name": "ElGhenso",
@@ -2950,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "stai attento alla luce",
     "habboFigure": "hr-5605-34.hd-3097-13.ch-5917-110.lg-5594-1335.sh-5308-92.ha-1004-110.he-3974.fa-5391.cc-5926-110-1408.cp-3207-110-92",
@@ -3553,7 +3553,7 @@
     "online": false,
     "gender": "f",
     "motto": "nonhoideadelperchéio",
-    "habboFigure": "hr-5619-1403.hd-600-10.ch-3005-110-110.lg-710-63.sh-905-92.he-3070-92.fa-5624-1426.cc-5926-1428-110",
+    "habboFigure": "hr-5619-45.hd-600-10.ch-5560-64-64.lg-710-64.sh-905-1408.he-3557.fa-5624-76.cc-5926-82-1408",
     "memberSince": "2022-08-27T13:15:43.000+00:00",
     "uniqueId": "hhit-7817623c183b6322e8a697650fce340f",
     "name": "Ellenope",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "viva il futbol",
     "habboFigure": "hr-893-34.hd-209-1370.ch-267-64.lg-275-1408.sh-295-64.ha-4322.fa-5601-1408.cc-5825",
@@ -4053,7 +4053,7 @@
     "online": true,
     "gender": "m",
     "motto": "il tempo cura, non ho una cura",
-    "habboFigure": "hr-3163-1404.hd-205-13.ch-3030-92.lg-275-92.sh-908-92.ha-4294.fa-5601-1408.cc-3917-103",
+    "habboFigure": "hr-3163-1404.hd-205-13.ch-215-110.lg-280-63.sh-305-92.ha-4027-110-64.he-3070-92.fa-5467",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
