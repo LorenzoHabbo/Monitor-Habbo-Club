@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-38.hd-3845-8.ch-3806-1320.lg-3078-82.sh-3068-64-82.ha-5848.he-1608.fa-5835-91.ca-1805-1408",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -3110,7 +3110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Regolatevi!",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-710-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-5619-31.hd-629-1.ch-3598-74-1408.lg-710-1408.sh-908-74.ha-5620-74.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-6119",
