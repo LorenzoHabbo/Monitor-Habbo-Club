@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "gliocchi brillavano sembravano zaffiri",
     "habboFigure": "hr-3852-37.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-5601-92.cc-5926-110-92",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
     "habboFigure": "hr-3370-49.hd-207-28.ch-5833-1320-110.lg-3365-1320.sh-3206-91.fa-1205-92.cc-4184-92-92",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-3670-45.hd-3721-28.ch-3934-110-110.lg-4002-110-110.sh-908-92.he-3740.fa-5601-92.cc-3867-1412-1412",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-3322-31.hd-180-1.ch-5559-1408.lg-281-64.sh-5803-1408.ha-6198.ea-3978-82-82.cc-5800-82-82",
