@@ -910,6 +910,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "La parola d'ordine è una sola: Vincere",
+    "habboFigure": "hr-165-42.hd-209-1.ch-4165-76-72.lg-4167-72.sh-300-64.ha-3656.ea-1404-64.fa-1206-64.ca-1802.wa-2008.cp-3128-66",
+    "memberSince": "2010-05-15T22:39:17.000+00:00",
+    "uniqueId": "hhit-eeecff3b25453712732b1a38e7bd029f",
+    "name": "enrico701",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "Apprendista Novello G.D.",
@@ -1260,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5970-1423.sh-5671-92.ha-3709.ca-3876-1413-1408",
@@ -1630,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -2270,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-210-1408.lg-5594-80.sh-4112-1320-1320.ea-5897-64-1408.ca-5768-1408-66.cc-5177-1320-66",
@@ -2630,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello GD",
     "habboFigure": "hr-4118-61.hd-3103-2.ch-803-110.lg-3023-92.sh-3089-110.ha-3171-110-1408.ca-3219-92.wa-2003",
@@ -3120,7 +3130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3022-1430-1430.lg-3078-92.sh-3027-92-110.ea-3484.cc-4978-110-1432",
@@ -5590,7 +5600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "aprendista novello g.d",
     "habboFigure": "hr-5503-35.hd-628-14.ch-4110-80.lg-3078-81.sh-3068-1408-1408.he-1608",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-11-01T14:59:09.000+00:00",
     "uniqueId": "hhit-9239f3b1ea6a1e7cf5df19f9e0d4e950",
     "name": "kriket",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Centro Educativo Pomeridiano+volontari",
-    "habboFigure": "hr-893-37.hd-209-1.ch-215-82.lg-285-64.sh-3068-91-1408.ha-3300-82.ca-1804-1408.cc-3280-82-1408",
-    "memberSince": "2023-11-02T09:34:55.000+00:00",
-    "uniqueId": "hhit-cbb75f9727aaea5fa1d9ef6edd06d10d",
-    "name": "Cep",
     "isAdmin": false
   }
 ]
