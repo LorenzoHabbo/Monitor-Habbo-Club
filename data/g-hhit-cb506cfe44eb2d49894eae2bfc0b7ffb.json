@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-893-45.hd-3845-1.ch-235-64.lg-3088-1408-64.sh-906-64.ha-1013-64.ea-1404-64.fa-3344-91.wa-3211-64-1408",
@@ -1491,9 +1491,9 @@
   },
   {
     "online": false,
-    "gender": "f",
+    "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-3332-1426-1408.lg-5243-64.sh-5247-92-1408.ha-5620-1426.ea-5626-110.fa-5601-1408.cc-6102-77",
+    "habboFigure": "hd-180-7.ch-3432-92-92.lg-3434-92-92.sh-3435-92-92.ha-3431-1408-1408",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ciao",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sii la versione migliore di te stesso.",
     "habboFigure": "hr-3281-1395.hd-3091-8.ch-3032-1408-1408.lg-3058-110.sh-290-110.ca-3187-110.wa-2005.cc-3186-110",
