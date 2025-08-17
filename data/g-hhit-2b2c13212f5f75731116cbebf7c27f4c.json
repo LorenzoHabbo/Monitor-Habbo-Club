@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-165-42.hd-209-1.ch-4165-85-73.lg-4167-73.sh-300-64.ha-3656.ea-1404-64.fa-1206-64.ca-1802.wa-2008.cp-3123-1408",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-6083-1342.hd-4383-10-1364.ch-5907-92-1326.lg-5243-1337.sh-5308-1326.ha-3026-1337.he-5244-1326.fa-5467.wa-5370.cc-5690-95",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -5240,7 +5240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-Lucky",
     "habboFigure": "hr-828-1345.hd-3091-1383.ch-3022-1323-1408.lg-275-1323.sh-295-96.he-1608.ea-6053-96.fa-3296",
