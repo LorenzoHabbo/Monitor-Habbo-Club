@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Chi fa da sè fa per tre...",
     "habboFigure": "hr-828-61.hd-180-1.ch-3001-100-110.lg-281-110.sh-295-1408.he-1601",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -9860,7 +9860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "SLAY",
     "habboFigure": "hr-3791-35.hd-629-1370.ch-884-73.lg-3078-82.sh-3619-64-64.ha-3117-73.ea-3484.fa-3276-72.ca-1802.cc-3837-73",
