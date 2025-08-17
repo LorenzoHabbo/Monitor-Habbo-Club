@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6086-110-110.lg-3006-110-92.sh-6064-1326-110.he-6138.fa-5435.wa-6165-1326.cc-6115-92-92",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I K A R I - YKZ",
     "habboFigure": "hr-5795-49.hd-180-28.ch-5833-110-1408.lg-3078-110.sh-3419-110-110.ea-5897-110-110.fa-1205-92.ca-5916-110-1408.cc-5951-110",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-45.hd-180-8.ch-235-64.lg-3078-1408.sh-906-64.ha-1013-64",
@@ -3910,7 +3910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Uomo d'onore -Staten Island FC",
     "habboFigure": "hr-125-45.hd-180-14.ch-3030-1408.lg-4066-1408.sh-3524-1408-1408.he-5578-1408.ea-1404-64.fa-1204",
