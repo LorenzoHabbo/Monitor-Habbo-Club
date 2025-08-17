@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4118-31.hd-628-1370.ch-4067-84-1408.lg-700-1408.sh-905-84",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grand Theft Furni Habbo Hotel †",
     "habboFigure": "hr-165-45.hd-180-1.ch-4111-1408.lg-3088-64-82.sh-3524-64-1408.fa-5211-91",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-5833-1427-1408.lg-4066-1427.sh-3016-64.ea-3484",
