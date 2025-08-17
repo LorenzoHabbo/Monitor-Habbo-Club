@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-1395.hd-628-1.ch-3839-99-105.lg-3355-99-105.sh-907-106.he-4945",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-831-49.hd-180-8.ch-5559-1408.lg-3078-110.sh-3154-93-110.ha-3986.he-3558.ea-3484.fa-1201.ca-1816.cc-4979-110",
@@ -2650,7 +2650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO NO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-275-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
