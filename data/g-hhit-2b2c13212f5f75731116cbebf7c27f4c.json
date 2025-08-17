@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3725-42.hd-3845-14.ch-4111-64.lg-280-64.sh-300-64.ha-4192.he-3324-64-66.ca-5278-64.cc-3827-64-1408",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-45.hd-4383-10-1359.ch-6086-1414-92.lg-3006-110-110.he-5997-1414.fa-3276-92",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-209-1383.ch-5833-1427-1408.lg-4066-1427.sh-3016-64.ea-3484",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-4941-37-40.hd-6159-1-14.ch-6147.lg-3058-92.sh-3587-102-1408.ha-6197.he-6148.fa-6132.ca-6189.wa-6165-1430.cc-6115-102-1408",
