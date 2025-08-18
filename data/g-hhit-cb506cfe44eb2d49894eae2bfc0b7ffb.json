@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cambia il tuo motto...~",
     "habboFigure": "hr-4162-42.hd-3604-1.ch-5488-68.lg-3460.ha-3620.he-1601.fa-1202-68.ca-1806-68.cc-5826-68",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -3870,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-555-45.hd-615-1.ch-685-1408.lg-710-64.sh-730-1408.ha-1004-1408.fa-3276-72.wa-2007",
