@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "††Wagliono lo vuoi un pallonzino††",
     "habboFigure": "hr-679-31.hd-180-1.ch-210-84.lg-3023-84.sh-905-84.he-5915.fa-3276-71.wa-3074-84-1408.cc-3294-84-1408",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-45.hd-4383-10-1359.ch-6086-1414-92.lg-4066-110.he-5997-1414.fa-3276-92",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5617-39-40.hd-600-1.ch-821-73-1408.lg-3088-66-1408.sh-3068-64-72",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-210-1408.lg-5594-80.sh-4112-1320-1320.ea-5897-64-1408.ca-5768-1408-66.cc-5177-1320-66",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6083-33.hd-629-1.ch-3598-1408-1408.lg-3018-1338",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.ea-1404-64.fa-3276-72.ca-5770-73",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -2650,7 +2650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-275-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "C’est pas facil",
     "habboFigure": "hr-3163-61.hd-205-2.ch-210-77.lg-280-77.sh-5803-92.he-1609-92.fa-5600-92.cc-6115-92-92",
