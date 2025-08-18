@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3604-1367.ch-3203-110.lg-3216-96.he-1609-96.fa-1204.ca-3844-110-96.wa-4060-96-1336",
@@ -1763,7 +1763,7 @@
     "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai",
-    "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
+    "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -4780,7 +4780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "chilli sauce™",
     "habboFigure": "hr-4181-1400.hd-5913-1386.ch-4361-1335-92.lg-5970-82.sh-3693-1409-67.ha-3638.ca-5603-92-92.cc-5800-63-63",
@@ -5100,7 +5100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-1401.hd-3100-1370.ch-5917-92.lg-5594-1336.sh-3089-92.ha-4192.he-5314-100-92.ea-3484.fa-5601-1408.cc-5926-100-92",
@@ -7570,7 +7570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1370.ch-665-92.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-1322",
