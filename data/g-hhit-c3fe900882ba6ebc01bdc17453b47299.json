@@ -980,10 +980,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Brazil|",
-    "habboFigure": "hr-5210-1394-1404.hd-3721-1379.ch-3934-110-110.lg-5594-82.sh-5032.he-3740.ea-5897-64-110.fa-3470.cc-4091-110",
+    "habboFigure": "hr-5210-1394-1404.hd-3721-1379.ch-3934-110-110.lg-5594-82.sh-5032.he-3740.ea-5897-64-110.fa-3470.ca-5936-92.cc-4091-110",
     "memberSince": "2015-11-23T14:06:20.000+00:00",
     "uniqueId": "hhit-84ca17b27563086f60e5b184bc393944",
     "name": ".Andre",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Free Palestine! ƒ",
     "habboFigure": "hr-155-45.hd-180-1370.ch-210-82.lg-281-1408.sh-305-1408.ha-1002-1408",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-1354.hd-3095-1.ch-3215-92.lg-6089-92-107.ea-1402.fa-3296",
