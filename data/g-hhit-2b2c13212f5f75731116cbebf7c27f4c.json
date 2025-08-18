@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -1713,7 +1713,7 @@
     "online": false,
     "gender": "f",
     "motto": "Since 2011",
-    "habboFigure": "hr-5679-43-42.hd-629-1370.ch-3517-84-83.lg-695-1408.sh-730-83.he-3376-84-83",
+    "habboFigure": "hr-5679-43-42.hd-629-1370.ch-3517-84-83.lg-696-1408.sh-730-83.he-3376-84-83",
     "memberSince": "2011-05-21T15:01:12.000+00:00",
     "uniqueId": "hhit-3072de7fce1552e4aeec070d23f82860",
     "name": "b.pucca.d",
@@ -3120,7 +3120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Che seppi fino allora? il logorio…",
     "habboFigure": "hr-4143-37.hd-3845-8.ch-4350.lg-5113-82.sh-4016-76-82.ha-3709.he-4946-76.ea-4346-91-85.fa-3462-90.ca-3856-82-76.wa-3872-91.cc-3917-76",
@@ -3430,10 +3430,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Brazil|",
-    "habboFigure": "hr-5210-1394-1404.hd-3721-3.ch-3934-110-110.lg-5594-1425.sh-5032.ha-3535.he-3740.ea-5897-110-110.fa-3470.ca-5936-92.cc-4091-110",
+    "habboFigure": "hr-5210-1394-1404.hd-3721-1379.ch-3934-110-110.lg-5594-82.sh-5032.he-3740.ea-5897-64-110.fa-3470.cc-4091-110",
     "memberSince": "2015-11-23T14:06:20.000+00:00",
     "uniqueId": "hhit-84ca17b27563086f60e5b184bc393944",
     "name": ".Andre",
@@ -5173,7 +5173,7 @@
     "online": false,
     "gender": "f",
     "motto": "0904",
-    "habboFigure": "hr-3012-1404.hd-629-1383.ch-3013-1328.lg-3006-1328-92.sh-3180-1328-110.he-3274-1328",
+    "habboFigure": "hd-629-1383.ch-3013-1328.lg-3006-1328-92.sh-3180-1328-110.he-3274-1328",
     "memberSince": "2020-02-02T13:45:13.000+00:00",
     "uniqueId": "hhit-b4cb94cac02336998efe7906a4a12a1d",
     "name": "marika4156",
@@ -5560,7 +5560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "*.*",
     "habboFigure": "hr-3810-31.hd-605-14.ch-822-1408.lg-720-1408.sh-725-1408",
