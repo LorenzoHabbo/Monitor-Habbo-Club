@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Morì n'se more ma li tribboli en tanti",
     "habboFigure": "hr-5579-45.hd-600-8.ch-665-81.lg-3526-1408-1408.sh-3354-81-1408.he-4318-81.fa-5601-1408.ca-5454-1408.wa-4317-1408.cc-4943-1408",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLES",
     "habboFigure": "hr-678-1397.hd-209-1366.lg-6089-106-1410.sh-5247-106-92.ha-5336.he-6094-63.fa-1211.ca-5678.cc-6102-106",
