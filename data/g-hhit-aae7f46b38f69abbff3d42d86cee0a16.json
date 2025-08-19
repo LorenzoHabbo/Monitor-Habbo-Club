@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1345.hd-3103-3.ch-5954-92-1422.lg-3333-92.ha-5730-1408.he-3376-89-92.ea-5897-110-1408.fa-5624-1413.cc-5925-1323",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-38.hd-3956-1-1371.ch-665-68.lg-5594-73.he-5088.fa-3276-72.cc-6077",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-5944.wa-3773-106.cc-5945",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non sono un clone porca miseria",
     "habboFigure": "hr-170-48.hd-180-1.ch-804-1408.lg-275-1408.sh-905-66.ha-1009-66.he-1601.fa-1211.wa-3074-1408-1408",
