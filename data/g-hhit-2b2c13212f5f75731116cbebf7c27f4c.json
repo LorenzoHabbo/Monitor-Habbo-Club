@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4363-1403-1404.hd-600-1383.ch-5921-1323-1331.lg-3355-1418-1323.sh-3206-92.he-3869.fa-5060.ca-4129-1410",
@@ -3927,6 +3927,16 @@
     "memberSince": "2017-01-02T19:39:18.000+00:00",
     "uniqueId": "hhit-ebcd64cdaafb99f2a95e1adb7d56c44d",
     "name": ".:!Luana!:.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Sentinella Semplice G.D.",
+    "habboFigure": "hr-5791-45.hd-180-1370.ch-5596-64.lg-3078-64.sh-3524-1408-1408.ha-4192.he-5578-66.ea-3484.fa-1201.wa-5674.cc-4184-64-1408",
+    "memberSince": "2017-01-18T13:02:20.000+00:00",
+    "uniqueId": "hhit-5b6a5cc3a517ae8c311a347095c113a5",
+    "name": ".:IThoruI:.",
     "isAdmin": false
   },
   {
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-31T20:47:53.000+00:00",
     "uniqueId": "hhit-bee7bf176e1c39888fe179bbe6f69126",
     "name": "KruSceV99",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "apprendista novella G.D",
-    "habboFigure": "hr-892-34.hd-600-10.ch-665-64.lg-710-64.sh-906-64.fa-3276-72.wa-2002",
-    "memberSince": "2023-11-01T14:59:09.000+00:00",
-    "uniqueId": "hhit-9239f3b1ea6a1e7cf5df19f9e0d4e950",
-    "name": "kriket",
     "isAdmin": false
   }
 ]
