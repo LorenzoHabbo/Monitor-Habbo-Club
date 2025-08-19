@@ -200,10 +200,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "peestop",
-    "habboFigure": "hr-831-1396.hd-205-1363.ch-265-110.lg-280-110.sh-3524-110-1315.ha-1004-110.he-3070-1408.ea-1405.fa-3296.ca-3292-110.wa-3264-110-1419.cc-3360-103",
+    "habboFigure": "hr-831-1396.hd-205-1363.ch-3050-1427-64.lg-4167-110.sh-3524-92-92.ha-1004-110.he-3070-1408.ea-1405.fa-3296.cc-3360-110",
     "memberSince": "2010-03-27T18:11:46.000+00:00",
     "uniqueId": "hhit-51e68938a0d62f16954462d7156667c7",
     "name": "Ludo-Vik",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3768-1345.hd-3103-3.ch-5954-92-1422.lg-3333-92.ha-5730-1408.he-3376-89-92.ea-5897-110-1408.fa-5624-1413.cc-5925-1323",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
     "habboFigure": "hr-5971-45.hd-209-1379.ch-5608-92.lg-5594-1425.sh-3089-110.ha-1004-82.he-6125-92.ea-1404-110.fa-5601-92.cc-5925-82",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-61.hd-625-2.ch-5921-1341-92.lg-5594-1427.sh-5308-92.he-5808-110.fa-5467.wa-6165-1341.cp-3207-1341-82",
