@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-831-1398.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-3952.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -990,7 +990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "chilli sauce™",
     "habboFigure": "hr-4181-1400.hd-5913-1386.ch-4361-1335-92.lg-5970-82.sh-3693-1409-67.ha-3638.ca-5603-92-92.cc-5800-63-63",
@@ -2490,10 +2490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3670-49.hd-3721-28.ch-3668-110-92.lg-3933-110.sh-3206-92.he-3740.ea-3575.cc-3867-64-64",
+    "habboFigure": "hr-3163-34.hd-205-17.ch-3032-110-110.lg-281-92.sh-908-92.ha-3544.ea-5392.fa-5948-92.cc-3532-92-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-5623.sh-5032.ea-3169-102.fa-5636-92.ca-6020-80",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
@@ -4270,7 +4270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-61.hd-625-2.ch-5921-1341-92.lg-5594-1427.sh-5308-92.he-5808-110.fa-5467.wa-6165-1341.cp-3207-1341-82",
@@ -5170,9 +5170,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "C’est pas facil",
+    "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-210-77.lg-280-77.sh-5803-92.he-1609-92.fa-5467.cc-6115-92-92",
     "memberSince": "2025-06-11T17:45:44.000+00:00",
     "uniqueId": "hhit-622c1f162275078ac798216ac048101d",
