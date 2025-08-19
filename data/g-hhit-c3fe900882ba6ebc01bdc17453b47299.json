@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Helper al tuo servizio!",
     "habboFigure": "hr-4117-45-45.hd-205-10.ch-804-1320.lg-280-75.sh-906-1408.he-3884-1408-1408.ea-3727.fa-5467",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Free Palestine! ƒ",
     "habboFigure": "hr-155-45.hd-180-1370.ch-210-82.lg-281-1408.sh-305-1408.ha-1002-1408",
