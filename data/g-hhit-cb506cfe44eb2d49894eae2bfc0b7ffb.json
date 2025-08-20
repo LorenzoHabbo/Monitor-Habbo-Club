@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PESARO CAPITALE | TE DAG NA SGHèTA",
     "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fhdavkd",
     "habboFigure": "hr-3860-61-1405.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-92.ha-3620.fa-5975.cc-4979-110",
@@ -5100,7 +5100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-4138-110.sh-5928.he-4022.cc-6119",
