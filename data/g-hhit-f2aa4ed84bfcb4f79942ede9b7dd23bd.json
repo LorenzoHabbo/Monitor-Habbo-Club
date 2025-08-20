@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "@AliveAppareal Ex  -FMAX-",
     "habboFigure": "hr-3768-60.hd-209-25.ch-3237-92-92.lg-4167-1420.sh-4064-92.ha-5468-98-1339.he-3082-92.ca-3989-92-98.wa-3263-92-106.cc-3992.cp-3204",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Non fare lo scorfano brontolone",
     "habboFigure": "hr-5773-1403.hd-600-10.ch-5921-84-106.lg-3019-110.sh-5308-84.ha-3776.fa-5467.ca-6185.wa-6165-1338.cc-5926-1337-84",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Localz only",
     "habboFigure": "hr-3260-53.hd-3092-2.ch-5608-110.lg-280-1425.sh-3089-110.ha-4192.he-3070-1410.ea-3169-1421.fa-3462-110.ca-1816",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Spaventapassere",
     "habboFigure": "hd-205-1370.ch-3030-1408.lg-275-1408.fa-3344-1408.cc-4091-1408",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CIAO",
     "habboFigure": "hr-3260-61.hd-3103-1370.ch-5608-110.lg-3257-110.sh-3383-110-110.ea-1404-63",
