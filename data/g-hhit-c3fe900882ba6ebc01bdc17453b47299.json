@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "fratello mio",
     "habboFigure": "hr-3260-1395.hd-5317-1388-14.ch-6015-110-110.lg-280-110.sh-3206-110.he-5348.fa-5600-92.ca-5028-93-1412.cc-3009-110-110",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-1350.hd-6022-13.ch-824-1408.lg-3201-81-81.sh-908-1408.ha-4094-1408-1408.ea-5576-63-1408.cc-6102-1410",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-210-1408.lg-3078-1408.sh-906-1408.ha-1002-1408.wa-4317-1408.cc-5558-1408-1408",

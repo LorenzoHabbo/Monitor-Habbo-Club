@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Grand Theft Furni Habbo Hotel †",
     "habboFigure": "hr-165-45.hd-205-1.ch-3527-1408.lg-3526-64-1408.sh-3621-1408-1408.he-3958-73.fa-5211-91",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "amo la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3189-103.cc-3289-102",
@@ -480,10 +480,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5680-45.hd-4383-10-1359.ch-3497-110.lg-3136-1414.sh-725-1326.he-5997-1414.fa-3276-92.ca-3084-71-71",
+    "habboFigure": "hr-5680-45.hd-4383-10-1359.ch-3497-110.lg-3136-1414.sh-725-92.he-5997-1414.fa-3276-92.ca-3084-71-71",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-4941-1395-1395.hd-6159-1-14.ch-5559-1408.lg-3058-92.sh-3587-102-1408.fa-6132.ca-5026-1408.wa-6191.cp-6193",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-676-40.hd-209-10.ch-250-1408.lg-285-1408.sh-290-81.fa-1211",
@@ -6760,7 +6760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-210-1408.lg-3078-1408.sh-906-1408.ha-1002-1408.wa-4317-1408.cc-5558-1408-1408",
