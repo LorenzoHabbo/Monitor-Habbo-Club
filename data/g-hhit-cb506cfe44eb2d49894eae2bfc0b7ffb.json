@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ho le cicatrici sull'addome",
     "habboFigure": "hr-3725-42.hd-209-12.ch-3323-64-1408.lg-280-64.sh-4112-64-1408.fa-3344-64.cc-3389-64-1408",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -3200,7 +3200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-35.hd-209-10.ch-267-72.lg-275-66.sh-295-76",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "X|",
     "habboFigure": "hr-155-42.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "donna fammi un panino",
     "habboFigure": "hr-5517-34-42.hd-3845-10.ch-650-1320.lg-3216-1320.he-3376-71-71.fa-5456-72.ca-5049-1320.cc-4104-71-74",
