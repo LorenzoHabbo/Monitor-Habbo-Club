@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Your comfort zone will kill you",
     "habboFigure": "hr-3163-61.hd-180-1390.ch-3032-92-110.lg-3057-110.sh-3027-110-110.ha-4050.he-3070-1410.ea-3148-110-110.ca-1816.cc-5182-110.cp-3308-96-110",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5833-110-92.lg-3202-110-110.sh-5247-92-92.he-5348",
@@ -9630,7 +9630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Passed®",
     "habboFigure": "hd-180-14.ch-210-1408.lg-280-1408.sh-4159-1408-1408.ha-3488.ea-3574",
