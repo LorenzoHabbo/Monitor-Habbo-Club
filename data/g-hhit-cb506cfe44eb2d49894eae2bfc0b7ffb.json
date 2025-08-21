@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ƒ Dame un Grrr ƒ",
     "habboFigure": "hr-3841-61.hd-207-1.ch-3208-110-1322.lg-3088-1322-110.sh-3524-66-1408.ea-1404-110.wa-2001.cc-6077",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-1395-40.hd-628-1.ch-5921-1326-1326.lg-4066-110.sh-3206-96.he-5348",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-42.hd-180-8.ch-230-64.lg-3078-1408.sh-906-1408.ha-1013-64",
@@ -1890,10 +1890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ciao",
-    "habboFigure": "hr-3163-1394.hd-3845-10.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
+    "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
     "memberSince": "2015-11-21T12:54:28.000+00:00",
     "uniqueId": "hhit-b7c33b11768cda68b7bf6ab7aa993889",
     "name": "salvo701",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -2490,7 +2490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-3860-1407-41.hd-5525-26-28.ch-3934-92-64.lg-3483-1428-110.sh-3587-92-92.ea-3751.cc-5800-1428-1428",
@@ -3100,7 +3100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Regolatevi!",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-710-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "perchè mi clicchi?",
     "habboFigure": "hr-5619-1347.hd-600-1.ch-3013-92.lg-3006-1327-1408.sh-3089-1327.fa-3276-97",
@@ -4020,7 +4020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HZOCDBP4ù",
     "habboFigure": "hd-180-10.ch-3332-1408-1408.lg-270-64",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-5619-31.hd-629-1.ch-3598-74-1408.lg-710-1408.sh-908-74.ha-5620-74.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-3975-1408-1408",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Forza Roma forza lupi",
     "habboFigure": "hr-676-42.hd-208-10.ch-235-76.lg-285-75.sh-3068-64-64.ha-1004-1408.fa-1201.ca-1801-1408",
