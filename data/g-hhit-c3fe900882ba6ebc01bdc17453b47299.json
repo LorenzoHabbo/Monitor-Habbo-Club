@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Now our rainbow, is gone. ~Oblivion",
     "habboFigure": "hr-5579-49.hd-600-28.ch-3183.lg-3596-110-110.ha-3613-110.he-3070-110.fa-5601-92.cc-3515-110-92",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-49-61.hd-3721-27.ch-3934-92-110.lg-5623.sh-6043.he-3740.cc-3867-1428-63",
@@ -2210,10 +2210,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1346.hd-3095-8.ch-3215-71.lg-275-89.ea-1402.fa-3276-64",
+    "habboFigure": "hr-828-1346.hd-3095-8.ch-3215-71.lg-275-92.ea-1402.fa-3276-64",
     "memberSince": "2022-02-19T19:03:06.000+00:00",
     "uniqueId": "hhit-6749d41e5fcffad99ebda8314a203ed4",
     "name": "DEMON.666",
