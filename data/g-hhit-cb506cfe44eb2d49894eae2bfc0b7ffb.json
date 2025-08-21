@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ƒ Dame un Grrr ƒ",
     "habboFigure": "hr-3841-61.hd-207-1.ch-3208-110-1322.lg-3088-1322-110.sh-3524-66-1408.ea-1404-110.ca-6020-1408.wa-2001.cc-6077",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-831-1398.hd-3103-1.ch-5830-92.lg-270-1426.sh-3016-110.ha-3952.ea-1404-1331.fa-5636-90.ca-3175-1410.cc-5942-92",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-92.lg-3006-92-92.sh-3587-92-92.he-5314-100-100.fa-5467.ca-6081-92.wa-6165-92",
@@ -1543,7 +1543,7 @@
     "online": true,
     "gender": "m",
     "motto": "aD8q$MK!p2xFVb9r%NZ7#",
-    "habboFigure": "hr-3860-61-1405.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-92.ha-3620.fa-5975.ca-5227.cc-4979-110",
+    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-92.ha-3586.fa-5975.cc-4979-110",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-3426-1408-82.fa-3344-91",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3840-63-81.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-3344-110.ca-6020-70.wa-2001.cc-3186-110",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-45.hd-190-10.ch-3030-64.lg-3078-82.sh-906-1408.he-1608",
