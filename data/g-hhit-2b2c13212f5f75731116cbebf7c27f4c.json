@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6055-40-49.hd-4383-10-1359.ch-3005-1326-1326.lg-5243-1408.ha-3586.he-5808-1410.fa-3276-1326",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-5869-76-1408.ha-4324.ea-4161.fa-5467",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3278-34-35.hd-180-1.ch-3688-110.lg-3023-1429.ha-1004-110.he-5088.fa-3378-110-92.ca-3175-1427.wa-4317-89",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LETSGOSKI",
     "habboFigure": "hr-3841-42.hd-209-1.ch-5596-1408.lg-5594-64.sh-3419-66-64.he-5578-1408.ea-3484.cc-5461-64-1408",
@@ -3930,16 +3930,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "Apprendista Criceto G.D.",
-    "habboFigure": "hr-100.hd-190-1.ch-3110-1408-1408.lg-3116-81-1408.sh-3068-81-1408.ha-1006.fa-1204.ca-1815-64",
-    "memberSince": "2017-01-07T23:12:42.000+00:00",
-    "uniqueId": "hhit-d9e8debf267135375c437cec5dd747cf",
-    "name": "QualityCA",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "Sentinella Semplice G.D.",
@@ -4227,16 +4217,6 @@
     "memberSince": "2017-07-31T15:58:07.000+00:00",
     "uniqueId": "hhit-5a510cc456d13f786d42149063a8bc11",
     "name": "SarahRadke",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3871-36.hd-209-1.ch-5608-66.lg-3596-73-64.sh-3524-64-1408",
-    "memberSince": "2017-08-02T20:09:03.000+00:00",
-    "uniqueId": "hhit-76cd9f4ce200bfaf6d164253c2902c16",
-    "name": "_Maxi24",
     "isAdmin": false
   },
   {
@@ -4750,7 +4730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -9997,6 +9977,26 @@
     "memberSince": "2023-10-27T19:03:58.000+00:00",
     "uniqueId": "hhit-d54ef0356d63c583f22b6b1c54127616",
     "name": "habbozefiro",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-540-37.hd-600-1.ch-884-73.lg-3216-66.sh-735-68",
+    "memberSince": "2023-10-28T11:00:12.000+00:00",
+    "uniqueId": "hhit-25f94f04db57f8b36eff8c7f3d425949",
+    "name": "MATTIA30303",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Principe Della Guerra Di Alastor.G.D.",
+    "habboFigure": "hr-170-40.hd-3845-1370.ch-5488-1408.lg-3078-1408.ha-4192.he-4944.fa-3993-1408.ca-4115-1408-1408.cc-5461-1408-1408",
+    "memberSince": "2023-10-31T20:47:53.000+00:00",
+    "uniqueId": "hhit-bee7bf176e1c39888fe179bbe6f69126",
+    "name": "KruSceV99",
     "isAdmin": false
   }
 ]
