@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5619-40.hd-600-1.ch-3399-64-64.lg-3216-64.sh-3180-64-64.fa-3276-72",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6083-49.hd-4023-28.ch-5607-92.lg-4369-1418-1418.sh-6043.ha-6198.he-3070-1427.fa-5467.ca-5026-64.wa-5370.cc-5926-110-74",
@@ -983,7 +983,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-1405.hd-3721-27.ch-3934-92-110.lg-281-1408.sh-5032.he-3740.cc-3867-1428-63",
+    "habboFigure": "hr-5791-49.hd-3721-27.ch-3934-92-110.lg-3361-1408.sh-5032.he-3740.ea-3575.fa-3474.cc-3867-1428-63",
     "memberSince": "2015-11-23T14:06:20.000+00:00",
     "uniqueId": "hhit-84ca17b27563086f60e5b184bc393944",
     "name": "Silas",
