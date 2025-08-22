@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1370.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-1322",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "insalata",
     "habboFigure": "hr-515-45.hd-600-1.ch-650-64.lg-4167-82.fa-5456-66.wa-3661-74-1408",
