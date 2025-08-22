@@ -460,10 +460,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4363-44-44.hd-600-10.ch-665-73.lg-5594-64.sh-4159-64-1408.fa-3276-72.cc-5926-64-64",
+    "habboFigure": "hr-4363-44-44.hd-600-10.ch-665-73.lg-710-64.sh-730-64.ea-1404-64.fa-3276-72",
     "memberSince": "2014-12-21T22:18:16.000+00:00",
     "uniqueId": "hhit-cda67e066e0edf96598399d9380a43f8",
     "name": "Lorelay",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOH",
     "habboFigure": "hr-4370-49.hd-180-8.ch-4961.lg-3078-93.sh-3154-93-110.ha-4050.ea-3484.fa-1201.ca-1816.cc-5800-110-93",
