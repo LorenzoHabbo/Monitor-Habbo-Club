@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "μ       caffè",
     "habboFigure": "hr-4363-1342-58.hd-4383-10-5.ch-4087-110.lg-4369-80-92.sh-3089-110.he-6082-92-81.cc-5925-1422",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DISINSTALLATO",
     "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-71.lg-3078-81.sh-3524-64-91.fa-5601-1408.cc-3917-64",
