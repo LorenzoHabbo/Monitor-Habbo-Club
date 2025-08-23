@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -400,10 +400,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
-    "habboFigure": "hr-6083-49.hd-4023-28.ch-5607-92.lg-4369-1418-1418.sh-6043.ha-6198.he-3070-1427.fa-5467.ca-5026-64.wa-5370.cc-5926-110-74",
+    "habboFigure": "hr-6083-49.hd-4023-28.ch-5607-92.lg-4369-1418-1418.sh-6043.ha-6198.he-3070-1427.fa-5467.ca-5026-64.wa-5370.cc-5926-110-110",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
