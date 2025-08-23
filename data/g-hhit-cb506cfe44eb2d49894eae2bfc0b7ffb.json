@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-890-35.hd-625-1.ch-884-71.lg-3216-66.sh-907-71.he-3274-1320.fa-3276-72.ca-1801-66",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -2920,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
