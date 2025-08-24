@@ -713,7 +713,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-3829-1401.hd-6006.ch-5559-63.lg-4138-110.sh-5247-110-1410.he-6144.ea-5576-1408-1408.fa-5975.ca-6199.cc-6200-1427-1410",
+    "habboFigure": "hr-3829-1401.hd-6006.ch-5559-63.lg-4138-110.sh-5247-110-1410.ea-5576-1408-1408.fa-5975.ca-6199.cc-6200-1427-1410",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-35.hd-207-10.ch-4111-82.lg-3116-81-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "HZOCDBP4ù",
     "habboFigure": "hd-180-10.ch-3332-1408-1408.lg-270-64",
