@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-37-31.hd-180-1370.ch-210-1408.lg-3337-1408.sh-3338-1408.ea-3639.cc-3928",
@@ -493,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "Now our rainbow, is gone. ~Oblivion",
-    "habboFigure": "hr-5619-49.hd-3845-28.ch-665-92.lg-4114-110-110.he-1609-110.ea-5897-110-110.cc-5926-110-92",
+    "habboFigure": "hr-5619-49.hd-600-28.ch-824-110.lg-3596-110-110.he-3070-110.cc-5926-1427-92",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Almeno farsi male presuppone il moto.",
     "habboFigure": "hr-3673-32.hd-3845-1.ch-665-64.lg-3023-64.sh-3180-64-64.ha-3352-64-64.ca-1804-64",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-275-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -3020,7 +3020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| Yasha ykz shiro |",
     "habboFigure": "hr-890-47.hd-4383-10-8.ch-5607-66.lg-3526-66-66.sh-4016-66-66.ha-6101-66.he-6082-66-72.fa-4168-72.ca-5603-72-66",
