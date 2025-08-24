@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-106-92.lg-5582-1423-92.sh-5671-92.ha-3709",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-4090-34.hd-205-1.ch-5608-85.lg-5594-80.sh-4112-1320-1320.ea-5897-64-1408.ca-5768-1408-66",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-5607-73.lg-3526-82-73.he-3274-73.ca-5635-71-1408",
@@ -2650,7 +2650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello GD",
     "habboFigure": "hr-4118-61.hd-3103-2.ch-803-110.lg-3023-92.sh-3089-110.ha-3171-110-1408.ca-3219-92.wa-2003",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "plant love, grow peace :]",
     "habboFigure": "hr-3163-45.hd-3102-1.ch-3050-82-1408.lg-3391-77-92.sh-3089-92.fa-3276-73.ca-3414-73",
@@ -4290,10 +4290,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-892-34.hd-629-1.ch-4099-73-1408.lg-3216-73.sh-907-64.he-1602-73.cp-3288-80",
+    "habboFigure": "hr-892-34.hd-629-1.ch-3332-73-1408.lg-3216-73.sh-907-64.he-1602-73.cp-3288-80",
     "memberSince": "2017-10-15T14:18:45.000+00:00",
     "uniqueId": "hhit-7023c643446206a024cbf9e3f5ee8172",
     "name": "alessia3208",
@@ -4690,7 +4690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-58-58.hd-3102-10.ch-3498-92.lg-3596-110-110.sh-295-1408.he-5088.ca-3084-110-110.cc-4979-110",
@@ -9690,7 +9690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ehi tu! Si tu!",
     "habboFigure": "hr-802-39.hd-209-8.ch-255-82.lg-3088-1408-82.sh-300-64",
