@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "twitch.tv/ttnovee           #sloggadai",
     "habboFigure": "hr-3163-61.hd-207-13.ch-5559-110.lg-3078-110.sh-5464-92-92.ha-1026.ea-5897-64-92.fa-3276-110.wa-3504-63.cc-3975-110-64.cp-3128-63",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-155-42.hd-180-1.ch-3030-1408.lg-285-81.sh-295-64",
@@ -380,10 +380,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ho le cicatrici sull'addome",
-    "habboFigure": "hr-3725-42.hd-209-12.ch-3323-64-1408.lg-280-64.sh-4112-64-1408.fa-3344-64.cc-3389-64-1408",
+    "habboFigure": "hr-3725-42.hd-209-12.ch-3323-64-1408.lg-270-1408.sh-4112-64-1408.fa-3344-64",
     "memberSince": "2009-02-22T16:59:28.000+00:00",
     "uniqueId": "hhit-7aff688e22567f0ce156a33a20c30f25",
     "name": "sasi18",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT ♡",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-84-83.lg-4191-84-84.sh-300-84.ha-5520-83-83.he-1601.fa-1201.ca-3444-1408.wa-6165-1320.cc-5826-1408",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "μ",
     "habboFigure": "hr-5898-1348-1398.hd-4383-10-14.ch-6086-1328-92.lg-6088-1328-92.sh-3206-92.ea-3196-1408.ca-6081-1326",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5617-39-40.hd-600-1.ch-821-73-1408.lg-3088-66-1408.sh-3068-64-72",
@@ -1493,7 +1493,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-61.hd-627-1370.ch-5921-63-92.lg-5594-64.sh-5247-92-1408.ha-3613-64.ea-5626-110.fa-5601-1408",
+    "habboFigure": "hr-5773-61.hd-627-1370.ch-5921-1427-92.lg-5594-64.sh-5247-92-1427.he-4977-1408-64.ea-5626-110.fa-5601-92",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "donna al costante pericolo volante",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-285-81.ha-3709.he-5808-1408.ea-3925-1408-1408.ca-5807-1320-83.cc-4979-1408",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -5300,7 +5300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "È addams con due d. Come fredda morte.",
     "habboFigure": "hr-679-61.hd-629-28.ch-3183.lg-3078-110.sh-3027-110-110.he-3239-92.fa-3296.ca-3177-1408-1408.wa-3264-1408-1408",
