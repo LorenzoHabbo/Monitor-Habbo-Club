@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Helper al tuo servizio!",
     "habboFigure": "hr-4117-1404-1404.hd-205-10.ch-3030-1334.lg-3018-77.sh-908-1408.he-3753.fa-5467",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5019-1354.hd-3103-3.ch-4165-1334-1408.lg-4167-1429.sh-3206-107.he-5578-63.ea-5626-63.cc-5925-1335",
