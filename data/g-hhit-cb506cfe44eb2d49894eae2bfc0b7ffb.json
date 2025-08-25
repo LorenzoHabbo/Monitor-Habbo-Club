@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4125.sh-5869-76-1408.ha-4324.ea-4161.fa-5467",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-4363-45-45.hd-4163-1-1369.ch-5453-71-1408.lg-5594-64.sh-3068-71-1408.ha-3709.he-5088.fa-4168-1408.ca-5300-64.cc-6119",
@@ -693,7 +693,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-110.lg-285-64.sh-3587-1321-92.ha-3488.he-3754.ea-3750.fa-3472.cc-3542-89-1320.cp-3119-110",
+    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-908-92.ha-3478.he-3893.ea-3750.wa-6165-1408.cc-3360-92.cp-3119-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5970-106.sh-5671-92.ha-3709",
@@ -910,10 +910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
-    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
+    "habboFigure": "hr-893-37.hd-180-1.ch-3432-64-1408.lg-3434-64-1408.sh-3435-64-1408.ha-3431-64-1408.ca-6081-64",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
     "name": "domenic76093",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "gajiin ykz",
     "habboFigure": "hr-3768-1401.hd-180-28.ch-3032-92-92.lg-280-1427.sh-290-92.he-5088.ca-5278-100.cc-5077-110",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-3217-96-110.cc-4184-110-1413",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per gli amici, Equazione. Addio Habbo.",
     "habboFigure": "hd-205-14.ch-255-1408.lg-280-1408.sh-908-1408.fa-3276-1408",
@@ -3663,7 +3663,7 @@
     "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D.",
-    "habboFigure": "hr-5971-45.hd-209-1379.ch-5608-92.lg-5594-1425.sh-3089-110.ha-1004-82.he-6125-92.ea-1404-110.fa-5601-92.cc-5925-82",
+    "habboFigure": "hr-5971-45.hd-209-1379.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5601-92.ca-6081-1428.cc-5926-1428-1428",
     "memberSince": "2023-01-09T14:46:04.000+00:00",
     "uniqueId": "hhit-8bb37223011812f25c93a586a0d87edc",
     "name": "Pakydok99",
@@ -3830,7 +3830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.ha-3709.cc-5926-64-1408",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-74-92.lg-3006-92-92.sh-5803-74.he-5808-110.fa-5467",
@@ -5183,14 +5183,14 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5914-1407-1342.hd-4383-1390-1375.ch-4353-1320-1408.lg-3190-110-1408.sh-730-110.he-5721-89-89",
+    "habboFigure": "hr-5914-1401-1342.hd-4383-1390-1375.ch-4353-1320-1408.lg-3190-110-1408.sh-730-110.he-5721-89-89",
     "memberSince": "2025-06-17T20:43:10.000+00:00",
     "uniqueId": "hhit-fe54b6da60c823d66360fd69906f0a58",
     "name": "Lauretta_19",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Amo me stesso",
     "habboFigure": "hr-893-34.hd-180-1370.ch-5608-72.lg-3116-64-1408.sh-295-1408.ha-1004-64.fa-3276-73.wa-3074-64-1408",
