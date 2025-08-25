@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT ♡",
     "habboFigure": "hr-893-45.hd-209-8.ch-4190-84-83.lg-4191-84-84.sh-300-84.ha-5520-83-83.he-1601.fa-1201.ca-3444-1408.wa-6165-1320.cc-5826-1408",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-4363-1342-1342.hd-4383-10-1364.ch-5907-1326-1408.lg-5243-1337.sh-5308-1326.ha-3620.he-5074-1408.fa-5467.wa-5370.cc-5690-1414",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-66",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-5522-1-14.ch-5608-85.lg-5594-80.sh-4112-1320-1320.ea-5897-64-1408.ca-5768-1408-66",
@@ -1380,10 +1380,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-806-74.lg-3216-72.sh-905-81.ha-1005-84.he-1610.ea-3698-83-72.fa-1211.cp-3126-64",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-35.hd-207-10.ch-4111-82.lg-3116-81-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-45.hd-3956-1-19.ch-665-71.lg-3526-81-81.sh-5274-81-81.ha-5620-71.he-3974",
@@ -2480,7 +2480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "MCMNF",
     "habboFigure": "hr-5680-32.hd-600-10.ch-4067-1320-73.lg-3391-81-1408.ha-5832-1320.fa-3276-73",
@@ -2830,17 +2830,17 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
-    "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
+    "habboFigure": "hr-802-38.hd-180-1.ch-3038-1412.lg-3019-1323.sh-295-1325.ha-3347-66-1413.wa-2004-1416.cc-5951-110",
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1346.hd-3095-8.ch-3215-71.lg-275-92.ea-1402.fa-3276-64",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "il tempo cura, non ho una cura",
     "habboFigure": "hr-3163-1403.hd-205-23.ch-215-1408.lg-280-1426.sh-3720-92-64.ha-5704.ca-3223",
@@ -3713,7 +3713,7 @@
     "online": false,
     "gender": "f",
     "motto": "GAMBE",
-    "habboFigure": "hr-6083-1346.hd-615-28.ch-665-92.lg-710-77.sh-6042.ha-6036.fa-5467.ca-6128.cc-4041-92",
+    "habboFigure": "hr-6083-1346.hd-615-28.ch-5917-92.lg-710-77.sh-6042.ha-6036.fa-5467.ca-6128.cc-4041-92",
     "memberSince": "2024-06-21T15:11:53.000+00:00",
     "uniqueId": "hhit-10a3d4728b893ec0767df6508496fa2d",
     "name": "mayflow3rs",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-6010-1407-1407.hd-5840-11-1362.ch-5374-74-74.lg-5594-77.sh-5928.he-5827-71-97.fa-3276-70.wa-6165-74.cc-6115-92-74",
@@ -3890,10 +3890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " aiutante apprendista g.d",
-    "habboFigure": "hr-3163-37.hd-209-1.ch-255-1416.lg-3023-92.sh-3089-1416",
+    "habboFigure": "hr-3163-1395.hd-209-1.ch-3203-1408.lg-3136-68",
     "memberSince": "2024-09-29T00:49:36.000+00:00",
     "uniqueId": "hhit-9a76bc3ab1340894a405d3832d63691f",
     "name": "Giuseppe_gtr33",
@@ -4323,7 +4323,7 @@
     "online": false,
     "gender": "f",
     "motto": "donna fammi un panino",
-    "habboFigure": "hr-5619-44.hd-3845-10.ch-650-1320.lg-3216-1320.he-3376-71-71.fa-5456-72.ca-5049-1320.cc-4104-71-74",
+    "habboFigure": "hr-555-34.hd-3845-10.ch-650-1320.lg-3216-1320.ha-1005-71.he-3376-71-71.fa-5456-72.ca-5049-1320.cc-4104-71-74",
     "memberSince": "2024-12-22T17:29:07.000+00:00",
     "uniqueId": "hhit-f731456bd9f2e7b11c9802a55a20bf84",
     "name": "ANTI_",
