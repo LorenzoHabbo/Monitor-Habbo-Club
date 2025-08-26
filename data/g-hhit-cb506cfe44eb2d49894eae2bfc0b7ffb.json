@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-77.lg-3006-1337-92.sh-3587-92-92.he-5314-1337-1337.fa-3276-1340.ca-6128",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
     "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-908-92.ha-3478.he-3893.ea-3750.wa-6165-1408.cc-3360-92.cp-3119-92",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5970-106.sh-5671-92.ha-3709",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.fa-5600-64.ca-5770-73",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HZOCDBP4ù",
     "habboFigure": "hd-180-10.ch-3332-1408-1408.lg-270-64",
@@ -5170,7 +5170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-45-1342.hd-4383-1390-1375.ch-3045-71.lg-3190-110-1408.sh-730-110.he-1603-71",
@@ -5297,6 +5297,16 @@
     "memberSince": "2025-08-07T16:30:04.000+00:00",
     "uniqueId": "hhit-1c2888ba960ac50a067a0166a953fd79",
     "name": "mi.cagoaddosso",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Buy $AAPL get ricco",
+    "habboFigure": "hr-3090-37.hd-180-1.ch-210-66.lg-275-84.sh-305-82.ha-1004-82.ca-1807",
+    "memberSince": "2025-08-24T21:36:09.000+00:00",
+    "uniqueId": "hhit-6110ed9b3fcae3187cb71806575394a8",
+    "name": "AAPL",
     "isAdmin": false
   }
 ]
