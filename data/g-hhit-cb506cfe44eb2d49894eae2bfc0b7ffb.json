@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5608-73.lg-5594-80.sh-3524-64-1408.ha-5591.ca-5936-66.cc-5800-64-64",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "But Every Tears Has Been a Lesson!",
     "habboFigure": "hr-893-39.hd-209-1.ch-255-76.lg-4309.sh-3068-76-1408.ha-4324.he-4381.ea-3484.ca-4957",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-600-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-34.hd-207-10.ch-4111-82.lg-3116-81-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -4780,7 +4780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ";P",
     "habboFigure": "hr-540-37.hd-600-1.ch-884-71.lg-3216-71",
@@ -5302,8 +5302,8 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Buy $AAPL get ricco",
-    "habboFigure": "hr-3090-37.hd-180-1.ch-210-66.lg-275-84.sh-305-82.ha-1004-82.ca-1807",
+    "motto": "senna sempre |",
+    "habboFigure": "hr-3090-37.hd-180-1.ch-262-66.lg-275-84.sh-305-82.ha-1004-82.ca-1807",
     "memberSince": "2025-08-24T21:36:09.000+00:00",
     "uniqueId": "hhit-6110ed9b3fcae3187cb71806575394a8",
     "name": "AAPL",
