@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-5522-1-14.ch-5608-85.lg-5594-80.sh-4112-1320-1320.ea-5897-64-1408.ca-5768-1408-66",
@@ -3132,16 +3132,6 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Che seppi fino allora? il logorio…",
-    "habboFigure": "hr-4143-37.hd-3845-8.ch-4350.lg-5113-82.sh-4016-76-82.ha-3709.he-4946-76.ea-4346-91-85.fa-3462-90.ca-3856-82-76.wa-3872-91.cc-3917-76",
-    "memberSince": "2015-03-30T13:07:16.000+00:00",
-    "uniqueId": "hhit-ccbc81d9bb26c26a8a13c176a906dc85",
-    "name": "Seth_Rollins",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
     "motto": "ah devo dire qualcosa?",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3022-1430-1430.lg-3078-92.sh-3027-92-110.ea-3484.cc-4978-110-1432",
     "memberSince": "2015-04-02T22:11:29.000+00:00",
@@ -3940,7 +3930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sentinella Semplice G.D.",
     "habboFigure": "hr-5791-49.hd-3845-1370.ch-3203-1321.lg-280-110.sh-3206-92.ha-4192.he-5578-93.fa-5600-92.ca-1816.wa-5674.cc-4184-96-110",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-10-28T11:00:12.000+00:00",
     "uniqueId": "hhit-25f94f04db57f8b36eff8c7f3d425949",
     "name": "MATTIA30303",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Principe Della Guerra Di Alastor.G.D.",
+    "habboFigure": "hr-170-40.hd-3845-1370.ch-5488-1408.lg-3078-1408.ha-4192.he-4944.fa-3993-1408.ca-4115-1408-1408.cc-5461-1408-1408",
+    "memberSince": "2023-10-31T20:47:53.000+00:00",
+    "uniqueId": "hhit-bee7bf176e1c39888fe179bbe6f69126",
+    "name": "KruSceV99",
     "isAdmin": false
   }
 ]
