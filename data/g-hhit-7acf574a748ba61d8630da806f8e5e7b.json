@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5608-73.lg-5594-80.sh-3524-64-1408.ha-5591.ca-5936-66.cc-5800-64-64",
@@ -1560,10 +1560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-6083-1342.hd-605-28.ch-685-92.lg-5970-1330.sh-3154-92-1408.ha-3144-1330-110.he-3070-92.fa-5467.cc-3289-1330",
+    "habboFigure": "hr-3852-1342.hd-605-28.ch-660-110.lg-710-1324.sh-3154-92-92.he-3070-92.fa-5467.ca-3292-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
