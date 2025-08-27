@@ -2510,7 +2510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -4410,7 +4410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-806-74.lg-3216-72.sh-905-81.ha-1005-84.he-1610.ea-3698-83-72.fa-1211.cp-3126-64",
@@ -9040,6 +9040,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "f",
+    "motto": "Apprendista novello g.d.",
+    "habboFigure": "hr-4117-32-32.hd-600-1370.ch-655-1408.lg-720-82.ha-1005-82.wa-3074-1408-1408",
+    "memberSince": "2023-07-04T20:58:54.000+00:00",
+    "uniqueId": "hhit-a4c28fade618a5a8139280f64948366f",
+    "name": "Charlotte55",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "apprendista g.d",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-27T19:03:58.000+00:00",
     "uniqueId": "hhit-d54ef0356d63c583f22b6b1c54127616",
     "name": "habbozefiro",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-540-37.hd-600-1.ch-884-73.lg-3216-66.sh-735-68",
-    "memberSince": "2023-10-28T11:00:12.000+00:00",
-    "uniqueId": "hhit-25f94f04db57f8b36eff8c7f3d425949",
-    "name": "MATTIA30303",
     "isAdmin": false
   }
 ]
