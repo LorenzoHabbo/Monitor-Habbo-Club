@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3163-45.hd-3721-2.ch-5110-92-92.lg-5119-1333-92.sh-3035-92.ha-3570.he-3070-92.fa-5982-110.cc-6115-1333-92",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1346.hd-4383-10-1364.ch-5245-110.lg-5243-78.sh-5308-1326.ha-3620.he-5808-95.fa-5467.ca-5981-1326-92.wa-5370.cc-5690-95",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.fa-5600-64.ca-5770-73",
@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-4090-34.hd-190-2.ch-3022-64-64.lg-5594-1335.sh-3587-92-92.ha-1012-64.he-5643.fa-5948-92",
@@ -2500,7 +2500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-1397.hd-5317-2-1365.ch-4140-110.lg-4138-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-1409",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-74-92.lg-3006-92-92.sh-5803-74.he-5808-110.fa-5467",
