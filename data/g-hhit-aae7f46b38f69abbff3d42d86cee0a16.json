@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "AFK",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-1350.hd-6022-13.ch-824-1408.lg-3201-81-81.sh-908-1408.ha-4094-1408-1408.ea-5576-63-1408.cc-6102-1410",
@@ -970,7 +970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-80.lg-285-64.sh-3524-1408-64.he-5088.fa-3276-73.cc-5810-1408",
