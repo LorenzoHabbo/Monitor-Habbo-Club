@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "drum show",
     "habboFigure": "hr-831-1396.hd-205-1363.ch-3050-1427-64.lg-4167-110.sh-3524-92-92.ha-1004-110.he-3070-1408.ea-1405.fa-3296.cc-3360-110",
@@ -2860,7 +2860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5619-40.hd-600-10.ch-3399-64-64.lg-3216-64.sh-3180-64-1408.cp-3288-82",
@@ -6010,7 +6010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-61.hd-180-27.ch-215-92.lg-270-1337.sh-3089-1415.he-3891",
@@ -6410,7 +6410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "wired bro",
     "habboFigure": "hr-828-61.hd-207-3.lg-281-110.sh-3035-92.ea-1404-110.cc-3744-96-96",
