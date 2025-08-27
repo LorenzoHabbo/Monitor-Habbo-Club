@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-890-35.hd-625-1.ch-884-71.lg-3216-66.sh-907-71.he-3274-1320.fa-3276-72.ca-1801-66",
@@ -670,10 +670,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3829-1407.hd-3721-10.ch-215-110.lg-275-110.sh-5247-1408-64.he-3820-75.ea-1404-110.ca-3844-1417-75.cc-3360-1408",
+    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-908-1408.ha-3478.he-3893.ea-3750.wa-6165-89.cc-3360-92.cp-3119-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-1395-40.hd-628-1.ch-5921-1326-1408.lg-4066-110.sh-3206-96.he-5348",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1346.hd-4383-10-1364.ch-5245-110.lg-5243-78.sh-5308-1326.ha-3620.he-5808-95.fa-5467.ca-5981-1326-92.wa-5370.cc-5690-95",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "μ",
     "habboFigure": "hr-4363-1342-1347.hd-4383-10-5.ch-4122.lg-5594-1423.sh-4112-1327-101.he-6125-93.cc-6119",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-61.hd-180-27.ch-215-92.lg-270-1337.sh-3089-1415.he-3891",
@@ -2083,7 +2083,7 @@
     "online": true,
     "gender": "m",
     "motto": "Helper al tuo servizio! » Hooligans",
-    "habboFigure": "hr-3163-1404.hd-5317-2-28.ch-3030-92.lg-3361-1338.sh-5803-1338.ha-3586.fa-3276-95.cc-6115-1339-1414",
+    "habboFigure": "hr-3163-1404.hd-5317-2-28.ch-5830-92.lg-6089-1338-97.ha-3586.fa-3276-95.cc-6115-1339-1414.cp-5946",
     "memberSince": "2017-02-25T13:35:17.000+00:00",
     "uniqueId": "hhit-0ef6bf9c5b7a01934f53374fa09f0a9c",
     "name": "@P-E-P-P-E@",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-6083-32.hd-3631-1370-20.ch-665-86.lg-3006-1414-1339.sh-730-92.ha-5620-1326.he-6019.fa-5467.ca-6185.cc-6031-1326-1416",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sii la versione migliore di te stesso.",
     "habboFigure": "hr-3281-1395.hd-3091-8.ch-5833-107-92.lg-3057-1340.sh-3524-92-1408.wa-2005",
@@ -3960,7 +3960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "viva il futbol",
     "habboFigure": "hr-893-34.hd-209-1370.ch-267-81.lg-275-1408.sh-295-64.ha-4326.ea-4985.fa-5601-1408.cc-5825",
@@ -4223,7 +4223,7 @@
     "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
-    "habboFigure": "hr-5619-31.hd-629-1.ch-3770-1408-1408.lg-3216-1408.sh-5464-74-1408.ha-5620-74.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-5283-1408",
+    "habboFigure": "hr-5619-31.hd-629-1.ch-3770-74-1408.lg-3216-1408.sh-5464-74-1408.ha-5620-74.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-5283-1408",
     "memberSince": "2024-08-15T18:11:53.000+00:00",
     "uniqueId": "hhit-a531d56fdb495ca460578b68237bb0b2",
     "name": "Funkymelinda",
