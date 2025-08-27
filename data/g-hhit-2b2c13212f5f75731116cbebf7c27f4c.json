@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "amo la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3189-103.cc-3289-102",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "One Life|",
     "habboFigure": "hr-893-37.hd-209-1371.ch-3880-91.lg-280-91.sh-3068-1408-91.he-4946-91",
@@ -3440,10 +3440,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3670-1403.hd-3721-2.ch-5596-92.lg-3596-110-110.sh-5247-92-110.he-3740.ea-3575.cc-3867-64-64",
+    "habboFigure": "hr-6034-1394-1395.hd-3721-2.ch-5596-92.lg-275-92.sh-5247-92-1325.he-3070-1408",
     "memberSince": "2015-11-23T14:06:20.000+00:00",
     "uniqueId": "hhit-84ca17b27563086f60e5b184bc393944",
     "name": "Silas",
@@ -3670,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-5503-1347.hd-3956-1389-30.ch-3013-110.lg-3018-110.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -3903,7 +3903,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5973-39-61.hd-4383-10-14.ch-6086-110-72.lg-4114-110-110.he-3082-110.fa-5467",
+    "habboFigure": "hr-5680-34.hd-4383-10-14.ch-3598-110-68.lg-4066-110.ha-5709-110.he-5808-63.fa-5467",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "Belle!!!",
@@ -4740,7 +4740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -5290,7 +5290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93",
@@ -6120,7 +6120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-6023-32-40.hd-600-1370.ch-685-76.lg-3216-76.sh-3180-64-64.he-3274-76.wa-2009-76.cc-3373-64",
@@ -9650,7 +9650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Aiutante G.D",
     "habboFigure": "hd-209-1.ch-220-64.lg-285-64.sh-300-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2012",
