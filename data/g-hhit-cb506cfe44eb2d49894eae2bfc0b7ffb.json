@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "stick",
     "habboFigure": "hd-180-8.ch-3840-83-85.lg-270-81.sh-295-64.ha-1005-64.he-3833-1408.ea-3925-83-81.fa-1206-90.ca-5770-1408",
@@ -2720,7 +2720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
