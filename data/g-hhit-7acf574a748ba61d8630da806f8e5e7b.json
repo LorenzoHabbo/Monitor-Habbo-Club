@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3163-45.hd-3721-2.ch-5110-92-92.lg-5119-1333-92.sh-3035-92.ha-3570.he-3070-92.fa-5982-110.cc-6115-1333-92",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6055-40-49.hd-4383-10-1359.ch-3005-1326-1326.lg-5243-1408.ha-3586.he-5808-1410.fa-3276-1326",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3468-44.hd-3631-1-1371.ch-3836-82-1408.lg-3216-80.sh-3524-82-81.he-6019",
@@ -2210,10 +2210,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ao",
-    "habboFigure": "hr-3163-61.hd-180-1385.ch-255-95.lg-280-110.fa-1209-110.cc-3360-110",
+    "habboFigure": "hd-180-14.ch-255-1408.lg-280-1408.cc-3360-1408",
     "memberSince": "2020-02-24T17:10:25.000+00:00",
     "uniqueId": "hhit-4292ba595dfb836e36e4a594c57e16a4",
     "name": "Jowan",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-34.hd-207-10.ch-4111-82.lg-3116-81-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -3650,7 +3650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4067-74-1408.lg-5594-1408.sh-5670-64.ea-5897-64-1408.ca-3876-64-1408",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un caro saluto da Merlino.",
     "habboFigure": "hr-891-40.hd-190-10.ch-875-64-1408.lg-270-64.sh-290-91.fa-3462-1408.wa-3074-91-91.cc-4107-64-1408",
@@ -4460,7 +4460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem.| Mushin Ykz|",
     "habboFigure": "hr-3810-45.hd-600-1370.ch-630-74.lg-5970-82.sh-5464-71-71.ca-5604-75-74.wa-4317-66.cc-5926-64-81",
