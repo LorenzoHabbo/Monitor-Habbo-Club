@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "drum show",
     "habboFigure": "hr-831-1396.hd-205-1363.ch-3050-1427-64.lg-4167-110.sh-3524-92-92.ha-1004-110.he-3070-1408.ea-1405.fa-3296.cc-3360-110",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-555-45.hd-615-1.ch-685-1408.lg-710-64.sh-730-1408.ha-1004-1408.fa-3276-72.wa-2007",
