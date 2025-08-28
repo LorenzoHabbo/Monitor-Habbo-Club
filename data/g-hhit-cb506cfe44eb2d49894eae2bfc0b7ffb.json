@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Colpa della nostalgia, ricordi?",
     "habboFigure": "hr-5791-40.hd-209-1.ch-230-1408.lg-3596-1408-1408.ha-3709.cc-5926-73-1408",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-77.lg-3006-1337-92.sh-3587-92-92.he-5314-1337-1337.fa-3276-1340.ca-6128",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-61.hd-180-27.ch-215-92.lg-270-1337.sh-3089-1415.he-3891",
@@ -1433,7 +1433,7 @@
     "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-4941-1343-60.hd-3103-3.ch-3111-107-1408.lg-3116-107-92.sh-3016-1340.ha-6101-1408.ea-3226-1408.ca-3219-96",
+    "habboFigure": "hr-3768-1347.hd-3103-3.ch-5954-1326-1408.lg-5745-1326-1408.sh-5928.ha-6101-71.he-5915.ea-5626-1408.ca-5981-98-1408.wa-5986-63.cc-5961-1326-92",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-42.hd-180-8.ch-230-64.lg-3078-1408.sh-906-1408.ha-1013-64",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -2453,7 +2453,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-6034-61-41.hd-5525-26-28.ch-3934-110-64.lg-5594-1335.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-6044.cc-5926-64-92",
+    "habboFigure": "hr-3602-1407-41.hd-3721-28.ch-3934-92-110.lg-3933-64.sh-3587-92-92.ha-3662-63-92.he-3070-92.ea-3575.ca-3844-92-92.cc-3867-110-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
@@ -3930,7 +3930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-1407.hd-205-2.ch-3840-1339-1408.lg-275-110.sh-305-92.fa-5835-1427.ca-6081-1427",
@@ -3960,7 +3960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
@@ -4210,7 +4210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe Diem",
     "habboFigure": "hr-5619-31.hd-629-1.ch-3598-74-1408.lg-710-1408.sh-5464-74-1408.ha-5620-74.he-1609-1408.ea-3925-1408-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-5283-1408",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-74-92.lg-3006-92-92.sh-5803-74.he-5808-110.fa-5467",
@@ -5133,7 +5133,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetto solo x mio fratello Spercus",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-280-110.sh-5803-92.he-1609-81.fa-3276-73.cc-6115-92-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-280-110.sh-5803-92.he-1609-81.fa-5467.cc-6115-92-92",
     "memberSince": "2025-06-11T17:45:44.000+00:00",
     "uniqueId": "hhit-622c1f162275078ac798216ac048101d",
     "name": "LilBaby",
