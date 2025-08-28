@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6083-59.hd-4383-2-14.ch-5998-92.lg-5974-92-110.wa-6165-110.cc-6119",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6083-1403.hd-3845-10.ch-3817-1326-1419.lg-3174-92-1326.fa-5467.ca-6128",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-155-36.hd-5522-14-14.ch-878-1408-1408.lg-4092-91.sh-4112-1408-1408.ha-3298-64-1408.fa-1204.ca-4115-1408-1408.wa-2011.cc-3280-64-1408",

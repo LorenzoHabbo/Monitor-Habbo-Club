@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-40.hd-209-8.ch-210-64.lg-4167-1408.sh-300-64.ha-5848.he-1608.fa-1201.ca-1812",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
     "habboFigure": "hr-555-48.hd-4163-10-30.ch-821-64-1408.lg-4369-64-64.sh-3354-64-1408.ea-1403-1408.fa-5467.wa-3661-68-1408",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "bobba boy",
     "habboFigure": "hr-125-32.hd-190-1370.ch-3840-1408-64.lg-5970-1408.sh-908-91.ha-5852.fa-5601-1408.cc-5182-1408",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-37.hd-615-14.ch-690-64.lg-710-64.sh-725-1408.he-1609-64.ea-1404-64.fa-3276-72.ca-1812",
