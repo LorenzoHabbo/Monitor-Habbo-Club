@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ballon d’or",
     "habboFigure": "hr-678-40.hd-207-28.ch-876-92-92.lg-280-1428.sh-3206-110.ha-1011-110.he-3070-1408.ea-1402.fa-3276-96.cc-3294-110-92",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOKKASORT",
     "habboFigure": "hr-5602-31.hd-3536-10-14.ch-5608-1324.lg-3483-92-1320.ha-3776.he-5808-83.fa-5601-74.cc-4979-1320",
