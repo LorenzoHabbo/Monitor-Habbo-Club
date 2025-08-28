@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amo la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3189-103.cc-3289-102",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-600-28.ch-3979-110.lg-3596-110-110.sh-3206-110.he-3958-110.fa-3276-73",
@@ -703,7 +703,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1403.hd-205-3.ch-3934-92-1324.lg-5594-1427.sh-3693-1409-90.ea-1404-110",
+    "habboFigure": "hr-3163-1403.hd-205-3.ch-3934-92-1324.lg-5594-64.sh-3693-1409-90.he-3891.ea-1404-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mangiati un crikey che ti passa",
     "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "…..",
     "habboFigure": "hr-3531-32-37.hd-180-1.ch-3432-110-89.lg-3257-110.sh-3435-110-89.ha-3431-110-89.he-5088.fa-3378-110-1408.ca-3175-1427.wa-3263-92-110",
@@ -1993,7 +1993,7 @@
     "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-6083-1342.hd-605-28.ch-665-110.lg-710-110.sh-5803-92.ha-1009-93.he-3070-92.fa-5467.ca-3292-92",
+    "habboFigure": "hr-6083-1342.hd-605-28.ch-665-110.lg-710-110.sh-5803-92.ha-1009-93.he-3376-110-1427.fa-5467.ca-3292-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2313,7 +2313,7 @@
     "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
-    "habboFigure": "hr-6083-32.hd-3631-1370-20.ch-665-86.lg-3006-1414-1339.sh-730-92.ha-5620-1326.he-6019.fa-5467.ca-6185.cc-6031-1326-1416",
+    "habboFigure": "hr-6083-32.hd-3631-1370-20.ch-665-92.lg-3006-110-92.sh-730-92.ha-5620-110.he-6019.ea-5576-110-110.ca-6185.cc-6031-1326-1416",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
@@ -2840,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mall grab - can't",
     "habboFigure": "hr-3829-40.hd-190-14.ch-5608-1408.lg-3483-1408-1408.sh-3524-1408-1408.ha-1002-1408.ea-1404-1408.fa-5601-1408",
@@ -4550,7 +4550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1342.hd-180-2.ch-215-110.lg-280-77.sh-305-92.he-3070-1408.wa-5986-92.cc-3360-92.cp-3204",
