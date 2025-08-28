@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -532,7 +532,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "AFK",
+    "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
     "memberSince": "2015-11-21T12:54:28.000+00:00",
     "uniqueId": "hhit-b7c33b11768cda68b7bf6ab7aa993889",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-5772-1404-1353.hd-600-10.ch-665-92.lg-3787-77-77.sh-3089-92.he-3070-92.fa-5467.ca-5934-77",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3674-1404-1350.hd-6022-4.ch-824-92.lg-3201-81-81.sh-730-92.ha-4094-1408-1408.ea-5576-63-1408.ca-6185.cc-6102-1410",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "#@&%$!",
     "habboFigure": "hr-3936-1403-1403.hd-600-10.ch-3013-1426.lg-710-77.sh-5803-92.ha-3776.he-3070-92.fa-3276-1330.cc-5800-92-92",
