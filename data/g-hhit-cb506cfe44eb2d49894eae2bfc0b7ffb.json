@@ -660,10 +660,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-908-1408.ha-3478.he-3893.ea-3750.wa-6165-89.cc-3360-92.cp-3119-92",
+    "habboFigure": "hr-3322-61.hd-3721-10.ch-225-92.lg-285-64.sh-908-92.ha-4324.he-3893.ea-3574.wa-6165-89.cc-3360-92.cp-3119-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-1395-40.hd-4383-14-14.ch-5921-1326-1408.lg-4066-110.sh-3206-96.he-5348",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-629-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-6083-32.hd-3631-1370-20.ch-665-92.lg-3006-110-92.sh-730-92.ha-5620-110.he-6019.ea-5576-110-110.ca-6185.cc-6031-1326-1416",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| Yasha ykz shiro |",
     "habboFigure": "hr-4216-47-31.hd-4383-10-8.ch-6029-85-84.lg-3023-85.sh-5308-66.ha-4192.fa-4045.cc-3975-85-66",
@@ -5060,7 +5060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3257-110.ca-1816",

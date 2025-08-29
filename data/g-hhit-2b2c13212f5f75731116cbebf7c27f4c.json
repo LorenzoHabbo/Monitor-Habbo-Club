@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "In riabilitazione µ",
     "habboFigure": "hr-165-45.hd-205-1.ch-3416-1408-1408.lg-3526-64-64.sh-3621-1408-64.fa-5211-91",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-4368-71.lg-4119.he-3274-71.ca-5635-71-1408",
@@ -6130,7 +6130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-5619-32.hd-600-1370.ch-685-76.lg-3216-76.sh-3180-64-64.he-3274-76.wa-2009-76.cc-3373-64",
