@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ho bisogno di leggerezza.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-720-64.sh-5551.ha-6091.cc-5461-1408-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-45.hd-190-10.ch-5608-64.lg-5594-82.sh-3383-66-90.ha-5851.fa-3462-91",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-96.cc-5926-1428-63",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-74-92.lg-3006-92-92.sh-5803-74.he-5808-110.fa-5467",
