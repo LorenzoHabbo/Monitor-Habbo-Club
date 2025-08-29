@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "drum show",
     "habboFigure": "hr-3520-34.hd-205-1363.ch-3032-75-1321.lg-285-63.sh-3206-1321.he-3081-75.ea-3270-1320-76.fa-1209-1321.wa-3264-1321-1321.cc-3420-76",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ho bisogno di leggerezza.",
     "habboFigure": "hr-3673-40.hd-600-10.ch-5560-64-64.lg-720-64.sh-5551.ha-6091.he-1608.ca-6081-76.cc-5461-1408-1408",
@@ -6080,7 +6080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
