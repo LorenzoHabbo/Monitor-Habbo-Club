@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-1399.hd-180-1389.ch-5833-1416-101.lg-3787-1424-1431.sh-3587-92-93.he-3070-93.fa-1201",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-42.hd-205-1.ch-235-82.lg-280-64.sh-300-1408.ha-1004-64.fa-1201",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-61.hd-180-27.ch-215-92.lg-270-1337.sh-3089-1415.he-3891",
@@ -1541,9 +1541,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-3163-61.hd-205-1379.ch-4361-1412-1427.lg-5594-110.sh-3035-110.fa-3276-72",
+    "habboFigure": "hr-5973-1394-1394.hd-615-1379.ch-665-1411.lg-5909-1413-1408.sh-5242-1417.ea-5576-1408-1408.fa-3276-99.ca-3799-1336-1323.cc-5518-85-110",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -2753,7 +2753,7 @@
     "online": true,
     "gender": "m",
     "motto": "Erede Polska",
-    "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
+    "habboFigure": "hr-3746-34.hd-207-10.ch-4111-82.lg-3116-82-1408.he-3660-64-1408.fa-3378-64-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
@@ -3933,7 +3933,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sii la versione migliore di te stesso.",
-    "habboFigure": "hr-831-32.hd-3091-8.ch-3203-1408.lg-3057-78.sh-290-110.fa-1209-78.wa-2005",
+    "habboFigure": "hr-831-32.hd-3091-8.lg-3057-78.sh-3206-1409.fa-1209-78.wa-2005",
     "memberSince": "2024-01-03T16:10:11.000+00:00",
     "uniqueId": "hhit-aaa0794797a780d602eb2d48b65acfed",
     "name": "Mr-Rich",
@@ -5060,7 +5060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-3257-110.ca-1816",
