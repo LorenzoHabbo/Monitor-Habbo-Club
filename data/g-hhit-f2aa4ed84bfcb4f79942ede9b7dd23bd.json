@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[SINCE 2009] EX POKERISTA",
     "habboFigure": "hr-3090-40.hd-190-10.ch-5830-81.lg-285-1408.sh-305-1408.he-1608.ea-1401-81.fa-1201.cc-3280-1408-1408",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -2860,10 +2860,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1342.hd-205-14.ch-3934-1408-1428.lg-5594-64.sh-3693-1320-1408.he-3070-92.ca-5768-63-1408",
+    "habboFigure": "hr-3163-1342.hd-5696-14-14.ch-3934-1408-1428.lg-5594-64.sh-3693-1320-1408.he-3891.cc-5925-1408",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "μ",
     "habboFigure": "hr-5681-1342-1347.hd-4383-10-5.ch-4087-1326.lg-5594-92.sh-5308-1326.ha-3709.cc-6077",
@@ -9120,7 +9120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Avvocato Battaglia:.",
     "habboFigure": "hr-3810-60.hd-629-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
