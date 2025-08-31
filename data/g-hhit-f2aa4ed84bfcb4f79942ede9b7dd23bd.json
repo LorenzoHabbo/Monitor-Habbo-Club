@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-49.hd-3845-1.ch-3077-100-110.lg-3418-64.sh-5247-92-64.he-5074-92",
@@ -9580,7 +9580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5681-45-40.hd-4163-1-1.ch-4299-82-74.lg-3408-1408-1408.sh-730-1408",
