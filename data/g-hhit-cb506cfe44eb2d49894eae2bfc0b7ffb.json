@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5245-92.lg-3006-92-92.sh-3587-92-92.ha-6036.fa-5467.cc-5926-92-1408",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-3426-1408-82.fa-3344-91",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
