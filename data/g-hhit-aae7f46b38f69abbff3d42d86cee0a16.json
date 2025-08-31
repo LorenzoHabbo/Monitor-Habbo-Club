@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -327,16 +327,6 @@
     "memberSince": "2011-11-16T16:43:08.000+00:00",
     "uniqueId": "hhit-d36a771a3a6be90cbbfa5957faa244c7",
     "name": "chersmitico",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "- GAJIN Shiro YKZ-",
-    "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
-    "memberSince": "2012-03-30T21:06:58.000+00:00",
-    "uniqueId": "hhit-f72ca46d0fcfc8efbf49fa6f7ee8b07e",
-    "name": "mistiix",
     "isAdmin": false
   },
   {
@@ -491,9 +481,9 @@
   },
   {
     "online": false,
-    "gender": "f",
+    "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3810-60.hd-629-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.wa-3773-106.cc-6077",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -960,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-80.lg-285-64.sh-3524-1408-64.he-5088.fa-3276-73.cc-5810-1408",
