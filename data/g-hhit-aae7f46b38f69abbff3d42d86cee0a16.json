@@ -20,7 +20,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-5921-92-1408.lg-4066-110.sh-3206-110.fa-1209-92.ca-5028-110-64.wa-3366-110-92",
@@ -123,7 +123,7 @@
     "online": false,
     "gender": "m",
     "motto": "DAL 2009 SU HABBO.IT¥ NO CLONI, NO BOT",
-    "habboFigure": "hr-100.hd-209-8.ch-4190-84-83.lg-4191-84-84.sh-300-84.ha-5520-83-83.he-1608.ea-1404-84.ca-3444-1408.wa-2011.cc-5826-1408",
+    "habboFigure": "hr-100.hd-209-8.ch-4190-84-83.lg-4191-84-84.sh-300-84.ha-5520-83-83.he-1608.ea-1404-84.fa-3344-84.ca-3444-1408.wa-2011.cc-5826-1408",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-74-92.lg-3006-92-92.sh-5803-74.he-5808-110.fa-5467",
