@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Patrimonio mondiale del nunesco ¶",
     "habboFigure": "hr-165-45.hd-5838-1370-14.ch-5222.lg-5594-82.sh-305-1408.ha-6092.ea-1404-1408.fa-5752.ca-6020-64",
@@ -5000,7 +5000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -6080,7 +6080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
@@ -7550,7 +7550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1370.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-1322",
