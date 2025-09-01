@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ad oggi, non me ne è andata bene una",
     "habboFigure": "hr-165-45.hd-205-1.ch-3323-85-64.lg-3088-64-91.sh-3068-64-1408.fa-5211-91.wa-2001.cc-3360-64",
@@ -2250,10 +2250,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "app. novella g.d",
-    "habboFigure": "hr-540-39.hd-600-1.ch-823-64.lg-720-64.sh-906-64.he-3274-64.fa-3276-72",
+    "motto": "",
+    "habboFigure": "hr-545-42.hd-600-1.ch-670-73.lg-720-64.sh-906-64.fa-3276-72",
     "memberSince": "2012-03-02T22:38:01.000+00:00",
     "uniqueId": "hhit-1803c5f4eeff5eafb2dc3ef43d979091",
     "name": "vayax",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3030-85.lg-5594-80.sh-4112-1408-1408.ea-5897-64-1408.ca-5768-1408-1320.cc-4979-1320.cp-3284-1320",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "…..",
     "habboFigure": "hr-3278-34-35.hd-180-10.ch-3688-110.lg-3023-1429.ha-1004-110.he-5088.fa-3378-110-92.ca-3175-1427.wa-4317-89",
@@ -3260,7 +3260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -4590,7 +4590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-3030-1408.lg-275-81.ea-1404-1408.fa-1205-64",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista novello g.d",
     "habboFigure": "hr-890-32.hd-629-1370.ch-665-74.lg-3216-74.sh-907-74.he-3274-74",
@@ -5290,7 +5290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Antennista novella G.D.",
     "habboFigure": "hr-4118-34.hd-3956-1-14.ch-4067-71-1320.lg-716-66-1408.he-1610",
