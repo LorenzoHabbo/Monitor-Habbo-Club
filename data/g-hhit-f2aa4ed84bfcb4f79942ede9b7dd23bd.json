@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3602-1403-45.hd-3721-2.ch-3934-110-1409.lg-5594-92.sh-5247-92-110.he-5578-1408.ea-5626-110.fa-5982-110.ca-5768-92-1408.wa-5599-110-110.cc-5926-1334-1408",
@@ -2860,10 +2860,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1342.hd-5696-14-14.ch-3934-1408-1428.lg-5594-64.sh-3693-1320-1408.he-3891.cc-5925-1408",
+    "habboFigure": "hr-3163-1342.hd-205-14.ch-3934-1408-1428.lg-5594-64.sh-3693-1320-1408.he-3070-92.ca-5768-63-1408",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1342.hd-4383-10-1357.ch-655-1425.lg-5594-1425.sh-3206-1425.ha-6198.he-5808-110.fa-5456-94.wa-5370.cc-4041-1425",
@@ -7450,10 +7450,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-6083-1394.hd-600-1370.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-1322",
+    "habboFigure": "hr-6083-1394.hd-180-14.ch-803-92.lg-275-63.sh-3035-1331.ha-3677.fa-3276-95",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -8120,7 +8120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "se puoi sognarlo , puoi farlo.",
     "habboFigure": "hr-3673-1407.hd-3604-7.ch-3688-1334.lg-5970-1333.sh-5803-87.ha-3173-1334.ea-3576.fa-1203.ca-3691-1321-110",
