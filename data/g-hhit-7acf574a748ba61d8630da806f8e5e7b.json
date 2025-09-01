@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La vostra invidia e' la mia forza",
     "habboFigure": "hr-6055-40-49.hd-4383-10-14.ch-3005-110-110.lg-3192-110.ha-3586.he-5808-1410.fa-3276-1326",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai .",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "μ",
     "habboFigure": "hr-5681-1342-1347.hd-4383-10-5.ch-4087-1326.lg-5594-92.sh-5308-1326.ha-3709.cc-6077",
@@ -1423,7 +1423,7 @@
     "online": true,
     "gender": "m",
     "motto": "Non puoi scappare dal tuo passato",
-    "habboFigure": "hr-3829-1405.hd-205-17.ch-210-92.lg-285-1413.sh-6042.ha-6080.he-3070-66.fa-3276-91.ca-5983-1320",
+    "habboFigure": "hr-3829-1405.hd-205-18.ch-210-92.lg-285-1413.sh-6042.ha-6080.he-3070-66.fa-3276-91.cc-4356",
     "memberSince": "2015-11-29T16:34:27.000+00:00",
     "uniqueId": "hhit-bca96ef263ef3ba26ea9ea1de0051266",
     "name": "You-sri",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-605-28.ch-665-92.lg-710-1329.sh-5803-92.he-6066-1329.fa-5467.cc-5945",
@@ -1763,7 +1763,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3531-40-61.hd-3092-8.ch-235-110.lg-275-92.sh-295-110.ha-3620.ea-3169-110.fa-3344-92.ca-3292-110.cc-3326-92-110",
+    "habboFigure": "hr-828-39.hd-3092-13.ch-235-92.lg-275-92.sh-295-110.ha-3620.ea-3169-110.fa-1204.ca-3916-92-110.wa-3661-96-110.cc-3326-96-96",
     "memberSince": "2017-09-09T16:30:59.000+00:00",
     "uniqueId": "hhit-a0e55462d532f3d859be8b690ffe4b9d",
     "name": "Moreno.00w",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3468-44.hd-3631-1-1371.ch-3836-82-1408.lg-3216-80.sh-3524-82-81.he-6019",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-34.hd-207-10.ch-4111-82.lg-3116-82-1408.he-3660-64-1408.fa-3378-64-1408",
