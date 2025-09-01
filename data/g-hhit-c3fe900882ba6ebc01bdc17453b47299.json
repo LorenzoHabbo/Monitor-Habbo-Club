@@ -493,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "Now our rainbow, is gone. ~Oblivion",
-    "habboFigure": "hr-5619-40.hd-615-14.ch-665-64.lg-720-81.sh-725-1408.he-1609-64.fa-5467.cc-3397-64-1408",
+    "habboFigure": "hr-5619-40.hd-615-14.ch-665-64.lg-720-81.sh-725-1408.he-1609-64.fa-5467",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -980,10 +980,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "nkunku al milan.",
-    "habboFigure": "hr-3670-1403.hd-3721-1383.ch-3934-92-110.lg-275-1409.sh-5247-92-1409.he-3740.fa-3276-73.ca-3844-92-1409.cc-3744-1409-1408",
+    "habboFigure": "hr-3670-1403.hd-3721-2.ch-3934-92-110.lg-275-1409.sh-5247-92-1409.he-3740.fa-3276-73.ca-3844-92-1409.cc-3744-1409-1408",
     "memberSince": "2015-11-23T14:06:20.000+00:00",
     "uniqueId": "hhit-84ca17b27563086f60e5b184bc393944",
     "name": "Silas",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3810-40.hd-3845-10.ch-5607-1408.lg-3418-1408.ha-3709.fa-3276-90.ca-4037-1408-1408",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-210-1408.lg-3078-110.sh-906-110.ha-1002-110.fa-3296.wa-4317-110.cc-5558-110-110",
