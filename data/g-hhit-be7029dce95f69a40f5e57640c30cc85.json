@@ -1310,10 +1310,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
-    "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
+    "habboFigure": "hr-125-49.hd-4174-2.ch-3203-110.lg-3136-66.ha-5325.ea-1403-110.fa-5384-92.ca-5575.wa-2004-68.cc-5322.cp-3204",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -6070,7 +6070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
@@ -9430,7 +9430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-4363-1404-1403.hd-600-1.ch-3135-107.lg-3198-107.sh-3687-106-110.ea-3196-106",
@@ -9720,7 +9720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
