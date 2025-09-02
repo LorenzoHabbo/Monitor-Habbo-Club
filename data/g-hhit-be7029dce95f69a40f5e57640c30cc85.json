@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Helper al tuo servizio!",
     "habboFigure": "hr-5602-1404.hd-205-10.ch-804-1334.lg-280-1408.sh-906-1408.ha-3144-63-1408.he-3752.ea-3727.fa-5467.wa-4317-1409",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La vostra invidia e' la mia forza",
     "habboFigure": "hr-6055-40-49.hd-4383-10-1359.ch-3005-1326-1326.lg-5243-1408.ha-3586.he-5808-1410.fa-3276-1326",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
