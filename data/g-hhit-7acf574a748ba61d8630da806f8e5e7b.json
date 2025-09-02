@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-6177-110-1410.lg-3136-1427.sh-3587-1410-92.ha-3586.cc-6175-1410",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-34.hd-207-10.ch-225-72.lg-285-72.sh-290-1408.he-3660-64-1408.fa-3378-64-1408.wa-2001",
