@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|Leader VOGUE FORCELLA|",
     "habboFigure": "hr-5773-1404.hd-627-2.ch-4128-110-92.lg-3078-1426.sh-730-110.ha-5620-100.he-1602-1412.fa-5467",
@@ -3520,7 +3520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Forcellano 41 bis",
     "habboFigure": "hr-4370-61.hd-209-1391.ch-210-110.lg-4138-1336.sh-4112-1336-1321.ha-5378-93-92.he-5279.ca-1816.cc-4979-110",
@@ -6070,7 +6070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
@@ -9610,7 +9610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader º Oblivion",
     "habboFigure": "hr-5773-1342.hd-600-13.ch-665-110.lg-3526-64-1408.sh-5247-92-110.he-3891",
