@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-3163-1395.hd-3103-1.ch-3683-92-110.lg-270-1426.sh-3016-110.ha-3952.ea-1404-1331.fa-5636-90.ca-4173-1410.cc-5942-92",
@@ -653,7 +653,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-905-92.ha-3478.he-3893.ea-3750.ca-5175-63.wa-6165-89.cc-3360-92.cp-3119-92",
+    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-905-92.ha-4324.he-3893.ea-3750.cc-3360-92.cp-3119-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -763,7 +763,7 @@
     "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
-    "habboFigure": "hr-5680-1344.hd-3100-8.ch-6029-106-92.lg-4341-92.sh-5671-92.ha-3709.he-3069-106-1408",
+    "habboFigure": "hr-5680-1344.hd-3100-8.ch-3046-1424.lg-4341-92.sh-5671-107.ha-3709",
     "memberSince": "2010-12-16T21:39:25.000+00:00",
     "uniqueId": "hhit-007c095e376e8345f9d71d61b9cbff61",
     "name": "superdvina10",
@@ -833,14 +833,14 @@
     "online": true,
     "gender": "f",
     "motto": "><",
-    "habboFigure": "hr-6083-1405.hd-4383-10-10.ch-665-92.lg-5594-1326.sh-3089-92.ha-3130-1326-1414.he-6173-1414.fa-5467.ca-5049-1326.wa-5370.cc-5690-1326",
+    "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-665-92.lg-5594-1414.sh-5803-92.ha-3709.he-6173-1414.fa-5467.wa-5370.cc-5690-1414",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": ".Bibol.",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mangiati un crikey che ti passa",
     "habboFigure": "hr-3977-49.hd-180-28.ch-5608-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -970,7 +970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "OLD SCHOOL |",
     "habboFigure": "hr-5773-36.hd-190-8.ch-4361-90-1408.lg-3596-64-64.ha-1004-90.he-3560.fa-3276-73",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-61.hd-629-1.ch-3598-93-110.lg-5970-1338.sh-6064-110-110.ha-3586.ea-6053-1321",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-36.hd-208-8.ch-235-80.lg-6017-1408-1408.sh-906-1408.ha-6014-1408-80",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-6083-32.hd-3631-1370-20.ch-665-92.lg-3006-110-92.sh-730-92.ha-5620-110.ea-5576-110-110.ca-5983-92.cc-6102-97",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "zitto",
     "habboFigure": "hr-4117-45-45.hd-615-18.ch-660-1415.lg-710-110.sh-908-92.he-1608.fa-3276-110.cc-5800-92-92",
@@ -2900,7 +2900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¿?",
     "habboFigure": "hr-4363-40-40.hd-627-10.ch-5595-1408.lg-5594-1408.ha-3544.fa-5467.cc-5800-1408-1408",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-6177-1408-66.lg-3136-110.sh-3206-91.fa-3296.wa-4317-92.cc-6175-82",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-96.cc-5926-1428-63",
@@ -3940,7 +3940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "viva il futbol",
     "habboFigure": "hr-893-34.hd-209-1370.ch-215-1408.lg-5594-81.sh-6181-110.ha-5378-110-1323.he-5577-101-1323.ea-4985.fa-5601-1408.cc-5800-1408-1315",
@@ -3990,10 +3990,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1346.hd-205-2.ch-210-110.lg-275-110.sh-305-92.he-3070-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-210-64.lg-280-77.sh-5247-92-1408.he-3740.ca-3844-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4543,7 +4543,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-5594-1338.sh-3035-92.ha-3130-77-1338.he-6173-1414.ca-1801-92.cc-3360-92",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-5594-1338.sh-3035-92.ha-3709.he-6173-1414.ca-1801-92.cc-3360-92",
     "memberSince": "2025-01-15T16:53:39.000+00:00",
     "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
     "name": ".Drip",
@@ -4930,7 +4930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a poor clone from a poor family",
     "habboFigure": "hd-180-10.ch-215-1408.lg-285-1408.sh-3068-1408-1408",
@@ -5053,7 +5053,7 @@
     "online": true,
     "gender": "m",
     "motto": "  La vostra invidia è la mia forza",
-    "habboFigure": "hr-3163-61.hd-3091-8.ch-5833-110-1408.lg-4138-110.sh-5928.he-4022.cc-6119",
+    "habboFigure": "hr-3163-61.hd-3091-8.ch-5833-110-1408.lg-4138-110.sh-5928.he-4022.ca-5771-92-92.cc-6119",
     "memberSince": "2025-05-07T11:16:49.000+00:00",
     "uniqueId": "hhit-de8e2328ed3f3e1c7b894290877d8369",
     "name": ".andrea2270...:",
