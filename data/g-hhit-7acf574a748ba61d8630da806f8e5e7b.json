@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-600-1.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3292-110.wa-3263-92-92.cc-3232-110-88",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "twitch.tv/ttnovee           #sloggadai",
     "habboFigure": "hr-3163-61.hd-207-13.ch-5559-110.lg-3078-110.sh-5464-92-92.ha-1026.ea-5897-64-92.fa-3276-110.wa-3504-63.cc-3975-110-64.cp-3128-63",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1020,10 +1020,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "little princess",
-    "habboFigure": "hr-6083-45.hd-3100-1390.ch-665-92.lg-3526-1337-92.he-5808-63.fa-3276-1328.wa-6165-1339.cc-5461-1337-92.cp-3207-98-93",
+    "habboFigure": "hr-6083-45.hd-3100-1390.ch-665-92.lg-3526-1337-92.he-5808-63.fa-3276-1328.wa-6165-1339.cc-5461-1337-92",
     "memberSince": "2012-02-04T18:51:43.000+00:00",
     "uniqueId": "hhit-e1f833cd4352e443b025fb5c33b15792",
     "name": "Chanel22",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3030-85.lg-5594-80.sh-4112-1408-1408.he-1609-73.ea-5897-64-1408.ca-5768-1408-1320.cc-4979-1320.cp-3284-1320",
@@ -1163,7 +1163,7 @@
     "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-89-1408.lg-3502-1326.sh-5803-1408.ha-6209.he-6173-1327.ea-5626-1408.ca-6207.wa-5986-63.cc-6178-63",
+    "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-89-1408.lg-3502-1326.sh-6181-1320.ha-6209.he-6173-1327.ea-5626-1408.ca-6207.wa-5986-63.cc-6178-63",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -1360,10 +1360,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3810-1346.hd-629-1390.ch-3836-92-1414.lg-3787-92-92.ha-3620.fa-3276-97.wa-3773-1326.cc-6077",
+    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3692-110-92",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -1960,10 +1960,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-34-34.hd-5525-28-28.ch-5713.lg-3202-64-1408.sh-3587-1325-92.ha-3709.he-3070-92.cc-6184-1417",
+    "habboFigure": "hr-3860-34-34.hd-5525-28-28.ch-5713.lg-3202-64-1408.sh-3587-92-92.ha-3734.fa-3816.cc-6184-1417",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-6177-1408-66.lg-3136-110.sh-3206-91.fa-3296.wa-4317-92.cc-6175-82",
@@ -3713,7 +3713,7 @@
     "online": false,
     "gender": "m",
     "motto": "apprendista scelto GD",
-    "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-1408.lg-3078-81.sh-3524-64-88.fa-3462-1408.cc-3917-64",
+    "habboFigure": "hr-3829-40.hd-3604-10.ch-266.lg-281-64.sh-3524-64-64.fa-3462-1408",
     "memberSince": "2024-08-18T15:11:21.000+00:00",
     "uniqueId": "hhit-6a441a2a4e98e3c16d2b7304d4218797",
     "name": "Andrea1995O",
