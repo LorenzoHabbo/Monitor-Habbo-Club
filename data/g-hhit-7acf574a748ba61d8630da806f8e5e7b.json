@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3278-34-35.hd-180-10.ch-3688-110.lg-3023-1429.ha-1004-110.he-5088.fa-3378-110-92.ca-3175-1427.wa-4317-89",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.fa-5624-73.ca-5770-64",
@@ -1360,10 +1360,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
+    "online": false,
+    "gender": "f",
     "motto": "Avvocato Battaglia:.",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3692-110-92",
+    "habboFigure": "hr-3810-60.hd-629-1390.ch-3836-92-106.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
