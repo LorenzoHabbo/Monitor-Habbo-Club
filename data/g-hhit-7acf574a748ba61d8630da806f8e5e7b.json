@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ho bisogno di leggerezza.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-720-64.sh-5551.ha-6091.ca-3545-1408.cc-5461-1408-1408",
@@ -700,10 +700,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SCIAMN. #GGDGG",
-    "habboFigure": "hr-5210-45-34.hd-205-1370.ch-806-76.lg-280-64.sh-305-1408.ea-1404-64",
+    "habboFigure": "hr-5210-45-34.hd-205-1370.ch-3342-90-90.lg-280-1320.sh-3068-1320-85.ea-1404-64.ca-3410-66.cc-5926-91-88",
     "memberSince": "2010-12-01T13:13:46.000+00:00",
     "uniqueId": "hhit-dd751684352a9f8dceb02644e71c687e",
     "name": "-:giggi:-",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-1361.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-6176-110-1410.lg-3192-110.sh-6182.he-3740.ca-3885-1410-110.wa-6165-110.cc-6175-110",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-28.ch-6177-1408-66.lg-3136-110.sh-3206-91.fa-3296.wa-4317-92.cc-6175-82",
