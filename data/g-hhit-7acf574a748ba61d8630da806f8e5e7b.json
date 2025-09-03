@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-4363-1404-1403.hd-600-1.ch-3135-107.lg-3198-107.sh-3687-106-110.ea-3196-106",
@@ -1763,7 +1763,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-49.hd-3092-2.ch-875-1409-92.lg-280-92.sh-295-1409.ha-3620.he-3070-92.ea-3169-110.fa-1204.ca-3292-92.wa-6071",
+    "habboFigure": "hr-5791-49.hd-3092-2.ch-875-1409-92.lg-280-92.sh-295-1409.ha-3620.he-3070-1409.ea-3169-1409.fa-1204.ca-3292-92.wa-6071",
     "memberSince": "2017-09-09T16:30:59.000+00:00",
     "uniqueId": "hhit-a0e55462d532f3d859be8b690ffe4b9d",
     "name": "Moreno.00w",
@@ -4080,7 +4080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-40.hd-3845-10.ch-882-64-73.lg-720-64.sh-3524-64-73.ha-5299-64-73.he-5279",
