@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ho bisogno di leggerezza.",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-720-64.sh-5551.ha-6091.ca-3545-1408.cc-5461-1408-1408",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3278-34-35.hd-180-10.ch-3688-110.lg-3023-1429.ha-1004-110.he-5088.fa-3378-110-92.ca-3175-1427.wa-4317-89",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.ha-5087.he-5088.fa-4046.cc-6119",
