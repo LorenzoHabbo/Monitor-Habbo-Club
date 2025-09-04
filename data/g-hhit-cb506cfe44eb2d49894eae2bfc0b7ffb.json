@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SCIAMN. #GGDGG",
     "habboFigure": "hr-5210-45-34.hd-205-1370.ch-3342-90-90.lg-280-1320.sh-3068-1320-85.ea-1404-64.ca-3410-66.cc-5926-91-88",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-61.hd-629-1.ch-3598-93-110.lg-5970-1338.sh-6064-110-110.ha-3586.ea-6053-1321",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-89-1408.lg-3502-1326.sh-6181-1320.ha-6209.he-6173-1327.ea-5626-1408.ca-6207.wa-5986-63.cc-6178-63",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "But Every Tears Has Been a Lesson!",
     "habboFigure": "hr-893-39.hd-209-1.ch-255-76.lg-4309.sh-3068-76-1408.ha-4324.he-4381.ea-3484.ca-4957",
@@ -1790,10 +1790,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
-    "habboFigure": "hr-4117-32-32.hd-4163-10-30.ch-4368-1408.lg-4369-71-71.sh-3354-71-1408.he-5314-71-71.wa-2001.cc-5926-82-1408",
+    "habboFigure": "hr-4117-32-32.hd-4163-10-30.ch-4368-1408.lg-4369-71-71.sh-3354-71-1408.he-5314-71-71.ca-5051-72-71.wa-2001.cc-5926-82-1408",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-605-28.ch-665-92.lg-710-1329.sh-5803-92.he-6066-1329.fa-5467.cc-5945",
@@ -2061,9 +2061,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "Helper al tuo servizio! » Hooligans",
-    "habboFigure": "hr-828-1404.hd-5317-2-1365.ch-6177-92-66.lg-3136-92.sh-6182.ha-3586.fa-3276-95.cc-6184-100",
+    "habboFigure": "hr-515-33.hd-600-1.ch-6176-92-66.lg-3136-92.cc-6175-100",
     "memberSince": "2017-02-25T13:35:17.000+00:00",
     "uniqueId": "hhit-0ef6bf9c5b7a01934f53374fa09f0a9c",
     "name": "@P-E-P-P-E@",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-63.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-1201.wa-2001",
@@ -2300,10 +2300,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
-    "habboFigure": "hr-4182-32-37.hd-3631-1370-20.ch-665-1335.lg-3006-77-77.sh-6181-1337.ha-5620-110.he-6173-1420.ea-5576-110-110.ca-5983-92",
+    "habboFigure": "hr-4182-32-37.hd-3631-1370-20.ch-665-1410.lg-3006-1426-1426.sh-6181-1337.ha-5620-110.he-6173-1420.ea-5576-110-110.ca-5983-92",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-4160-49.hd-3845-7.ch-6179-92.lg-5594-110.sh-6182.ha-5087.he-5088.fa-3462-92.ca-6207.cc-6184-92",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IOO",
     "habboFigure": "hr-3768-40.hd-3845-10.ch-3969-1408.lg-275-85.ha-5076-73.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "crikey",
     "habboFigure": "hr-6083-1354.hd-4383-1-14.ch-5607-110.lg-5970-1427.sh-3089-110.he-5808-110.wa-6165-92.cc-4979-92.cp-3315-92",
@@ -3990,7 +3990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-275-63.sh-305-64.he-3070-92.ea-6196.ca-5102-110",
@@ -4543,7 +4543,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-61.hd-180-2.ch-215-110.lg-275-110.sh-908-110.ha-3709.he-3070-92.ea-5897-110-110.fa-3276-1412.ca-3085-92.cc-3360-110.cp-3126-110",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-215-92.lg-5594-1338.sh-3035-92.ha-3709.he-6173-1414.cc-5441-1426-77",
     "memberSince": "2025-01-15T16:53:39.000+00:00",
     "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
     "name": ".Drip",
@@ -5090,7 +5090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "DARKNESS!",
     "habboFigure": "hr-802-42.hd-185-1.ch-808-1408.lg-3290-64.sh-3068-1408-1408.ha-1013-64.he-1609-1408.fa-3344-64.ca-5981-72-73.wa-2012",
