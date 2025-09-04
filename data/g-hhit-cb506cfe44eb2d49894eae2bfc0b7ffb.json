@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-36.hd-208-8.ch-235-80.lg-6017-1408-1408.sh-906-1408.ha-6014-1408-80",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -4210,7 +4210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-1337-92.lg-3502-92.sh-5803-92.he-6173-1328.fa-5467.ca-3828-1337-92",
