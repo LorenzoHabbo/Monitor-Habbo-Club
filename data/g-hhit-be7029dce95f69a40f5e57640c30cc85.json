@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hr-6085-49-31.hd-4174-2.ch-3934-110-110.lg-5594-1409.sh-3621-92-1325.ea-1404-110.fa-5384-92.ca-5934-1410.cc-5926-64-92",
@@ -9500,7 +9500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Non si molla",
     "habboFigure": "hr-4117-44-44.hd-190-1.ch-255-1408.lg-281-90.ha-3620.fa-3462-73",
