@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-6177-110-1410.lg-3136-1427.sh-6181-1410.ha-3586.cc-6175-1410",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "since '11 till forever",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-74-80.lg-695-1408.ea-3803-71.ca-4956",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-89-1408.lg-3502-1326.sh-6181-1320.ha-6209.he-6173-1327.ea-5626-1408.ca-6207.wa-5986-63.cc-6178-63",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-4052.fa-3276-95.cc-6178-1335",
@@ -3480,7 +3480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HZOCDBP4ù",
     "habboFigure": "hd-180-10.ch-225-72.lg-270-72.sh-300-1408",
