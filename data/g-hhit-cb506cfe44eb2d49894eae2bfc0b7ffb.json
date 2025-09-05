@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-61-41.hd-180-1389.ch-3059-109.lg-3787-1335-1431.sh-3587-92-93.he-3070-93.fa-1201",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -600,10 +600,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leader vogue forcella",
-    "habboFigure": "hr-4363-1404-1404.hd-625-10.ch-3839-81-92.lg-700-1409.sh-5308-1321.he-3070-1410.fa-3276-1411.ca-6018",
+    "habboFigure": "hr-890-36.hd-600-8.ch-822-66.lg-3078-66",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3030-85.lg-5594-80.sh-4112-1408-1408.he-1609-73.ea-5897-64-1408.ca-5768-1408-1320.cc-4979-1320.cp-3284-1320",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -3930,7 +3930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sii la versione migliore di te stesso.",
     "habboFigure": "hr-3281-1395.hd-3091-8.ch-3032-1408-1408.lg-3058-110.sh-290-110.ha-3633.ca-3187-110.wa-2005.cc-3186-110",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-90.lg-3216-64.sh-907-64.he-3274-90",
@@ -5120,7 +5120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "potius sero quam numquam",
     "habboFigure": "hr-5914-1346-1342.hd-4383-1390-1364.ch-4142-92-92.lg-4167-1320.sh-730-1410.he-5721-1326-1320",
