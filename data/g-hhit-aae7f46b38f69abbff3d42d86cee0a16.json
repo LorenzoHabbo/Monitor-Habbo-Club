@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -663,7 +663,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-6173-1326.ea-5576-1409-89.cc-5926-82-89",
+    "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-6173-1326.ea-5576-1409-89.cc-5926-82-1408",
     "memberSince": "2017-01-30T23:25:49.000+00:00",
     "uniqueId": "hhit-a8e16aa80c02440b9f11b81cffff433c",
     "name": "Whochins",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-1337-92.lg-3502-92.sh-5803-92.he-6173-100.fa-5467.ca-3828-1337-92",
