@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3531-1398-1397.hd-180-10.ch-3059-77.lg-4066-1336.ha-4050.he-3833-93.ea-3169-90.fa-3344-1320.ca-3175-1427.wa-4317-89",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-14.ch-210-1408.lg-280-1408",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-89-1408.lg-3502-1326.sh-6181-1320.ha-6209.he-6173-1327.ea-5626-1408.ca-6207.wa-5986-63.cc-6178-63",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3092-2.ch-875-1409-92.lg-280-92.sh-295-1409.ha-3620.he-3070-93.ea-3169-1409.fa-1204.ca-3292-92.wa-6071",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-6176-110-110.lg-3192-110.sh-6182.he-3740.ca-3885-1410-110.wa-6165-110",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-270-1408.wa-4317-1408.cc-6175-82",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3841-42.hd-180-1.ch-3110-64-64.lg-285-82",
