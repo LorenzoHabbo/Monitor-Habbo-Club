@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-49.hd-180-2.ch-6179-92.lg-3502-92.sh-6182.ha-6209.he-6173-1412.fa-5600-92.ca-5026-92",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MOKKASORT",
     "habboFigure": "hr-3162-34.hd-3721-27.ch-3728-110-66.lg-281-110.sh-3524-66-66.ha-3585-110.he-1608.cc-3867-110-66",
