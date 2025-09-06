@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-84-84.lg-275-80",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "μ",
     "habboFigure": "hr-4363-55-1347.hd-4383-10-5.ch-4087-110.lg-4369-110-64.sh-6064-1337-106.he-6125-93.cc-5926-1422-1408",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥Orgoglioso del mio Vulcano¥ ƒNAPLES",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-5139-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
@@ -1587,6 +1587,16 @@
     "memberSince": "2025-04-03T13:49:28.000+00:00",
     "uniqueId": "hhit-a5261d38624237b05ce5131c41820d88",
     "name": "ClemenzaEW",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-3090-42.hd-205-1.ch-235-1408.lg-3116-64-1408",
+    "memberSince": "2025-06-14T09:29:50.000+00:00",
+    "uniqueId": "hhit-c62a5db95cd30c520074c62ea1e39ebd",
+    "name": "guest124-91",
     "isAdmin": false
   },
   {
