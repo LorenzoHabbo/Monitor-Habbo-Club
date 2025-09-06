@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sbagliando si Impara Vendo dipinti",
     "habboFigure": "hr-5680-37.hd-4383-10-1359.ch-826-110-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-1326",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6147.lg-3006-92-92.sh-5297.he-6148.fa-5435.cc-4942-92-92",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "μ",
     "habboFigure": "hr-4363-61-1347.hd-4383-10-5.ch-3250-110.lg-3267-110-64.sh-6064-1326-110.wa-6165-1326.cc-6077",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1342.hd-180-2.ch-215-110.lg-280-77.sh-305-92.he-3070-1408.wa-5986-92.cc-3360-92.cp-3204",
