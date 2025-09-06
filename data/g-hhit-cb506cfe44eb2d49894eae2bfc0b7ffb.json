@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-3860-61-42.hd-180-2.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3586.fa-5975.wa-4060-63-1408.cc-6178-1327",
@@ -3920,7 +3920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-1430.lg-275-110.sh-305-92.ha-3352-92-92.fa-5835-110.ca-3131-1427-1408",
@@ -5050,7 +5050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  La vostra invidia è la mia forza",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-5833-110-1408.lg-4138-110.sh-5928.he-4022.cc-6119",
