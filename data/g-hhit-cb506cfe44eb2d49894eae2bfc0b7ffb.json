@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6147.lg-3006-92-92.sh-5297.he-6148.fa-5435",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-36.hd-208-8.ch-235-80.lg-6017-1408-1408.sh-906-1408.ha-6014-1408-80",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CARPEDIEM!!",
     "habboFigure": "hr-5772-59-1354.hd-3956-1-12.ch-4158-1413-110.lg-4017-73-1320.sh-3354-110-68.ha-3709.he-3070-1321.ca-5278-1432.cc-4184-110-1413",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1342.hd-180-2.ch-215-110.lg-280-77.sh-305-92.he-3070-1408.wa-5986-92.cc-3360-92.cp-3204",
