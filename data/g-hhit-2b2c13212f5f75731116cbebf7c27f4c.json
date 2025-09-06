@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai .",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-5351-71-73.lg-3483-81-81.he-3274-71.ca-5635-71-1408",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3852-1404.hd-3721-1383.ch-6180-1420.lg-3502-110.sh-6182.ha-6209.he-3869.fa-3193-92.ca-5026-92",
@@ -4567,6 +4567,16 @@
     "memberSince": "2018-06-12T01:25:23.000+00:00",
     "uniqueId": "hhit-52a10330d5dbee043a326b668ed3d2b7",
     "name": "jackallo",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "Apprendista Novello G.D.",
+    "habboFigure": "hr-3273-39-52.hd-3100-1.ch-3013-85.lg-4012-85.sh-3375-110-85",
+    "memberSince": "2018-06-15T11:39:46.000+00:00",
+    "uniqueId": "hhit-4275c7feadd73b1af65406c5e4920404",
+    "name": "antoouo",
     "isAdmin": false
   },
   {
@@ -6760,7 +6770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
@@ -9030,7 +9040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista novello g.d.",
     "habboFigure": "hr-5680-32.hd-3956-1370-1371.ch-3809-64-1320.lg-4167-1320.ha-5620-1320.he-1608.ea-5897-64-64.wa-2012.cc-5926-1320-64",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-27T19:03:58.000+00:00",
     "uniqueId": "hhit-d54ef0356d63c583f22b6b1c54127616",
     "name": "habbozefiro",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-540-37.hd-600-1.ch-884-73.lg-3216-66.sh-735-68",
-    "memberSince": "2023-10-28T11:00:12.000+00:00",
-    "uniqueId": "hhit-25f94f04db57f8b36eff8c7f3d425949",
-    "name": "MATTIA30303",
     "isAdmin": false
   }
 ]
