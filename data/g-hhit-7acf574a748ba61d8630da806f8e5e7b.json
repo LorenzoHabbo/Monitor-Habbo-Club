@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sbagliando si Impara Vendo dipinti",
     "habboFigure": "hr-5680-37.hd-4383-10-1359.ch-826-110-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-1326",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I was dancing in the rain",
     "habboFigure": "hr-5791-38.hd-190-10.ch-3342-64-1408.lg-4138-73.sh-3524-64-1408.fa-3276-72.cc-5441-64-1408",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-6176-110-110.lg-3192-110.sh-6182.he-3740.ca-3885-1410-110.wa-6165-110",
@@ -3210,7 +3210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.ha-3709.cc-5926-64-1408",

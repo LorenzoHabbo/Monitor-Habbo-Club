@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sbagliando si Impara Vendo dipinti",
     "habboFigure": "hr-5680-37.hd-4383-10-1359.ch-826-110-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-1326",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-1395-40.hd-4383-10-14.ch-5921-1326-1408.lg-4066-110.sh-3206-96.he-5348",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-36.hd-208-8.ch-235-80.lg-6017-1408-1408.sh-906-1408.ha-6014-1408-80",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.ha-3709.cc-5926-64-1408",
