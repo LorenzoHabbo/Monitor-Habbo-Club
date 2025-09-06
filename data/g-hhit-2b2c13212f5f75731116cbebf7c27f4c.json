@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No comment.",
     "habboFigure": "hr-3322-1347.hd-3095-1383.ch-875-110-99.lg-270-110.sh-3016-1416.ea-3108-99-1408.ca-3085-1408.wa-3212-99-99",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista Novello G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-5351-71-73.lg-3483-81-81.he-3274-71.ca-5635-71-1408",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3531-1398-1397.hd-180-10.ch-3059-77.lg-4066-1336.ha-4050.he-3833-93.ea-3169-90.fa-3344-1320.ca-3175-1427.wa-4317-89",
@@ -6140,7 +6140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-5619-32.hd-3631-1370-30.ch-665-1408.lg-720-64.sh-730-1408.ha-1005-64.he-1608.ea-1401-64.cc-5926-64-1408",
@@ -7280,7 +7280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Liberatore Celeste GD 1 pt",
     "habboFigure": "hr-3841-37.hd-3997-10.ch-5093-64.lg-3078-82.sh-4112-73-1408.ha-5097-64-68.fa-5211-90.ca-5170-64-72.wa-2001",
