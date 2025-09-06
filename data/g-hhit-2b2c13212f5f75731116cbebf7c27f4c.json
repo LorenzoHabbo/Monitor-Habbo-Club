@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sbagliando si Impara Vendo dipinti",
     "habboFigure": "hr-5680-37.hd-4383-10-1359.ch-826-110-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-1326",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -4700,7 +4700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-49-40.hd-3845-7.ch-6179-1415.lg-5594-110.sh-6182.ha-5087.he-5088.fa-5624-92.ca-6207.cc-6184-110",
