@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sicily",
     "habboFigure": "hr-3841-42.hd-209-1370.ch-235-82.lg-275-1408.sh-300-1408.he-1608",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -2993,7 +2993,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3852-1404.hd-3721-1383.ch-6180-1420.lg-3502-110.sh-6182.ha-6209.he-3869.fa-3193-92.ca-5026-92",
+    "habboFigure": "hr-3852-1404.hd-3721-1383.ch-6180-1420.lg-3502-110.sh-6182.ha-6209.he-3869.fa-3193-92",
     "memberSince": "2014-08-14T11:40:31.000+00:00",
     "uniqueId": "hhit-8d92b048211fc5db27afd3c2ed777509",
     "name": "_celine",
@@ -6140,7 +6140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-5619-32.hd-3631-1370-30.ch-665-1408.lg-720-64.sh-730-1408.ha-1005-64.he-1608.ea-1401-64.cc-5926-64-1408",
@@ -9040,7 +9040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista novello g.d.",
     "habboFigure": "hr-5680-32.hd-3956-1370-1371.ch-3809-64-1320.lg-4167-1320.ha-5620-1320.he-1608.ea-5897-64-64.wa-2012.cc-5926-1320-64",
