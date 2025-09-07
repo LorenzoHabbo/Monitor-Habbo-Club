@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5608-73.lg-5594-80.sh-3524-64-1408.ha-5591.ca-5936-66.cc-5800-64-64",
@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-893-39.hd-207-1.ch-3030-73.lg-285-82.sh-3068-66-1408.ea-1404-64",
+    "habboFigure": "hr-3322-61.hd-3721-10.ch-215-92.lg-285-64.sh-908-92.ha-4321.he-3893.ea-3750.cc-3360-92.cp-3119-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mangiati un crikey che ti passa",
     "habboFigure": "hr-3670-54.hd-180-28.ch-3880-73.lg-3078-81.sh-3524-1338-1408.ha-1012-110.ea-3169-110.ca-3883.cc-5800-82-81",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -3470,16 +3470,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "Per gli amici, Equazione. Addio Habbo.",
-    "habboFigure": "hd-205-14.ch-255-1408.lg-280-1408.sh-908-1408.fa-3276-1408",
-    "memberSince": "2022-06-14T18:48:25.000+00:00",
-    "uniqueId": "hhit-957997a7ff103a260a87e916c62c1b48",
-    "name": "y=xt",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "se bevi veleno non muoio io",
@@ -3680,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -3700,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "crikey",
     "habboFigure": "hr-6083-1354.hd-4383-1-14.ch-5607-110.lg-5970-1427.sh-3089-110.he-5808-110.wa-6165-92.cc-6178-92.cp-3315-92",
