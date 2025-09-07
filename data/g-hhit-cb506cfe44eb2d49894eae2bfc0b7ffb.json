@@ -550,10 +550,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6016-1415-92.lg-3006-1415-1416.sh-3587-92-92.ha-6209.he-5827-89-1415.fa-5435",
+    "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5245-92.lg-3006-1415-1416.sh-3587-92-92.ha-6209.he-5827-89-1415.fa-5435",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3030-85.lg-5594-80.sh-4112-1408-1408.he-1609-73.ea-5897-64-1408.ca-5768-1408-1320.cc-4979-1320.cp-3284-1320",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "….",
     "habboFigure": "hr-3531-1398-1397.hd-180-10.ch-3059-77.lg-4066-1336.ha-4050.he-3833-93.ea-3169-90.fa-3344-1320.ca-3175-1427.wa-4317-89",
@@ -1690,10 +1690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
-    "habboFigure": "hr-3841-35.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.fa-5624-73.ca-5770-64",
+    "habboFigure": "hr-3841-35.hd-3845-1370.ch-210-71.lg-3216-80.sh-905-73.ha-1004-64.fa-5624-73.ca-1806-73.wa-2008",
     "memberSince": "2014-12-29T12:36:06.000+00:00",
     "uniqueId": "hhit-1ed499593c05ca04da39bae548d66bc1",
     "name": "giuseppe9118",
@@ -2860,7 +2860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "zitto",
     "habboFigure": "hr-4117-45-45.hd-615-18.ch-665-100.lg-710-110.sh-908-110.ha-3613-110.he-1608.fa-3276-110.cc-5800-110-100",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4117-52-52.hd-205-13.ch-210-110.lg-281-110.sh-908-92.ha-4094-110-110.he-3082-110",
@@ -5120,7 +5120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Amo me stesso",
     "habboFigure": "hr-893-34.hd-180-1370.ch-5608-72.lg-281-64.sh-295-64.ha-1004-64.wa-3074-64-1408",
