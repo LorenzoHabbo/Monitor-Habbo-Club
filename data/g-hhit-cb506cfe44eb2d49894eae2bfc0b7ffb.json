@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-890-35.hd-629-1.ch-665-90.lg-710-91.sh-3068-1320-66.ca-1801-66",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-77.lg-3006-1337-92.sh-3587-92-92.he-5827-1337-1337.fa-3276-1340.ca-6128",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3030-85.lg-5594-80.sh-4112-1408-1408.he-1609-73.ea-5897-64-1408.ca-5768-1408-1320.cc-4979-1320.cp-3284-1320",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Stefania    LGBT|",
     "habboFigure": "hr-4186-49.hd-3845-28.ch-3836-92-92.lg-3088-92-110.sh-3419-110-92.he-5314-110-110.wa-5419-110-92",
