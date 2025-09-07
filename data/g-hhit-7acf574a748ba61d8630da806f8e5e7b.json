@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-893-42.hd-180-1.ch-3030-1408.lg-275-82.sh-908-1408.ha-1002-1408",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "chi sei veramente...",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-102.lg-3019-101.sh-3089-102.he-3189-103.cc-3289-102",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5773-1405.hd-4383-10-10.ch-5453-1326-92.lg-5594-64.sh-5803-1326.he-6173-1326.fa-5467.ca-5444-1326-92.wa-5370.cc-5461-1326-92",
@@ -853,7 +853,7 @@
     "online": true,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
-    "habboFigure": "hr-3163-61.hd-3721-18.ch-6177-110-1410.lg-3136-1427.sh-6181-1410.ha-3586.cc-6175-1410",
+    "habboFigure": "hr-3163-61.hd-3721-18.ch-3030-110.lg-3933-1427.sh-3587-110-92.ha-3544.cc-3867-110-1427",
     "memberSince": "2011-07-24T14:39:10.000+00:00",
     "uniqueId": "hhit-be256d1950981bb381b5d2f4d1a290c9",
     "name": "Visir",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO NON SONO IO NON SONO IOO",
     "habboFigure": "hr-3768-34.hd-3845-10.ch-5258.lg-3216-84.ha-5076-83.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "press ESC",
     "habboFigure": "hr-5841-42.hd-5838-1-30.ch-5856.lg-6089-64-1408.sh-5868.he-5827-68-64.cc-5926-64-1408.cp-5883-110",
