@@ -693,7 +693,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-5210-61-55.hd-5317-1380-1364.ch-3030-110.lg-5545-110-64.sh-5247-110-64.he-3070-63.fa-1209-110.wa-5986-64.cc-5926-64-63.cp-5884-92",
+    "habboFigure": "hr-5210-61-55.hd-5317-1380-1364.ch-5858-110.lg-5545-110-64.sh-5247-110-64.ha-5867-110-64.he-3070-63.fa-1209-110.wa-5986-110.cc-5926-64-63.cp-5884-92",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3030-85.lg-5594-80.sh-4112-1408-1408.he-1609-73.ea-5897-64-1408.ca-5768-1408-1320.cc-4979-1320.cp-3284-1320",
@@ -1423,7 +1423,7 @@
     "online": true,
     "gender": "m",
     "motto": "Non puoi scappare dal tuo passato",
-    "habboFigure": "hr-3829-49.hd-205-17.ch-3030-92.lg-280-92.sh-6182.ha-6080.he-3070-1410.fa-3276-91.cc-6184-92",
+    "habboFigure": "hr-3829-49.hd-205-17.ch-3030-92.lg-280-92.sh-6182.ha-6080.he-3070-1410.fa-3276-91.ca-3414-1412.cc-6184-92",
     "memberSince": "2015-11-29T16:34:27.000+00:00",
     "uniqueId": "hhit-bca96ef263ef3ba26ea9ea1de0051266",
     "name": "You-sri",
@@ -1690,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-63.lg-3088-82-82.sh-906-1408.ha-3709.ea-3169-110.fa-1201.wa-2001",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Allora go",
     "habboFigure": "hr-3791-47.hd-5913-1.ch-5595-83.lg-5970-64.sh-730-1408.ha-5620-1408.he-5765-72.fa-5467.ca-5981-73-1408.cc-5926-91-1408",
@@ -3110,7 +3110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-209-8.ch-255-76.lg-270-76.sh-305-76.ha-1003-76",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-34.hd-205-14.ch-255-1408.lg-281-1408.sh-305-92.ha-4008.fa-5467",
