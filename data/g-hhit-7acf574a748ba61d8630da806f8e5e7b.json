@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sbagliando si Impara Vendo dipinti",
     "habboFigure": "hr-5680-37.hd-4383-10-1359.ch-826-110-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-1326",
@@ -3300,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-180-1.ch-235-64.lg-285-64.sh-300-64.ea-1404-64.fa-1206-64",
