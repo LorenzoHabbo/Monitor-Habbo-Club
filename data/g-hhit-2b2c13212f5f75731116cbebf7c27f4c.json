@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-125-38.hd-209-1.ch-3030-1408.lg-3787-82-1408.sh-3524-1408-1320.he-3324-82-1408.ea-3484.ca-4115-88-1408",
@@ -5117,6 +5117,16 @@
     "memberSince": "2019-11-23T14:12:09.000+00:00",
     "uniqueId": "hhit-eef7ae48dc10d69d7049fb45df67e1ca",
     "name": "Amerika19",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "apprendista novello GD",
+    "habboFigure": "hr-5619-42.hd-3956-1370-30.ch-665-1408.lg-4114-1408-1408.sh-3383-1408-81.he-5314-1408-81.ea-3484.ca-1801-1408.cc-5926-81-1408",
+    "memberSince": "2019-12-02T00:04:58.000+00:00",
+    "uniqueId": "hhit-8d4f2397b4bf6e601e917b2a03d7cc51",
+    "name": "Luna3829",
     "isAdmin": false
   },
   {
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-27T09:14:20.000+00:00",
     "uniqueId": "hhit-c0a3ad3f70f4f6d53a55b24db0096c82",
     "name": "Giugiu04",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-115-42.hd-180-1370.ch-3443.lg-3023-81.sh-908-64.ha-3441.ca-3444-76",
-    "memberSince": "2023-10-27T19:03:58.000+00:00",
-    "uniqueId": "hhit-d54ef0356d63c583f22b6b1c54127616",
-    "name": "habbozefiro",
     "isAdmin": false
   }
 ]
