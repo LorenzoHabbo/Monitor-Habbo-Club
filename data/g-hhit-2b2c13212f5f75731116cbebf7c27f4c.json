@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6083-61.hd-3845-10.ch-5923-110-64.lg-5974-110-110.sh-5308-64.he-6173-96.fa-5467.cc-6178-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-3030-90.lg-280-90.sh-300-90.ha-5744-90-66.fa-5636-64.ca-5739-90-66.cc-3692-90-66",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "in fuga dalla virtualità",
     "habboFigure": "hr-165-45.hd-205-1.ch-878-64-1408.lg-3526-64-1408.sh-3621-1408-64.fa-5211-91",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai .",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5970-1423.sh-5671-92.ha-3709",
@@ -2530,9 +2530,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "",
+    "motto": "Aprendista novello G.D",
     "habboFigure": "hr-891-39.hd-180-8.ch-807-85.lg-270-72.sh-3115-1408-1408.ea-1403-1408.wa-2011",
     "memberSince": "2012-11-23T22:49:44.000+00:00",
     "uniqueId": "hhit-f4629899a0b1418769c568bafd0251c2",
@@ -2542,7 +2542,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "….",
+    "motto": "Capo Ingegnere",
     "habboFigure": "hr-3531-1398-1397.hd-180-10.ch-3059-77.lg-4066-1336.ha-4050.he-3833-93.ea-3169-90.fa-3344-1320.ca-3175-1427.wa-4317-89",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novella G.D",
     "habboFigure": "hr-4117-1343-1343.hd-600-10.ch-3266-110-1408.lg-3267-110-110.sh-3383-110-1408.he-6082-63-1408",
@@ -6160,7 +6160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-5680-32.hd-3631-1370-30.ch-3809-1408-90.lg-5970-1408.sh-730-90.he-3274-90.ea-5897-64-64.cc-5926-90-1408",
@@ -6217,6 +6217,16 @@
     "memberSince": "2021-06-08T20:38:36.000+00:00",
     "uniqueId": "hhit-200aecccf44a72fcbd615dfc550209a2",
     "name": "Desy_biondass.:",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista Novello G.D",
+    "habboFigure": "hr-3090-42.hd-190-10.ch-255-64.lg-280-1408.sh-906-64",
+    "memberSince": "2021-06-13T01:52:33.000+00:00",
+    "uniqueId": "hhit-c023c7b587dfadc2d14a56de334a3845",
+    "name": "Levi",
     "isAdmin": false
   },
   {
@@ -9060,7 +9070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista novello g.d.",
     "habboFigure": "hr-5680-32.hd-3956-1370-1371.ch-3809-1320-64.lg-4167-1320.ha-5620-1320.he-1608.ea-5897-64-64.wa-2012.cc-5926-1320-1408",
@@ -9353,7 +9363,7 @@
     "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
-    "habboFigure": "hr-6127-42.hd-6022-12.ch-665-1320.lg-5594-64.sh-5274-1320-66.ha-3620.fa-5467.cc-5800-1320-66.cp-3119-1408",
+    "habboFigure": "hr-6127-42.hd-6022-12.ch-665-1320.lg-5594-64.sh-5274-1320-66.ha-3620.fa-5467.ca-5521-72.cc-5800-1320-66.cp-3119-1408",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-27T07:44:41.000+00:00",
     "uniqueId": "hhit-76d6dc6a0d1b038c534c8cbd6d6154fc",
     "name": "Alessiasexy96",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "apprendista novella G.D.",
-    "habboFigure": "hr-890-37.hd-628-1.ch-635-82.lg-3023-64.sh-3068-82-82.ha-1023-82.ca-1804-1408.wa-2001",
-    "memberSince": "2023-10-27T08:46:02.000+00:00",
-    "uniqueId": "hhit-deb222b1ca773f15bde411d5717b2cda",
-    "name": "saikebon!",
     "isAdmin": false
   }
 ]
