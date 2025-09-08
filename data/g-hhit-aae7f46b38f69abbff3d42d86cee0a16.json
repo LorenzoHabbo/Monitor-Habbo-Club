@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥S.L.F¥",
     "habboFigure": "hr-170-42.hd-3845-10.ch-3683-1408-1408.lg-4092-91.sh-300-64.ca-1812.wa-2007",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-80.lg-285-64.sh-3524-1408-64.he-5088.fa-3276-73.cc-5810-1408",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-36.hd-209-1370.ch-5830-85.lg-3023-64.sh-906-1408.ha-5832-88.he-1601.cp-3119-88",
