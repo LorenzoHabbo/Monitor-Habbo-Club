@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sbagliando si Impara Vendo dipinti",
     "habboFigure": "hr-5773-39.hd-4383-10-1359.ch-5917-92.lg-5974-110-110.he-6103-1410.fa-3276-1326",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Forcellano 41 bis",
     "habboFigure": "hr-4370-61.hd-209-1391.ch-230-110.lg-4138-1336.sh-4112-1336-1321.ha-5378-93-92.he-5279.ca-1816.cc-4979-110",
@@ -9320,7 +9320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Combatti!! Sempre...",
     "habboFigure": "hr-3871-42.hd-3845-10.ch-4025-64-1408.lg-4017-1408-1408.sh-4016-64-64.ea-3388-64-64.fa-4014-64-1408.ca-3916-64-64.cc-3389-64-64",
