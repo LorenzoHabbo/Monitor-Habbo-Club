@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GET MY NAME TATTED :D",
     "habboFigure": "hr-4117-45-45.hd-205-10.ch-225-1408.lg-275-1408.sh-906-1408.he-3884-1408-1408.ea-3727.fa-5467.ca-3876-91-64.cc-260-1408",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Now our rainbow, is gone. ~Oblivion",
     "habboFigure": "hr-5579-40.hd-615-1.ch-665-1408.lg-710-82.sh-725-1408.ha-3613-64.ea-5897-64-64.fa-5467.cc-5926-64-1408",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-5791-31.hd-180-1.ch-3342-1408-1408.lg-281-1408.sh-5247-1408-1408.ha-6198.ea-3978-1408-1408.fa-3276-72.ca-3485.cc-5800-1408-1408",
