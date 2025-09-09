@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-49.hd-180-2.ch-6179-92.lg-3502-92.sh-6182.ha-6209.he-6173-1412.fa-5600-92.ca-5026-92",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Now our rainbow, is gone. ~Oblivion",
     "habboFigure": "hr-5619-49.hd-600-28.ch-824-110.lg-3596-110-110.he-3070-110.cc-5926-1427-92",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-1320-110.lg-3502-1326.sh-4159-1320-1408.ha-6209.he-6173-1327.ea-5626-1408.ca-6207.wa-5986-63.cc-6178-63",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-4117-40-40.hd-3845-10.ch-5607-1408.lg-3418-1408.ha-3709.fa-3276-90.ca-4037-1408-1408",
