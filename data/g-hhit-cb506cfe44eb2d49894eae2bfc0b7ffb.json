@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~",
     "habboFigure": "hr-4162-42.hd-3604-1.ch-5488-68.lg-3460.ha-3620.he-1601.fa-1202-68.ca-1806-68.cc-5826-68",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-155-31.hd-209-14.ch-210-1408.lg-280-88.sh-908-1408.ha-1020.he-1608.cc-5800-64-64",
@@ -3920,7 +3920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
