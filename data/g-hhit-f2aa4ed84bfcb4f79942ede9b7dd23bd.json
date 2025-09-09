@@ -110,10 +110,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-3746-1404.hd-190-2.ch-3208-1416-92.lg-275-1413.sh-3206-92.ea-3169-110.fa-3344-1409",
+    "habboFigure": "hr-3746-1404.hd-190-2.ch-3030-1415.lg-275-84.sh-3206-92.ea-3169-110.fa-3344-1409",
     "memberSince": "2005-11-12T15:30:30.000+00:00",
     "uniqueId": "hhit-9b579c3fd9be39b70887d8f725aa9775",
     "name": "sciaviddu",
@@ -7680,7 +7680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-255-1408.lg-280-64.sh-908-1408.he-1608.ea-1404-64.ca-3799-64-73",
