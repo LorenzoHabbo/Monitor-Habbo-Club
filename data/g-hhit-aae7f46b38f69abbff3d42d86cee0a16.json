@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-615-28.ch-3881-110.lg-3006-92-1408.sh-5803-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-92-92",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-91.lg-5594-1408.sh-906-64.ca-5635-1408-1408",
