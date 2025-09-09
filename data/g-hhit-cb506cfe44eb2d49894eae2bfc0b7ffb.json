@@ -740,10 +740,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SCIAMN. #GGDGG",
-    "habboFigure": "hr-3657-45.hd-205-1370.ch-3342-85-91.lg-280-91.sh-3068-1320-85.ea-1404-64.fa-5636-91.ca-3410-66.cc-5926-90-88",
+    "habboFigure": "hr-5971-45.hd-205-1.ch-3342-85-85.lg-280-91.sh-3068-1320-85.fa-5601-1320.ca-3410-66.cc-5926-90-88",
     "memberSince": "2010-12-01T13:13:46.000+00:00",
     "uniqueId": "hhit-dd751684352a9f8dceb02644e71c687e",
     "name": "-:giggi:-",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-80.sh-4112-1320-1408.ea-5897-64-1408.ca-5768-1320-1320.cc-4979-1320.cp-3284-1320",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-59.hd-5913-8.ch-3598-93-110.lg-5970-1338.sh-6064-110-110.ea-3168-63",
@@ -5090,7 +5090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "potius sero quam numquam!",
     "habboFigure": "hr-5914-45-1342.hd-4383-1390-30.ch-3809-110-92.lg-4167-110.sh-5671-92.ha-1013-71.he-3069-1410-1408",
