@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "OLD SCHOOL |",
     "habboFigure": "hr-5773-36.hd-190-8.ch-4361-90-1408.lg-3596-64-64.ha-1004-90.he-3560.fa-3276-73",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Oratore sacro the100  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
@@ -3711,9 +3711,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "apprendista scelto GD",
-    "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-71.lg-3078-81.sh-3524-64-1408.cc-3917-64",
+    "habboFigure": "hr-540-36.hd-600-10.ch-685-73.lg-696-64.he-3329-72-72.ea-3726.fa-5601-1408",
     "memberSince": "2024-08-18T15:11:21.000+00:00",
     "uniqueId": "hhit-6a441a2a4e98e3c16d2b7304d4218797",
     "name": "Andrea1995O",
