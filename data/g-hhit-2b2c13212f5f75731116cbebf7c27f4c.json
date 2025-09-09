@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "in fuga dalla virtualità",
     "habboFigure": "hr-165-45.hd-180-1.ch-3840-1408-1408.lg-3088-64-82.sh-3068-1408-91.ca-3503-64",
@@ -700,10 +700,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Si vis pacem , para bellum",
-    "habboFigure": "hr-5275-37.hd-180-10.ch-230-90.lg-3290-81.sh-3524-68-1408",
+    "habboFigure": "hr-5275-37.hd-180-10.ch-3030-83.lg-3290-82.sh-3524-68-1408",
     "memberSince": "2009-11-03T22:08:09.000+00:00",
     "uniqueId": "hhit-f579b10b6f847f15ffbf6c2507621d87",
     "name": "DemonScary",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-545-36.hd-629-8.ch-3505-1320-1408.lg-3023-91.sh-735-1320.ca-1802",
@@ -6800,7 +6800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
