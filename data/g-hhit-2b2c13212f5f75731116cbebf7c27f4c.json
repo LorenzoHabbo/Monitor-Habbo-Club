@@ -1990,7 +1990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-165-36.hd-209-1.ch-3030-85.lg-3078-91.sh-3524-64-1408",
@@ -3330,9 +3330,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "apprendista novello g.d.",
+    "motto": "",
     "habboFigure": "hr-3339-48.hd-629-14.ch-640-81.lg-3088-64-1408.sh-906-64.ca-1801-1408",
     "memberSince": "2015-07-24T21:14:04.000+00:00",
     "uniqueId": "hhit-464ffddb4e04e4c78112867ac5e6e2ef",
@@ -5680,7 +5680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "aprendista novello g.d",
     "habboFigure": "hr-5503-35.hd-628-14.ch-4110-80.lg-3078-81.sh-3068-1408-1408.he-1608",
@@ -6800,7 +6800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
