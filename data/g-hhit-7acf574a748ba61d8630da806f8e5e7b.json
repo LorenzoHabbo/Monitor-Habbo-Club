@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miaƒ",
     "habboFigure": "hr-6063-59.hd-5913-8.ch-3598-93-110.lg-5970-1338.sh-6064-110-110.ea-3168-63",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-49-40.hd-3845-7.ch-6179-1415.lg-5594-110.sh-6182.ha-5087.he-5088.fa-5624-92.ca-6207.cc-6184-110",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-4383-10-1372.ch-5921-110-110.lg-5594-92.sh-6182.he-3740.ca-3885-1410-110.wa-6165-1410.cc-5926-110-110",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideOutClub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
@@ -3713,7 +3713,7 @@
     "online": false,
     "gender": "m",
     "motto": "apprendista scelto GD",
-    "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-88.lg-3078-82.sh-3524-1408-1408.he-3324-64-73.cc-3917-64",
+    "habboFigure": "hr-165-34.hd-209-19.ch-3030-1408.lg-285-82.sh-906-64.ea-1406.wa-2002",
     "memberSince": "2024-08-18T15:11:21.000+00:00",
     "uniqueId": "hhit-6a441a2a4e98e3c16d2b7304d4218797",
     "name": "Andrea1995O",
@@ -4170,7 +4170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-90.lg-3216-64.sh-907-64.he-3274-90",
