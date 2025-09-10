@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Colpa della nostalgia, ricordi?|",
     "habboFigure": "hr-5791-1401.hd-3095-3.ch-235-92.lg-270-110.sh-3089-73.he-3070-92.ea-3169-73.fa-1204.cc-5926-1330-1408",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -680,10 +680,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-5594-64.sh-3693-1409-1325",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-3483-64-1408.sh-908-1408.he-3070-92.ea-1404-110.cc-5810-64",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -833,7 +833,7 @@
     "online": true,
     "gender": "m",
     "motto": "Mangiati un crikey che ti passa",
-    "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
+    "habboFigure": "hr-3977-49.hd-180-28.ch-5488-103.lg-3136-71.ha-3494-110-1408.he-3740.ea-3169-110",
     "memberSince": "2011-03-21T19:34:12.000+00:00",
     "uniqueId": "hhit-1dfb91044a02da3bb2708e05be09ebf6",
     "name": ".Mestruato.",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-TOAPK",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "G.M.HIH  Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
