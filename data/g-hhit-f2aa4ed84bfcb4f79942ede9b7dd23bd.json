@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-49.hd-180-2.ch-6179-92.lg-3502-92.sh-6182.ha-6209.he-6173-1412.fa-5600-92.ca-5026-92",
@@ -7440,7 +7440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -7673,7 +7673,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-893-42.hd-180-1370.ch-255-1408.lg-280-64.sh-908-1408.he-1608.ea-1404-64.ca-3799-64-73",
+    "habboFigure": "hr-893-42.hd-180-1370.ch-255-73.lg-280-64.sh-908-1408.he-1608.ea-1404-64.ca-3799-64-73",
     "memberSince": "2014-03-15T21:28:59.000+00:00",
     "uniqueId": "hhit-bc8f78c13efa0fc2cefa94d304153579",
     "name": "Ghenso",
@@ -9380,7 +9380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
