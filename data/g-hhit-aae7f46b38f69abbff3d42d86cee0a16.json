@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-84-84.lg-275-80",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
     "habboFigure": "hr-5544-42-55.hd-3099-22.ch-3045-101.lg-4369-110-95.sh-3089-101.he-3070-103.ea-3169-110.cc-5926-64-1422",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
