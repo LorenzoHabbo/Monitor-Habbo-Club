@@ -540,10 +540,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4363-49-49.hd-600-28.ch-5607-110.lg-3502-110.sh-5803-92.ha-5620-1337.he-5808-92.fa-5467.cc-5800-1337-1337",
+    "habboFigure": "hr-5606-52-52.hd-600-28.ch-660-1320.lg-710-77.sh-3206-92.he-3070-92.ea-1404-110.fa-5467.ca-3876-1325-1325",
     "memberSince": "2011-08-12T23:33:33.000+00:00",
     "uniqueId": "hhit-96477e0e09cff7aeeecf335cecd90cb7",
     "name": "folklore",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
