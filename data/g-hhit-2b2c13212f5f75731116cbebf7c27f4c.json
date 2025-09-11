@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-6044.wa-3263-110-1320.cc-3509-82-1408",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-5351-71-73.lg-3483-81-81.he-3274-71.ca-5635-71-1408",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-4941-1395-1395.hd-6159-1391-22.ch-6179-1408.lg-3320-92-1408.sh-3587-1410-1408.ha-6195.fa-3344-1325.ca-5026-92.cc-6200-1410-110",
@@ -2683,7 +2683,7 @@
     "online": false,
     "gender": "m",
     "motto": "ªAmbasciatore G.D.ª",
-    "habboFigure": "hr-5306-1401-61.hd-3721-22.ch-6177-92-1408.lg-3136-92.sh-6182.he-3081-92.ca-6207.cc-6175-100",
+    "habboFigure": "hr-5306-1401-61.hd-3721-22.ch-6177-110-100.lg-3136-92.sh-6182.he-3081-92.ca-6207.cc-6175-100",
     "memberSince": "2013-03-14T11:19:09.000+00:00",
     "uniqueId": "hhit-e1d362604f2965f2fdfea9b984d75921",
     "name": ".:Asmodeus:.",
@@ -3710,7 +3710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novella G.D",
     "habboFigure": "hr-4117-1343-1343.hd-600-10.ch-3266-110-1408.lg-3267-110-110.sh-3383-110-1408.he-6082-63-1408",
@@ -4080,7 +4080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-802-39.hd-180-1.ch-875-1408-1408.lg-285-64.sh-305-64.ca-3425-66-64.wa-2009-64.cc-260-73",
@@ -5217,6 +5217,16 @@
     "memberSince": "2019-12-22T18:38:25.000+00:00",
     "uniqueId": "hhit-d3174e6d75b10056364e9d29d04cda55",
     "name": "onea1234",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "apprendista novello G.D",
+    "habboFigure": "hr-170-45.hd-208-10.ch-809-76.lg-270-90.sh-906-90.fa-1205-91.cc-3280-91-1408",
+    "memberSince": "2019-12-28T17:48:41.000+00:00",
+    "uniqueId": "hhit-099d16e63545cc34840dd651822c5850",
+    "name": "Rub3usHagrid",
     "isAdmin": false
   },
   {
@@ -6810,7 +6820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.wa-4317-1408.cc-6175-82",
@@ -9370,7 +9380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-4163-1-30.ch-6060-64-64.lg-5974-64-64.sh-5355.ha-3620.fa-5467.wa-5599-64-64.cc-5461-80-71",
@@ -9700,7 +9710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Aiutante G.D",
     "habboFigure": "hd-209-1.ch-220-64.lg-285-64.sh-300-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2012",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-27T03:21:56.000+00:00",
     "uniqueId": "hhit-274a4b619eeeaa76a654b2a41af1d867",
     "name": "mariaee",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-540-37.hd-629-1.ch-665-1408.lg-3078-81.sh-740-1408.he-1608.ea-1401-64.fa-3276-72.ca-1812.cp-3126-72",
-    "memberSince": "2023-10-27T07:31:35.000+00:00",
-    "uniqueId": "hhit-fe8d1285ca1d3702ec91c27dc694e728",
-    "name": "Fla97",
     "isAdmin": false
   }
 ]
