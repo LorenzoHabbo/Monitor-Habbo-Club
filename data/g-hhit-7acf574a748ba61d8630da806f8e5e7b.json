@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3785-1403.hd-3721-2.ch-5830-110.lg-5594-110.sh-6182.ha-5169-96.he-3070-92.fa-5982-110.ca-5026-92.cc-6178-110.cp-3311-110",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Matta da legare*",
     "habboFigure": "hr-836-1403.hd-600-10.ch-3689-98.lg-5927-110-98.sh-5308-92.ha-6209.he-6173-64.ea-5576-63-1408.fa-5467.ca-3225-1408-110",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sognarti come non ti sogno mai",
     "habboFigure": "hr-5791-40.hd-208-1.ch-3506-1408-1408.lg-285-82.sh-3068-64-1408.he-5088.ea-3484.ca-1819.wa-3773-82.cc-5951-82",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "||",
     "habboFigure": "hr-4352-61.hd-600-10.ch-4368-1327.lg-5594-82.sh-3619-98-89.he-5314-98-98.ca-6128.cc-5611-98",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-49.hd-3845-8.ch-5833-110-92.lg-3202-110-110.sh-5247-92-92.he-5348",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Allora go",
     "habboFigure": "hr-4216-47-40.hd-5913-1.ch-4166-85-1408.lg-5970-81.sh-730-85.he-5765-72.fa-5467.ca-5454-84",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-34.hd-205-13.ch-210-110.lg-3201-110-110.sh-305-92.ha-4027-110-92.ca-3844-110-110",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-45.hd-600-2.ch-4128-1337-92.lg-3502-92.sh-5803-92.he-5808-110.fa-5467.ca-3828-1337-92",
