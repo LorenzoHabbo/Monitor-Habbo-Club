@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-3840-81-1408.lg-3116-81-1408.sh-295-81.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mangiati un crikey che ti passa",
     "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Non puoi scappare dal tuo passato",
     "habboFigure": "hr-828-61.hd-180-17.ch-215-92.lg-285-82.sh-6182.ha-6080.he-3070-66.fa-3276-91.ca-5635-66-66.cc-6184-73",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE ceo plug",
     "habboFigure": "hr-3664-35.hd-208-10.ch-3808-71-64.lg-5970-71.sh-6181-64.he-6173-71.fa-4058-1408.ca-5049-64.wa-4060-64-64",
