@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-4165-81-1408.lg-4167-81.sh-906-92.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-37-31.hd-180-1370.ch-210-1408.lg-3337-1408.sh-3338-1408.ea-3639.cc-3928",
@@ -490,10 +490,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Now our rainbow, is gone. ~Oblivion",
-    "habboFigure": "hr-6083-49.hd-615-28.ch-3183.lg-3596-110-110.ha-1012-110.cc-3515-110-92",
+    "habboFigure": "hr-6083-49.hd-615-28.ch-824-110.lg-3596-110-110.he-1609-110",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
