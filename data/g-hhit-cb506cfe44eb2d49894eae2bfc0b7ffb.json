@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-1403.hd-3536-10-10.ch-6062-1326-1326.lg-720-1326.sh-3587-92-92.ha-5511.he-5827-1326-1326.ea-4987.fa-5435.cc-4300-1326-1408",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Dino Ingegnere",
     "habboFigure": "hr-3278-1403-1396.hd-3091-1.ch-3432-110-89.lg-3434-110-89.sh-3435-110-89.ha-3431-110-89.he-3295-1410-1408.ca-3175-1321",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-255-71.lg-280-64.sh-908-1408.he-1608.ea-1404-64.ca-3799-64-73",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-3426-1408-82.fa-3344-91",
@@ -1783,7 +1783,7 @@
     "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
-    "habboFigure": "hr-5544-1403-1404.hd-3099-22.ch-885-77-1341.lg-3136-110.sh-3180-78-1425.he-3070-77.ea-3169-110.ca-1815-1425.cc-5926-1426-1422",
+    "habboFigure": "hr-5544-1407-41.hd-3099-10.ch-3046-92.lg-3078-77.sh-3016-1412.ha-3130-1412-92.he-3070-93.ea-3169-110.ca-1816.cc-5926-66-1408",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE ceo plug",
     "habboFigure": "hr-3664-35.hd-208-10.ch-3808-71-64.lg-5970-71.sh-6181-64.he-6173-71.fa-4058-1408.ca-5049-64.wa-4060-64-64",
