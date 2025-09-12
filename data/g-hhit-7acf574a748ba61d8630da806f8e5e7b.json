@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1002,7 +1002,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "",
+    "motto": "|",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
     "memberSince": "2012-01-15T12:48:10.000+00:00",
     "uniqueId": "hhit-789bd2ac42e137936e5bd4c7aad8fa03",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-3361-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-3389-82-73",
@@ -1413,7 +1413,7 @@
     "online": true,
     "gender": "m",
     "motto": "Non puoi scappare dal tuo passato",
-    "habboFigure": "hr-3829-49.hd-180-17.ch-210-92.lg-285-1338.sh-6182.ha-6195.he-3070-66.fa-3276-91.ca-5983-1320",
+    "habboFigure": "hr-828-49.hd-180-17.ch-215-92.lg-285-82.sh-6182.ha-6195.he-3070-66.fa-3276-91.cc-6184-73",
     "memberSince": "2015-11-29T16:34:27.000+00:00",
     "uniqueId": "hhit-bca96ef263ef3ba26ea9ea1de0051266",
     "name": "You-sri",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
