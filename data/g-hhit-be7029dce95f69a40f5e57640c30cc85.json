@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3860-1403-1404.hd-3721-2.ch-3934-110-110.lg-4114-92-110.sh-5242-1331.ha-3855-110.he-6173-1408.fa-4044.ca-3844-64-1331.cc-3867-1428-1427",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.cc-5826-92",
@@ -4980,7 +4980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dir. Tecnico",
     "habboFigure": "hd-3092-1387.ch-3203-63.lg-3078-110.sh-3252-66-110.ha-5304-110-110.fa-1209-110",
@@ -6520,7 +6520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Farfalle nello stomaco.",
     "habboFigure": "hr-4024-1344.hd-3095-1389.ch-3788-106.lg-3057-92.sh-3524-106-92.ha-5417.ca-4037-1321-1323.cc-6115-106-95",
@@ -8960,16 +8960,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "loyalty",
-    "habboFigure": "hr-3829-37.hd-190-1370.ch-235-91.lg-270-64.sh-3524-1408-1408",
-    "memberSince": "2015-07-28T16:11:35.000+00:00",
-    "uniqueId": "hhit-2018ff5611300b04f11f359b3e4ab8bf",
-    "name": "MachineGun00",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "f",
     "motto": "amour |||",
@@ -9880,7 +9870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒ — |",
     "habboFigure": "hr-4343-44-40.hd-4163-1-14.ch-3517-1408-73.lg-695-1408.sh-3524-74-64",
@@ -9997,6 +9987,16 @@
     "memberSince": "2016-05-14T16:24:47.000+00:00",
     "uniqueId": "hhit-5a9c31287d16ec650bb88c3695d569c6",
     "name": "Jokay",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "º sacerdotessa di guerra masarez º",
+    "habboFigure": "hr-3673-44.hd-629-1370.ch-655-1408.lg-705-1408.sh-730-1408.he-1608.wa-2011",
+    "memberSince": "2016-05-18T13:34:08.000+00:00",
+    "uniqueId": "hhit-5890ef6806a1ade6f0aa07d95ca9f855",
+    "name": "blackeyra",
     "isAdmin": false
   }
 ]
