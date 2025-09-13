@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-4165-81-1408.lg-4167-81.sh-906-92.ha-3494-81-1408.he-1608.fa-1201.wa-5123-81.cp-3125-81",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-5559-77.lg-5594-77.sh-6182.he-3740.ea-3169-64.fa-3993-110.ca-5381-1410.cc-5926-110-110",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto GD",
     "habboFigure": "hr-3829-40.hd-3604-10.ch-5608-90.lg-3078-82.sh-3524-64-64.fa-5601-68.cc-3917-64",
