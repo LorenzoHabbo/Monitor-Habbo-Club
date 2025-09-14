@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.sh-6181-91.wa-4317-1408.cc-6175-82",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Acida come un limone.",
     "habboFigure": "hr-4117-47-48.hd-627-1.ch-665-1408.lg-3526-81-1408.ha-3709.cc-5926-64-1408",
