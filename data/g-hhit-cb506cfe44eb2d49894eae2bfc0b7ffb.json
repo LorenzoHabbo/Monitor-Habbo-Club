@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-3426-1408-82.fa-3344-91",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
