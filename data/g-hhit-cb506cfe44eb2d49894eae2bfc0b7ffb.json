@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-1395-40.hd-4383-10-14.ch-5921-1326-1408.lg-4066-110.sh-3206-96.he-5348",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mangiati un crikey che ti passa",
     "habboFigure": "hr-3163-49.hd-180-28.ch-3015-1330.lg-275-110.ha-3952.he-3070-110.ea-3169-110.fa-1212.ca-3883",
@@ -3320,7 +3320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-1.ch-210-1408.lg-280-64.sh-305-1408.ha-1002-73.he-3833-71.ea-3925-64-71.fa-5624-73.cc-5077-73",
