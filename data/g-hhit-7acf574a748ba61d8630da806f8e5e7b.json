@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vita é una",
     "habboFigure": "hr-893-49.hd-3092-2.ch-235-110.lg-270-110.sh-295-100.ha-3620.he-3070-92.ea-3169-110.fa-1201.ca-1801-92.cc-5951-100",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-6180-92.lg-3047-1336.sh-6182.he-6183.ca-4937.cc-6184-96",
@@ -3580,7 +3580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
