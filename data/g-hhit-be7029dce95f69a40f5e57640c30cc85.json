@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Since'07/",
     "habboFigure": "hr-4352-45.hd-3845-1.ch-635-91.lg-715-91.sh-3338-68.ha-6091.fa-3276-73.ca-4344-64.cc-4300-91-66",
@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I Belong To Jesus",
     "habboFigure": "hr-4117-45-45.hd-205-10.ch-225-64.lg-275-1408.sh-906-1408.ha-1018.ea-3727.fa-5467.ca-3876-91-91",
@@ -9300,7 +9300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Combatti!! Sempre... (pianista)",
     "habboFigure": "hr-3871-42.hd-3845-10.ch-4025-64-1408.lg-4017-1408-1408.sh-4016-64-64.ea-3388-64-64.fa-3378-64-1408.cc-3522-64-64",
