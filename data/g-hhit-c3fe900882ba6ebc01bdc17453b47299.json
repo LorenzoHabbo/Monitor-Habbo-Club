@@ -70,10 +70,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!",
-    "habboFigure": "hr-3531-34-40.hd-180-14.ch-225-72.lg-270-72.sh-300-1408.ea-1404-64.fa-3462-1320",
+    "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
     "memberSince": "2007-07-14T10:44:39.000+00:00",
     "uniqueId": "hhit-9001c52e109340adb1c7d1469513716a",
     "name": "rei97",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "dici il cuore è difettoso non sa amare",
     "habboFigure": "hr-3852-42.hd-615-10.ch-665-1408.lg-710-64.sh-5803-1408.he-3891.fa-3276-73",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-3852-1351.hd-600-10.ch-5351-110-110.lg-3198-110.fa-3276-72.cc-5800-82-82",

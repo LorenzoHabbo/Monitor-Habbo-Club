@@ -400,10 +400,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!",
-    "habboFigure": "hr-3531-34-40.hd-180-14.ch-225-72.lg-270-72.sh-300-1408.ea-1404-64.fa-3462-1320",
+    "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
     "memberSince": "2007-07-14T10:44:39.000+00:00",
     "uniqueId": "hhit-9001c52e109340adb1c7d1469513716a",
     "name": "rei97",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono BATMAN",
     "habboFigure": "hd-5522-1-14.ch-5452-66-1408.lg-3116-1408-1408.sh-5551.he-3550.fa-5624-1408.ca-5550.wa-2007.cc-5622",
@@ -7063,7 +7063,7 @@
     "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA",
-    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-225-72.lg-270-72.sh-300-1408.ha-3586.fa-5975",
+    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3586.fa-5975.cc-6077",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -9390,7 +9390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
