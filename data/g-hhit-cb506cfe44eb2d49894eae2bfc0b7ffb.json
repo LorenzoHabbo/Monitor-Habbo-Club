@@ -503,7 +503,7 @@
     "online": true,
     "gender": "m",
     "motto": "FONDATORE - SUPERVISORE GENERALE G.S.",
-    "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-1209-1430.ca-5051-110-1430.wa-2011.cc-5826-72",
+    "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-1209-1430.ca-1807.wa-2011.cc-5826-72",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mi piacciono i Codici e saaas",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-5139-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -5080,7 +5080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "potius sero quam numquam!",
     "habboFigure": "hr-5914-45-1342.hd-4383-1390-1371.ch-3045-1430.lg-4167-110.sh-5671-92.ha-1013-110.he-3069-1410-66.fa-1209-1430.cc-6119",
