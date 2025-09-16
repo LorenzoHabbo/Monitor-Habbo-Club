@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alla fine ne uscirai.",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -6700,7 +6700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "I'm a tiny builder ƒ",
     "habboFigure": "hr-4186-1342.hd-3631-10-30.ch-650-92.lg-3526-1426-77.sh-5308-1408.he-3324-64-1408.fa-3276-72.cc-3515-1338-1338",
@@ -9300,7 +9300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Combatti!! Sempre... (vivi)",
     "habboFigure": "hr-3871-42.hd-3845-10.ch-4025-64-1408.lg-4017-1408-1408.sh-4016-64-64.ea-3388-64-64.fa-3378-64-1408.cc-3522-64-64",
