@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Colpa della nostalgia, ricordi?",
     "habboFigure": "hr-5791-1401.hd-3095-3.ch-235-92.lg-270-110.sh-3089-73.he-3070-92.fa-1204.cc-5926-1330-1408",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
