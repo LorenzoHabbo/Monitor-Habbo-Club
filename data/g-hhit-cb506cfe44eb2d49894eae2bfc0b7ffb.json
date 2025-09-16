@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-40.hd-209-8.ch-235-85.lg-281-85.sh-300-64.ha-5852.he-1608.fa-1201.ca-5916-82-64",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hd-180-1370.ch-4165-81-1408.lg-4167-81.sh-906-92.ha-3494-81-1408.he-1608.fa-5601-1408.wa-5123-81.cp-3125-81",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "× ªNon× ªPlayabe× ªCharacter× ª× ‘",
     "habboFigure": "hr-828-61.hd-205-22.ch-255-110.lg-275-1408.ea-3169-110",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-61.hd-205-28.ch-3001-92-92.lg-280-110.sh-290-92.ha-3656.he-3070-92.fa-5601-92",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-80.sh-4112-1320-1408.ha-3986.ea-5897-64-1408.ca-5768-1320-73.cc-4979-1320.cp-3284-1320",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-34.hd-180-14.ch-804-1408.lg-280-64.sh-300-1408",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "l\\_/l\"\"\"'\"\\_====_ \\_(‡).__I_.(‡)_]",
     "habboFigure": "hr-4193-36.hd-180-30.ch-3432-66-91.lg-3290-64.ha-4192.he-6019.ea-1404-66.fa-4013.cc-3509-64-66",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-650-92.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-3692-105-92",
@@ -1780,10 +1780,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
-    "habboFigure": "hr-5544-52-52.hd-3099-10.ch-3046-92.lg-3078-77.sh-3016-1412.ha-3130-1412-92.he-3070-93.ea-3169-110.ca-1816.cc-5926-66-1408",
+    "habboFigure": "hr-5544-42-41.hd-3099-10.ch-3045-1413.lg-3192-110.sh-3180-1410-1336.he-3070-93.ea-3169-110.cc-5926-77-1335",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-6173-1330.ea-5576-1409-89.cc-5926-82-89",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Decime G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-4165-81-81.lg-4167-81.sh-300-81.ha-3494-81-1408.ea-3484",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.sh-6181-91.wa-4317-1408.cc-6175-82",
@@ -3953,7 +3953,7 @@
     "online": true,
     "gender": "m",
     "motto": "i'm blessed",
-    "habboFigure": "hr-3163-1342.hd-205-17.ch-215-92.lg-5594-1428.sh-305-92.he-3740.cc-5800-1411-1411",
+    "habboFigure": "hr-3163-1342.hd-205-22.ch-805-1428.lg-280-1428.sh-305-92.he-3740.ca-3844-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4290,10 +4290,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ammucchitilli quattru.",
-    "habboFigure": "hr-6083-1404.hd-615-2.ch-3165-64.lg-3006-64-110.sh-6181-89.ha-3144-89-64.he-3070-92.fa-3276-72.ca-5635-92-92.cc-4091-64.cp-3207-110-110",
+    "habboFigure": "hr-6083-1404.hd-615-2.ch-655-92.lg-5594-1426.sh-6181-92.ha-3144-89-1338.he-3070-92.fa-3276-72.ca-5635-92-1426",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
