@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-4111-92.lg-280-110.sh-906-92.ha-4132.he-1608.fa-5624-96.ca-1816.wa-5123-110.cp-3125-110",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥ ª Old Club Boy ª ¥",
     "habboFigure": "hr-3800-48-48.hd-180-10.ch-3806-91.lg-285-80.sh-3524-91-91.cc-3827-91-91",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-4941-1395-1395.hd-6159-1391-22.ch-6179-1408.lg-3320-92-1408.sh-3587-1410-1408.ha-5532-106.fa-3344-1325.ca-5026-92.cc-6178-1408",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ | Vecchietto The Hundred | ¥ Papa",
     "habboFigure": "hr-828-49.hd-3091-1370.ch-4165-110-92.lg-3320-110-92.sh-3016-110.ea-3169-110.fa-3344-92.wa-2001.cc-3075-110",
@@ -5373,7 +5373,7 @@
     "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
-    "habboFigure": "hr-835-42.hd-605-28.ch-635-72.lg-695-72.sh-735-1408.ha-3272-1430-1321.he-3081-92.fa-3276-66",
+    "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93",
     "memberSince": "2020-03-26T19:37:50.000+00:00",
     "uniqueId": "hhit-0f111a42a97a3c90e719659bbefe6715",
     "name": "giu.ntura",

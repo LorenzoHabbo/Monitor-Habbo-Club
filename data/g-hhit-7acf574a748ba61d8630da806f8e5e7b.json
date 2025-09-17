@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-4111-92.lg-280-110.sh-906-92.ha-4132.he-1608.fa-5624-96.ca-1816.wa-5123-110.cp-3125-110",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2250,9 +2250,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "R6 emerald player   //   TRM supporter",
+    "motto": "",
     "habboFigure": "hr-3860-49-49.hd-5316-2-1365.ch-3668-110-92.lg-5265.sh-5639.ha-6198.he-5828.ea-5392.fa-5948-1408.ca-5574-110-1412.cc-5690-110",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
@@ -3690,10 +3690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
-    "habboFigure": "hr-6083-45.hd-600-2.ch-635-72.lg-695-72.sh-735-1408.he-5808-110.fa-5467",
+    "habboFigure": "hr-6083-45.hd-600-2.ch-4128-1337-92.lg-3502-92.sh-5803-92.he-5808-110.fa-5467.ca-3828-1337-92",
     "memberSince": "2024-08-17T12:10:12.000+00:00",
     "uniqueId": "hhit-74b22a55b8b6f940108378015b21203c",
     "name": "Bisou",
@@ -4160,7 +4160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-68.lg-3216-64.sh-907-64.he-3274-68",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "the hundred guardia esperta",
     "habboFigure": "hr-5773-1395.hd-4163-2-1369.ch-5560-92-110.lg-5243-110.sh-6181-110.he-6173-1414.ea-5897-110-110.fa-3276-1413.ca-5934-92.cc-5926-1409-81",
