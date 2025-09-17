@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FONDATORE - SUPERVISORE GENERALE G.S.",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-1209-1430.ca-1807.wa-2011.cc-5826-72",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-64.lg-3116-63-1408.sh-908-92.he-3070-92.ea-1404-110.fa-5601-1408",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ea-3169-110",
@@ -1030,10 +1030,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
-    "habboFigure": "hd-180-8.ch-875-94-1408.lg-280-1419.sh-3524-110-1408.ea-5897-96-96.fa-1205-1408.ca-3916-75-75.cc-3827-94-1408",
+    "habboFigure": "hr-4141-49.hd-3094-28.ch-3987-110-1322.lg-3364-110-1322.sh-3206-93.ha-3986.ea-1402.fa-1205-92.ca-5916-110-1322.cc-5951-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1227,16 +1227,6 @@
     "memberSince": "2012-03-29T14:23:07.000+00:00",
     "uniqueId": "hhit-a0fe39e4bab21ac37e2f7e7c458a4dca",
     "name": "erik79",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "º Comandante G.D º roseboss amicona",
-    "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-80.sh-4112-1320-1408.ha-3986.ea-5897-64-1408.ca-5768-1320-73.cc-4979-1320.cp-3284-1320",
-    "memberSince": "2012-04-07T11:39:51.000+00:00",
-    "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
-    "name": "daniele03907",
     "isAdmin": false
   },
   {
@@ -1773,7 +1763,7 @@
     "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
-    "habboFigure": "hr-5544-42-41.hd-3099-28.ch-3046-110.lg-4369-110-92.sh-3180-110-1336.he-3070-93.ea-3169-110.fa-5467.cp-3315-1408",
+    "habboFigure": "hr-4117-1342-1342.hd-3099-28.ch-883-77-1338.lg-3192-1338.sh-3016-1331.he-3070-93.ea-3169-110.fa-5467.cc-5926-1409-1415",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -2030,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-6173-1330.ea-5576-1409-89.cc-5926-82-89",
@@ -2310,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Unicorn 190 BPM |",
     "habboFigure": "hr-4370-49.hd-180-8.ch-4961.lg-3078-93.sh-3154-93-110.ha-3653.ea-3484.fa-1201.ca-1816.cc-5800-110-93",
@@ -2800,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "null",
     "habboFigure": "hr-3829-45.hd-190-22.ch-5608-63.lg-3483-110-110.sh-4112-63-1408.ea-1404-110.fa-5601-73",
@@ -2840,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "..",
     "habboFigure": "hr-3673-1347.hd-3631-1-12.ch-6176-92-1410.lg-3134-73-1320.sh-6181-1410.ha-3709.ca-4378.cc-6175-77",
@@ -3310,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-1.ch-5596-1408.lg-280-64.sh-305-1408.he-3833-81.ea-3925-73-73.fa-5624-73",
@@ -3380,7 +3370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.sh-6181-91.wa-4317-1408.cc-6175-82",
@@ -3443,7 +3433,7 @@
     "online": false,
     "gender": "f",
     "motto": "A Sky Full of Stars ¥",
-    "habboFigure": "hr-5712-37.hd-600-1.ch-4392-1338-92.lg-4167-1338.sh-3035-93.he-6183.fa-5467",
+    "habboFigure": "hr-5712-37.hd-600-1.ch-6180-1408.lg-6000-1408.sh-6182.he-6183.fa-5467.cc-6184-73",
     "memberSince": "2022-04-02T17:06:21.000+00:00",
     "uniqueId": "hhit-16e6d33050ece7f42f39961b7c4ceca0",
     "name": "lava98",
@@ -3880,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-92.lg-275-92.sh-305-92.ea-1404-110.cc-3744-110-110",
@@ -3893,7 +3883,7 @@
     "online": true,
     "gender": "m",
     "motto": "FONDATORE - Tesoriere Grove Street",
-    "habboFigure": "hr-3281-1395.hd-3091-8.ch-4111-1430.lg-3058-1410.sh-3524-88-93.ha-3633.ea-3148-92-110.fa-1209-1430.cc-5942-110",
+    "habboFigure": "hr-3281-1395.hd-3091-8.ch-4111-1412.lg-3058-1410.sh-3524-88-93.ha-3633.ea-3148-92-110.fa-1209-1430.cc-5942-110",
     "memberSince": "2024-01-03T16:10:11.000+00:00",
     "uniqueId": "hhit-aaa0794797a780d602eb2d48b65acfed",
     "name": "Mr-Rich",
@@ -4430,7 +4420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE ceo plug",
     "habboFigure": "hr-3664-35.hd-208-10.ch-3808-71-64.lg-5970-71.sh-6181-64.he-6173-71.fa-4058-1408.ca-5049-64.wa-4060-64-64",

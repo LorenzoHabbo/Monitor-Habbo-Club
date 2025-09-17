@@ -83,7 +83,7 @@
     "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
-    "habboFigure": "hr-5619-49.hd-5684-28.ch-3367-92-92.lg-3364-110-110.sh-6181-110.ea-1402.fa-1209-110.ca-5028-110-64.wa-3366-110-64",
+    "habboFigure": "hr-5619-49.hd-5684-28.ch-3367-92-92.lg-3364-92-92.ea-1402.fa-1209-110.ca-5028-110-64.wa-3366-110-92",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5594-102.sh-5671-92.ha-3709",
@@ -1690,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-155-39.hd-209-1.ch-267-81.lg-275-73.sh-305-1408.ha-1002-64.ea-1401-80.ca-1802",
@@ -2293,7 +2293,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
-    "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-80.sh-4112-1320-1408.ha-3986.ea-5897-64-1408.ca-5768-1320-73.cc-4979-1320.cp-3284-1320",
+    "habboFigure": "hr-5275-34.hd-205-1.ch-3438-85-85.lg-5594-80.sh-4112-1320-1408.ha-3986.ea-5897-64-1408.ca-5768-1320-73.cc-4979-82.cp-3284-1320",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-4941-1395-1395.hd-6159-1391-22.ch-6179-1408.lg-3320-92-1408.sh-3587-1410-1408.ha-5532-106.fa-3344-1325.ca-5026-92.cc-6178-1408",
@@ -2783,7 +2783,7 @@
     "online": true,
     "gender": "m",
     "motto": "¥ | Vecchietto The Hundred | ¥ Papa",
-    "habboFigure": "hr-3278-49-49.hd-3091-1370.ch-4165-110-92.lg-4114-110-92.sh-3016-110.ea-3484.fa-3344-92.wa-3212-92-110.cc-3007-110-110",
+    "habboFigure": "hr-3278-49-40.hd-3093-1379.ch-3032-92-92.lg-3320-92-92.sh-3016-110.ea-3169-110.fa-3344-92.ca-1810.wa-2008.cc-3186-92",
     "memberSince": "2013-07-02T00:33:44.000+00:00",
     "uniqueId": "hhit-c2966288b24767b3a2dd81e160e5de1e",
     "name": "daniele4792",
@@ -5183,7 +5183,7 @@
     "online": true,
     "gender": "m",
     "motto": "Erede Ykz Sud",
-    "habboFigure": "hr-829-1356.hd-207-28.ch-3372-92-1408.lg-3365-110.sh-6181-110.ea-1402.fa-1209-110.wa-3366-110-92.cc-3946-110",
+    "habboFigure": "hr-828-49.hd-207-28.ch-3372-92-1408.lg-3365-110.sh-6181-110.ea-1402.fa-1209-110.wa-3366-110-92.cc-3946-110",
     "memberSince": "2019-12-06T23:40:43.000+00:00",
     "uniqueId": "hhit-6ca978dfd8d3c46bdfbea9cd78e4ca6b",
     "name": "Raikas",
@@ -5400,10 +5400,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato g.d",
-    "habboFigure": "hr-3791-45.hd-3845-10.ch-3528-84-1320.lg-3526-64-64.sh-3524-85-1408.he-3821-85-84.fa-3276-73.cc-5826-85",
+    "habboFigure": "hd-3845-10.ch-630-1408.lg-3526-64-64.fa-3276-73",
     "memberSince": "2020-04-02T16:39:38.000+00:00",
     "uniqueId": "hhit-55fb716821784c9a79cdf01561eb82ad",
     "name": "guest55170",
@@ -6713,7 +6713,7 @@
     "online": true,
     "gender": "f",
     "motto": "Apprendista Novello g.d.",
-    "habboFigure": "hr-3791-35.hd-629-1.ch-685-64.lg-705-64.sh-907-64.wa-2004-73",
+    "habboFigure": "hr-3791-35.hd-629-1.ch-884-74.lg-3216-74.sh-907-64",
     "memberSince": "2021-12-20T08:39:59.000+00:00",
     "uniqueId": "hhit-a6ee2573d919055543551b929b8deee3",
     "name": "Wiky.91",
@@ -6760,7 +6760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Gaijin YKZ",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-6180-92.lg-3047-1336.sh-907-96.he-6183.ca-4937.cc-6184-96",
@@ -6870,7 +6870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.sh-6181-91.wa-4317-1408.cc-6175-82",
@@ -8383,7 +8383,7 @@
     "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1p  G.d.",
-    "habboFigure": "hr-3810-39.hd-600-10.ch-4962.lg-695-64.sh-906-1408",
+    "habboFigure": "hr-3519-39-38.hd-600-10.ch-4158-73-1408.lg-695-64.sh-6181-73.ha-5620-73",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
     "name": "everblacknoemi",
@@ -9990,7 +9990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "demone guardiano di cerbero g.d.",
     "habboFigure": "hr-893-44.hd-209-19.ch-878-1408-64.lg-3078-64.he-1608.fa-1201.cp-3127-73",
