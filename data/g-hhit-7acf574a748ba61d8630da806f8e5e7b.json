@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-4111-92.lg-280-110.sh-906-92.ha-4132.he-1608.fa-5624-96.ca-1816.wa-5123-110.cp-3125-110",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-280-1320.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-66",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred guardia esperta",
     "habboFigure": "hr-5773-1395.hd-4163-2-1369.ch-5560-92-110.lg-5243-110.sh-6181-110.he-6173-1414.ea-5897-110-110.fa-3276-1413.ca-5934-92.cc-5926-1409-81",
