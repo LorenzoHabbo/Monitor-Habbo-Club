@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Enjoy the silence",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-5923-110-110.lg-3006-92-92.sh-3587-92-92.he-6103-110.fa-5435.cc-3542-92-92",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "× ªNon× ªPlayabe× ªCharacter× ª× ‘",
     "habboFigure": "hr-828-61.hd-205-22.ch-255-110.lg-275-1408.ea-3169-110",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "..",
     "habboFigure": "hr-3673-1347.hd-3631-1-12.ch-6176-92-1410.lg-3134-73-1320.sh-6181-1410.ha-3709.ca-4378.cc-6175-77",
