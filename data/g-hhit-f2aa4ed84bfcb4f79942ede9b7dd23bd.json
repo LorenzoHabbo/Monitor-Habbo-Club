@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The world is yours",
     "habboFigure": "hr-125-34.hd-190-19.ch-804-1408.lg-285-81.sh-290-1408.ha-1023-73.cc-3420-82",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Você me apareceu",
     "habboFigure": "hr-5331-34-34.hd-207-1370.ch-5856.lg-5226.sh-5803-1408.ha-5677-64.ea-5897-1408-1408.cc-4356",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Spaventapassere",
     "habboFigure": "hd-205-1370.ch-3030-1408.lg-275-1408.fa-3344-1408.cc-4091-1408",
@@ -8130,7 +8130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Roma non fu costruita in un giorno.",
     "habboFigure": "hr-891-49.hd-180-2.ch-3934-92-110.lg-5970-77.sh-6182.ha-1009-1410.ea-3575",
