@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "One Life|",
     "habboFigure": "hr-893-37.hd-209-1371.ch-6177-91-1408.lg-275-91.sh-295-91.he-4946-91.cc-6175-1408",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-3791-1399.hd-3100-8.ch-6029-110-96.lg-5594-92.sh-5671-92.ha-3709.cc-3373-110",
@@ -9870,7 +9870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-35.hd-629-1.ch-665-1408.lg-710-72.sh-906-1408.he-3274-72.wa-3210-72-72",
