@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FONDATORE - SUPERVISORE GENERALE G.S.",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-1209-1430.ca-1807.wa-2011.cc-5826-72",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ciaooo e arrivederci",
     "habboFigure": "hr-5617-1398-42.hd-600-10.ch-3013-1338.lg-5970-71.sh-3275-77.he-6082-1338-71.fa-3276-72.ca-3937",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
     "habboFigure": "hr-5544-42-41.hd-3099-28.ch-3046-110.lg-4369-110-92.sh-3180-110-1336.he-3070-93.ea-3169-110.fa-5467.cp-3315-1408",
