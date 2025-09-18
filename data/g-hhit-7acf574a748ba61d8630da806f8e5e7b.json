@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Corleone",
     "habboFigure": "hr-5503-45.hd-3845-1.ch-235-64.lg-3088-1408-64.sh-906-64.ha-1013-64.ea-1404-64.fa-3344-91.wa-3211-64-1408",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-64-64.lg-720-64.sh-5551.ha-6091.ca-6081-66.cc-5461-1408-1408",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-5559-77.lg-5594-77.sh-6182.he-3740.ea-3169-64.fa-3993-110.ca-5381-77.cc-5926-110-110",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -1423,7 +1423,7 @@
     "online": true,
     "gender": "f",
     "motto": "…",
-    "habboFigure": "hr-4363-1398-1398.hd-600-10.ch-6180-92.lg-3787-77-77.sh-6182.ha-3709.he-1608.fa-5467.ca-5381-106",
+    "habboFigure": "hr-4363-1403-1403.hd-3845-10.ch-3293-110-92.lg-3387-110-110.sh-5308-110.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -2680,7 +2680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Hello",
     "habboFigure": "hr-5841-1403.hd-5838-10-1367.ch-5856.lg-5594-82.sh-5868.he-5578-1427.ca-5738-92.cc-5926-110-1408",
@@ -4540,7 +4540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "barista esperta g.d",
     "habboFigure": "hr-6083-1342.hd-615-15.ch-883-110-1338.lg-710-1338.sh-3035-1338.ha-3156-1338.he-3070-92.ea-1405.fa-5601-110",
