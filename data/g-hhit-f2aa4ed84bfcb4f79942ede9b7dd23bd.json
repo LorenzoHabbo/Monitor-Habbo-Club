@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-3602-61-1349.hd-5696-10-1364.ch-3032-110-64.lg-275-1418.sh-5247-92-110.ha-6101-92.fa-5600-1415.ca-4130-110-63.cc-6050-110-1418.cp-3315-1418",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FRATELLO DEI GROOVE STREET¥",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-1209-1430.ca-1807.wa-2011.cc-5826-72",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SENTINELLA. SEMPLICE. G.D.",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-4111-92.lg-280-110.sh-906-92.ha-4132.he-1608.fa-5624-96.ca-1816.wa-5123-110.cp-3125-110",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-88I5H",
     "habboFigure": "hr-3260-61.hd-3103-1370.ch-5608-110.lg-3257-110.sh-3383-110-110.ea-1404-63",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ciaooo e arrivederci",
     "habboFigure": "hr-5617-1398-42.hd-600-10.ch-3013-1338.lg-5970-71.sh-3275-77.he-6082-1338-71.fa-3276-72.ca-3937",
