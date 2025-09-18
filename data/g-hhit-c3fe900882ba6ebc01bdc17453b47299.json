@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "BOT",
     "habboFigure": "hr-802-1404.hd-3721-26.ch-5559-110.lg-5594-1334.he-4946-1334.fa-1209-92.cc-3917-110",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.sh-6181-91.wa-4317-1408.cc-6175-82",
