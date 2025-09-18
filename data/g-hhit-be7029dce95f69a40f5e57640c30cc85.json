@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5608-73.lg-5594-80.sh-3524-64-1408.ha-5591.ca-5936-66.cc-5800-64-64",
@@ -6520,7 +6520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sbagliare è umano, perse.. è diabolico",
     "habboFigure": "hr-4024-1344.hd-3845-1389.ch-3788-106.lg-280-92.sh-3089-106.ha-3857-106-1408.he-4022.ca-4037-106-80.cc-6115-92-1413",
