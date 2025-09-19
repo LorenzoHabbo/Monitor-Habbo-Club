@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -2780,9 +2780,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "¥ | Vecchietto - The Hundred | ¥ Papa",
+    "motto": "¥ | Vecchietto - The Hundred | ¥(Papa)",
     "habboFigure": "hr-3278-49-40.hd-3093-1379.ch-3032-92-92.lg-3320-92-92.sh-3016-110.ea-3484.ca-1810.wa-2008.cc-3186-92",
     "memberSince": "2013-07-02T00:33:44.000+00:00",
     "uniqueId": "hhit-c2966288b24767b3a2dd81e160e5de1e",
@@ -3353,7 +3353,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
-    "habboFigure": "hd-4174-1393.ch-3203-1320.lg-3502-1320.sh-6181-90.ha-6101-110.fa-3296.ca-6081-64.cc-6178-63",
+    "habboFigure": "hd-190-14.ch-5488-102.lg-3502-1320.sh-295-1325.ha-6209.fa-1211.ca-6208",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -3903,7 +3903,7 @@
     "online": false,
     "gender": "f",
     "motto": "Sono Belle!! clone di !!belle",
-    "habboFigure": "hr-6055-1394-1394.hd-4383-10-1392.ch-6086-92-92.lg-4066-110.he-6103-92.fa-3276-1408.cc-3289-110",
+    "habboFigure": "hr-5773-1394.hd-4383-10-1392.ch-6086-92-92.lg-4066-110.he-6103-92.fa-3276-1408.cc-3289-110",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "eneide",
@@ -5370,7 +5370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93",
@@ -6720,7 +6720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D.",
     "habboFigure": "hr-3791-35.hd-629-1.ch-665-73.lg-710-73.sh-3180-72-73",
@@ -8040,7 +8040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D...",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-1413.cc-5926-1428-63",
