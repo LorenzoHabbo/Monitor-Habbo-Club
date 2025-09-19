@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.ha-6195.he-5813-1324-105.fa-5601-110.cp-3205",
@@ -2720,7 +2720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -4390,10 +4390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| Yasha ykz shiro |",
-    "habboFigure": "hr-5605-47.hd-4383-10-8.ch-6029-72-72.lg-3320-72-66.sh-5928.he-1608.fa-5467.ca-5583.cc-3837-72",
+    "habboFigure": "hr-5605-47.hd-4383-10-8.ch-4087-72.lg-3320-72-66.sh-5928.he-1608.fa-5467",
     "memberSince": "2024-12-25T14:16:21.000+00:00",
     "uniqueId": "hhit-6ba8efdad5665133d56c753499330b6f",
     "name": "Klementine",
