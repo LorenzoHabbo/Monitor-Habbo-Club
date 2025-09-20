@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-5559-77.lg-5594-77.sh-6182.he-3740.ea-3169-64.fa-3993-110.ca-5381-77.cc-5926-110-110",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.wa-6071.cc-5761-91-110",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-1425.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-92-92",
@@ -1750,16 +1750,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "La vita é una",
-    "habboFigure": "hr-893-49.hd-190-2.ch-255-1425.lg-3058-92.sh-3016-92.ha-3156-1408.he-1601.fa-1201",
-    "memberSince": "2017-09-09T16:30:59.000+00:00",
-    "uniqueId": "hhit-a0e55462d532f3d859be8b690ffe4b9d",
-    "name": "Moreno.00w",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "kage ykz shiro",
@@ -1930,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a chill guy",
     "habboFigure": "hr-3860-1395-1395.hd-3102-10.ch-6179-92.lg-3596-110-110.sh-6182.ha-3709.he-6173-1321.ca-6207.cc-6178-1321",
@@ -2250,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-49-49.hd-5316-2-1365.ch-3668-110-92.lg-5265.sh-5639.ha-6198.he-5828.ea-5392.fa-5948-1408.ca-5574-110-1412.cc-5690-110",
@@ -3310,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "®trash queenna®",
     "habboFigure": "hr-4117-1395-1395.hd-3631-1-1366.ch-5607-1415.lg-3192-1409.sh-5928.he-3833-1410.fa-3276-1328.ca-5635-1322-1322",
