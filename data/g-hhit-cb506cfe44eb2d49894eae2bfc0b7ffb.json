@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo Decime G.D",
     "habboFigure": "hr-540-42.hd-629-1.ch-665-91.lg-3078-64.sh-740-1408.he-1602-72.ca-1801-1408",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-190-1370.ch-3030-1408.lg-280-64.sh-290-1408.he-1608.ea-1404-64",
@@ -2220,7 +2220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sentinella G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-4165-81-81.lg-4167-81.sh-300-81.ha-3494-81-1408.ea-3484",
