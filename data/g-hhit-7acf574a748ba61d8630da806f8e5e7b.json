@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3604-1367.ch-3203-110.lg-3216-96.he-1609-96.fa-1204.ca-3844-110-96.wa-4060-96-1336",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Caruso - Famiglia Torrisi",
     "habboFigure": "hr-5680-37.hd-4383-10-14.ch-824-110.lg-4066-110.ha-3586.he-5279.fa-3276-92",
@@ -403,7 +403,7 @@
     "online": true,
     "gender": "m",
     "motto": "FRATELLO DEI GROOVE STREET¥",
-    "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-1209-1430.ca-1807.wa-2011.cc-5826-72",
+    "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.fa-3344-1430.ca-1807.wa-2011.cc-5826-72",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-4352-61.hd-600-10.ch-4368-1327.lg-5594-82.sh-3619-98-89.he-5314-98-98.ca-6128.cc-5611-98",
@@ -683,7 +683,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hd-4267-18.ch-215-1412.lg-5152-100.sh-5151-1412-1408.ha-5155",
+    "habboFigure": "hr-5210-61-55.hd-5317-1380-1364.ch-3167.lg-5594-110.sh-5247-110-64.ha-5867-110-64.he-5393.ea-5392.fa-5391.wa-5986-64.cc-5926-110-64.cp-3315-64",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -1172,7 +1172,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "slogga-U2VUZ",
+    "motto": "",
     "habboFigure": "hr-5773-61.hd-627-1370.ch-5921-1427-92.lg-5594-64.sh-5247-92-1427.he-4977-1408-64.ea-5626-110.fa-5601-92",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-80.fa-5624-73",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D...",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-1413.cc-5926-1428-63",
@@ -3490,10 +3490,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~",
-    "habboFigure": "hr-3163-1342.hd-180-23.ch-805-110.lg-280-110.sh-305-92.ha-5169-1408",
+    "habboFigure": "hr-3163-1342.hd-205-24.ch-805-110.lg-280-110.sh-305-92.ha-5169-1408",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
