@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-84-84.lg-275-80",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Caruso - Famiglia Torrisi",
     "habboFigure": "hr-6055-49-40.hd-4383-28-14.ch-665-1413.lg-4066-110.ha-5620-110.he-3070-96.fa-3276-92.cc-3289-110",
@@ -9300,7 +9300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Combatti! Sempre.. (vivi)",
     "habboFigure": "hd-4015-10.ch-4025-64-64.lg-4017-64-64.sh-4016-64-64.ha-3745-64-64.cc-3509-64-64",
