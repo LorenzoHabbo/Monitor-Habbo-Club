@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Caruso - Famiglia Torrisi",
     "habboFigure": "hr-5680-37.hd-4383-10-14.ch-824-110.lg-4066-110.ha-3586.he-5279.fa-3276-92",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-710-1427.sh-5803-92.he-6173-1327.fa-5467.ca-3292-110",

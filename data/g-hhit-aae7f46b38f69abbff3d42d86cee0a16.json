@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-215-73.lg-270-1408.sh-908-64.ha-1002-1408.fa-1201",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -620,7 +620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-710-1427.sh-5803-92.he-6173-1327.fa-5467.ca-3292-110",
