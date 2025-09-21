@@ -40,10 +40,10 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Patrimonio mondiale del nunesco ¶",
-    "habboFigure": "hr-165-45.hd-5838-1370-14.ch-5222.lg-5594-82.sh-305-1408.ha-4051.ea-1404-1408.fa-5752.ca-6020-64",
+    "habboFigure": "hr-165-45.hd-5838-1370-14.ch-5222.lg-5594-82.sh-305-1408.ea-1404-1408.fa-5752.ca-6020-64",
     "memberSince": "2004-07-17T16:35:18.000+00:00",
     "uniqueId": "hhit-ce0d007626e1239fc75db269b1781ebd",
     "name": "Sethep",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-84-84.lg-275-80",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-5608-73.lg-5594-80.sh-3524-64-1408.ha-5591.ca-5936-66.cc-5800-64-64",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-600-28.ch-3433-1419-89.lg-3434-1419-1419.sh-3435-1419-110.ha-3431-1419-89.he-3295-110-1408.fa-3276-73.ca-3175-63",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader vogue forcella",
     "habboFigure": "hr-838-61.hd-625-10.ch-3033-64-86.lg-710-82.sh-740-110",
@@ -5990,7 +5990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-5306-40-49.hd-205-10.ch-3788-1337.lg-3418-1409.sh-290-1409.ha-3656.he-3740.fa-3276-72.cc-3867-1337-1337",
@@ -6520,7 +6520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Piove o non piove questo è il mio pass",
     "habboFigure": "hr-170-1396.hd-3095-1389.ch-3688-110.lg-270-110.sh-300-110.he-5813-1321-92.fa-3344-67.ca-1816.wa-3264-92-92.cc-3946-110",
@@ -9300,7 +9300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Combatti! Sempre.. (vivi)",
     "habboFigure": "hd-4015-10.ch-4025-64-64.lg-4017-64-64.sh-4016-64-64.ha-3745-64-64.cc-3509-64-64",
