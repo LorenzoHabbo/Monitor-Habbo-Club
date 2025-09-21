@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "throw me to the flames i will follow u",
     "habboFigure": "hr-3852-42.hd-615-10.ch-665-1408.lg-710-64.sh-5803-1408.he-3891.fa-3276-73",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sentinella G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-4165-81-81.lg-4167-81.sh-300-81.ha-3494-81-1408.ea-3484",
