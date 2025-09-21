@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-1401-64.ca-6199",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Take me back to the night we met",
     "habboFigure": "hr-5772-1404-53.hd-3721-1383.ch-3399-1422-1333.lg-3006-1333-1333.sh-6181-92.fa-3276-1414.cc-5800-92-92",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-676-40.hd-209-10.ch-250-1408.lg-285-1408.sh-290-81.fa-1211",
@@ -5400,7 +5400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-155-34.hd-180-8.ch-806-83.lg-280-83.sh-295-1408.ha-3620.fa-3276-1408",
