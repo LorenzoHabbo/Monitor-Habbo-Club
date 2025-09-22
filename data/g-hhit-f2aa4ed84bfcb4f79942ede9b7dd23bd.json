@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "64 bars",
     "habboFigure": "hr-5912-34-48.hd-207-1370.ch-5856.lg-5226.sh-305-1408.he-5088.ea-5576-1408-1320",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-4111-92.lg-280-110.sh-906-92.ha-4050.he-1608.fa-5624-96.ca-1816.wa-5123-110.cp-3125-110",
@@ -2870,10 +2870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1342.hd-205-15.ch-210-110.lg-280-110.sh-908-1427.he-3891.ea-1404-110.cc-4091-110",
+    "habboFigure": "hr-3163-1342.hd-205-15.ch-3934-1325-110.lg-3483-110-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
