@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Niente club ho avuto lo sfratto",
     "habboFigure": "hr-5680-61.hd-4383-28-1359.ch-650-110.lg-3006-110-110.ha-3586.he-5279.fa-3276-92",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-4111-92.lg-280-110.sh-906-92.ha-4050.he-1608.fa-5624-96.ca-1816.wa-5123-110.cp-3125-110",
@@ -8410,7 +8410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A nice guy",
     "habboFigure": "hr-3090-36.hd-180-8.ch-267-64.lg-275-82.sh-295-1408.he-3465-1408-1408",
