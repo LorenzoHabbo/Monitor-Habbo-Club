@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est ª Oblivion",
     "habboFigure": "hr-828-49.hd-180-28.ch-3030-110.lg-5732-110-110.he-3891.ea-3639.ca-1801-92",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "throw me to the flames i will follow u",
     "habboFigure": "hr-3852-42.hd-615-10.ch-665-1408.lg-710-64.sh-5803-1408.he-3891.fa-3276-73",
@@ -493,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "It's a damn cold night ~ Oblivion",
-    "habboFigure": "hr-834-49.hd-615-28.ch-665-110.lg-4114-110-110.he-1609-110.ea-1401-110",
+    "habboFigure": "hr-4117-49-40.hd-615-28.ch-665-110.lg-4114-110-110.he-1609-110.ea-1401-110.ca-1801-92.cc-3360-92",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -733,7 +733,7 @@
     "online": false,
     "gender": "m",
     "motto": "…",
-    "habboFigure": "hr-3278-1403-1396.hd-3091-1.ch-3432-110-89.lg-3434-110-89.sh-3435-110-89.ha-3431-110-89.he-3295-1410-1408.ca-3175-1321",
+    "habboFigure": "hr-3278-1403-1396.hd-3091-1.ch-3432-110-89.lg-3434-110-89.sh-3435-110-89.ha-3431-110-89.he-3295-76-1408.ca-3175-1321",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
     "name": "trey6949",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "insideoutclub",
     "habboFigure": "hr-893-42.hd-180-14.ch-6177-1408-66.lg-275-1408.sh-6181-91.wa-4317-1408.cc-6175-82",
