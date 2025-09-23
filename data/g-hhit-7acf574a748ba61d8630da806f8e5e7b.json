@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alla fine ne uscirai.",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3841-1397.hd-3095-1370.ch-3334-96-96.lg-3337-96.sh-3435-96-93.ha-3179-96-96.he-5418-96-96.ea-3168-96.ca-1816.wa-5836-96-1336.cp-3125-110",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "slogga-FR5CQ",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-35.hd-6021-1370.ch-5608-64.lg-4167-64.sh-300-1408.ha-1004-64.he-6082-64-73.fa-5624-73.ca-5770-73",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-3266-110-110.lg-710-1427.sh-5803-92.he-6173-110.fa-3276-1413.ca-3292-110",
@@ -1650,10 +1650,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-1404.hd-600-3.ch-3135-77.lg-3198-77.sh-730-92.ha-4094-92-92.he-6173-1330.ea-5576-1409-89",
+    "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-6173-1330.ea-5576-1409-89.cc-5926-82-89",
     "memberSince": "2017-01-30T23:25:49.000+00:00",
     "uniqueId": "hhit-a8e16aa80c02440b9f11b81cffff433c",
     "name": "Whochins",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO X2",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-84.ha-5076-83.he-6125-1408.fa-3276-73.ca-3414-73",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-155-34.hd-180-8.ch-806-83.lg-280-83.sh-295-1408.ha-3620.fa-3276-1408",
@@ -3300,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "®trash queenna®",
     "habboFigure": "hr-4117-1395-1395.hd-3631-1-1366.ch-5607-1415.lg-3192-1409.sh-5928.he-3833-1410.fa-3276-1328.ca-5635-1322-1322",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-VVRWF",
     "habboFigure": "hr-125-42.hd-180-14.ch-3030-73.lg-3290-85.sh-3524-73-1408.fa-1204",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "2HFISVFJABHOWfjoeaòcsvwIADòPZCPHIR",
     "habboFigure": "hr-3531-36-35.hd-180-1.ch-3806-72.lg-280-64.sh-300-1408",
@@ -3580,7 +3580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-92.lg-5594-64.sh-3089-110.ca-3799-1408-1408.cc-5926-110-110",
