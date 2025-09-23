@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "little princess",
     "habboFigure": "hr-6083-1403.hd-3100-1390.ch-5998-94.lg-3483-94-94.fa-3276-97",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-105-34.hd-190-1.ch-215-64.lg-280-64.ha-1005-1408",
