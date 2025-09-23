@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "64 bars",
     "habboFigure": "hr-5912-34-52.hd-207-4.ch-5856.lg-5226.sh-3035-110.ea-5576-1408-1320.cc-3593-110-92",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3841-1397.hd-3095-1370.ch-3334-96-96.lg-3337-96.sh-3435-96-93.ha-3179-96-96.he-5418-96-96.ea-3168-96.ca-1816.wa-5836-96-1336.cp-3125-110",
@@ -8300,7 +8300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "1997",
     "habboFigure": "hr-3810-42.hd-625-1.ch-5607-64.lg-3116-81-82.sh-906-82.he-1608.ea-3484",
