@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-34.hd-180-10.ch-5452-84-84.lg-275-80",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^",
     "habboFigure": "hr-5619-61.hd-4383-10-14.ch-3013-92.lg-5594-71.sh-3089-110.ha-5620-1408.fa-3276-72.ca-5459-110",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-4941-1347-40.hd-3103-3.ch-6177-1321-1408.lg-3502-1326.sh-6182.ha-5079.he-6183.ea-5626-1408.ca-6207.wa-5986-110.cc-6184-1321",
@@ -620,10 +620,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-6083-1342.hd-605-28.ch-665-92.lg-710-77.sh-5803-92.ha-1002-1427.he-6173-1327.fa-5467.wa-3264-1408-1408",
+    "habboFigure": "hr-6083-1342.hd-605-28.ch-665-92.lg-710-77.sh-5803-92.ha-1002-1427.he-6173-1327.fa-1212.wa-3264-1408-1408",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1404.hd-600-3.ch-3013-92.lg-3526-77-1408.sh-5247-92-92.ha-4094-92-92.he-6173-1330.ea-5576-1409-89.cc-5926-82-89",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-80.lg-285-64.sh-3524-1408-64.he-5088.fa-3276-73.cc-5810-1408",
@@ -1133,7 +1133,7 @@
     "online": false,
     "gender": "f",
     "motto": "il mondo cade a pezzi noi compresi",
-    "habboFigure": "hr-6083-44.hd-600-1.ch-665-85.lg-710-85.sh-5247-1408-91.ha-6198.he-3974.fa-3276-72.ca-4958",
+    "habboFigure": "hr-6083-34.hd-600-10.ch-665-68.lg-710-68.sh-5247-1408-68.ha-6198.fa-3276-72",
     "memberSince": "2022-12-04T13:23:49.000+00:00",
     "uniqueId": "hhit-a5a3802b40da95c945c5992594cb1e17",
     "name": "Fawn",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D...",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-1413.cc-5926-1428-63",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-3852-1403.hd-600-2.ch-5921-92-92.lg-3006-1338-92.sh-5803-92.he-3070-92.fa-5467.cc-6115-1326-1337",
