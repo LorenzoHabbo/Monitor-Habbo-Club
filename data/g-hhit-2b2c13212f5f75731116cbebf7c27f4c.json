@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1399.hd-3100-8.ch-5901-92-110.lg-5970-110.sh-5671-92.ha-3709.he-5578-1408.cc-3373-110",
@@ -2397,16 +2397,6 @@
     "memberSince": "2012-05-03T19:25:09.000+00:00",
     "uniqueId": "hhit-6e4d189a152bbebb8915407a7097d80d",
     "name": "xLenSwingx",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "m",
-    "motto": "Coming soon... [ NºT ]",
-    "habboFigure": "hr-3829-49.hd-190-28.ch-3185-92.lg-5594-110.sh-4112-92-92.he-1609-110.fa-5601-1408.ca-4130-110-110.cc-5558-110-92",
-    "memberSince": "2012-05-04T20:03:24.000+00:00",
-    "uniqueId": "hhit-76cf6015b96ceb33ad0619f32fa119c5",
-    "name": "SuperDavide2003",
     "isAdmin": false
   },
   {
@@ -4660,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D. (im just a faget)",
     "habboFigure": "hr-891-35.hd-209-1.ch-267-64.lg-3078-64.sh-3068-64-64.ha-3117-64",
@@ -5510,7 +5500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "||Spirito della Forza jehudie G.D||",
     "habboFigure": "hr-6126-34.hd-6216-10-1365.ch-6180-96.lg-5974-72-1320.sh-6182.he-6183.cc-6119",
@@ -7880,7 +7870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "che dire",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-64.lg-3483-1408-1408.he-1609-64.fa-4168-71",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-10-20T23:30:15.000+00:00",
     "uniqueId": "hhit-99fc81d7e243edccad14c89dfb246728",
     "name": "habbo-9-3-1",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Cadetto G.D",
+    "habboFigure": "hr-802-42.hd-180-1.ch-3030-81.lg-270-64.sh-290-64.ha-1006.fa-3276-90.cc-260-64",
+    "memberSince": "2023-10-21T18:14:15.000+00:00",
+    "uniqueId": "hhit-a1d7aa867e489ab4a309cec7b7a91674",
+    "name": "Barettino",
     "isAdmin": false
   }
 ]
