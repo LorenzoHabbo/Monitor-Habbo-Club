@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-4025-73-66.lg-4017-73-66.sh-300-73.ha-3632-73-66.cc-4282-73",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -623,7 +623,7 @@
     "online": false,
     "gender": "m",
     "motto": "No PAIN No GAIN º",
-    "habboFigure": "hr-3386-31.hd-3845-14.ch-3848-66-82.lg-3787-1408-1408.ha-6091.he-1608",
+    "habboFigure": "hr-3841-31.hd-3845-14.ch-3030-66.lg-3787-1408-1408.he-1608",
     "memberSince": "2009-09-03T23:22:57.000+00:00",
     "uniqueId": "hhit-a654b7dfd12029161f9aa04340ecfda4",
     "name": "Nivis",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|cadetto g.d|",
     "habboFigure": "hr-5619-47.hd-5683-1.ch-5607-75.lg-700-64.fa-4168-71",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1399.hd-3100-8.ch-5901-92-110.lg-5970-110.sh-5671-92.ha-3709.he-5578-1408.cc-3373-110",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel gd /solitaria",
     "habboFigure": "hr-836-1397.hd-3096-1.ch-3005-105-92.lg-3328-105-1408.sh-3180-92-105.fa-3276-96",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-34.hd-205-1.ch-3438-1320-1320.lg-5594-80.sh-4112-1320-1408.fa-1211.ca-3985-1320.cc-3389-64-64",
@@ -2393,7 +2393,7 @@
     "online": true,
     "gender": "m",
     "motto": "Coming soon... [ NºT ]",
-    "habboFigure": "hr-3829-49.hd-190-28.ch-3185-92.lg-5594-110.sh-4112-92-92.he-1609-64.ea-5576-1408-1408.fa-5601-1408.ca-4130-110-110.cc-5558-110-92",
+    "habboFigure": "hr-3829-49.hd-190-28.ch-3185-92.lg-5594-110.sh-4112-92-92.he-1609-64.fa-5601-1408.ca-4130-110-110.cc-5558-110-92",
     "memberSince": "2012-05-04T20:03:24.000+00:00",
     "uniqueId": "hhit-76cf6015b96ceb33ad0619f32fa119c5",
     "name": "SuperDavide2003",
@@ -3560,7 +3560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novella G.D.",
     "habboFigure": "hd-629-30.ch-665-84.lg-3078-82.sh-3180-82-76.ha-1005-1408.ea-1406.fa-1205-72",
@@ -5290,7 +5290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "0904",
     "habboFigure": "hr-5617-1404-54.hd-629-1390.ch-6029-97-1326.lg-3136-1324.sh-730-1326.he-3070-1326.wa-5599-1326-97",
@@ -5410,7 +5410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-155-34.hd-180-8.ch-806-83.lg-280-83.sh-295-1408.ha-3620.fa-3276-1408",
