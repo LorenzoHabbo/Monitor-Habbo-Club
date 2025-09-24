@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ooh, wah-ah-ah-ah!",
     "habboFigure": "hr-3163-1342.hd-205-15.ch-3934-1408-110.lg-3483-110-110.cc-3509-1408-1408",
@@ -7060,7 +7060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
     "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3586.fa-5975.cc-6178-1410",
@@ -7450,7 +7450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
