@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-40.hd-209-8.ch-235-85.lg-281-85.sh-300-64.ha-3494-1408-1408.he-1608.fa-1201.ca-5916-82-64",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FRATELLO GROOVE STREET¥",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-3455.he-1608.fa-3344-1430.ca-3292-109.wa-2011.cc-887-1430",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-5117-92-1408.lg-4369-1409-1409.sh-3587-92-92.he-6138.fa-5435.ca-1801-92",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FONDATORE - Ambasciatore di Pace G.S.",
     "habboFigure": "hr-3841-52.hd-3091-1370.ch-3432-110-110.lg-4102-110-110.sh-3089-1432.ea-3484.cc-6115-102-1430",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-42.hd-3845-28.ch-5831-63.lg-5623.sh-3275-1408.ha-5832-1427.fa-5600-92.ca-5575",
