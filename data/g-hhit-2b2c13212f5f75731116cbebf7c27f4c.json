@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FONDATORE - COMANDANTE Grove Street",
     "habboFigure": "hr-5791-1394.hd-180-1370.ch-3203-110.lg-5594-110.sh-3089-92.ha-3494-110-110.he-3070-1408.fa-1209-110.ca-1816.cc-4107-110-1408",
@@ -1022,7 +1022,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "|soldato semplice g.d|",
+    "motto": "| Soldato g.d |",
     "habboFigure": "hr-5619-47.hd-5683-1.ch-5607-75.lg-700-64.fa-4168-71",
     "memberSince": "2010-08-01T11:08:43.000+00:00",
     "uniqueId": "hhit-512ff8e386f69d5433d6486a108c161d",
@@ -1712,7 +1712,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Scagnozzo semplice G.D.",
+    "motto": "Scagnozzo GD",
     "habboFigure": "hr-155-37.hd-209-1.ch-235-81.lg-3116-82-1408.sh-305-82",
     "memberSince": "2011-05-18T21:45:24.000+00:00",
     "uniqueId": "hhit-8b9045bea101f8903302a4a3ee5a60b4",
@@ -2942,7 +2942,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Apprendista G.D",
+    "motto": "Apprendista scelto G.D",
     "habboFigure": "hd-185-1.ch-235-85.lg-275-66.sh-295-64.ea-1403-1408.fa-3344-66",
     "memberSince": "2013-12-23T10:26:05.000+00:00",
     "uniqueId": "hhit-06674468935eca0b94e96b9e40e7b974",
@@ -3292,7 +3292,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "apprendista G.D.",
+    "motto": "apprendista scelto G.D.",
     "habboFigure": "hr-890-42.hd-600-10.ch-665-83.lg-3216-1408.sh-907-83",
     "memberSince": "2015-06-16T00:52:36.000+00:00",
     "uniqueId": "hhit-f382caf08700531a3fba5e0ada5e0cc7",
@@ -3383,7 +3383,7 @@
     "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
-    "habboFigure": "hd-190-14.ch-5488-102.lg-3502-1320.sh-295-1325.ha-6209.fa-1211.ca-6208",
+    "habboFigure": "hr-5210-60-61.hd-207-28.ch-5559-110.lg-5594-110.sh-5729-110-110.he-3740.ea-3148-110-110.fa-4048.ca-3844-110-92.wa-3264-110-110.cc-3867-110-110",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
@@ -3742,7 +3742,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "soldato semplice g.d",
+    "motto": "soldato g.d",
     "habboFigure": "hr-4117-1343-1343.hd-600-10.ch-4392-1428-92.lg-3192-1428.sh-3383-63-1408.he-3082-63.fa-3276-73.wa-3661-63-1408",
     "memberSince": "2016-06-08T20:03:42.000+00:00",
     "uniqueId": "hhit-2e634d3afaab77215eadd9962fbb8fff",
@@ -3870,7 +3870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Messaggero - Famiglia Torrisi",
     "habboFigure": "hr-125-31.hd-207-14.ch-235-1320.lg-3088-1408-82.sh-300-64.ha-1023-73.ca-1801-73.wa-2007.cc-3280-64-1408",
@@ -4771,9 +4771,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "slogga-5FAOI",
-    "habboFigure": "hr-4343-61-40.hd-3100-1393.ch-815-110-1408.lg-3596-110-1408.sh-730-110.ca-5028-110-1416.cc-4184-92-1417",
+    "habboFigure": "hr-3860-1342-1342.hd-3092-1367.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -6752,7 +6752,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Iniziato G.D.",
+    "motto": "Cadetto G.D.",
     "habboFigure": "hr-3791-34.hd-629-1.ch-665-73.lg-705-64.sh-907-64.ca-1812",
     "memberSince": "2021-12-20T08:39:59.000+00:00",
     "uniqueId": "hhit-a6ee2573d919055543551b929b8deee3",
@@ -7270,7 +7270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista",
     "habboFigure": "hd-180-19.ch-3459.lg-285-64.sh-295-1408.ha-1004-64",
@@ -9872,7 +9872,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Cadetto G.D",
+    "motto": "Soldato Semplice G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-285-82.sh-906-64.ea-1406.wa-2002",
     "memberSince": "2023-09-19T18:32:51.000+00:00",
     "uniqueId": "hhit-092e7317f1cf26a5e2c3fc42922245d9",
