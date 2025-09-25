@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6023-59-1398.hd-4383-2-2.ch-6180-92.lg-3136-89.sh-6182.he-6173-1408.ca-6207.cc-6178-1408",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6083-61.hd-3845-10.ch-5923-110-64.lg-5974-110-110.sh-5308-64.he-6173-96.fa-5467.cc-6178-110",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-66.lg-3407-83-66.sh-3115-83-83.ha-3409-83-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-83-66",
@@ -4663,7 +4663,7 @@
     "online": true,
     "gender": "m",
     "motto": "Soldato G.D. (im just a faget)",
-    "habboFigure": "hr-891-35.hd-209-1.ch-267-64.lg-3078-64.sh-3068-64-64.ha-3117-64",
+    "habboFigure": "hr-891-35.hd-209-1.ch-245-73.lg-3078-64.sh-3068-64-64.ha-3117-64.wa-2007",
     "memberSince": "2018-07-20T00:22:09.000+00:00",
     "uniqueId": "hhit-bc1cf39f75fc0e96cadade461cb7acec",
     "name": "Bruce6",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-5FAOI",
     "habboFigure": "hr-3860-1342-1342.hd-3092-1367.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -7880,7 +7880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "che dire",
     "habboFigure": "hr-3673-42.hd-4163-1-30.ch-665-64.lg-3483-1408-1408.he-1609-64.fa-4168-71",
@@ -9470,7 +9470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-45.hd-6157-1-12.ch-650-1408.lg-5594-1408.sh-5274-71-71.he-6103-71.fa-5467.cc-6115-1408-1408",
