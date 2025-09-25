@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6083-61.hd-3845-10.ch-5923-110-64.lg-5974-110-110.sh-5308-64.he-6173-96.fa-5467.cc-6178-110",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "È che ci vuole ehhh...",
     "habboFigure": "hr-3841-42.hd-209-1.ch-255-64.lg-3391-82-1408.sh-4112-72-66.ha-4326.he-1609-72.fa-3378-64-66.cc-3294-64-1408",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hd-190-14.ch-5488-102.lg-3502-1320.sh-295-1325.ha-6209.fa-1211.ca-6208",
@@ -3872,7 +3872,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Braccio - Famiglia Torrisi",
+    "motto": "Messaggero - Famiglia Torrisi",
     "habboFigure": "hr-125-31.hd-207-14.ch-235-1320.lg-3088-1408-82.sh-300-64.ha-1023-73.ca-1801-73.wa-2007.cc-3280-64-1408",
     "memberSince": "2016-10-07T11:22:20.000+00:00",
     "uniqueId": "hhit-8b2e5882f9eab0ad75f7979d87b23cb5",
@@ -4660,7 +4660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato G.D. (im just a faget)",
     "habboFigure": "hr-891-35.hd-209-1.ch-267-64.lg-3078-64.sh-3068-64-64.ha-3117-64",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "slogga-5FAOI",
     "habboFigure": "hr-4343-61-40.hd-3100-1393.ch-815-110-1408.lg-3596-110-1408.sh-730-110.ca-5028-110-1416.cc-4184-92-1417",
@@ -5520,7 +5520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5120-1342-1398.hd-3845-10.ch-3501-110.lg-5594-110.fa-3276-1408.cc-4108-100-1408",

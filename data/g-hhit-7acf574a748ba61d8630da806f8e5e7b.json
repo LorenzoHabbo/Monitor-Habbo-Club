@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FRATELLO GROOVE STREET¥",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-3455.he-1608.fa-3344-1430.ca-3292-109.wa-2011.cc-887-1430",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-829-1407.hd-3095-3.ch-3779-92-92.lg-5594-82.sh-3016-110.cc-3542-110-1408",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Non regalate",
     "habboFigure": "hr-3852-45.hd-5684-10.ch-5245-64.lg-5594-82.sh-4112-1408-1408.he-5279.fa-3276-72.wa-5370",
@@ -1843,7 +1843,7 @@
     "online": false,
     "gender": "f",
     "motto": " ~ Hai capito, chi è che è entrato!? ×",
-    "habboFigure": "hr-4131-42-42.hd-626-1370.ch-5560-71-1408.lg-5594-90.sh-908-91.ha-5597-90.he-5750-90.fa-4045.cc-3837-91",
+    "habboFigure": "hr-4131-42-42.hd-626-1370.ch-5560-71-90.lg-5594-90.sh-908-91.he-3858-90.fa-4045.cc-5800-91-91",
     "memberSince": "2018-05-16T09:09:54.000+00:00",
     "uniqueId": "hhit-e89ba581afcc50ed0522688bd3781137",
     "name": "-ANSIA-",
@@ -1920,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "slogga-5FAOI",
     "habboFigure": "hr-4343-61-40.hd-3100-1393.ch-815-110-1408.lg-3596-110-1408.sh-730-110.ca-5028-110-1416.cc-4184-92-1417",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5120-1342-1398.hd-3845-10.ch-3501-110.lg-5594-110.fa-3276-1408.cc-4108-100-1408",
