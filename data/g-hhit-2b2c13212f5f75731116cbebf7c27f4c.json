@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-4025-73-66.lg-4017-73-66.sh-300-73.ha-3632-73-66.cc-4282-73",
@@ -950,6 +950,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista novello G.D",
+    "habboFigure": "hr-115-45.hd-200-10.ch-255-85.lg-3078-64.sh-295-85.ha-6091.fa-3993-76.ca-5739-73-88",
+    "memberSince": "2010-06-13T19:02:21.000+00:00",
+    "uniqueId": "hhit-9ed1aeeca8ef06a02be93df378f33a6e",
+    "name": "=Meticcio=",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "Soldato Semplice G.D",
@@ -1700,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo semplice G.D.",
     "habboFigure": "hr-155-37.hd-209-1.ch-235-81.lg-3116-82-1408.sh-305-82",
@@ -2370,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-5351-71-73.lg-3483-81-81.he-3274-71.ca-5635-71-1408",
@@ -2580,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "…",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-3709.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -2590,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ineluttabile! Resuscitato Dal PermaBan",
     "habboFigure": "hr-4941-1395-1395.hd-6159-1391-22.ch-6179-1408.lg-3320-92-1408.sh-3587-1410-1408.ha-3488.fa-3344-1325.ca-5026-92.cc-6178-1408",
@@ -5450,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-828-61.hd-180-10.ch-255-110.lg-280-110.sh-295-110.ea-3107-63-1408",
@@ -8060,7 +8070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D...",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-1413.cc-5926-1428-63",
@@ -9460,7 +9470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-45.hd-6157-1-12.ch-650-1408.lg-5594-1408.sh-5274-71-71.he-6103-71.fa-5467.cc-6115-1408-1408",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-20T23:30:15.000+00:00",
     "uniqueId": "hhit-99fc81d7e243edccad14c89dfb246728",
     "name": "habbo-9-3-1",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Cadetto G.D",
-    "habboFigure": "hr-802-42.hd-180-1.ch-3030-81.lg-270-64.sh-290-64.ha-1006.fa-3276-90.cc-260-64",
-    "memberSince": "2023-10-21T18:14:15.000+00:00",
-    "uniqueId": "hhit-a1d7aa867e489ab4a309cec7b7a91674",
-    "name": "Barettino",
     "isAdmin": false
   }
 ]
