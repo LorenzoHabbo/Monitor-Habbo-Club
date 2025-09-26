@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "humanity is not a completed project",
     "habboFigure": "hr-3852-40.hd-600-1369.ch-665-64.lg-710-64.sh-3621-1408-64.he-5137.fa-4283-1408",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-1406.hd-4287-1379.ch-3334-1320-93.lg-5163-105.sh-3338-1326.fa-5157-1332",
