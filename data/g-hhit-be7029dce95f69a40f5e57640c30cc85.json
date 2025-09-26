@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-1406.hd-4287-1379.ch-3334-1320-93.lg-5163-105.sh-3338-1326.fa-5157-1332",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mlm",
     "habboFigure": "hr-4117-34-34.hd-600-1.ch-4067-71-72.lg-4092-80.ha-4192.fa-4168-72",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3841-1397.hd-3095-1370.ch-3334-96-96.lg-3337-96.sh-3435-96-93.ha-3179-96-96.he-5418-96-96.ea-3168-96.ca-1816.wa-5836-96-1336.cp-3125-110",
@@ -2602,7 +2602,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "we'll try again always",
+    "motto": "always",
     "habboFigure": "hr-3520-1401.hd-205-13.ch-5856.lg-280-110.sh-3419-110-110.he-3070-1408.fa-3378-110-110.ca-5916-110-92.cc-3360-110",
     "memberSince": "2010-03-27T18:11:46.000+00:00",
     "uniqueId": "hhit-51e68938a0d62f16954462d7156667c7",
