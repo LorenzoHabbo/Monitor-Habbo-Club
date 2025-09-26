@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6174-59-1398.hd-6219-2-28.ch-6180-92.lg-3136-89.sh-6182.ha-3586.he-6173-1408.ca-6207.cc-6178-1408",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-3810-42.hd-3631-8-1371.ch-5351-71-73.lg-3483-81-81.he-3274-71.ca-5635-71-1408",
@@ -4760,7 +4760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-1342-1342.hd-3092-11.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -6603,7 +6603,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-42.hd-207-10.ch-235-64.lg-3596-64-1408.he-5764-72.fa-3276-72.cc-5926-1408-1408",
+    "habboFigure": "hr-5791-42.hd-207-10.ch-235-1408.lg-3596-64-1408.he-5764-72.fa-3276-72",
     "memberSince": "2021-10-15T18:50:30.000+00:00",
     "uniqueId": "hhit-3548c7d3ec8eacc38b02181409da917d",
     "name": "SoleNero",
