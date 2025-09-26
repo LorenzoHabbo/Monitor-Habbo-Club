@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mlm",
     "habboFigure": "hr-4117-34-34.hd-600-1.ch-4067-71-72.lg-4092-80.ha-4192.fa-4168-72",
@@ -1750,10 +1750,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "rotta rotta rotta da dietro",
-    "habboFigure": "hr-3012-1395.hd-3536-1-1.ch-3183.lg-3434-1430-110.sh-4159-110-92.ha-3150-110-1430.ea-6074.cc-6070",
+    "habboFigure": "hr-6034-1407-34.hd-6048-7.ch-3183.lg-5623.sh-3621-92-110",
     "memberSince": "2009-07-11T16:06:48.000+00:00",
     "uniqueId": "hhit-3cfa1724cf9f1b0601bd5b6c313a5b72",
     "name": "Powerenza",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3841-1397.hd-3095-1370.ch-3334-96-96.lg-3337-96.sh-3435-96-93.ha-3179-96-96.he-5418-96-96.ea-3168-96.ca-1816.wa-5836-96-1336.cp-3125-110",
@@ -8410,7 +8410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A nice guy",
     "habboFigure": "hr-3090-36.hd-180-8.ch-267-64.lg-275-82.sh-295-1408.he-3465-1408-1408",
