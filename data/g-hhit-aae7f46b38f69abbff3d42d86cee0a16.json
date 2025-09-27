@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^",
     "habboFigure": "hr-4363-1342-58.hd-4383-10-5.ch-4087-110.lg-4369-80-92.sh-3089-110.he-6082-92-81.cc-5925-1422",
@@ -551,9 +551,9 @@
   },
   {
     "online": false,
-    "gender": "f",
+    "gender": "m",
     "motto": "Non tutto è oro cio' che luccica.",
-    "habboFigure": "hr-890-35.hd-629-1.ch-3459.lg-710-72.sh-735-81.he-1602-81.ca-1802",
+    "habboFigure": "hd-205-1370.ch-3203-1408.lg-3058-64.sh-4065-64-92.fa-1206-110.cc-260-92",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
