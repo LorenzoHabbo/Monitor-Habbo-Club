@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "~OBLIVION~",
     "habboFigure": "hr-4117-49-49.hd-6216-28-1365.ch-650-92.lg-3596-110-110.ha-3613-110.he-5808-92.fa-5467.wa-3264-110-92.cc-3360-110",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "•.•",
     "habboFigure": "hr-3841-40.hd-207-1370.ch-267-73.lg-4138-73.sh-5803-1408.ha-3709.he-5802-1408.fa-3276-64.cc-4176-73-73",
@@ -2990,10 +2990,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| Yasha ykz shiro |",
-    "habboFigure": "hr-4126-47-35.hd-4383-10-8.ch-6029-72-72.lg-6088-72-72.sh-5928.fa-5467.ca-3437-84.cc-3837-72",
+    "habboFigure": "hr-4126-47-35.hd-4383-10-8.ch-6029-72-72.lg-6088-72-72.sh-5928.he-3821-84-84.fa-5467.ca-3437-84.cc-3744-72-72",
     "memberSince": "2024-12-25T14:16:21.000+00:00",
     "uniqueId": "hhit-6ba8efdad5665133d56c753499330b6f",
     "name": "Klementine",
