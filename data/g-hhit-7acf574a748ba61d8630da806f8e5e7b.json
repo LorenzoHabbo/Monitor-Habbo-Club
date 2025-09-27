@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novella G.D.",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-74-80.lg-695-1408.ea-3803-71.ca-4956",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-650-92.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-3692-105-92",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201.wa-2008",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-73.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-49-49.hd-5524-2-1365.ch-3668-110-92.lg-5265.sh-5639.ha-6198.he-5828.ea-5392.fa-5948-1408.ca-5574-110-1412.cc-5690-110",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-1398.hd-615-15.ch-650-1331.lg-710-1331.sh-3035-1338.he-3070-92.fa-5601-1427.cp-3317-92-92",
