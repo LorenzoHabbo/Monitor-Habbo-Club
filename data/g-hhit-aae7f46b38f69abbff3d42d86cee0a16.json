@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-1406.hd-4287-1379.ch-3334-1320-93.lg-5163-105.sh-3338-1326.fa-5157-1332",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
     "habboFigure": "hr-5544-41-41.hd-3099-22.ch-3293-110-92.lg-3006-110-1408.sh-3354-110-92.he-3329-82-1408.ea-3169-1336.ca-3084-1413-1331",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "italia paese di comunisti invidiosi",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-3418-1408.ha-3709.he-5808-80.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-71",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-209-1.ch-5559-90.lg-4066-82.sh-3524-64-82.cc-6115-64-66",
