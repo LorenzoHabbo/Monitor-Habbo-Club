@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bobba boy",
     "habboFigure": "hr-5617-61-61.hd-3102-4.ch-5833-110-110.lg-5970-1428.sh-3524-110-64.ha-3171-1428-110.he-3753.fa-3993-110.ca-1816.wa-5986-110.cc-3152-1409",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.ea-5392.fa-5948-92.ca-5936-92.cc-5926-110-92",
@@ -2790,10 +2790,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Balorda Nostalgia! Habbo…",
-    "habboFigure": "hr-3056-34.hd-190-1370.ch-3030-66.lg-270-82.sh-300-1408.ea-1402",
+    "habboFigure": "hr-3056-34.hd-190-1370.ch-803-1329.lg-3290-82.sh-300-1408.ea-1402",
     "memberSince": "2020-04-09T22:26:09.000+00:00",
     "uniqueId": "hhit-3b3c2bba6aa81b0edc80ee71d18b9cc9",
     "name": "JackieOh",
