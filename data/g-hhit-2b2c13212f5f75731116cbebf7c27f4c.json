@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato G.D. (im just a faget)",
     "habboFigure": "hr-170-36.hd-209-1.ch-3323-85-1408.lg-3078-64.sh-4112-85-85.ha-3117-64.he-1608.ca-1804-73.cc-5926-64-64",
@@ -4760,7 +4760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-1342-1342.hd-3092-11.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -7260,7 +7260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista",
     "habboFigure": "hd-180-19.ch-3459.lg-285-64.sh-295-1408.ha-1004-64",
