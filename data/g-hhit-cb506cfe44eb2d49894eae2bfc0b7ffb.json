@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello GD",
     "habboFigure": "hr-4118-61.hd-3103-2.ch-803-110.lg-3023-92.sh-3089-110.ha-3171-110-1408.ca-3219-92.wa-2003",
@@ -1760,10 +1760,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Antifazionaria, non reclutabile.",
-    "habboFigure": "hr-5544-41-41.hd-3099-22.ch-3293-110-92.lg-3006-110-1408.sh-3354-110-92.ha-3352-1408-1408.he-3070-110.ea-3169-1336.ca-3084-1413-1331",
+    "habboFigure": "hr-5544-41-41.hd-3099-22.ch-3293-110-92.lg-3006-110-1408.sh-3354-110-92.he-3329-82-1408.ea-3169-1336.ca-3084-1413-1331",
     "memberSince": "2015-06-06T00:01:41.000+00:00",
     "uniqueId": "hhit-8aa86c6b1f77831823caf41f5cc79b33",
     "name": "aroruaurora",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "bobba boy",
     "habboFigure": "hr-5617-61-61.hd-3102-4.ch-5833-110-110.lg-5970-1428.sh-3524-110-64.ha-3171-1428-110.he-3753.fa-3993-110.ca-1816.wa-5986-110.cc-3152-1409",
