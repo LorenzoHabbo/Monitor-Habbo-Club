@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1399.hd-209-12.ch-3022-110-110.lg-3483-70-70.sh-4112-110-92.fa-1209-96.ca-1816.cc-3420-1408",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-4003.lg-275-81.sh-290-64",
@@ -3310,7 +3310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -3933,7 +3933,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6055-34-61.hd-4383-10-14.ch-665-71.lg-3596-110-110.he-5808-110.fa-3276-1408",
+    "habboFigure": "hr-6055-34-61.hd-4383-10-14.ch-665-110.lg-3596-110-110.he-5808-110.fa-3276-1408",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "eneide",
@@ -7120,7 +7120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo. G.D",
     "habboFigure": "hr-3090-37.hd-209-1.ch-225-80.lg-285-82.sh-3180-1408-1408.ea-1403-1408",

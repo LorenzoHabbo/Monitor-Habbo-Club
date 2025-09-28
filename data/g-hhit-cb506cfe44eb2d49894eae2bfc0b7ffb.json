@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "I feel good |",
     "habboFigure": "hr-6084-35-42.hd-629-14.ch-685-73.lg-715-82.sh-907-64.ca-1802",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-3501-92.lg-710-1426.sh-3587-1414-1414.he-6103-1414.fa-5467.cc-3692-1328-1414",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Helper al tuo servizio!",
     "habboFigure": "hr-5791-1404.hd-5317-2-1365.ch-3840-92-92.lg-5927-1339-92.sh-6182.he-3743-1339-1337.fa-3276-95.cc-5800-1421-1337",
@@ -4860,7 +4860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "just a poor clone from a poor family",
     "habboFigure": "hd-180-10.ch-215-1408.lg-285-1408.sh-3068-1408-1408",
