@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-1406.hd-4287-1379.ch-3334-1320-93.lg-5163-105.sh-3338-1326.fa-5157-1332",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mlm",
     "habboFigure": "hr-4031-39-34.hd-3845-1.ch-3809-64-81.lg-4092-80.sh-3619-64-64.ha-4192.fa-4168-71.wa-2002.cc-3744-64-64",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "      º º",
     "habboFigure": "hr-828-31.hd-3092-8.ch-5559-110.lg-280-110.sh-3206-110.ha-4319.fa-3815.ca-1816.cc-3158-110",
@@ -1690,10 +1690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
-    "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
+    "habboFigure": "hr-830-40.hd-180-10.ch-5488-1408.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-3503-71.wa-3359-90",
     "memberSince": "2009-06-13T11:17:50.000+00:00",
     "uniqueId": "hhit-4a479ef8db6255a9d26cda388ee00de1",
     "name": "el--rudy",
@@ -5060,7 +5060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-1401.hd-3100-1370.ch-5917-92.lg-5594-1336.sh-3089-92.ha-4192.he-5314-100-92.ea-3484.fa-5601-1408.cc-5926-100-92",
@@ -7530,7 +7530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
