@@ -260,16 +260,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "È che ci vuole ehhh...",
-    "habboFigure": "hr-3841-42.hd-209-1.ch-255-64.lg-3391-82-1408.sh-4112-72-66.ha-4326.he-1609-72.fa-3378-64-66.cc-3294-64-1408",
-    "memberSince": "2008-05-26T17:55:47.000+00:00",
-    "uniqueId": "hhit-c68d77adca62c38cf5c911911f82fbb6",
-    "name": ".Niko.",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "Vice-dir. AOU Degli Studi Di Stebas",
@@ -1300,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5680-1399.hd-3100-8.ch-4110-92.lg-4341-92.sh-5671-92.ha-3709.he-5578-1408.cc-5580-1340-1408",
@@ -2010,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-4003.lg-275-81.sh-290-64",
@@ -2333,7 +2323,7 @@
     "online": false,
     "gender": "m",
     "motto": "apprendista novello GD",
-    "habboFigure": "hr-155-37.hd-209-1.ch-3111-1408-1408.lg-3078-1408.sh-906-64",
+    "habboFigure": "hr-155-37.hd-209-1.ch-3109-1408-1408.lg-281-1408",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -2590,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "…",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-3709.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -3730,7 +3720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato g.d",
     "habboFigure": "hr-4117-1343-1343.hd-600-10.ch-3183.lg-3078-110.sh-3383-1428-1408.he-3082-63.fa-3276-73.cc-3066-92",
@@ -4410,7 +4400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sorry but not sorry",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-665-64.lg-3078-64.sh-906-64.he-3274-88.fa-1204",
@@ -4650,7 +4640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D. (im just a faget)",
     "habboFigure": "hr-170-36.hd-209-1.ch-3323-76-1408.lg-3078-64.sh-4112-76-1408.he-1608.ca-1804-73",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-10-21T18:14:15.000+00:00",
     "uniqueId": "hhit-a1d7aa867e489ab4a309cec7b7a91674",
     "name": "Barettino",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Cadetto G.D.",
+    "habboFigure": "hr-3725-39.hd-209-10.ch-210-1320.lg-285-82.sh-300-64.ha-4192.ca-3425-66-72.cc-260-82",
+    "memberSince": "2023-10-23T10:05:17.000+00:00",
+    "uniqueId": "hhit-ece7c4bb532a2cab4deb85c13dab2e29",
+    "name": "SignorMorino",
     "isAdmin": false
   }
 ]
