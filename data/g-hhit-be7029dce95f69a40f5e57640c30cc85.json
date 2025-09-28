@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -2430,7 +2430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -8410,7 +8410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "A nice guy",
     "habboFigure": "hr-3090-36.hd-180-8.ch-267-64.lg-275-82.sh-295-1408.he-3465-1408-1408",
