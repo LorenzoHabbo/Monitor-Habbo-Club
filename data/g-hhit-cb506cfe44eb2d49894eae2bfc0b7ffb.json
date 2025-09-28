@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^",
     "habboFigure": "hr-4363-1342-58.hd-4383-10-5.ch-4087-110.lg-4369-80-92.sh-3089-110.he-6082-92-81.cc-5925-1422",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "OLD SCHOOL |",
     "habboFigure": "hr-5773-36.hd-190-3.ch-4361-67-92.lg-3596-80-81.sh-3016-94.ha-1004-1325.he-5088.fa-3296.cc-4979-92",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-3163-39.hd-209-2.ch-3050-1423-92.lg-3136-92.sh-3587-92-1427.he-3082-92.ea-3170-92.fa-3276-96.ca-6081-63",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-80.fa-5624-72",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Il gioco del silenzio",
     "habboFigure": "hr-5773-1404.hd-615-2.ch-6029-110-110.lg-3134-1409-1409.sh-6181-92.ha-5620-92.he-3070-92.fa-3276-72.ca-5635-64-64.cc-4091-110",
