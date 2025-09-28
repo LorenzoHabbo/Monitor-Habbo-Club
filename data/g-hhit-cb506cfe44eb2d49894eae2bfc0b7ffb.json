@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Niente club ho avuto lo sfratto",
     "habboFigure": "hr-5680-61.hd-4383-10-14.ch-5998-110.lg-4066-110.ha-3586.he-5279.fa-3276-92",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Io e Te una cosa sola |||",
     "habboFigure": "hr-4941-1394-60.hd-180-1389.ch-4361-92-106.lg-6017-106-92.sh-3587-92-92.he-3070-93.fa-1201",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
     "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3498-110.lg-4138-110.sh-3587-110-1408.ha-3612-110.fa-5975.cc-6178-1410",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Nutri un pollo con crocchette di pollo",
     "habboFigure": "hd-600-14.ch-822-1408.lg-720-1408.sh-725-1408.ha-1002-1408",
