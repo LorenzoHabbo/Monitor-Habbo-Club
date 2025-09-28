@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Niente club ho avuto lo sfratto",
     "habboFigure": "hr-5680-61.hd-4383-10-14.ch-5998-110.lg-4066-110.ha-3586.he-5279.fa-3276-92",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-650-92.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-3692-105-92",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Balorda Nostalgia! Habbo…",
     "habboFigure": "hr-3056-34.hd-190-1370.ch-3222-1322.lg-3116-110-110.ea-1402.ca-1816",
@@ -2950,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-209-1.ch-5559-90.lg-4066-82.sh-3524-64-82.cc-6115-64-66",
