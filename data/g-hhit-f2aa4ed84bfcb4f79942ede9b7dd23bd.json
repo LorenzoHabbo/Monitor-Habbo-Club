@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono BATMAN",
     "habboFigure": "hd-5522-1-14.ch-5452-66-1408.lg-3116-1408-1408.sh-5551.he-3550.fa-5624-1408.ca-5550.wa-2007.cc-5622",
@@ -2873,7 +2873,7 @@
     "online": true,
     "gender": "m",
     "motto": "Ooh, wah-ah-ah-ah!",
-    "habboFigure": "hr-3163-1342.hd-205-15.ch-3934-1408-110.lg-3483-110-110.he-6173-110.ea-1404-110.cc-3002-110",
+    "habboFigure": "hd-208-1391.ch-3934-92-110.lg-281-64.sh-305-92.ha-3145-63-92.he-3884-1408-1408.cc-3744-63-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -9140,7 +9140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-650-92.lg-3787-92-92.ha-3620.he-3772-106.fa-3276-97.wa-3773-106.cc-3692-105-92",
