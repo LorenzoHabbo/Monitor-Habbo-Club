@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
@@ -683,7 +683,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-5210-61-55.hd-5525-1380-1367.ch-3167.lg-5594-110.sh-5247-110-64.ha-5867-110-64.he-5393.ea-5392.fa-5975.wa-5986-64.cc-5926-110-64.cp-3315-64",
+    "habboFigure": "hr-5210-61-55.hd-5525-1380-25.ch-3167.lg-5594-110.sh-5247-110-64.ha-5867-110-64.he-5393.ea-5392.fa-5975.wa-5986-64.cc-5926-110-64.cp-3315-64",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-105-34.hd-190-1.ch-215-64.lg-280-64.ha-1005-1408",
