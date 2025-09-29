@@ -30,7 +30,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-6083-1342.hd-615-28.ch-3013-64.lg-710-1324.sh-725-92.ha-1003-64.he-3070-92.fa-5601-1408",
@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-3455.he-1608.ca-3217-105-105.wa-2011.cc-887-1430.cp-3204",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ho la casa piu bella di habbo",
     "habboFigure": "hr-3871-40.hd-6021-1.ch-5488-1408.lg-3418-1408.ha-3709.he-5808-80.ea-3925-1408-1408.ca-5807-1320-80.cc-4979-71",
@@ -690,10 +690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "! ! !",
-    "habboFigure": "hr-5773-1404.hd-5696-23-1368.ch-3013-110.lg-710-1334.sh-5247-92-110.ha-3495-92-100.he-3070-92.fa-5601-92.cc-5800-92-92",
+    "habboFigure": "hr-5773-1404.hd-5696-26-1368.ch-3013-110.lg-710-1334.sh-5247-92-110.ha-3495-92-100.he-3070-92.fa-5601-92.cc-5800-92-92",
     "memberSince": "2018-01-06T13:23:25.000+00:00",
     "uniqueId": "hhit-35547eca94a0fce9dd9bb1af158e0b61",
     "name": ",auro",
@@ -970,7 +970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3871-1397.hd-5317-2-1365.ch-3030-110.lg-4138-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-1409",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "(Cappuccino) Assassino G.D...",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-5830-92.lg-5594-110.sh-3089-110.ha-5469-63-63.he-3070-92.fa-5624-1413.cc-5926-1428-63",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-3852-1403.hd-6219-2-29.ch-5921-92-92.lg-3006-1338-92.sh-5803-92.he-3070-92.fa-5467.cc-6115-1326-1337",

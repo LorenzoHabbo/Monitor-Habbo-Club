@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "throw me to the flames i will follow u",
     "habboFigure": "hr-3852-42.hd-615-10.ch-665-1408.lg-710-64.sh-5803-1408.he-3891.fa-3276-73",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "…",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-3709.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -1290,10 +1290,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Almeno farsi male presuppone il moto.",
-    "habboFigure": "hr-3673-32.hd-3845-1.ch-665-64.lg-3023-64.sh-3180-64-64.ha-3352-64-64.ca-1804-64",
+    "habboFigure": "hr-3673-32.hd-3845-1.ch-665-64.lg-3023-64.sh-3180-64-64.ha-3352-64-64.ca-1804-64.wa-3798-64-76",
     "memberSince": "2017-08-30T23:23:30.000+00:00",
     "uniqueId": "hhit-1c3f1ba1e9b8a4e38823cf52e3fe1e84",
     "name": "D_shinoda",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-49-49.hd-5524-2-1365.ch-3668-110-92.lg-5265.sh-5639.ha-6198.he-5828.ea-5392.fa-5948-1408.ca-5574-110-1412.cc-5690-110",
