@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-6H2LA",
     "habboFigure": "hr-828-34.hd-180-28.ch-215-110.lg-280-64.sh-305-1408.ha-1013-110.he-4977-1427-110.cp-5883-1408",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-3455.he-1608.ca-3217-105-105.wa-2011.cc-887-1430.cp-3204",
@@ -1920,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[SINCE 2009] EX POKERISTA",
     "habboFigure": "hr-3090-40.hd-190-10.ch-875-1408-1408.lg-270-1408.sh-300-1408.he-1608.ea-1401-81.fa-1201.cc-3280-1408-1408",
@@ -6893,7 +6893,7 @@
     "online": true,
     "gender": "m",
     "motto": "On my way",
-    "habboFigure": "hr-3520-34.hd-205-10.ch-3491-80-81.lg-3483-1320-80.cc-6119",
+    "habboFigure": "hr-3520-34.hd-205-10.ch-3491-1408-1408.lg-3483-1408-1408.cc-6119",
     "memberSince": "2013-06-27T19:59:41.000+00:00",
     "uniqueId": "hhit-b8608ea679eac1ba73f0cb5194fcf177",
     "name": "leonar92mito",
