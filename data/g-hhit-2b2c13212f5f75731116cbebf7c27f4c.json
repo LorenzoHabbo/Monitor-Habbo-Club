@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-4025-73-66.lg-4017-73-66.sh-300-73.ha-3632-73-66.cc-4282-73",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "APPRENDISTA G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5488-1408.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-3503-71.wa-3359-90",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-6044.wa-3263-110-1320.cc-3509-82-1408",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo d'onore - Famiglia Torrisi",
     "habboFigure": "hr-125-31.hd-207-14.ch-235-1320.lg-3088-1408-82.sh-300-64.ha-1023-73.ca-1801-73.wa-2007.cc-3280-64-1408",
@@ -3923,7 +3923,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5973-34-40.hd-4383-10-14.ch-660-110.lg-3018-1338.he-6103-1338.fa-5467",
+    "habboFigure": "hr-5973-34-40.hd-4383-10-14.ch-660-110.lg-3018-1338.he-6103-1338.fa-3276-1408",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "eneide",
@@ -4750,10 +4750,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3768-1399.hd-3102-1.ch-875-110-1408.lg-3596-110-1408.sh-295-110.ca-5028-64-93.cc-4184-1321-1323",
+    "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -5500,7 +5500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-838-1345.hd-3845-10.ch-3501-110.lg-5594-110.he-3660-1413-1408.fa-3276-1408.ca-4965-1413-92.cc-4108-100-1408",
@@ -6660,7 +6660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Hello",
     "habboFigure": "hr-5841-1403.hd-5838-10-1367.ch-5856.lg-5594-82.sh-5868.he-5578-1427.ca-5769-92-1321.cc-5926-110-1408.cp-5883-110",
