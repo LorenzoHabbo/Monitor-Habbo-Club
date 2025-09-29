@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -683,7 +683,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-5210-61-55.hd-5525-1380-25.ch-3167.lg-5594-110.sh-5247-110-64.ha-5867-110-64.he-5393.ea-5392.fa-5391.wa-5986-64.cc-5926-110-64.cp-3315-64",
+    "habboFigure": "hr-5210-61-55.hd-5525-1380-1367.ch-3167.lg-5594-110.sh-5247-110-64.ha-5867-110-64.he-5393.ea-5392.fa-5975.wa-5986-64.cc-5926-110-64.cp-3315-64",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.wa-6071.cc-5761-91-110",
@@ -3580,7 +3580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-92.lg-5594-64.sh-3089-110.ca-3799-1408-1408.cc-5926-110-110",
