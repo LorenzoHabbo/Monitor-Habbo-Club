@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5361-1416.lg-5363-93.sh-5803-92.ha-3570.he-5915.ea-6053-96.ca-3885-96-92.cc-5800-1432-1432",
@@ -3300,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "®trash queenna®",
     "habboFigure": "hr-4117-1395-1395.hd-3631-1-1366.ch-5607-1415.lg-3192-1409.sh-5928.ha-5379-1428-1428.ca-5635-1322-1322",
