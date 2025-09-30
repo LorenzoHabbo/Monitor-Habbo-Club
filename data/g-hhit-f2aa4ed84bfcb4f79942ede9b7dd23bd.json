@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-4269.hd-3604-12.ch-255-1314.lg-3078-100.sh-290-1314",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-40.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -2870,10 +2870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ooh, wah-ah-ah-ah!",
-    "habboFigure": "hr-3163-1342.hd-205-14.ch-3934-92-110.lg-3483-64-64.ha-3767-1408.he-3070-92",
+    "habboFigure": "hr-3163-1342.hd-205-15.ch-3934-92-110.lg-3483-64-64.ha-3767-1408.he-3070-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
