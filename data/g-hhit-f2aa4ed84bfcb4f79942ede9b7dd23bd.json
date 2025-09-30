@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-4090-31.hd-5696-10-1362.ch-255-110.lg-5594-1429.sh-4112-92-110.he-3070-92.fa-4058-1408",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
