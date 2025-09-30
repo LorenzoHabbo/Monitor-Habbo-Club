@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-893-42.hd-180-1.ch-3030-1408.lg-275-82.sh-908-1408.ha-1002-1408",
@@ -680,10 +680,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ooh, wah-ah-ah-ah!",
-    "habboFigure": "hr-3163-1342.hd-205-15.ch-3934-1408-110.lg-3483-110-110.he-3070-92",
+    "habboFigure": "hr-3163-1342.hd-205-14.ch-807-110.lg-280-110.sh-908-110.he-3884-92-1408",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-45.hd-3845-1370.ch-5608-64.lg-4167-64.sh-3068-1408-1408.ha-1004-64.he-1609-64.fa-5624-73.ca-5770-64",
@@ -4980,7 +4980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  La vostra invidia è la mia forza",
     "habboFigure": "hr-3163-61.hd-3091-8.lg-3596-110-1408.sh-5928.he-4022.ca-1816.wa-2011.cc-4028-110-92",
