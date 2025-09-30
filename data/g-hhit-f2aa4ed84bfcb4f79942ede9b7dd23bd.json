@@ -50,10 +50,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1342.hd-180-2.ch-3030-1408.lg-285-63.sh-906-92.ha-3409-1408-1408.ca-1811.wa-2009-63.cc-887-92",
+    "habboFigure": "hr-828-1342.hd-180-2.ch-3527-89.lg-3521-1427-1427.sh-300-92.ha-3409-1408-1408.ca-3131-72-72.cc-3509-77-1427",
     "memberSince": "2004-06-17T14:08:09.000+00:00",
     "uniqueId": "hhit-7f56ff4a3cba599cc6801ab41f536ea2",
     "name": "dirk",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-215-89.lg-4066-1409.sh-3016-110.ea-3727",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
