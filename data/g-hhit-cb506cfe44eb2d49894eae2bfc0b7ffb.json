@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "When the world zigs, zag.",
     "habboFigure": "hr-893-1347.hd-3845-1371.ch-4220-77.lg-3384-1338-80.sh-3089-1314.ha-1002-1314.ea-3169-106.fa-5157-80",
@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Musica Inaudita",
     "habboFigure": "hr-125-42.hd-180-1.ch-3030-1408.lg-285-82.sh-4112-90-90.cp-3288-64",
@@ -363,7 +363,7 @@
     "online": true,
     "gender": "f",
     "motto": "Eneide e' mio clone per chi non lo sap",
-    "habboFigure": "hr-5973-34-40.hd-6216-10-1362.ch-5215-110-1414.lg-3018-1328.he-6103-1328.fa-3276-1328",
+    "habboFigure": "hr-5973-34-40.hd-4383-10-10.ch-5215-110-1414.lg-3018-1328.he-6103-1328.fa-3276-1328",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3292-110.wa-3263-92-92.cc-3232-110-88",
@@ -553,7 +553,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-660-1426.lg-3006-98-98.sh-3587-92-92.ha-6209.he-5827-92-1327.fa-5435.cc-6119.cp-5886-92",
+    "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-660-1426.lg-710-1338.sh-3587-92-92.he-5827-92-1326.fa-5435.ca-6228.cp-5886-92",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-665-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-49.hd-3536-27-28.ch-5361-1416.lg-5363-93.sh-5803-92.ha-3570.he-5915.ea-6053-96.ca-3885-96-92.cc-5800-1432-1432",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "\"La mia anima è persa\"",
     "habboFigure": "hr-3247-61.hd-3845-28.ch-5831-1428.lg-3088-92-1334.sh-3275-86.ha-5832-86.fa-5600-92.ca-3799-1335-86.cc-4091-1408",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-80.fa-5624-72",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-165-40.hd-209-14.ch-255-1408.lg-270-1408.sh-300-1408.ca-4173-1408",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-92.lg-5594-64.sh-3089-110.ca-3799-1408-1408.cc-5926-110-110",
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3664-45.hd-208-19.ch-3880-1408.lg-281-76.sh-905-71.ha-3117-64.he-1601.fa-1202-72.ca-1815-66.wa-3211-73-66.cp-3128-64",
@@ -5050,7 +5050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " FONDATRICE - GARANTE DIRITTI -G.S.",
     "habboFigure": "hr-5914-45-40.hd-4383-1-14.ch-3809-64-1320.lg-4167-64.sh-5671-64.he-5721-1320-71.cc-6119",
