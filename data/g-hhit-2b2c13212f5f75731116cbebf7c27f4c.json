@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-84.lg-3407-80-66.sh-3115-66-80.ha-3409-80-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-80-66",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-6044.wa-3263-110-1320.cc-3509-82-1408",
@@ -3057,6 +3057,16 @@
     "memberSince": "2014-08-20T01:54:24.000+00:00",
     "uniqueId": "hhit-3718da468fcd91301d1d58cb07cffec5",
     "name": "guerciozen",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "apprendista novello g.d.",
+    "habboFigure": "hr-540-40.hd-625-10.ch-665-64.lg-3023-1408.ha-1013-1408.he-1601.fa-3276-64.ca-1807.cp-3288-1408",
+    "memberSince": "2014-09-19T14:08:21.000+00:00",
+    "uniqueId": "hhit-e1c0019099b665d605b41ca7930482d7",
+    "name": "-Yamashita",
     "isAdmin": false
   },
   {
@@ -4750,7 +4760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-1342-1342.hd-3092-28.ch-3498-110.lg-5594-110.ha-3709.he-5088.cc-5800-92-1408",
@@ -9450,7 +9460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
     "habboFigure": "hr-5773-45.hd-6157-1-12.ch-650-1408.lg-5594-1408.sh-5803-1408.he-6103-1408.fa-5467.cc-6115-1408-1408",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-21T18:14:15.000+00:00",
     "uniqueId": "hhit-a1d7aa867e489ab4a309cec7b7a91674",
     "name": "Barettino",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Cadetto G.D.",
-    "habboFigure": "hr-3725-39.hd-209-10.ch-210-1320.lg-285-82.sh-300-64.ha-4192.ca-3425-66-72.cc-260-82",
-    "memberSince": "2023-10-23T10:05:17.000+00:00",
-    "uniqueId": "hhit-ece7c4bb532a2cab4deb85c13dab2e29",
-    "name": "SignorMorino",
     "isAdmin": false
   }
 ]
