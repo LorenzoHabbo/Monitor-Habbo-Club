@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ooh, wah-ah-ah-ah!",
     "habboFigure": "hr-3163-1342.hd-205-15.ch-3934-92-64.lg-280-110.sh-3035-63.he-3070-92",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
@@ -4400,7 +4400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "FRATELLO E SCHIAVO CORLEONE ceo plug",
     "habboFigure": "hr-515-40.hd-628-19.ch-3689-1408.lg-5970-64.ha-4089-64.fa-1201.ca-5049-71.cc-3420-64",
