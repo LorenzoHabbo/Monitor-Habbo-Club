@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "be kind",
     "habboFigure": "hr-828-1342.hd-180-2.ch-3527-89.lg-3521-1427-1427.sh-300-1409.ha-3409-1408-1408.fa-3296.ca-3131-72-72.cc-3509-77-1427",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-5973-1403-40.hd-3721-2.ch-3688-110.lg-280-110.sh-5247-92-110.ha-5597-92.he-3732.fa-5601-92.ca-3702-106-1428.cc-3850-93-64",
@@ -6390,7 +6390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110",

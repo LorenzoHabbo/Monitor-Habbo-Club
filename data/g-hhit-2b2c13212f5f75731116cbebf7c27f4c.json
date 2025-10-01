@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -2320,7 +2320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista GD",
     "habboFigure": "hr-155-37.hd-209-1.ch-267-1408.lg-3116-64-1408.ca-1801-64",
@@ -9880,7 +9880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-35.hd-629-1.ch-665-1408.lg-710-72.sh-906-1408.he-3274-72.wa-3210-72-72",
