@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Eneide e' mio clone per chi non lo sap",
     "habboFigure": "hr-6055-61-48.hd-6216-10-1365.ch-5215-110-1414.lg-3018-82.he-5808-1328.fa-3276-1328",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-DPUVL",
     "habboFigure": "hr-3841-1397.hd-3095-1370.ch-3334-96-96.lg-3337-96.sh-3435-96-93.ha-3179-96-96.he-5418-96-96.ea-3168-96.ca-1816.wa-5836-96-1336.cp-3125-110",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -2400,10 +2400,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.cc-5800-63-63",
+    "habboFigure": "hr-3602-1407-41.hd-3721-28.ch-3934-92-110.lg-3933-64.sh-3587-92-92.ha-3662-63-92.he-3716.ea-3575.ca-3844-92-92.cc-3867-110-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3980,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
