@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader vogue forcella",
     "habboFigure": "hr-6083-61.hd-6157-10-1372.ch-3076-1331-1324.lg-3174-1331-1331.sh-4064-110.ha-5471-1324-1331.fa-5467",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-155-31.hd-209-14.ch-210-1408.lg-280-91.sh-908-1408.ha-1020.he-1608.cc-5485-1408-91",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-28.ch-665-92.lg-710-1427.sh-5803-92.he-5314-96-96.ea-3961.fa-5467.cc-5925-96",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Polska",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-49-49.hd-5524-2-1365.ch-3668-110-92.lg-5398.sh-5639.ha-6198.he-5828.ea-5392.fa-5948-1408.ca-5574-110-1412.cc-6204-110",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vestita di rosso come la tua nemica",
     "habboFigure": "hr-4117-31-37.hd-600-1.ch-655-72.lg-715-73.sh-908-72.ha-5710-72.he-3358-73-72.fa-3276-73",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-110.lg-5594-77.sh-908-110.ha-3118-64-110.he-3082-92.fa-3276-1413.cc-3360-92",
