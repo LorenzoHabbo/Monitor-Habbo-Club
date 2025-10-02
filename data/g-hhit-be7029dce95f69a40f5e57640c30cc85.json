@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3800-45-40.hd-180-1.ch-876-85-1408.lg-3023-64.sh-295-64.ea-1401-1408.fa-3344-91",
@@ -5760,7 +5760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Wolfgang",
     "habboFigure": "hr-5019-35.hd-3604-1.ch-4025-64-81.lg-4017-64-81.sh-4016-64-81.ha-4194.he-4019-64-81.ea-4021-64-81.fa-4014-64-81.ca-4378.cc-4026-64-81",
