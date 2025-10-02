@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-893-42.hd-180-1.ch-3030-1408.lg-275-82.sh-908-1408.ha-1002-1408",
@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3322-61.hd-3721-22.ch-3030-110.lg-280-64.sh-905-92.ha-3606.ea-3750.ca-5175-63.cc-3360-92",
+    "habboFigure": "hr-3322-61.hd-3721-22.ch-215-110.lg-280-64.sh-905-92.ha-3606.ea-3750.ca-5175-63.cc-3360-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
@@ -1300,10 +1300,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
-    "habboFigure": "hr-6063-1395.hd-629-8.ch-655-76.lg-720-73.sh-735-73",
+    "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110",
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
@@ -1323,7 +1323,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-31.hd-3091-14.ch-3109-66-73.lg-3116-66-64",
+    "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
     "memberSince": "2013-01-06T18:47:45.000+00:00",
     "uniqueId": "hhit-66ba2a28c07b02a2d152ff0c620e943a",
     "name": "UltimRomantico",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-5936-63.cp-3205",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-4015-1.ch-5559-90.lg-3320-82-1408.sh-4112-66-64.he-5348.cc-6115-64-66",
@@ -3350,7 +3350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Wanheda Jus drein Jus daun",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-63",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carusa-Famiglia Torrisi",
     "habboFigure": "hr-4126-47-47.hd-4383-10-8.ch-5302-72-64.lg-6088-72-72.sh-5729-64-64.ha-3843-64-72.he-5578-1320.fa-5467.cc-3975-64-64",

@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-893-42.hd-180-1.ch-3030-1408.lg-275-82.sh-908-1408.ha-1002-1408",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -1120,10 +1120,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
-    "habboFigure": "hr-6063-1395.hd-629-8.ch-655-76.lg-720-73.sh-735-73",
+    "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110",
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
@@ -1133,7 +1133,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-31.hd-3091-14.ch-3109-66-73.lg-3116-66-64",
+    "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
     "memberSince": "2013-01-06T18:47:45.000+00:00",
     "uniqueId": "hhit-66ba2a28c07b02a2d152ff0c620e943a",
     "name": "UltimRomantico",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-5936-63.cp-3205",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Wanheda Jus drein Jus daun",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-63",

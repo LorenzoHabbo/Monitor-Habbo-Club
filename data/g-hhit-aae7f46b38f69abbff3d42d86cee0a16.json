@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-5936-63.cp-3205",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-4015-1.ch-5559-90.lg-3320-82-1408.sh-4112-66-64.he-5348.cc-6115-64-66",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Wanheda Jus drein Jus daun",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-63",
