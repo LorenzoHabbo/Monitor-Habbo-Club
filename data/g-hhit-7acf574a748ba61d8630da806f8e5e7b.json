@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-76-64.lg-720-64.sh-5551.ha-6091.fa-3276-73.ca-6081-66.cc-5461-1408-76",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "OLD SCHOOL |",
     "habboFigure": "hr-5773-36.hd-190-3.ch-4361-67-92.lg-3596-80-81.sh-3016-94.ha-3461.he-5088.fa-3296.cc-4979-92",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -1590,10 +1590,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey .",
-    "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-5607-71.lg-4114-72-73.sh-3621-71-73.ea-1401-71",
+    "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-5607-71.lg-3526-72-73.sh-3621-71-73.ea-1401-71.cp-3288-1408",
     "memberSince": "2016-11-14T18:20:21.000+00:00",
     "uniqueId": "hhit-aa37f674d4ee82872386e65c7c887424",
     "name": "Cozzettaa",
@@ -1950,10 +1950,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mi piacciono i Codici e saaas",
-    "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5169-106.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
+    "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-3300-106.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
@@ -3270,7 +3270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-180-1.ch-235-64.lg-285-64.sh-300-64.ea-1404-64.fa-1206-64",
