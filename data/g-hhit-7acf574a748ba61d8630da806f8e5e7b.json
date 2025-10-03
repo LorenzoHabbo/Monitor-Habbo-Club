@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Eneide e' mio clone per chi non lo sa",
     "habboFigure": "hr-5680-39.hd-4383-10-11.ch-824-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-92",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3322-1342.hd-3095-11.ch-5559-77.lg-5594-77.sh-6182.he-3740.ea-3169-64.fa-3993-110.ca-5381-77.cc-5926-110-110",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
