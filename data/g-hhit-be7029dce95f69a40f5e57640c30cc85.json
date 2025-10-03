@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mlm",
     "habboFigure": "hr-4117-34-40.hd-3845-10.ch-5351-1408-71.lg-3787-80-1408.ha-4192.fa-4168-71",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-5973-1403-40.hd-3721-2.ch-3688-110.lg-280-110.sh-5247-92-110.ha-5597-92.he-3732.fa-5601-92.ca-3702-106-1428.cc-3850-93-64",
@@ -3890,10 +3890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cittadino the hundred",
-    "habboFigure": "hd-180-14.ch-210-1408.lg-270-1408.sh-290-1408.fa-1206-1408",
+    "habboFigure": "hr-100.hd-180-14.ch-3030-71.lg-270-82.sh-300-1408.ha-1014.fa-1204.ca-1809",
     "memberSince": "2011-02-27T11:17:09.000+00:00",
     "uniqueId": "hhit-31c25de964f6081df264b8ad1332b53a",
     "name": "megapunitoreUno",
@@ -4540,7 +4540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-45.hd-190-10.ch-5608-64.lg-5594-82.sh-3383-66-90.ha-5851.fa-3462-91",
@@ -9920,7 +9920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "teng e nike bianc mballat comm a bamb",
     "habboFigure": "hr-3841-35.hd-209-1.ch-3342-64-64.lg-3391-82-1408.sh-4112-64-88.cc-4109-64-64",
