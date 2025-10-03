@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3292-110.wa-3263-92-92.cc-3232-110-88",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.ea-3141.fa-1201.ca-1802.wa-2011.cc-5826-1430",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6223-1414-110.lg-710-1425.sh-3587-92-92.he-3884-1425-92.fa-5435",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-4111-92.lg-3078-110.sh-3016-108.ha-4201.he-5088.ea-3168-80.fa-5624-108.ca-1816.wa-2011.cc-3007-1424-1412.cp-3125-110",
@@ -1423,7 +1423,7 @@
     "online": true,
     "gender": "m",
     "motto": "Pezzo Grosso Battaglia »",
-    "habboFigure": "hr-3829-41.hd-180-18.ch-215-1428.lg-280-1428.sh-295-92.he-3070-1408.cc-5800-110-110.cp-3123-63",
+    "habboFigure": "hr-3829-61.hd-3091-28.ch-235-110.lg-280-92.sh-295-110.he-3070-92.fa-1201.cc-5800-92-92",
     "memberSince": "2013-06-21T16:09:36.000+00:00",
     "uniqueId": "hhit-2f21bdcc2044a03e658cf8f0d4eb59cf",
     "name": "El.Vampiro",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Manovalanza Corleone",
     "habboFigure": "hr-4363-1400-1400.hd-4383-9-3.ch-5245-77.lg-5594-77.sh-3089-77.he-5088.fa-3276-96.wa-5370.cc-5926-92-93",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.ea-5392.fa-5948-92.ca-5936-92.cc-5926-110-92",
@@ -3840,7 +3840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-3022-100-1408.lg-280-110.sh-305-92.ea-1404-110.ca-5916-100-86.cc-887-100",
