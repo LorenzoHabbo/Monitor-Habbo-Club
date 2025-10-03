@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-6083-1342.hd-6216-10-1365.ch-5245-92.lg-5594-1325.sh-5803-92.ha-5468-1409-1325.he-5808-1324.fa-5467.ca-5738-1325.wa-5370.cc-4300-1409-1325",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
     "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3979-110.lg-4138-110.sh-3587-110-1408.ha-3586.fa-5975.cc-5810-110",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
@@ -2650,7 +2650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "0904",
     "habboFigure": "hr-5617-1404-54.hd-629-1390.ch-6029-97-1326.lg-3136-1324.sh-730-1326.he-3070-1326.wa-5599-1326-97",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Recluta P.I.H.",
     "habboFigure": "hr-3871-1397.hd-5317-2-1365.ch-225-82.lg-3023-64.sh-3068-82-82.ha-1023-82.ca-1804-1408.wa-2001",
@@ -3280,7 +3280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-80.fa-5624-72",
@@ -3860,7 +3860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
@@ -3900,7 +3900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "la tua collana preferita è la mia mano",
     "habboFigure": "hr-3163-1342.hd-205-15.ch-805-110.lg-280-110.sh-305-92.ha-5169-1408.he-3070-92",
@@ -5001,9 +5001,9 @@
   },
   {
     "online": false,
-    "gender": "m",
+    "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3673-61.hd-207-28.ch-4111-110.lg-3521-110-110.sh-6181-110.ha-4006.he-5808-1337.ea-1402.ca-5936-1408.wa-2004-73.cc-4184-110-100",
+    "habboFigure": "hd-3096-28.ch-3135-92.lg-3136-92",
     "memberSince": "2025-05-26T18:13:44.000+00:00",
     "uniqueId": "hhit-8813e0ca5431520ffa490b36481c3d68",
     "name": "-Majora",

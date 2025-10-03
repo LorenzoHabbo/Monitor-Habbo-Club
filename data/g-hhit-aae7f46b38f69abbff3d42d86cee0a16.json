@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "0904",
     "habboFigure": "hr-5617-1404-54.hd-629-1390.ch-6029-97-1326.lg-3136-1324.sh-730-1326.he-3070-1326.wa-5599-1326-97",
@@ -960,7 +960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Recluta P.I.H.",
     "habboFigure": "hr-3871-1397.hd-5317-2-1365.ch-225-82.lg-3023-64.sh-3068-82-82.ha-1023-82.ca-1804-1408.wa-2001",
