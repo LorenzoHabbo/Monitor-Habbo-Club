@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "interlinked",
     "habboFigure": "hr-3852-1395.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-3276-1331.cc-5926-110-92",
@@ -223,7 +223,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.he-6155-104-104.fa-5600-92.cc-3542-92-104",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-4111-92.lg-3078-110.sh-3016-108.ha-4201.he-5088.ea-3168-80.fa-5624-108.ca-1816.wa-2011.cc-3007-1424-1412.cp-3125-110",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-1327.ca-4956",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -780,10 +780,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
-    "habboFigure": "hr-6174-49-49.hd-6216-28-1367.ch-5921-110-1418.lg-3933-1418.sh-6043.ha-6198.he-6173-100.fa-5467.ca-6041.wa-5370.cc-6070",
+    "habboFigure": "hr-6174-49-49.hd-6216-28-1367.ch-5921-110-1418.lg-3933-1418.sh-6043.ha-6198.he-6173-100.fa-5624-100.ca-6041.wa-5370.cc-6070",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -1293,7 +1293,7 @@
     "online": true,
     "gender": "f",
     "motto": "Almeno farsi male presuppone il moto.",
-    "habboFigure": "hr-3673-32.hd-3845-1.ch-630-1408.lg-3023-64.sh-3180-64-64.ha-3352-64-64.fa-3378-64-74.ca-5768-73-1408.cc-3373-64",
+    "habboFigure": "hr-3673-32.hd-3845-1.ch-3809-64-64.lg-3078-64.sh-3180-64-64.ha-3352-64-64.fa-3378-64-74.ca-5768-73-1408.cc-3373-1408",
     "memberSince": "2017-08-30T23:23:30.000+00:00",
     "uniqueId": "hhit-1c3f1ba1e9b8a4e38823cf52e3fe1e84",
     "name": "D_shinoda",
@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "STOTAROTAGGGG",
     "habboFigure": "hd-180-14.ch-210-1408.lg-280-1408.ha-1004-1408",
