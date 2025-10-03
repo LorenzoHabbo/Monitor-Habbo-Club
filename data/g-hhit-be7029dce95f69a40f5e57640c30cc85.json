@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Eneide e' mio clone per chi non lo sa",
     "habboFigure": "hr-5680-39.hd-4383-10-11.ch-824-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-92",
@@ -3390,10 +3390,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haly Gnaoui",
-    "habboFigure": "hr-3800-45-40.hd-180-1.ch-876-85-1408.lg-3023-64.sh-295-64.ea-1401-1408.fa-3344-91",
+    "habboFigure": "hr-3800-45-40.hd-180-1.ch-876-85-1408.lg-280-64.sh-295-64.ea-1401-1408.fa-3344-91",
     "memberSince": "2010-12-09T16:02:31.000+00:00",
     "uniqueId": "hhit-79f6077cb627d4fefde73bb79d964d4a",
     "name": "batistax",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-53.hd-6219-1391-14.ch-210-110.lg-4138-1336.sh-4112-1336-1321.he-5279.ca-1816.cc-6178-110",
@@ -7520,7 +7520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
