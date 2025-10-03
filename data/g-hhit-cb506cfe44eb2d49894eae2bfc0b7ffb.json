@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.ea-3141.fa-1201.ca-1802.wa-2011.cc-5826-1430",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6223-1414-110.lg-710-1425.sh-3587-92-92.he-3884-1425-92.fa-5435",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-4111-92.lg-3078-110.sh-3016-108.ha-4201.he-5088.ea-3168-80.fa-5624-108.ca-1816.wa-2011.cc-3007-1424-1412.cp-3125-110",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Pezzo Grosso Battaglia »",
     "habboFigure": "hr-3829-61.hd-3091-28.ch-235-110.lg-280-92.sh-295-110.he-3070-92.fa-1201.cc-5800-92-92",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vestita di rosso come la tua nemica",
     "habboFigure": "hr-4117-31-37.hd-600-1.ch-655-72.lg-715-73.sh-908-72.ha-5710-72.he-3358-73-72.fa-3276-73",
@@ -4343,7 +4343,7 @@
     "online": false,
     "gender": "f",
     "motto": "Solo se hai 100k puoi parlarmi",
-    "habboFigure": "hr-5619-40.hd-6216-10-10.ch-665-1320.lg-3216-1320.he-5314-73-73.fa-5467.ca-3414-73.wa-4317-76.cc-5826-71",
+    "habboFigure": "hr-5619-40.hd-6216-10-10.ch-3540-73.lg-3216-1320.he-5314-73-73.fa-5467.ca-5479-73-1408.wa-4317-76.cc-5826-84",
     "memberSince": "2024-12-22T17:29:07.000+00:00",
     "uniqueId": "hhit-f731456bd9f2e7b11c9802a55a20bf84",
     "name": "ANTI_",
