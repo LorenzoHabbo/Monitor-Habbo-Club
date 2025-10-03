@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.ea-3141.fa-1201.ca-1802.wa-2011.cc-5826-1430",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-4111-92.lg-3078-110.sh-3016-108.ha-4201.he-5088.ea-3168-80.fa-5624-108.ca-1816.wa-2011.cc-3007-1424-1412.cp-3125-110",
@@ -2170,10 +2170,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader vogue forcella",
-    "habboFigure": "hr-6083-61.hd-6157-10-1372.ch-3076-1331-1324.lg-3174-1331-1331.sh-4064-110.ha-5471-1324-1331.fa-5467.cc-5800-110-110",
+    "habboFigure": "hr-6083-61.hd-6157-10-1372.ch-3076-1331-1324.lg-3174-1331-1331.sh-4064-110.ha-5471-1324-1331.fa-5467",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^",
     "habboFigure": "hr-6083-61.hd-4383-10-30.ch-5302-110-92.lg-6000-110.sh-6064-110-110",
