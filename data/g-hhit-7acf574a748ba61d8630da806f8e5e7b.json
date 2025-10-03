@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Eneide e' mio clone per chi non lo sa",
     "habboFigure": "hr-5680-39.hd-4383-10-11.ch-824-110.lg-3006-110-110.sh-6181-1410.ha-3586.he-5279.fa-3276-92",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^",
     "habboFigure": "hr-6083-61.hd-4383-10-30.ch-5302-110-92.lg-6000-110.sh-6064-110-110",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º roseboss amicona",
     "habboFigure": "hr-5275-1343.hd-205-1.ch-3438-92-92.lg-5594-77.sh-4112-110-92.ea-5897-1426-110.ca-5768-92-93.cc-3389-110-110.cp-3315-110",
