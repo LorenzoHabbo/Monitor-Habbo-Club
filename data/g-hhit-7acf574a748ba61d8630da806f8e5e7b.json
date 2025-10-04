@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-893-42.hd-180-1.ch-3030-1408.lg-275-82.sh-908-1408.ha-1002-1408",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
