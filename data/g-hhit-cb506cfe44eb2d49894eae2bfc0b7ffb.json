@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.ea-3141.fa-1201.ca-1802.wa-2011.cc-5826-1430",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-1395.hd-190-10.ch-5608-110.lg-5594-1334.sh-3383-1409-89.ha-5851.fa-3462-1325",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3370-40.hd-180-10.ch-3372-1408-1408.lg-3365-1408.sh-295-64.fa-1204",
@@ -3010,7 +3010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3871-1397.hd-5317-2-1365.ch-3030-110.lg-5545-110-92.sh-3419-1325-1409.he-3820-64.fa-4044.ca-4936.wa-3263-64-1409.cc-3389-1325-64",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ti piace la mia beretta?",
     "habboFigure": "hr-3768-45.hd-5913-1370.ch-5029-73-71.lg-4114-71-1408.sh-3693-68-91.ha-3638.he-5137.fa-5601-71.ca-4183-73-73.cc-5800-73-73",
@@ -4110,7 +4110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5772-31-40.hd-6216-1-14.ch-5735-74-1408.lg-700-1408.sh-5464-74-1408.he-1609-1408.fa-5467.ca-5278-1408.wa-5836-1408-1408.cc-5283-1408",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carusa-Famiglia Torrisi",
     "habboFigure": "hr-4126-47-47.hd-4383-10-8.ch-5302-72-64.lg-6088-72-72.sh-5729-64-64.ha-3843-64-72.he-5578-1320.fa-5467.cc-3975-64-64",
