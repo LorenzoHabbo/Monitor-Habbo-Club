@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-5679-32-32.hd-629-1370.ch-3517-73-1408.lg-3216-64.sh-730-1408.he-3376-73-1408",
@@ -6700,7 +6700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-5559-1322.lg-3138-94-1408.sh-6182.ha-5832-94",
@@ -8310,7 +8310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "1997 - SNAP SNAP",
     "habboFigure": "hr-3810-42.hd-625-1.ch-5607-64.lg-3116-81-82.sh-906-82.he-1608.ea-3484",
