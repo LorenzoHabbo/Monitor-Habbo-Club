@@ -6510,7 +6510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-4031-37-1347.hd-3103-1371.ch-4238.lg-3078-1314.sh-3252-1331-110.ha-3352-90-85.he-4258.cc-3374-1331",
@@ -6520,7 +6520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-31.hd-600-10.ch-665-80.lg-3526-64-64.sh-906-64.ha-5620-1408.fa-3276-72.cc-5926-80-1408",
@@ -8780,7 +8780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
