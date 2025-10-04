@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sentinella Esperta G.D",
     "habboFigure": "hr-890-36.hd-629-1.ch-4067-91-1408.lg-3078-64.sh-740-1408.ha-3254-81",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-3673-37.hd-600-1.ch-685-80.lg-3078-64.sh-906-1408.ha-3117-64.he-1608.fa-3276-72.wa-2012",
@@ -6960,7 +6960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "perbenista",
     "habboFigure": "hr-125-32.hd-209-1370.ch-215-73.lg-3088-73-64.sh-295-64.ea-1404-64.fa-1208-73",
