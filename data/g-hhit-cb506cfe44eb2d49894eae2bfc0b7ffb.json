@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-4111-92.lg-3078-110.sh-3016-108.ha-4201.he-5088.ea-3168-80.fa-5624-108.ca-1816.wa-2011.cc-3007-1424-1412.cp-3125-110",
@@ -3350,7 +3350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Wanheda Jus drein Jus daun",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413",
@@ -5050,7 +5050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-45.hd-180-1370.ch-3030-1408.lg-275-91.sh-295-1408.ha-4201.fa-3276-72.ca-1807",
