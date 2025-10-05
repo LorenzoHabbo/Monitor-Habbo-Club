@@ -5070,7 +5070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -5610,7 +5610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ex Cuneo ~ Staten Island (since 2006)",
     "habboFigure": "hr-828-49.hd-3102-1383.ch-3506-92-1408.lg-3596-110-1408.sh-3524-92-1408.ha-4192.he-3070-1408.ea-3925-110-92.ca-3219-1330.wa-3504-100.cc-3522-110-92",
@@ -8140,7 +8140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Roma non fu costruita in un giorno.",
     "habboFigure": "hr-3281-1405.hd-6219-26-30.ch-3688-92.lg-5970-77.sh-3035-92.cc-3002-77",
