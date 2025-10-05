@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-6029-71-73.lg-3483-81-81.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-3673-37.hd-600-1.ch-685-80.lg-3078-64.sh-906-64.ha-3117-64.he-1608.fa-3276-72.wa-2012",
@@ -8090,7 +8090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413",
