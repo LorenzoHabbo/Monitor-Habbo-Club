@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -120,9 +120,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "",
+    "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-1608.ea-3141.fa-1201.ca-1802.wa-2011.cc-5826-1430",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1396.hd-3095-1370.ch-4111-92.lg-3078-110.sh-3016-108.ha-4201.he-5088.ea-3168-80.fa-5624-108.ca-1816.wa-2011.cc-3007-1424-1412.cp-3125-110",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-605-28.ch-655-110.lg-710-110.sh-5803-92.he-6173-1330.ea-5576-1408-1408.fa-5467.cc-5800-1427-1427",
@@ -680,10 +680,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "! ! ! Kkkk",
-    "habboFigure": "hr-3936-1403-1403.hd-600-2.ch-813-110.lg-695-110.sh-5247-92-110.he-3070-92.fa-3276-1411.cc-5800-1411-1411",
+    "habboFigure": "hr-4363-1403-1403.hd-600-2.ch-883-110-92.lg-710-110.sh-5803-92.ha-3776.he-3070-92.fa-3276-1411.cc-5800-110-110",
     "memberSince": "2018-01-06T13:23:25.000+00:00",
     "uniqueId": "hhit-35547eca94a0fce9dd9bb1af158e0b61",
     "name": ",auro",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-3852-1403.hd-6219-2-1360.ch-665-1320.lg-5594-1325.sh-3089-1320.ha-4008.he-5808-110.fa-5467.cc-5800-1411-1411",
