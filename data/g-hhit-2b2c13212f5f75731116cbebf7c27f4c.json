@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-4003.lg-275-81.sh-290-64",
@@ -4660,7 +4660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo G.D.",
     "habboFigure": "hr-3172-59.hd-209-7.ch-3032-1416-110.lg-3078-110.sh-3089-110.ha-3240-1416-110.he-3070-1410.cp-3310-1412",
@@ -6170,7 +6170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-5545-110-92.sh-3089-1428.he-3820-64.fa-4044.ca-4936.wa-3073-64.cc-3389-1325-64",
@@ -9490,10 +9490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Maestra della Tenacia Jehudhiel G.D.",
-    "habboFigure": "hr-5773-45.hd-6157-1-12.ch-650-1408.lg-5594-1408.sh-5274-1408-1408.ha-3620.fa-5467.cc-6115-1408-1408",
+    "habboFigure": "hr-5773-45.hd-6157-1-12.ch-650-1408.lg-5594-1408.sh-5274-1408-1408.he-6103-1408.fa-5467.cc-6115-1408-1408",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
