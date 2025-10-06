@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6174-59-1398.hd-6219-2-28.ch-6180-92.lg-3136-89.sh-6182.ha-3586.he-6173-1408.ca-6207.cc-6178-1408",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello G.D",
     "habboFigure": "hr-115-45.hd-200-10.ch-255-85.lg-3078-82.sh-295-64.ha-6091.fa-3993-76.ca-5739-73-64",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-6029-71-73.lg-3483-81-81.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -2913,7 +2913,7 @@
     "online": true,
     "gender": "f",
     "motto": "giustiziere. celeste -G°D |",
-    "habboFigure": "hr-5680-36.hd-629-19.ch-630-1408.lg-4369-110-1408.sh-3277-110-92.he-3274-92.wa-3263-1408-1408.cc-3008-92-110.cp-3285-1408",
+    "habboFigure": "hr-5680-36.hd-629-19.ch-630-1408.lg-4369-110-1408.sh-6064-92-110.he-3274-92.wa-3263-1408-1408.cc-3008-92-110.cp-3285-1408",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -3763,7 +3763,7 @@
     "online": true,
     "gender": "f",
     "motto": "scagnozzo semplice gd",
-    "habboFigure": "hr-4117-1342-1342.hd-600-10.ch-3013-98.lg-3267-98-92.he-3082-63.fa-5601-92",
+    "habboFigure": "hr-4117-1342-1342.hd-600-10.ch-3013-98.lg-3267-98-92.ha-1002-98.he-3082-63.fa-5601-92",
     "memberSince": "2016-06-08T20:03:42.000+00:00",
     "uniqueId": "hhit-2e634d3afaab77215eadd9962fbb8fff",
     "name": "Rusherpenatic",
@@ -6180,9 +6180,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "",
+    "motto": "Heda Shena Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-5545-110-92.sh-3089-1428.he-3820-64.fa-4044.ca-4936.wa-3073-64.cc-3389-1325-64",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
@@ -6940,7 +6940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Wanheda Jus drein Jus daun",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -8100,7 +8100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413.cc-5925-64",
@@ -9240,7 +9240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Lanterna Blu [Triadi]",
     "habboFigure": "hr-3768-34.hd-3604-1.ch-4111-73.lg-275-64.ha-4192.he-4059-73-1320.fa-4058-1408.ca-5454-73.wa-5478-73-1320",
@@ -9830,7 +9830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aiutante G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -9900,7 +9900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato Semplice G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-270-82.sh-300-1408.ea-1406.ca-1812.wa-2002",
