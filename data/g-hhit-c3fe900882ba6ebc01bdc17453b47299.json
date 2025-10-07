@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-1327.ca-4956",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-28.ch-5607-110.lg-3136-1418.sh-6043.ha-6198.he-6173-100.fa-5467.ca-6041.wa-5370.cc-3542-100-100",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "NON SONO IO X6",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-84.ha-5076-83.he-6125-1408.fa-3276-73.ca-3414-73",
