@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "life is simple",
     "habboFigure": "hr-828-34.hd-205-23.ch-215-110.lg-285-63.sh-295-1408.ha-3488.he-3070-1427.cp-5883-1331",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "No way",
     "habboFigure": "hr-155-45.hd-190-10.ch-215-64.lg-3116-73-1408",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Old School HipHop",
     "habboFigure": "hr-3090-36.hd-190-1.ch-215-64.lg-3078-82.sh-906-64.fa-1201.ca-1801-82",
