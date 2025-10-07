@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mi piacciono i Codici e saaaas",
     "habboFigure": "hr-3048-49-1345.hd-208-1360.ch-6222-106-95.lg-4066-1410.sh-3275-1323.ha-5169-93.fa-1211",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
