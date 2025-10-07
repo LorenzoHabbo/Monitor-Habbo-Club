@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "APPRENDISTA NOVELLINO GD",
     "habboFigure": "hr-3090-42.hd-209-12.ch-878-64-1408.lg-280-80.sh-3068-64-90.ha-1004-64.he-1609-64",
