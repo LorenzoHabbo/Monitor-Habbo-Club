@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-38.hd-180-8.ch-215-1408.lg-285-82.sh-295-1408.ha-1013-64.fa-1201",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ignoranza is unbreakable , Marinaio Bp",
     "habboFigure": "hr-3525-31.hd-185-30.ch-806-73.lg-3290-90.sh-3621-66-73.ha-3612-71.ea-3925-71-85.fa-1205-1408.ca-1810.wa-3798-72-76.cc-4179",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-3030-1408.lg-275-1408.ha-1005-84.he-1610.ea-3698-83-72.fa-1211.wa-2004-71.cc-260-1408.cp-3126-64",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "®trash queenna®",
     "habboFigure": "hr-5619-1345.hd-3604-1367.ch-5831-96.lg-3136-96.sh-3338-96.ha-5704.he-3081-72.fa-1209-96.ca-5771-96-96.cc-5926-96-96",

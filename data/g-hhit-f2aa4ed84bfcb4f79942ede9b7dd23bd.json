@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo novae tenebrae",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3829-45.hd-3845-1.ch-3030-92.lg-275-110.sh-5308-92.ha-4324.he-5074-92.fa-5691-92-110.ca-5936-92.wa-5986-110.cc-6204-110",
@@ -8143,7 +8143,7 @@
     "online": true,
     "gender": "m",
     "motto": "Roma non fu costruita in un giorno.",
-    "habboFigure": "hd-6219-10-1365.ch-3934-110-110.lg-5970-77.sh-6182.ha-1004-110.fa-3276-1325",
+    "habboFigure": "hr-125-1395.hd-6219-10-1365.ch-3934-1427-110.lg-3933-1427.sh-305-1408.he-3070-1410.fa-3346-1330",
     "memberSince": "2014-08-12T13:33:15.000+00:00",
     "uniqueId": "hhit-323b4a9622f06f50bd21f58bcd6a13f2",
     "name": "Adams,",
