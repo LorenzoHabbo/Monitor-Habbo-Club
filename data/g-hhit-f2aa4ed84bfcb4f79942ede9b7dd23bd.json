@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-40.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3095-1370.ch-4111-1408.lg-3078-89.sh-906-92.ha-4201.he-5088.ea-3168-80.fa-4168-108.ca-1816.wa-2011.cc-887-1416.cp-3125-110",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fast Rap - Yuno Miles",
     "habboFigure": "hr-5285-61-40.hd-205-2.ch-3934-110-110.lg-280-110.sh-908-92.he-3070-92.ea-1404-110.fa-1207.cc-5925-110",
