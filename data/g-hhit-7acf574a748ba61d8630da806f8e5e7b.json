@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "- GAJIN Shiro YKZ-",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3806-73.lg-280-82.ha-3494-72-82.he-4379.ea-3925-1320-68.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-82",
@@ -3320,7 +3320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "slogga-VVRWF",
     "habboFigure": "hr-125-42.hd-180-1.ch-3683-82-1408.lg-4066-1408.sh-3524-90-1408.fa-1204",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-40.hd-5913-10.ch-3540-73.lg-3078-64.sh-3524-64-1408.fa-5601-1408.ca-5916-73-85",
