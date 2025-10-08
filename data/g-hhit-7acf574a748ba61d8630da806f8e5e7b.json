@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-49.hd-3092-3.ch-5596-110.lg-5594-64.sh-5308-1410.ha-3352-64-1427.he-5578-1408.fa-5601-68.ca-5769-92-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-665-73.lg-3078-82.sh-906-74.he-3274-73.wa-2012.cc-3975-73-1408",
@@ -1150,7 +1150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-5559-1322.lg-6017-94-1408.sh-6182.ha-5832-94",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -2723,7 +2723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Gaijin esperto YKZ Sud",
-    "habboFigure": "hr-5617-49-40.hd-4383-1-1368.ch-5030-110-110.lg-3364-110-95.sh-907-110.he-4944.fa-1209-110.ca-4937",
+    "habboFigure": "hr-5680-49.hd-4383-1-1368.ch-5030-110-110.lg-3364-110-95.sh-907-110.he-4944.ca-4937",
     "memberSince": "2022-01-12T20:07:36.000+00:00",
     "uniqueId": "hhit-7645477e8e1f3a8bbaf64e6f8b929d24",
     "name": "JapaneseCherry",
@@ -3210,7 +3210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aiutante G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -3220,7 +3220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato Semplice G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-270-82.sh-300-1408.ea-1406.ca-1812.wa-2002",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5773-1342.hd-627-1383.ch-3935-110-110.lg-5594-1427.sh-5247-92-92.he-3716.ea-5576-110-110.fa-3276-100.cc-5926-110-1408",
