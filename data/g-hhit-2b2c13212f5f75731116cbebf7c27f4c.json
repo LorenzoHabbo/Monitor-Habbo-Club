@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-4003.lg-275-81.sh-290-64",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-3030-1408.lg-275-1408.ha-1005-84.he-1610.ea-3698-83-72.fa-1211.wa-2004-71.cc-260-1408.cp-3126-64",
@@ -8090,7 +8090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413.cc-5925-64",
