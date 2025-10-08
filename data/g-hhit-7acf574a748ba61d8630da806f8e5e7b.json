@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3095-1370.ch-4111-1408.lg-3078-89.sh-906-92.ha-4201.he-5088.ea-3168-80.fa-4168-108.ca-1816.wa-2011.cc-887-1416.cp-3125-110",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-1335.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-94.cc-6178-1412",
@@ -2430,7 +2430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Shena Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-5545-110-92.sh-3089-1428.he-3820-64.fa-4044.ca-4936.wa-3073-64.cc-3389-1325-64",
