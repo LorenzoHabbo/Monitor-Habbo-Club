@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Portami in alto come gli aeroplani",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-3030-110.lg-3933-1427.sh-3587-110-92.ha-3544.cc-3867-110-1427",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey .",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-5607-71.lg-3526-72-73.sh-3621-71-73.ea-1401-71.cp-3288-1408",
@@ -2950,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Marinaio bp",
     "habboFigure": "hr-5503-45.hd-600-1.ch-665-71.lg-720-80.sh-725-1408.fa-3276-73",
