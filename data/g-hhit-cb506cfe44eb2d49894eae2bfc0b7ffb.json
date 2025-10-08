@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-1335.sh-5247-92-110.ha-3677.fa-3276-95.wa-3773-94.cc-6178-1412",
@@ -3840,7 +3840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo dei tori",
     "habboFigure": "hr-3163-61.hd-205-2.ch-255-1414.lg-275-110.sh-305-92.ea-1404-110.fa-5835-92",
