@@ -650,6 +650,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista Novello G.D",
+    "habboFigure": "hd-180-1370.ch-3792-85-1408.lg-3407-68-68.sh-3524-90-90.ea-1403-91.fa-1208-64",
+    "memberSince": "2009-10-07T17:52:51.000+00:00",
+    "uniqueId": "hhit-10442e5d0ae1fe367d0de213c3a17da7",
+    "name": "Pazzoraffaele",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "Ambasciatore G.D º Cm HIH º",
@@ -2390,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-6029-71-73.lg-3483-81-81.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -2910,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "giustiziere. celeste -G°D |",
     "habboFigure": "hr-5680-36.hd-629-19.ch-3045-92.lg-3078-110.sh-3089-1336.he-3274-92.wa-3263-1408-1408.cc-3008-92-110.cp-3285-1408",
@@ -3720,7 +3730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -5470,10 +5480,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato Scelto G.D.",
-    "habboFigure": "hr-828-61.hd-180-10.ch-255-110.lg-280-110.sh-3206-110.ea-3107-63-1408",
+    "habboFigure": "hr-802-42.hd-180-10.ch-255-64.lg-280-64.sh-295-64",
     "memberSince": "2020-04-09T18:35:39.000+00:00",
     "uniqueId": "hhit-d70d6d6c09d728e2412687277363ad18",
     "name": "Unlimited01",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-10-13T09:08:47.000+00:00",
     "uniqueId": "hhit-4a5de12071c9173e8edebd80c710a49d",
     "name": "saralove2",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista novello G.D.",
-    "habboFigure": "hr-3531-45-37.hd-209-1.ch-255-64.lg-3078-64.sh-906-1408.he-3833-1408.fa-1201",
-    "memberSince": "2023-10-14T19:53:47.000+00:00",
-    "uniqueId": "hhit-6857f1a38b3637bd44e1ffd8da7772d4",
-    "name": "Demian97x",
     "isAdmin": false
   }
 ]
