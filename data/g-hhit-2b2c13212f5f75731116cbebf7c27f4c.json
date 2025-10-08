@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cadetto G.D",
     "habboFigure": "hd-185-1.ch-235-85.lg-275-66.sh-295-64.ea-1403-1408.fa-3344-66",
@@ -9930,7 +9930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-35.hd-629-1.ch-665-1408.lg-710-72.sh-906-1408.he-3274-72.wa-3210-72-72",
