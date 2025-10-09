@@ -5420,10 +5420,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
-    "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.ea-3318-63.fa-1203.wa-3798-85-93",
+    "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.ea-3318-63.wa-3798-85-93",
     "memberSince": "2020-03-26T19:37:50.000+00:00",
     "uniqueId": "hhit-0f111a42a97a3c90e719659bbefe6715",
     "name": "giu.ntura",
@@ -5850,7 +5850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "DRACARYS",
     "habboFigure": "hr-3810-39.hd-600-1.ch-665-73.lg-3078-82.sh-3180-73-64.ha-4006.wa-3074-73-64",
