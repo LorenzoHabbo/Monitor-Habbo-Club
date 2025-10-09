@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "assistente medico The Hundred",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5907-1408-1408.lg-3787-82-1408.sh-5670-64.ha-3857-1408-1408.ea-5910-64-64.wa-2006.cc-4091-1408",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1430-1430.lg-4191-1430-1430.ha-5520-1430-83.he-6082-1408-1408.ea-3141.fa-1201.ca-6020-1408.wa-2011.cc-4979-92",
@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "always",
     "habboFigure": "hr-3520-1349.hd-205-1363.ch-3032-75-92.lg-280-110.sh-3419-110-110.he-3070-1408.ea-1405.fa-3296.wa-3073-1425.cc-3158-1425",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-4168-97.ca-3883.cc-6119",
@@ -313,7 +313,7 @@
     "online": true,
     "gender": "m",
     "motto": "I K A R I - YKZ",
-    "habboFigure": "hr-3278-61-49.hd-207-28.ch-3981-110-92.lg-3365-110.sh-3206-64.ha-1026.fa-1205-110.cc-4184-110-110",
+    "habboFigure": "hr-3278-57-49.hd-207-28.lg-3257-64.sh-3206-64.ha-1026.ea-3169-1337.fa-3345-80.cc-886-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-6222-1322-1408.lg-5113-94.sh-3621-63-1408.ha-5832-94.ca-5592-83-1408.wa-6154-110-1325",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
     "habboFigure": "hr-4182-61-61.hd-3631-1370-20.ch-665-92.lg-5594-110.sh-3035-92.ea-5576-110-110.ca-6162-100-92.cc-6205-110",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ultimo custode di mondi in cenere",
     "habboFigure": "hr-5617-1352-1407.hd-3845-18.ch-6029-108-110.lg-3136-1324.sh-3016-110.he-3070-1321.fa-3276-1417.ca-1801-1321.wa-5599-1321-110",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Vice Leader [ NºT ]",
     "habboFigure": "hr-5773-44.hd-627-1370.ch-4299-75-64.lg-5594-82.sh-3068-64-74.he-1609-76.fa-3276-91.cc-4106-76-1408",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ew",
     "habboFigure": "hr-802-45.hd-190-1370.ch-215-91.lg-280-91.sh-908-91.ha-1015",
