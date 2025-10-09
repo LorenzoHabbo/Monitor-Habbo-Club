@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-5791-49.hd-3092-3.ch-5596-110.lg-5594-64.sh-5308-1410.ha-3352-64-1427.he-5578-1408.fa-5601-68.ca-5769-92-92",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-28.ch-5762-1327-105.lg-695-1408.ea-3803-1327.ca-4956",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3860-49-49.hd-5524-2-1365.ch-3668-110-92.lg-5398.sh-6156-110.ha-6198.he-5828.ea-5392.fa-5948-92.cc-6204-110",
