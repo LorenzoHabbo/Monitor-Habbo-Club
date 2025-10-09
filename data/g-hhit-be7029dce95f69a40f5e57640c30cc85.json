@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-5772-49-61.hd-5684-28.ch-3367-110-92.lg-3364-110-110.sh-6181-110.ea-1402.fa-1209-110.ca-5028-110-64.wa-3366-110-64",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -3170,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-235-82.lg-280-64.sh-295-1408.ha-1004-64.fa-1201",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "wired bro",
     "habboFigure": "hr-828-61.hd-207-3.lg-3078-77.sh-3035-92.ha-5627-64.he-1609-110.ea-1404-110.cc-5400",
@@ -6510,7 +6510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-31.hd-600-10.ch-5907-73-73.lg-4369-64-64.sh-5308-64.he-5314-73-73.fa-3276-72.cc-5926-72-72",
@@ -9260,7 +9260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6204-90",
