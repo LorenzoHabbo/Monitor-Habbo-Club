@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-1416.lg-3019-1416.sh-3089-1416.he-3358-1416-1408.cc-3289-1416",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-40.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vivi si muore.",
     "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.fa-5601-1320.ca-3410-1408",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.ea-5392.fa-5948-92.ca-5936-92.cc-5926-110-92",
@@ -3350,7 +3350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3903,7 +3903,7 @@
     "online": true,
     "gender": "m",
     "motto": "che non è amore se mi ingorghi le vene",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-281-64.sh-305-92.he-3740.ca-3844-110-1412.cp-3316-1408",
+    "habboFigure": "hr-3163-61.hd-205-23.ch-210-110.lg-281-64.sh-305-92.he-6171-92-73.fa-3378-63-64.ca-3844-110-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -5040,7 +5040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " FONDATRICE - GARANTE DIRITTI -G.S.",
     "habboFigure": "hr-5914-45-45.hd-4383-1-12.ch-5302-90-1320.lg-4167-90.sh-5671-1320.he-3274-1320.ca-1815-1320",
