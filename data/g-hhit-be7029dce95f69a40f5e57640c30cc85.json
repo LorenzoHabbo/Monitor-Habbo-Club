@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich",
     "habboFigure": "hd-4174-2.ch-3934-92-110.lg-3483-1427-1427.sh-3621-92-1325.ha-1004-1334.ea-3493-110-89.fa-5384-92.cc-5926-1335-1334",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-1407.hd-6216-28-1362.ch-5998-110.lg-4066-110.he-6103-96.fa-3276-1328",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "rotta rotta rotta da dietro",
     "habboFigure": "hr-3012-1395.hd-3536-1-1.ch-3183.lg-3434-1430-110.sh-4159-110-92.ha-3150-110-1430.he-3660-1412-84.fa-3276-95.cc-6070",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-4201.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",

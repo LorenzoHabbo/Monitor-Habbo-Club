@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-1407.hd-6216-28-1362.ch-5998-110.lg-4066-110.he-6103-96.fa-3276-1328",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-4201.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -740,9 +740,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "#AV1912",
+    "motto": "                        #AV1912",
     "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.fa-5601-1320.ca-3410-1408",
     "memberSince": "2010-12-01T13:13:46.000+00:00",
     "uniqueId": "hhit-dd751684352a9f8dceb02644e71c687e",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.he-5314-110-1415.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -2021,9 +2021,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Helper al tuo servizio!",
-    "habboFigure": "hr-3625-61-61.hd-625-10.ch-3076-110-110.lg-3061-110.sh-3354-110-110.cc-3010-110-64",
+    "habboFigure": "hr-3860-1404-1404.hd-5317-2-28.ch-5830-92.lg-3483-1424-1424.sh-6182.ha-5301-1424.fa-3276-1330.cc-5810-107.cp-5946",
     "memberSince": "2017-02-25T13:35:17.000+00:00",
     "uniqueId": "hhit-0ef6bf9c5b7a01934f53374fa09f0a9c",
     "name": "@P-E-P-P-E@",
@@ -3480,7 +3480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3830,7 +3830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Soldato Scelto GD",
     "habboFigure": "hr-5619-37.hd-4383-1370-1.ch-5302-64-64.lg-5974-82-82.sh-5729-64-64.ha-4006.he-5965-64-64.ea-1404-64",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-28.ch-215-110.lg-280-110.sh-3275-110.ha-1005-110.he-3082-92.fa-3276-1413.cc-3360-92",
