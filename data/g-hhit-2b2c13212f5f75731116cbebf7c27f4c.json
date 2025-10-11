@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-4025-82-81.lg-4017-82-66.sh-300-82.ha-3409-82-82.ca-5028-81-82",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1399.hd-209-12.ch-3022-110-110.lg-3483-70-70.sh-4112-110-92.fa-1209-96.ca-1816.cc-3420-1408",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista novello G.D..",
     "habboFigure": "hr-891-39.hd-180-8.ch-807-85.lg-270-72.sh-3115-1408-1408.ea-1403-1408.wa-2011",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-4193-61.hd-3604-27.ch-3688-92.lg-3521-110-1408.ca-4036-92.cc-5961-110-1408",
@@ -6960,7 +6960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-1354.hd-3095-1.ch-3215-92.lg-6089-92-107.ea-1402.fa-3296",
@@ -8100,7 +8100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413",
