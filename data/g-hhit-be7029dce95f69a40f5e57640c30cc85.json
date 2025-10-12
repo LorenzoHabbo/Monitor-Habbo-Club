@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "le monde est à nous",
     "habboFigure": "hr-3852-1395.hd-627-1391.ch-665-92.lg-710-1428.sh-5803-92.he-3891.fa-3276-1331.cc-5926-110-92",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "always",
     "habboFigure": "hr-3520-1349.hd-205-1363.ch-3032-75-92.lg-280-110.sh-3419-110-110.he-3070-1408.ea-1405.fa-3296.wa-3073-1425.cc-3158-1425",
@@ -3500,7 +3500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-53.hd-6219-1391-14.ch-210-110.lg-4138-1336.sh-4112-1336-1321.he-5279.ca-1816.cc-6178-110",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-44.hd-3845-1.ch-3443.lg-285-73.ha-3441.fa-3462-1408",
@@ -6170,7 +6170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "WE ARE BACK [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-3185-92.lg-5594-110.sh-6156-91.he-1609-110.ea-5576-63-1408.fa-6170-63.ca-1815-110.cc-5558-110-92",
