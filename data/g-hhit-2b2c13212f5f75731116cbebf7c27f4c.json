@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Vice Capo Salathiel",
     "habboFigure": "hd-3704-14.ch-4025-82-81.lg-4017-82-66.sh-300-82.ha-3409-82-82.ca-5028-81-82",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gruppo Elix ¥",
     "habboFigure": "hd-205-10.ch-876-64-1408.lg-3116-64-1408.ha-1002-64.fa-1201.ca-5550.wa-2006",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-4368-107.lg-5970-92.sh-5670-107.ha-3709.cc-5761-1424-1408",
@@ -2340,10 +2340,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CADETTO GD",
-    "habboFigure": "hr-3090-42.hd-209-1.ch-267-1408.lg-3116-64-1408",
+    "habboFigure": "hr-3090-42.hd-209-1.ch-805-64.lg-3023-1408.sh-300-64.ca-1801-1408.cc-3294-64-1408",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -3350,9 +3350,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Apprendista scelto g.d",
+    "motto": " Boom!",
     "habboFigure": "hr-893-34.hd-180-1.ch-804-85.lg-280-82.sh-300-1408",
     "memberSince": "2015-06-30T20:51:19.000+00:00",
     "uniqueId": "hhit-687ac7755a4189e9f9fcd3805e7ab1d1",
