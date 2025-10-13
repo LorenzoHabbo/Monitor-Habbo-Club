@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-1322.lg-4191-1410-1322.ha-3680.he-1601.fa-1201.ca-6020-1408.wa-2009-1322.cc-4979-92",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Gajin esperto ykz sud",
     "habboFigure": "hr-837-61.hd-625-18.ch-3036-71-1414.lg-3526-64-64.sh-5247-92-110.fa-6170-64.cc-5440-110-110",
@@ -4900,7 +4900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "//",
     "habboFigure": "hr-831-1404.hd-205-26.ch-215-1408.lg-280-110.sh-290-1408.fa-6170-1408",
@@ -5070,7 +5070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -9380,7 +9380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-205-2.ch-215-110.lg-280-92.sh-908-110.ha-3145-92-92.he-1609-110.ca-1816.cp-3310-92",
