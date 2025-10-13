@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6023-59-1398.hd-6219-2-28.ch-6180-92.lg-3136-89.sh-6182.he-6173-1408.ca-6207.cc-6178-1408",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-84.lg-3407-80-66.sh-3115-66-80.ha-3409-80-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-80-66",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-6044.wa-3263-110-1320.cc-3509-82-1408",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥| Vice Questore P.I.H. |¥ (Papa)",
     "habboFigure": "hr-3841-61.hd-3845-24.ch-3443.lg-3526-110-110.sh-3206-110.ha-3441.ea-3262-110-110.cc-3360-110",
@@ -4670,7 +4670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Decime Esperta G.D.",
     "habboFigure": "hr-3172-61.hd-209-10.lg-6089-110-100.sh-3027-110-110.ha-3139-110.he-3070-1410.ca-3131-110-110.cc-3269-110-96",
@@ -4740,10 +4740,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ Jehudiel GD ƒ",
-    "habboFigure": "hr-5914-45-1404.hd-6216-10-13.ch-6180-100.lg-3136-110.sh-6182.ha-5704.he-6173-100.fa-5467.ca-5523.cc-5690-92",
+    "habboFigure": "hr-5914-45-1404.hd-6216-10-13.ch-5963-100.lg-3136-110.ha-5704.he-6173-100.fa-5467.ca-5523.cc-5690-92",
     "memberSince": "2018-09-21T14:50:00.000+00:00",
     "uniqueId": "hhit-6a7cec4fe2064fed4a5c24554c6a1fae",
     "name": "Persephone",
@@ -6833,7 +6833,7 @@
     "online": true,
     "gender": "f",
     "motto": "Gaijin esperto YKZ Sud",
-    "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-6039.lg-3047-1336.sh-907-110.ha-6037.ca-4378.cc-6119",
+    "habboFigure": "hr-5680-49.hd-4383-1-1368.ch-5030-110-110.lg-3364-110-95.sh-907-110.he-4944.fa-1209-110.ca-4937",
     "memberSince": "2022-01-12T20:07:36.000+00:00",
     "uniqueId": "hhit-7645477e8e1f3a8bbaf64e6f8b929d24",
     "name": "JapaneseCherry",
@@ -8100,7 +8100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413",
@@ -9500,7 +9500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5773-42.hd-6157-1-30.ch-650-1408.lg-5594-1408.sh-5274-1408-1320.ha-3620.fa-5467.cc-6115-73-1320",
