@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "little princess",
     "habboFigure": "hr-5680-1395.hd-3100-1390.ch-650-1325.lg-5594-110.fa-3276-97",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -2940,7 +2940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5679-45-40.hd-600-1.ch-822-75.lg-720-80.sh-725-1408.fa-3276-73",
