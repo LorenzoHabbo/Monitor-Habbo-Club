@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "XD",
     "habboFigure": "hr-802-42.hd-180-1370.ch-255-1408.lg-281-64.sh-295-1408",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -3790,10 +3790,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "HC till i die",
-    "habboFigure": "hr-3520-42.hd-3845-10.ch-4111-64.lg-3320-64-73.he-3579.ea-3726.fa-3276-72.ca-3414-72.cc-3360-72",
+    "motto": "Sotto cassa tutto passa",
+    "habboFigure": "hr-3520-42.hd-3845-10.ch-255-64.lg-280-64.sh-3180-64-64.he-3579.ea-3575.fa-3276-64.ca-3466-64-72.cc-3360-64",
     "memberSince": "2016-06-19T08:50:21.000+00:00",
     "uniqueId": "hhit-26d4c531cbb1eab8081b8af3eabc814b",
     "name": "l3izar",
@@ -6180,7 +6180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Shena Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-6222-1429-110.lg-6161-82-91.sh-3419-1325-67.he-3820-64.fa-4044.ca-4936.wa-6154-67-100.cc-6077",
@@ -6940,7 +6940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
