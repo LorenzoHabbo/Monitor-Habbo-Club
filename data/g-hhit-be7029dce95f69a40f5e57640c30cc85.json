@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "le monde est à nous",
     "habboFigure": "hr-3852-42.hd-627-10.ch-660-110.lg-5594-1408.sh-730-92.he-3891.fa-6170-110.ca-3885-110-92.wa-6172-92-96",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3860-1404-1403.hd-3721-2.ch-3934-92-1324.lg-5594-77.sh-3783-92-1408.ha-5597-92.he-5578-92.fa-5601-92.ca-5768-110-110.wa-5599-1325-64.cc-5926-1409-1408",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -2603,7 +2603,7 @@
     "online": true,
     "gender": "m",
     "motto": "always",
-    "habboFigure": "hr-3520-1349.hd-205-1363.ch-3032-75-92.lg-280-110.sh-3419-110-110.he-3070-1408.ea-1405.wa-3073-1425.cc-3158-1425",
+    "habboFigure": "hr-3520-1349.hd-190-1363.ch-3032-75-110.lg-280-110.sh-3524-110-110.he-3070-1408.fa-3378-64-63.wa-3073-110.cc-3158-64",
     "memberSince": "2010-03-27T18:11:46.000+00:00",
     "uniqueId": "hhit-51e68938a0d62f16954462d7156667c7",
     "name": "Ludo-Vik",
@@ -2980,7 +2980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-1395.hd-190-10.ch-5608-110.lg-5594-1334.sh-3383-1409-89.ha-5851.fa-3462-1325",
@@ -6610,7 +6610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -8390,7 +8390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "A nice guy",
     "habboFigure": "hr-3090-36.hd-180-8.ch-267-64.lg-275-82.sh-295-1408.he-3465-1408-1408",
