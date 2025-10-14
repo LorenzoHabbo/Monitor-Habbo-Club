@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Allons-Y",
     "habboFigure": "hr-4941-49-1354.hd-3095-1359.ch-4111-92.lg-3596-92-92.sh-3027-92-1408.ha-4194.ea-3318-63.fa-3378-92-1408.ca-3466-1408-92.cc-6077",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-3619-76-66.ha-3632-76-71.he-5750-71.ea-5749-71.fa-4185-73.ca-6018.cc-6050-76-1408",
