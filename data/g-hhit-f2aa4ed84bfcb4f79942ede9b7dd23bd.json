@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ez",
     "habboFigure": "hr-5912-34-40.hd-207-1370.ch-5856.lg-5226.sh-305-1408.ea-5576-1408-1320.cc-3827-64-64",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Consigliere Corleone.",
     "habboFigure": "hr-5756-37-45.hd-5838-1-19.ch-4361-92-80.lg-5594-1325.sh-4112-92-73.ea-5392.fa-5387.cc-5926-82-92",
@@ -2163,7 +2163,7 @@
     "online": true,
     "gender": "m",
     "motto": "Spaventapassere. crikey.",
-    "habboFigure": "hd-195-1370.ch-3030-1408.lg-275-64.ha-4194.fa-5600-1408.cc-4091-1408",
+    "habboFigure": "hd-195-1370.ch-3030-1408.lg-275-64.ha-4194.fa-5600-1408.wa-2004-71.cc-4091-1408",
     "memberSince": "2010-02-23T13:30:13.000+00:00",
     "uniqueId": "hhit-edd0c02e2a7e837f6e42285df6ccde0e",
     "name": "Prometheus",
@@ -8870,7 +8870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[¥] Presidente S.W.A.T. [¥]",
     "habboFigure": "hr-3322-31.hd-180-1.ch-3323-1408-1408.lg-280-82.sh-3621-1408-64.ha-3709.fa-3276-73.cc-3326-64-1408",
