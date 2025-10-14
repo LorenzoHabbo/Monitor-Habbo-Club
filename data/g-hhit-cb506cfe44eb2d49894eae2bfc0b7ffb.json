@@ -2710,7 +2710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Chucky",
     "habboFigure": "hr-5619-1350.hd-4383-1390-1390.ch-635-92.lg-5974-1338-1408.sh-5729-1433-92.he-3324-110-64.ea-1404-110.fa-4168-95.cc-5926-84-83",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-32-32.hd-6216-1-30.ch-4275-81-71.lg-5974-81-64.sh-6181-81.he-5466.fa-3276-72.ca-5249-71-81.wa-6165-81.cc-5826-81",
