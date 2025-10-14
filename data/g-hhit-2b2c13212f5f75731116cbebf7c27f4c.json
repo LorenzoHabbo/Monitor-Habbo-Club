@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "XD",
     "habboFigure": "hr-802-42.hd-180-1370.ch-255-1408.lg-281-64.sh-295-1408",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello g.d",
     "habboFigure": "hr-893-36.hd-209-14.ch-877-1408-1408.lg-285-1408.sh-305-1408.ca-1807.wa-2011",
@@ -6270,7 +6270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "INIZIATO G.D.",
     "habboFigure": "hr-5680-32.hd-3631-1370-30.ch-3809-1408-90.lg-5970-1408.sh-730-90.he-3274-90.ea-5897-64-64.cc-5926-90-1408",
