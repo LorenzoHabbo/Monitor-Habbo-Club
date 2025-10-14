@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mai più nessun legame",
     "habboFigure": "hr-4117-49-49.hd-6216-28-1365.ch-665-110.lg-710-110.he-4946-110.fa-5467.cc-4979-92",
@@ -2253,7 +2253,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-4991-34.hd-185-10.ch-230-64.lg-3290-64.sh-300-64.ha-3546-64.fa-1206-66.ca-3545-64.wa-2001",
+    "habboFigure": "hr-4991-34.hd-185-10.ch-3030-64.lg-280-64.sh-300-64.ha-3654.fa-1206-66.ca-3545-1408.wa-2001.cc-3280-73-1408",
     "memberSince": "2022-06-25T08:36:00.000+00:00",
     "uniqueId": "hhit-165a19887d9dc7a14d0f31b93b02fe8c",
     "name": "killbill",
