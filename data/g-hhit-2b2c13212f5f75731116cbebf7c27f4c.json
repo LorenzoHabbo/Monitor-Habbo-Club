@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -2020,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-3840-73-82.lg-3407-82-1408.sh-305-73",
@@ -4070,10 +4070,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
-    "habboFigure": "hr-6083-34.hd-5684-1.ch-3598-73-73.lg-3216-73.sh-3383-64-1408.he-6173-73.cc-3975-73-73",
+    "habboFigure": "hr-3040-1342.hd-3956-2-1372.ch-3501-110.lg-3174-110-110.sh-4064-110.ha-3241-110-110.fa-3276-72.ca-3217-92-64.wa-3072-92-92.cc-3744-110-110.cp-3207-1408-1408",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -5840,7 +5840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "DRACARYS",
     "habboFigure": "hr-3810-34.hd-600-1.ch-884-73.lg-710-73.sh-907-73.he-1610.fa-3276-73",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sentinella semplice gd",
     "habboFigure": "hr-890-46.hd-629-1.ch-884-82.lg-3116-64-1408.sh-3115-1408-64.wa-3074-1408-64",
