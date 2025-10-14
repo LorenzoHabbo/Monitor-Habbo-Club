@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3841-40.hd-3845-30.ch-3443.lg-4167-64.sh-300-64.ha-3431-1408-1408.fa-3378-64-1408.ca-5770-91",
@@ -2357,16 +2357,6 @@
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
-    "isAdmin": false
-  },
-  {
-    "online": true,
-    "gender": "f",
-    "motto": "\"La mia anima è persa\"",
-    "habboFigure": "hr-3247-61.hd-3845-28.ch-5831-1428.lg-3088-92-1334.sh-3275-86.ha-5832-86.fa-5600-92.ca-3799-1335-86.cc-4091-1408",
-    "memberSince": "2018-12-05T18:40:26.000+00:00",
-    "uniqueId": "hhit-80f62fb44bfd97936e236984558d2905",
-    "name": "fintolol",
     "isAdmin": false
   },
   {
@@ -4830,7 +4820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "just a poor clone from a poor family",
     "habboFigure": "hd-180-10.ch-215-1408.lg-285-1408.sh-3068-1408-1408",
