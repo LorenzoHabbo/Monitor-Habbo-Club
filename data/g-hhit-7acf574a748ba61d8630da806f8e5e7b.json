@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-49.hd-4383-28-7.ch-3005-92-92.lg-5594-110.ha-5620-110.he-5808-110",
@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alla fine ne uscirai.",
     "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
@@ -753,7 +753,7 @@
     "online": true,
     "gender": "f",
     "motto": "><",
-    "habboFigure": "hr-5566-1342-1342.hd-6219-10-1365.ch-660-63.lg-5594-63.sh-5803-92.ha-5468-1427-97.he-5244-97.fa-5467.ca-5738-1414.wa-5370.cc-5925-78",
+    "habboFigure": "hr-5566-58-1353.hd-6216-10-1365.ch-3005-1326-1408.lg-5243-1339.sh-5803-92.ha-3709.he-5074-1339.fa-5467.ca-5738-78.wa-5370.cc-5440-1339-92",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": ".Bibol.",
@@ -1173,7 +1173,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-41.hd-627-27.ch-5921-63-92.lg-3006-1427-63.sh-6156-73.he-4977-1427-73.fa-5835-72.cc-5518-88-1429",
+    "habboFigure": "hr-5773-41.hd-627-27.ch-5921-63-92.lg-3006-1427-63.sh-6156-73.fa-5835-72.cc-5518-88-1429",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-3935-110-110.lg-5594-1427.sh-5247-92-92.he-3716.ea-5576-110-110.fa-3276-100.cc-5926-110-1408",
