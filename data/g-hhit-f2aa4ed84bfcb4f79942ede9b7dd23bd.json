@@ -3630,7 +3630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-6044.wa-3263-110-1320.cc-3509-82-1408",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5566-54-54.hd-6216-28-1365.ch-3005-1326-1408.lg-5243-1326.sh-5803-92.ha-4194.he-5808-99.fa-5467.ca-5738-97.wa-5370.cc-5440-1326-1408",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3829-45.hd-3845-1.ch-5452-1341-1408.lg-3418-1341.sh-5247-92-64.ha-3690-92.he-6171-92-96.fa-6170-64.ca-3691-1410-110",
@@ -7460,7 +7460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
