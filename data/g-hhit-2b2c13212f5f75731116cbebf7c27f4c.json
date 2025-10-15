@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel gd /solitaria",
     "habboFigure": "hr-5517-61-40.hd-3845-1.ch-883-110-92.lg-3328-110-110.sh-3524-92-110.fa-3276-96.wa-3798-1408-1408.cc-3249-110-92",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Powaaleban3-.-",
     "habboFigure": "hr-890-34.hd-629-1.ch-655-71.lg-3216-71.sh-3180-71-1408.he-3274-71.ca-1801-1408.wa-2004-1408",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5566-54-54.hd-6216-28-1365.ch-3005-1326-1408.lg-5243-1326.sh-5803-92.ha-4194.he-5808-99.fa-5467.ca-5738-97.wa-5370.cc-5440-1326-1408",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-3810-34.hd-3956-1-20.ch-665-73.lg-3078-82.sh-906-74.he-3274-73.wa-2012.cc-3975-73-1408",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º rosebos amicona",
     "habboFigure": "hr-5275-1343.hd-205-1.ch-3215-110.lg-5594-77.sh-4112-110-92.ha-3986.ea-5897-63-1408.ca-5768-92-93.cc-4979-92",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Iniziato GD",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-6029-71-73.lg-3483-81-81.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-5210-40-40.hd-207-14.ch-5559-1408.lg-5594-1408.sh-5729-1408-1408.he-3740.fa-4048.ca-3844-1408-1408.cc-3867-1408-1408",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "scagnozzo esperto gd",
     "habboFigure": "hr-4117-1342-1342.hd-600-10.ch-3013-98.lg-3267-98-92.ha-1002-98.he-3082-63.fa-5601-92",
@@ -4080,10 +4080,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
-    "habboFigure": "hr-3040-1343.hd-3956-2-1368.ch-3013-1328.lg-3174-1415-1415.sh-3064-1418.he-1603-1328.ea-1401-110.fa-3276-72.ca-1816.cp-3207-1408-1408",
+    "habboFigure": "hr-834-34.hd-5684-2.ch-3005-95-110.lg-3174-97-95.sh-3064-110.he-1603-1328.ea-1401-110.fa-3276-72.ca-1816.wa-3072-92-92.cp-3207-1408-1408",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -4793,14 +4793,14 @@
     "online": false,
     "gender": "f",
     "motto": "Cadetto G.D.",
-    "habboFigure": "hr-3673-37.hd-600-1.ch-685-80.lg-3078-64.sh-906-64.he-1608.fa-3276-72.wa-2012",
+    "habboFigure": "hr-3673-37.hd-600-1.ch-685-80.lg-3078-64.sh-906-64.ha-3117-64.he-1608.fa-3276-72.wa-2012",
     "memberSince": "2018-11-11T19:22:41.000+00:00",
     "uniqueId": "hhit-c4d84a6d0d41865efc6f80be6b545497",
     "name": "roses_are_rosie",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -6183,7 +6183,7 @@
     "online": true,
     "gender": "m",
     "motto": "Heda Shena Regime Wonkru [TH]",
-    "habboFigure": "hr-3871-1406.hd-6219-2-1365.ch-3880-92.lg-4113-1327-1327.ha-3855-92.he-5553.fa-4044.ca-3844-106-1323.wa-4040-92.cc-6119",
+    "habboFigure": "hr-3871-1406.hd-6219-2-1365.ch-3880-92.lg-4113-1327-1327.ha-3855-92.he-5553.fa-4044.ca-3844-1327-105.wa-4040-1315.cc-6119",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -6710,7 +6710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3845-27.ch-3237-1408-1408.lg-5732-110-73.sh-3720-110-1408.ha-3730.he-5482.fa-1203.ca-5936-68.wa-3072-63-1408.cc-3158-110",
@@ -8100,7 +8100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413",
@@ -9830,7 +9830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aiutante G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -9900,7 +9900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato Semplice G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-71.lg-270-82.sh-300-1408.ea-1406.ca-1809",
