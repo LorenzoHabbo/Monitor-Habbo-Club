@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-1322.lg-4191-1410-1322.ha-3680.he-1601.fa-1201.ca-6020-1408.wa-2009-1322.cc-4979-92",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "! ! ! Everybody Dies in the End",
     "habboFigure": "hr-5773-1403.hd-627-26.ch-5560-100-110.lg-710-110.sh-6156-64.he-6171-1427-1331.fa-6170-64.wa-6154-64-64.cc-5800-64-64",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5624-1413",
