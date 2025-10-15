@@ -20,10 +20,10 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gloria fugace l’oscurità è per sempreº",
-    "habboFigure": "hr-828-61.hd-205-28.ch-210-110.lg-280-110.sh-305-110.he-4946-110.ea-1404-110.cc-3420-64",
+    "habboFigure": "hd-205-14.ch-210-1408.lg-280-1408.sh-305-1408.ha-1013-64.ea-1403-91.cc-3420-64",
     "memberSince": "2022-05-27T15:23:32.000+00:00",
     "uniqueId": "hhit-817249c03abcef7e70c2bfd82e982d64",
     "name": "C.Oblivion",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est ª Oblivion",
     "habboFigure": "hr-828-54.hd-207-10.ch-3030-1334.lg-285-80.ea-3639",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mai più nessun legame",
     "habboFigure": "hr-4117-49-49.hd-6216-28-1367.ch-824-110.lg-3136-110.sh-6156-100.he-4946-110.fa-5467.wa-6172-92-100.cc-4979-92",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-1425.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-92-92",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "per gli amici e-e a verità",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-5069.he-6171-92-96.ea-4985.fa-6132.ca-5002.wa-5370",
