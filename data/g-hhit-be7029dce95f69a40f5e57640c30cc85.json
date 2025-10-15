@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3800-45-40.hd-180-1.ch-876-85-1408.lg-280-64.sh-295-64.ea-1401-1408.fa-3344-91",
@@ -6683,7 +6683,7 @@
     "online": true,
     "gender": "f",
     "motto": "I'm a tiny builder ƒ",
-    "habboFigure": "hr-4186-1342.hd-3631-10-30.ch-650-92.lg-3526-1426-77.sh-5308-1408.he-3324-64-1408.fa-3276-72.cc-3515-1338-1338",
+    "habboFigure": "hr-4186-1342.hd-3631-10-30.ch-650-1408.lg-3526-82-1408.sh-5308-1408.he-3324-64-1408.fa-3276-72.cc-3515-82-1338",
     "memberSince": "2012-12-28T14:50:17.000+00:00",
     "uniqueId": "hhit-283142b9c89c0339d70124c7f6659fa6",
     "name": "Hellie",
@@ -9660,7 +9660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-1425.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-92-92",
