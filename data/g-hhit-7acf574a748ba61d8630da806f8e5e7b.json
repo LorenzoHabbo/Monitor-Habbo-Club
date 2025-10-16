@@ -220,10 +220,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3860-45-1403.hd-3721-2.ch-255-92.lg-280-77.sh-5247-92-1408.ha-1002-92.he-3070-92.fa-5600-92.ca-5708.cc-6163-1338",
+    "habboFigure": "hr-3860-45-1403.hd-3721-2.ch-3185-92.lg-280-77.sh-5247-92-1408.ha-1002-92.he-3070-92.fa-5600-92.ca-5708.cc-6163-1338",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
