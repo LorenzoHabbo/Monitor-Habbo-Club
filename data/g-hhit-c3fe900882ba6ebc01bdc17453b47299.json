@@ -490,10 +490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "mai più nessun legame",
-    "habboFigure": "hr-4117-49-49.hd-6216-28-1367.ch-3293-110-92.lg-3136-110.sh-6156-100.he-4946-110.fa-5467.cc-4979-92",
+    "motto": "Mai più nessun legame.",
+    "habboFigure": "hr-4117-49-49.hd-6216-28-1367.ch-665-110.lg-710-110.he-4946-110.fa-5467.cc-4979-92",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-1327.ca-4956",
@@ -1463,7 +1463,7 @@
     "online": true,
     "gender": "m",
     "motto": "NON SONO IO X6",
-    "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-5771-83-1408",
+    "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-83",
     "memberSince": "2019-11-11T17:05:56.000+00:00",
     "uniqueId": "hhit-a61b66ab2e501e56cc34fdfbaae6f99d",
     "name": "80Pazienza",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-4363-40-40.hd-600-10.ch-665-1408.lg-4066-1408.fa-3276-72.cc-5926-1408-1408",
