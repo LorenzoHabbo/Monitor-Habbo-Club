@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Obbah Wobbah Corleone",
     "habboFigure": "hr-5360-42.hd-180-10.ch-5367-91-1408.lg-270-1408.sh-905-66",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-85-90.lg-270-1408",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4363-61-1346.hd-4383-10-5.ch-5560-110-110.lg-4369-110-1408.sh-5729-110-70.ha-5704.wa-6165-100.cc-5926-1413-1408",
