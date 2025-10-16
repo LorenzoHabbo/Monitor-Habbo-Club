@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~crikey",
     "habboFigure": "hr-4162-42.hd-3604-1.ch-5488-68.lg-3460.ha-3620.he-1601.fa-1202-68.ca-1806-68.cc-5826-68",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Balorda Nostalgia! Habbo… E",
     "habboFigure": "hr-5791-34.hd-180-1370.ch-215-80.lg-3088-64-64.sh-295-1408.he-1609-1408.ea-3726.fa-1204.ca-5737-64.wa-2012",
