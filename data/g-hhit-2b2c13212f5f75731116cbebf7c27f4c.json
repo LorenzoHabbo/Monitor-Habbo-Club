@@ -1,16 +1,16 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
-    "habboFigure": "hr-4117-59-1345.hd-6219-28-1367.ch-5453-110-110.lg-4066-92.sh-3587-92-110.he-5314-110-92.cc-5690-110",
+    "habboFigure": "hr-4117-59-1345.hd-6219-28-1367.ch-5453-110-110.lg-4066-92.sh-3587-92-110.he-5314-110-92.cc-6166-110-1408",
     "memberSince": "2011-11-18T12:30:49.000+00:00",
     "uniqueId": "hhit-251ddbbd59214326649b43b0df5089da",
     "name": ".MicettaDark",
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-5619-31.hd-3845-10.ch-3817-1326-97.lg-3483-1326-1414.sh-3064-64.ha-3620.fa-5467.cc-6166-92-1412",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-84.lg-3407-80-66.sh-3115-66-80.ha-3409-80-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-80-66",
@@ -310,10 +310,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Don't Give Up! º",
-    "habboFigure": "hr-165-45.hd-205-1.ch-3668-1408-1408.lg-5594-85.sh-3383-64-1408.ha-1022-64.fa-6170-1408.wa-6172-1408-73.cc-3380-64-1408",
+    "habboFigure": "hr-165-45.hd-205-1.ch-3668-1408-1408.lg-5594-85.sh-3383-64-1408.he-6171-1408-73.fa-5601-1408.wa-6172-1408-73",
     "memberSince": "2008-10-17T16:37:32.000+00:00",
     "uniqueId": "hhit-805a13e304d74b81c0fe2167721ea1f1",
     "name": "tonycipriany",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5088.ea-3170-63.ca-6044.wa-3263-110-1320.cc-3509-82-1408",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1780,9 +1780,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Ministro Golden Demons ¥",
+    "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-3845-1.ch-3030-1408.lg-4066-91.sh-3068-1408-64.cc-3327-91-1408",
     "memberSince": "2011-06-16T20:46:52.000+00:00",
     "uniqueId": "hhit-5dfc77f2816b92a23e2b62b31be33c86",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-3840-73-82.lg-3407-82-1408.sh-305-73",
@@ -2333,7 +2333,7 @@
     "online": true,
     "gender": "m",
     "motto": "º Comandante G.D º rosebos amicona",
-    "habboFigure": "hr-5275-1343.hd-205-1.ch-3215-110.lg-5594-77.sh-4112-110-92.ea-5897-63-1408.ca-5768-92-93.cc-3420-92",
+    "habboFigure": "hr-5275-1343.hd-205-1.ch-3215-110.lg-5594-77.sh-4112-110-92.ha-3986.ea-5897-63-1408.ca-5768-92-93.cc-4979-92",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2950,10 +2950,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "Apprendista novello Gd",
-    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
+    "motto": "Snitch, don't kill my vibe",
+    "habboFigure": "hr-6083-1394.hd-600-1379.ch-3439-110-1418.lg-3192-110.sh-5242-1418.he-5577-110-1416.fa-6170-1417.cc-6166-1412-92",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -4090,7 +4090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ Iniziato G.D ¥",
     "habboFigure": "hr-834-34.hd-3956-2-30.ch-3165-110.lg-3018-110.sh-3064-110.he-6173-95.ea-1401-110.fa-3276-72.ca-1816.wa-3072-92-92.cp-3207-1408-1408",
@@ -5540,7 +5540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "||Spirito della Forza jehudie G.D||",
     "habboFigure": "hr-3866-1343.hd-6219-10-1365.ch-5333.lg-6000-1420.sh-907-92.he-5997-92.ca-4939.cc-3955-1337-92",
@@ -8462,7 +8462,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "messagera del patto  1p G.d.",
+    "motto": "apprendista aiutante G.d.",
     "habboFigure": "hr-5680-39.hd-600-10.ch-655-81.lg-695-64.sh-906-1408.cc-5761-81-82",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
