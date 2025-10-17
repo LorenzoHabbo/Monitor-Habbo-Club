@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "le monde est à nous",
     "habboFigure": "hr-3852-61.hd-615-10.ch-665-1408.lg-710-110.sh-5803-92.he-3891.fa-3276-73",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Mai più nessun legame.",
     "habboFigure": "hr-4117-49-49.hd-6216-28-1365.ch-665-92.lg-710-110.he-4946-110.fa-5467.cc-5926-110-92",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cavaliere G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-4165-81-81.lg-4167-81.sh-300-81.ha-3494-81-1408.ea-3484",
