@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-3602-31-31.hd-5696-10-1362.ch-255-1325.lg-5594-110.sh-4112-92-110.he-3070-92.fa-4058-1408",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-3030-64.lg-5732-81-73.sh-6156-73.ha-4192.he-5088.ca-5936-66.cc-4184-64-73",
@@ -2160,7 +2160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No. crikey.",
     "habboFigure": "hd-195-1370.ch-3030-1408.lg-3864.ha-3862.fa-5600-1408.cc-3863-64",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5566-1342-1342.hd-6216-10-1365.ch-660-77.lg-5594-1426.sh-5803-92.ha-6197.he-5074-92.fa-5467.ca-5738-1426.wa-5370.cc-5800-1426-1426",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "the fate of ophelia",
     "habboFigure": "hr-3163-1395.hd-3092-8.ch-3215-92.lg-3058-110.sh-3089-110.ha-3586",
@@ -6590,7 +6590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Novae Tenebrae º",
     "habboFigure": "hr-3944-1404.hd-4174-2.ch-3022-64-64.lg-3418-110.sh-4112-110-110.ea-1404-110",
@@ -7460,7 +7460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-3439-110-1418.lg-3192-110.sh-5242-1418.he-5577-110-1416.fa-6170-1417.cc-6166-1412-92",
