@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Arriverà la fine ma non sarà la fine",
     "habboFigure": "hr-802-38.hd-180-8.ch-215-1408.lg-285-82.sh-295-1408.ha-1013-64.fa-1201",
@@ -1920,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -1940,10 +1940,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-61-41.hd-3721-28.ch-210-110.lg-280-110.sh-3587-92-92.ha-3544.he-5393.ea-5392.cc-6204-110",
+    "habboFigure": "hr-3860-61-41.hd-3721-28.ch-210-110.lg-280-110.sh-3587-92-92.ha-3544.ea-5392.cc-6204-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO X12",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-83",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-155-34.hd-180-8.ch-806-83.lg-280-83.sh-295-1408.ha-3620.fa-3276-1408",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-49-61.hd-5798-2.ch-5110-110-92.lg-4138-110.sh-6156-110.ha-3690-100.he-5393.ea-6231.fa-5948-92.ca-3691-1409-110.wa-6234-93.cc-5690-110",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-1354.hd-3095-8.ch-3215-110.lg-3202-110-1408.ea-1402.fa-3276-64.cp-3205",
