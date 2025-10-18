@@ -80,10 +80,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-155-35.hd-180-10.ch-3030-1408.lg-275-1408.wa-2004-71.cc-260-1408",
+    "habboFigure": "hr-828-34.hd-180-2.ch-875-110-1408.lg-285-1408.sh-295-92",
     "memberSince": "2007-05-16T15:56:01.000+00:00",
     "uniqueId": "hhit-c9ba292e49d9125cc03061609ce75906",
     "name": "Jvlian",
@@ -363,7 +363,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-45.hd-6216-10-1362.ch-5917-110.lg-5974-110-110.ha-3586.he-5279.fa-3276-1328",
+    "habboFigure": "hr-5773-45.hd-6216-10-1362.ch-5917-110.lg-5974-64-64.ha-3054-64-1408.he-5279.ea-3493-110-110.fa-3276-1328",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-1322.lg-4191-1410-1322.ha-3680.he-1601.fa-1201.ca-6020-1408.wa-2009-1322.cc-4979-92",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Vice Leader Hooligans ‡",
     "habboFigure": "hr-5619-1403.hd-615-1.ch-665-110.lg-3283-92-110.sh-5803-92.he-3891.fa-3276-1409.ca-3885-92-92.cc-5926-110-92",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bacon avocado",
     "habboFigure": "hr-802-45.hd-190-10.ch-3030-1408.lg-285-64.sh-3068-64-64.ha-1003-64.wa-2001",
