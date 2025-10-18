@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey .",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-5607-71.lg-3526-72-73.sh-3621-71-73.ea-1401-71.cp-3288-1408",
@@ -1940,10 +1940,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-61-41.hd-3721-28.ch-210-110.lg-280-110.sh-3587-92-92.ha-3544.he-5393.cc-6204-110",
+    "habboFigure": "hr-3860-61-61.hd-5525-28-28.ch-3185-110.lg-280-110.sh-3587-92-92.he-5643.ea-5392.fa-5948-92.cc-6204-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5617-34-35.hd-3845-10.ch-3214-110.lg-3216-73.sh-3524-110-1408.he-3082-110.fa-5601-1408",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fast Rap - Yuno Miles",
     "habboFigure": "hr-3163-61.hd-205-28.ch-215-92.lg-280-110.sh-908-92.he-1609-1412.ca-3844-1412-100.wa-4060-1412-1412",
