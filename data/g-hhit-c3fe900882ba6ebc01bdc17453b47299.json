@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "le monde est à nous",
     "habboFigure": "hr-3852-42.hd-627-10.ch-660-110.lg-5594-1408.sh-730-92.he-3891.fa-6170-64.ca-3885-110-92.wa-6172-92-96",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "<3",
     "habboFigure": "hr-3260-1395.hd-5317-1388-1357.lg-5594-110.sh-3016-110.ha-3690-1412.fa-5600-92.ca-1816.cc-3075-110",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-5617-1394-1394.hd-600-10.ch-5351-92-110.lg-4066-110.fa-3276-72.cc-3837-110",
