@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Non ho bocca e devo urlare",
     "habboFigure": "hd-3704-14.ch-4025-82-81.lg-4017-82-66.sh-300-82.ha-3409-82-82.ca-5028-81-82",
@@ -2350,10 +2350,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SOLDATO SEMPLICE GD",
-    "habboFigure": "hr-3163-42.hd-209-1.ch-3234-1412.lg-4167-110.sh-3027-1413-1408",
+    "habboFigure": "hr-3163-42.hd-209-1.ch-4165-82-1408.lg-3257-110.sh-3016-92.ca-1802.cc-3186-1427",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
