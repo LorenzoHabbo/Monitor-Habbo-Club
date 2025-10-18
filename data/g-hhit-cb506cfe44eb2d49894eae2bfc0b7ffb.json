@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amò la vita!!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-96.lg-3019-96.sh-3089-96.he-3358-96-1408.cc-3289-96",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-5239-92.lg-275-110.sh-290-110.ha-5704.he-6171-92-96.fa-5600-92.cc-6166-1412-92",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4363-37-37.hd-6216-1-30.ch-5245-85.lg-5970-82.sh-5308-83.fa-3276-72.ca-3828-83-85",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carusa-Famiglia Torrisi",
     "habboFigure": "hr-3673-47.hd-4383-10-8.ch-6086-64-64.lg-3355-64-64.sh-5464-73-73.ha-3843-64-66.he-5578-64.ea-3962.fa-6170-64.wa-6172-64-73",
