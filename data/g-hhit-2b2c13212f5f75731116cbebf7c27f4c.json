@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-96.lg-3019-96.sh-3089-96.he-3358-96-1408.cc-3289-96",
@@ -1200,7 +1200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "One Life|",
     "habboFigure": "hr-893-37.hd-209-1371.ch-6177-91-1408.lg-275-91.sh-295-91.he-4946-91.cc-6175-1408",
@@ -5620,7 +5620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "realcicciolotto is alive",
     "habboFigure": "hr-3161-1350.hd-3092-28.ch-3167.lg-3320-110-92.ha-5704.ea-1402.fa-1201.cc-3928",
@@ -7357,16 +7357,6 @@
     "memberSince": "2022-06-22T06:44:01.000+00:00",
     "uniqueId": "hhit-9f96befb9c3e53ff0cd842ee5e359d55",
     "name": "Critycal",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-893-38.hd-209-8.ch-255-1408.lg-285-76.fa-3276-72",
-    "memberSince": "2022-06-23T00:30:45.000+00:00",
-    "uniqueId": "hhit-2cb9d22c23bc1c881e1e391a11771b3e",
-    "name": "lorex223",
     "isAdmin": false
   },
   {
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-09-30T12:35:56.000+00:00",
     "uniqueId": "hhit-e6f5e136307a668ab49dc14eadcdf575",
     "name": "NotaBot",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "cadetto G.D.",
+    "habboFigure": "hr-4118-32.hd-629-1.ch-4099-82-82.lg-4119.sh-907-64.he-3274-82",
+    "memberSince": "2023-10-03T11:20:08.000+00:00",
+    "uniqueId": "hhit-faa1a231502bcbc30046d127726bef17",
+    "name": "mary01",
     "isAdmin": false
   }
 ]
