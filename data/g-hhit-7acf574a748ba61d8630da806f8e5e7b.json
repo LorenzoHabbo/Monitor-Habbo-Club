@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -3590,7 +3590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4363-32-32.hd-6216-1-30.ch-5919-71-71.lg-5970-81.sh-5274-71-81.fa-3276-72.ca-3828-71-81",
