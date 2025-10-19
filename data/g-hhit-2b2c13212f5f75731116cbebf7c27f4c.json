@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amò la vita!!",
     "habboFigure": "hr-4031-31-40.hd-3956-9-1367.ch-3051-92-96.lg-3019-96.sh-3089-96.he-3358-96-1408.cc-3289-96",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-3840-73-82.lg-3407-82-1408.sh-305-73",
@@ -2363,7 +2363,7 @@
     "online": false,
     "gender": "m",
     "motto": "SOLDATO SEMPLICE GD",
-    "habboFigure": "hr-3163-42.hd-209-1.ch-4165-82-1408.lg-3257-110.sh-3016-92.ca-1802.cc-3186-1427",
+    "habboFigure": "hr-3163-42.hd-209-1.lg-3257-110.sh-3016-92.cc-887-110",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -5880,7 +5880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "DRACARYS",
     "habboFigure": "hr-3810-39.hd-600-1.ch-3809-73-73.lg-3088-71-73.sh-3180-73-74.ha-4006.he-1609-73.fa-3276-73.ca-3937",
