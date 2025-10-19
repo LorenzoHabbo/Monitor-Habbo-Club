@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-1331.lg-3364-110-1331.sh-6181-110.he-4977-64-100.ea-1402.fa-1209-110.ca-5028-100-110.wa-3366-110-1331",
@@ -3500,7 +3500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-57.hd-3604-14.ch-230-110.lg-4138-109.sh-4112-1336-1321.he-5279.ca-6044.cc-6178-110.cp-3205",
@@ -5100,7 +5100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-220-110.lg-280-1426.sh-908-92.fa-3276-100",
