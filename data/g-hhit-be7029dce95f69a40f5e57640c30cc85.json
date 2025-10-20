@@ -3070,7 +3070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "dio non esiste",
     "habboFigure": "hr-170-48.hd-200-1370.ch-3030-84.lg-280-90.sh-305-85.ha-1009-73.he-1601.fa-1202-66.ca-1818.wa-3211-64-1408.cp-3288-66",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3800-45-40.hd-180-1.ch-876-85-1408.lg-280-64.sh-295-64.ea-1401-1408.fa-3344-91",
@@ -3900,10 +3900,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
-    "habboFigure": "hr-5566-1342-1342.hd-6216-10-1365.ch-660-77.lg-5594-1426.sh-5803-92.ha-6197.he-5074-92.fa-5467.ca-5738-1426.wa-5370.cc-5925-77",
+    "habboFigure": "hr-5566-1342-1342.hd-6216-10-1365.ch-660-77.lg-5594-1426.sh-5803-92.ha-6197.he-5074-92.fa-5467.ca-5738-1426.wa-5370.cc-5925-1426",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": ".Bibol.",
@@ -5510,7 +5510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader [ NºT ] - M|",
     "habboFigure": "hr-5773-1405.hd-6216-28-1392.ch-3013-92.lg-3502-92.sh-5803-92.he-6103-74.fa-5975.ca-6128.cc-5800-74-74",
@@ -7510,7 +7510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6166-1413-1408",
