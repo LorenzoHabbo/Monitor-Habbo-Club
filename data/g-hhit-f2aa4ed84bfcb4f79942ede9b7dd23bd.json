@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "life is simple",
     "habboFigure": "hr-828-34.hd-205-13.ch-215-110.lg-285-64.sh-305-1408.ha-1003-110.he-3070-1427.cp-5883-1331",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-215-89.lg-4066-1409.sh-3016-110.he-6171-92-1413.ea-3727",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -6160,7 +6160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mi contigo.",
     "habboFigure": "hr-3163-34.hd-3721-2.ch-3934-92-110.lg-5594-64.sh-908-92.ha-3463-64.he-3820-92.ea-3575.ca-3844-92-92.cc-5926-110-1408",
