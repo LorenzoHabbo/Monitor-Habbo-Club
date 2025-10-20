@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "stai lontano da questi serpenti...",
     "habboFigure": "hr-893-42.hd-190-1369.ch-255-64.lg-280-1408.sh-295-64.he-1609-73.ca-3844-64-73",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-22.ch-5036.lg-5584.sh-5032.ha-5704.ea-3169-102.fa-5636-92.wa-5676.cc-5690-102",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-180-1.ch-3059-92.lg-4066-92.sh-3524-92-92.ha-6198.ca-1816",
