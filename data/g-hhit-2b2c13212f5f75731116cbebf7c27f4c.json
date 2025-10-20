@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-45.hd-209-1370.ch-220-84.lg-3407-80-66.sh-3115-66-80.ha-3409-80-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-80-66",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-3845-1.ch-3030-1408.lg-4066-91.sh-3068-1408-64.cc-3327-91-1408",
@@ -2353,7 +2353,7 @@
     "online": true,
     "gender": "m",
     "motto": "SOLDATO  GD",
-    "habboFigure": "hr-3163-42.hd-209-1.lg-3257-110.sh-3016-92.cc-260-1408",
+    "habboFigure": "hr-3163-42.hd-209-1.lg-3257-110.sh-3016-92",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-3030-71.lg-3216-71.sh-905-71.ha-3730.he-1610.ea-3698-83-72.fa-1211.cc-3723-64.cp-3126-64",
@@ -8480,10 +8480,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista aiutante G.d.",
-    "habboFigure": "hr-3519-39-39.hd-600-10.ch-3528-64-81.lg-695-82.sh-906-1408.he-1602-80",
+    "habboFigure": "hr-3519-39-39.hd-600-10.ch-3770-82-81.lg-695-82.sh-907-81.he-1602-80",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
     "name": "everblacknoemi",
