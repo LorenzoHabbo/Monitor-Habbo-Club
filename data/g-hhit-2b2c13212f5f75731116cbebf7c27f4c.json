@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-57-60.hd-3098-9.ch-3165-110.lg-3174-80-110.sh-3180-1414-83.ha-3843-1414-80.cc-4184-110-1414",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -4470,7 +4470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sorry but not sorry",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-665-76.lg-3078-76.sh-906-64.ha-1021-76.he-1609-76.fa-1204",
