@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Shatei",
     "habboFigure": "hr-5555-61-61.hd-625-18.ch-3036-71-1414.lg-3526-64-64.sh-5247-92-110.fa-6170-64.cc-5440-110-110",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-5962-1342.hd-6219-11-1360.ch-5559-1433.lg-5594-110.sh-6182.he-3740.fa-3993-110.ca-5381-84.cc-5926-110-110",
@@ -2870,10 +2870,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fast Rap - Yuno Miles",
-    "habboFigure": "hr-3163-61.hd-5525-2-1372.ch-3934-110-64.lg-3483-110-110.sh-6156-1409.he-3891.cc-5810-110",
+    "habboFigure": "hr-3163-49.hd-5525-28-1372.ch-3934-110-63.lg-3483-110-110.sh-6156-1412",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -4133,7 +4133,7 @@
     "online": false,
     "gender": "m",
     "motto": "LA FLAME",
-    "habboFigure": "hr-5962-49.hd-3845-1.ch-3077-100-110.lg-3418-64.sh-5247-92-64.ha-5191.he-5074-92.ea-3270-1427-1427.ca-6044.wa-5986-64",
+    "habboFigure": "hr-3829-45.hd-3845-1.ch-3030-92.lg-275-110.sh-5308-92.ha-4324.he-6171-1408-92.fa-5691-92-110.ca-5936-92.wa-5986-110.cc-6204-110",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -6700,7 +6700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-6222-1322-1408.lg-5113-94.sh-3621-63-1408.ha-5832-94.ca-5592-83-1408.wa-6154-110-1325.cc-6166-94-1315",
@@ -8140,7 +8140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Roma non fu costruita in un giorno.",
     "habboFigure": "hr-3281-1394.hd-6219-1383-1368.ch-3934-63-110.lg-5970-77.sh-3035-92.fa-3276-1325.cc-6166-1325-1331.cp-3315-92",
