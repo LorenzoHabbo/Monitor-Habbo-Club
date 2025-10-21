@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-57-60.hd-3098-9.ch-5302-106-1408.lg-3174-80-110.sh-3419-106-92.ca-5916-106-108.cc-3360-107",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -2773,7 +2773,7 @@
     "online": true,
     "gender": "m",
     "motto": "Ba[F.GAMBINO]DB",
-    "habboFigure": "hr-5019-42.hd-4174-1.ch-4111-1408.lg-3328-82-1408.sh-4112-64-73.ea-5897-76-64.fa-3344-64.ca-5028-76-64.wa-6154-91-64.cc-6119",
+    "habboFigure": "hr-5019-42.hd-4174-1.ch-255-64.lg-275-64.sh-295-64.ha-1021-64.ea-5897-76-64.fa-3344-64.wa-2001",
     "memberSince": "2013-05-12T21:23:58.000+00:00",
     "uniqueId": "hhit-e4751438b19a033acc5f6774286c340e",
     "name": "ottimomazan",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":/",
     "habboFigure": "hr-3768-40.hd-3845-1.ch-3321-81.lg-3088-66-1408.sh-3524-64-1408.ha-3710.fa-4044.cc-3867-82-80",
@@ -5870,7 +5870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "DRACARYS",
     "habboFigure": "hr-3673-34.hd-600-8.ch-3809-81-81.lg-715-81.sh-907-80.ha-4006.he-1609-80.fa-3276-73",
@@ -9520,7 +9520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5773-32.hd-6157-1-30.ch-4098-1408-1408.lg-5594-1408.sh-5274-80-82.ha-3620.fa-5467.cc-6115-1408-81",
