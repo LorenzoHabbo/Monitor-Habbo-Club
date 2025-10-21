@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Stai zitta se non hai Voce BlaBlaBla",
     "habboFigure": "hr-5680-45.hd-4383-10-22.ch-5917-110.lg-5974-64-64.ha-3054-64-1408.he-5279.fa-3276-92",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alla fine ne uscirai.",
     "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
@@ -8390,7 +8390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A nice guy",
     "habboFigure": "hr-3090-36.hd-180-8.ch-245-64.lg-3088-82-88.sh-295-1408.he-3465-1408-1408",
