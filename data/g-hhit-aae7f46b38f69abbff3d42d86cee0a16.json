@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-5608-1410.lg-4191-1410-1322.ha-3680.he-1601.fa-1201.ca-6020-1408.wa-6154-1322-1408.cc-4979-92",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-235-82.lg-280-64.sh-295-1408.ha-1004-64.fa-1201",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:»Leggenda Spartana R.P [OM 2015] »:.",
     "habboFigure": "hr-893-45.hd-180-1.ch-3110-1408-82.lg-280-64.sh-295-1408",
