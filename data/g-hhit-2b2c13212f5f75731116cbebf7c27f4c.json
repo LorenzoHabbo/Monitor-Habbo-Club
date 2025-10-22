@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista novello G.D..",
     "habboFigure": "hr-891-39.hd-180-8.ch-807-85.lg-270-72.sh-3115-1408-1408.ea-1403-1408.wa-2011",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -4820,7 +4820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -5410,7 +5410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haze",
     "habboFigure": "hr-828-1345.hd-3091-1383.ch-3022-1323-1408.lg-275-1323.sh-295-96.he-1608.ea-6053-96.fa-3296",
