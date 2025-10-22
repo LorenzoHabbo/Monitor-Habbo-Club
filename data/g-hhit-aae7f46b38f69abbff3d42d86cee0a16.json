@@ -20,7 +20,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-1331.lg-3364-110-1331.sh-6181-110.he-4977-64-100.ea-1402.fa-1209-110.ca-5028-100-110.wa-3366-110-1331",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-5608-1410.lg-4191-1410-1322.ha-3680.he-1601.fa-1201.ca-6020-1408.wa-6154-1322-1408.cc-4979-92",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mi piacciono i Codici e saaaas",
     "habboFigure": "hr-3048-1347-59.hd-208-1364.ch-6222-101-95.lg-4066-93.sh-3275-1423.fa-1211",
