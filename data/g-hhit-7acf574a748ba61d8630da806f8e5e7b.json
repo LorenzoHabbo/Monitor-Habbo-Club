@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Stai zitta se non hai Voce BlaBlaBla",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-110.lg-4066-110.ha-3690-1408.fa-3276-92.cc-3515-1408-1408",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "L'amore uccide ma io non ho armi",
     "habboFigure": "hr-831-61.hd-3721-18.ch-5036.lg-3933-1427.sh-5032.ha-5704.ca-3844-1418-92.cc-5690-1418",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "scout (regime skaikru)",
     "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-5936-63.cp-3205",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-22.ch-5036.lg-5584.sh-5032.ha-5704.ea-3169-102.fa-5636-92.wa-5676.cc-5690-102",
@@ -2170,10 +2170,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "vivo ma non ho scelta ne motivo",
-    "habboFigure": "hr-3746-32.hd-207-10.ch-4111-68.lg-3116-68-1408.sh-905-68.ha-5470-90-90.fa-3378-64-1408.cc-4107-90-1408",
+    "motto": "sono un cane",
+    "habboFigure": "hr-3746-32.hd-207-10.ch-4111-68.lg-3116-68-1408.sh-905-68.ha-5470-68-90.fa-3378-64-1408.cc-4107-90-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-155-34.hd-180-8.ch-806-83.lg-280-83.sh-295-1408.ha-3620.fa-3276-1408.cc-4979-1408",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",

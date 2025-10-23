@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Stai zitta se non hai Voce BlaBlaBla",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-110.lg-4066-110.ha-3690-1408.fa-3276-92.cc-3515-1408-1408",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-32.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1404-1404.hd-3536-10-10.ch-5167-110.lg-5970-1337.sh-3587-92-92.ha-5511.fa-5435.cc-6166-98-92.cp-5886-92",
@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Rispetta le Habbo way !",
-    "habboFigure": "hr-3322-61.hd-3721-22.ch-3030-110.lg-280-64.sh-905-92.ha-3606.ea-3750.ca-5175-1408.cc-3360-92.cp-3119-92",
+    "habboFigure": "hr-3322-61.hd-3721-23.ch-3030-110.lg-280-64.sh-905-92.ha-3606.ea-3750.fa-5600-92.ca-5175-1408.cc-3360-92.cp-3119-92",
     "memberSince": "2010-05-06T20:46:31.000+00:00",
     "uniqueId": "hhit-201b76f8d3e92ba6b922258442ea15fb",
     "name": "EVO-B0T",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1723,7 +1723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
-    "habboFigure": "hr-5773-44.hd-3845-10.ch-5735-64-73.lg-5594-82.he-5088.fa-5624-64",
+    "habboFigure": "hr-5773-44.hd-3845-10.ch-5735-64-73.lg-5594-82.sh-5670-64.he-5088.fa-5624-64",
     "memberSince": "2015-04-19T18:52:48.000+00:00",
     "uniqueId": "hhit-5d2b477630046ca4d59eab35853a1c18",
     "name": "Charlotte.",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hr-3768-61.hd-5799-1379.lg-280-110.he-5813-1324-105.fa-5601-110.ca-5936-63.cp-3205",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1347-1346.hd-3956-1389-30.ch-3013-110.lg-3018-110.ea-3169-110.fa-3276-1328.ca-3444-110.cc-5926-1415-1416",
@@ -2273,7 +2273,7 @@
     "online": true,
     "gender": "m",
     "motto": "bobba boy",
-    "habboFigure": "hr-125-48.hd-6219-1370-10.ch-3806-1408.lg-3078-1408.sh-908-90.ha-5848.ea-3751.fa-5211-72.ca-4372-90.cc-5182-1408",
+    "habboFigure": "hr-5617-61-61.hd-3102-4.ch-5833-110-110.lg-5970-1428.sh-3524-110-64.ha-3171-1428-110.he-3753.fa-3993-110.ca-1816.wa-5986-110.cc-3152-1409",
     "memberSince": "2018-08-27T07:32:56.000+00:00",
     "uniqueId": "hhit-2bde1aefc55072aa344871c3858f8973",
     "name": "-Gucci-23",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-22.ch-5036.lg-5584.sh-5032.ha-5704.ea-3169-102.fa-5636-92.wa-5676.cc-5690-102",
@@ -2660,10 +2660,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "vivo ma non ho scelta ne motivo",
-    "habboFigure": "hr-3746-32.hd-207-10.ch-4111-68.lg-3116-68-1408.sh-905-68.ha-5470-90-90.fa-3378-64-1408.cc-4107-90-1408",
+    "motto": "sono un cane",
+    "habboFigure": "hr-3746-32.hd-207-10.ch-4111-68.lg-3116-68-1408.sh-905-68.ha-5470-68-90.fa-3378-64-1408.cc-4107-90-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
@@ -3310,7 +3310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3930,7 +3930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -4410,10 +4410,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
-    "habboFigure": "hr-828-1342.hd-205-2.ch-215-92.lg-5594-77.sh-908-92.ha-6197.fa-3276-1413.cc-5518-92-77",
+    "habboFigure": "hr-3163-1342.hd-205-2.ch-215-110.lg-5594-77.sh-908-110.ha-3118-64-110.he-3082-92.fa-3276-1413.cc-3360-92",
     "memberSince": "2025-01-15T16:53:39.000+00:00",
     "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
     "name": ".Drip",
