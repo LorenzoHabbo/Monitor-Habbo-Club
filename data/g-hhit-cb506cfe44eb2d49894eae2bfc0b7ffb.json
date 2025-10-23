@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "                        #AV1912",
     "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.fa-5601-1320.ca-3410-1408.wa-6172-1408-73",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel gd /solitaria",
     "habboFigure": "hr-4343-39-35.hd-3845-14.ch-3528-64-1408.lg-3361-1320.cc-6205-64",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4363-61-1346.hd-4383-10-5.ch-5560-110-110.lg-4369-110-1408.sh-5729-110-70.ha-5704.wa-6165-100.cc-5926-1413-1408",
@@ -1030,10 +1030,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Kumicho -I K A R I - YKZ",
-    "habboFigure": "hr-3278-57-49.hd-207-28.lg-3257-64.sh-3206-64.ha-1026.ea-3169-1337.fa-3345-80.cc-886-110",
+    "habboFigure": "hr-3278-61-49.hd-207-28.ch-3981-110-92.lg-3364-110-92.sh-3206-64.ha-1026.fa-1205-110.cc-4184-110-92",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -1932,7 +1932,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "vestiti d’odio",
+    "motto": "taciturnal",
     "habboFigure": "hr-5503-1342.hd-5913-22.ch-655-110.lg-710-110.sh-5803-92.ha-5340.he-3070-92.fa-5467.ca-3292-92.cc-6166-86-1321",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
@@ -2273,7 +2273,7 @@
     "online": true,
     "gender": "m",
     "motto": "bobba boy",
-    "habboFigure": "hr-5617-61-61.hd-3102-4.ch-5833-110-110.lg-5970-1428.sh-3524-110-64.ha-3171-1428-110.he-3753.fa-3993-110.ca-1816.wa-5986-110.cc-3152-1409",
+    "habboFigure": "hr-125-37.hd-205-2.ch-3342-110-110.lg-3418-1324.sh-908-92.ha-5304-1324-1324.ea-1404-110.fa-3993-110.ca-3085-1410.cc-3360-92",
     "memberSince": "2018-08-27T07:32:56.000+00:00",
     "uniqueId": "hhit-2bde1aefc55072aa344871c3858f8973",
     "name": "-Gucci-23",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ultimo custode di mondi in cenere - 10",
     "habboFigure": "hr-3273-1355-1401.hd-5913-18.ch-3197-92.lg-3006-108-92.sh-3184-108.fa-3378-108-100.cc-6205-108",
@@ -3100,7 +3100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Kyodai YKZ",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4352-45.hd-6216-2-1364.ch-5245-1421.lg-3006-1421-1408.sh-5803-92.he-5314-1421-1421.ca-6128",
@@ -4350,7 +4350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "FRATELLO E SCHIAVO CORLEONE ceo plug",
     "habboFigure": "hr-515-40.hd-628-19.ch-3689-1408.lg-5970-64.ha-4089-64.fa-1201.ca-3691-64-64",
