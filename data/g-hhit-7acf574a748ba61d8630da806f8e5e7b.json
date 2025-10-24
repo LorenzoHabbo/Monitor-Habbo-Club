@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "                        #AV1912",
     "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.fa-5601-1320.ca-3410-1408.wa-6172-1408-73",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5566-1353-1353.hd-6216-28-1365.ch-5595-1337.lg-5909-1337-1408.sh-5308-1339.ha-6197.he-5074-1337.fa-5467.ca-5738-1339.wa-5370.cc-5925-78",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-22.ch-5036.lg-5584.sh-5032.ha-5704.ea-3169-102.fa-5636-92.wa-5676.cc-5690-102",
