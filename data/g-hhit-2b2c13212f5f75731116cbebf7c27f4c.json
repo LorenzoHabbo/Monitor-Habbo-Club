@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-57-60.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "XD",
     "habboFigure": "hr-802-42.hd-180-1370.ch-255-1408.lg-281-64.sh-295-1408",
@@ -5430,7 +5430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93.cc-6166-1430-1321",
@@ -6790,7 +6790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo G.D.",
     "habboFigure": "hr-4182-34-32.hd-629-1.ch-4158-73-1408.lg-705-64.sh-3180-1408-73",
