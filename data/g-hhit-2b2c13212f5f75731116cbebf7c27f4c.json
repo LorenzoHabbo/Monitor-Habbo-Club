@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-1331.lg-3364-110-1331.sh-6181-110.he-4977-64-100.ea-1402.fa-1209-110.ca-5028-100-110.wa-3366-110-1331",
@@ -1100,6 +1100,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "GIAST",
+    "habboFigure": "hr-893-36.hd-209-1.ch-3111-82-1408.lg-3116-82-1408.sh-906-1408.ca-1802.wa-2011",
+    "memberSince": "2010-09-12T17:07:05.000+00:00",
+    "uniqueId": "hhit-b7ca09c43dfb8bfa6e1d5fc42fa79174",
+    "name": "leader.alex",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "Vincere e vinceremo",
@@ -1303,7 +1313,7 @@
     "online": true,
     "gender": "f",
     "motto": "portavoce angelico 1 p gd",
-    "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-3528-92-110.lg-5970-1423.sh-5671-92.ha-3709",
+    "habboFigure": "hr-5617-1394-40.hd-3100-28.ch-5735-92-96.lg-5970-1423.sh-5671-110.ha-5704.fa-3193-110.cc-3246-63",
     "memberSince": "2010-12-16T21:39:25.000+00:00",
     "uniqueId": "hhit-007c095e376e8345f9d71d61b9cbff61",
     "name": "superdvina10",
@@ -1560,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5566-1353-1353.hd-6216-28-1365.ch-5595-1337.lg-5909-1337-1408.sh-5308-1339.ha-6197.he-5074-1337.fa-5467.ca-5738-1339.wa-5370.cc-5925-78",
@@ -2300,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-40.hd-209-1.ch-210-1408.lg-3088-1408-1408.sh-300-1408",
@@ -2400,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo Semplice GD",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-6029-85-73.lg-4119.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -2920,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " giustiziere celeste 1.p |",
     "habboFigure": "hr-3957-37-37.hd-629-19.ch-5351-1336-96.lg-715-1336.sh-6181-1413.he-1608",
@@ -2940,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6166-1413-1408",
@@ -3783,7 +3793,7 @@
     "online": true,
     "gender": "f",
     "motto": "sentinella esperta gd",
-    "habboFigure": "hr-5679-31-40.hd-600-10.ch-3233-64.lg-3078-1428.sh-3383-92-92.ha-3546-92.fa-5601-92",
+    "habboFigure": "hr-3714-31-40.hd-600-15.ch-3250-70.lg-3267-70-70.ea-3726",
     "memberSince": "2016-06-08T20:03:42.000+00:00",
     "uniqueId": "hhit-2e634d3afaab77215eadd9962fbb8fff",
     "name": "Rusherpenatic",
@@ -5240,7 +5250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Erede Ykz Sud",
     "habboFigure": "hr-828-49.hd-207-28.ch-875-110-92.lg-285-110.ha-1026.ea-1402.fa-1209-110.ca-6167-1330-66",
@@ -6840,7 +6850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Kobun esperto YKZ Sud",
     "habboFigure": "hr-4117-54-54.hd-4383-1-1368.ch-6039.lg-3047-1336.sh-907-110.ha-5087.he-3833-1321.ca-6041.cc-6119",
@@ -7160,7 +7170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "    ¥    King G.D    ¥",
     "habboFigure": "hd-6003.ch-4111-90.lg-5594-90.sh-3435-80-1408.ha-5991.he-3772-80.ea-6152.fa-5280-80.wa-3773-80.cc-4377-1320-1320",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-30T12:35:56.000+00:00",
     "uniqueId": "hhit-e6f5e136307a668ab49dc14eadcdf575",
     "name": "NotaBot",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "cadetto G.D.",
-    "habboFigure": "hr-4118-32.hd-629-1.ch-4099-82-82.lg-4119.sh-907-64.he-3274-82",
-    "memberSince": "2023-10-03T11:20:08.000+00:00",
-    "uniqueId": "hhit-faa1a231502bcbc30046d127726bef17",
-    "name": "mary01",
     "isAdmin": false
   }
 ]
