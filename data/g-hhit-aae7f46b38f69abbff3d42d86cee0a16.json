@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-1408.lg-4191-1410-1322.ha-5371-1408-1408.he-1608.fa-1201.ca-6020-1408.wa-6154-1322-1408.cc-4979-92",
@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non c’è riposo per me, in questo mondo",
     "habboFigure": "hr-5791-45.hd-180-1.ch-5833-64-1408.lg-285-64.sh-3068-1408-1408.he-1608",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mi piacciono i Codici e saaaas",
     "habboFigure": "hr-828-51.hd-209-1370.ch-5394.lg-3078-106.sh-3275-92.ha-4325.fa-1211.ca-1815-1327.wa-3798-94-1328.cc-3360-67",
