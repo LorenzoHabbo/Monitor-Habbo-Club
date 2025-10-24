@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alla fine ne uscirai.",
     "habboFigure": "hr-115-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
@@ -1560,10 +1560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "><",
-    "habboFigure": "hr-5566-1353-1353.hd-6216-27-1365.ch-5595-1337.lg-5909-77-1408.sh-5308-1337.ha-6197.he-5074-1340.fa-5467.ca-5738-1339.wa-5370.cc-5925-78",
+    "habboFigure": "hr-5566-1353-1353.hd-6216-28-1365.ch-5595-1337.lg-5909-1337-1408.sh-5308-1339.ha-6197.he-5074-1337.fa-5467.ca-5738-1339.wa-5370.cc-5925-78",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": ".Bibol.",
@@ -1673,7 +1673,7 @@
     "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
-    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
+    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.fa-6170-1408.ca-6167-82-1408",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
     "name": "domenic76093",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cavaliere 1p G.D",
     "habboFigure": "hr-890-36.hd-629-1.ch-4067-91-1408.lg-3078-64.sh-740-1408.ha-3254-81",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono !!Belle",
     "habboFigure": "hr-5680-42.hd-4383-28-14.ch-3005-110-110.lg-4066-110.he-6103-97.fa-3276-92.cc-3515-63-1408",
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cavaliere Fidato 1p G.D",
     "habboFigure": "hr-893-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
@@ -5430,7 +5430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93.cc-6166-1430-1321",
