@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amen",
     "habboFigure": "hr-6083-1407.hd-600-10.ch-3244-110.lg-3267-110-110.sh-3180-110-110",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "><",
     "habboFigure": "hr-5566-1353-1353.hd-6216-28-1365.ch-5595-1337.lg-5909-1337-1408.sh-5308-1339.ha-6197.he-5074-1337.fa-5467.ca-5738-1339.wa-5370.cc-5925-78",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "scout (regime skaikru)",
     "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
@@ -1933,7 +1933,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-893-32.hd-180-1.ch-3022-64-64.lg-5594-85.sh-905-1408.ha-1002-64.he-1608",
+    "habboFigure": "hr-893-31.hd-205-15.ch-3022-64-64.lg-5594-82.sh-905-1408.ha-1002-64.he-3732.fa-5435",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
