@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-255-64.lg-3078-82.sh-300-1408.ha-1004-64.fa-3276-90.ca-5480",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -2000,7 +2000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6085-1404-1404.hd-6022-22.ch-3033-1408-1331.lg-5594-64.sh-3435-1331-92.he-6171-1408-100.ea-3226-100.wa-6172-1408-100.cc-3360-1331",
@@ -4930,7 +4930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3416-1330-1331.lg-3418-67.sh-3419-110-92.ha-3415-1330-1331",
