@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-5962-1342.hd-6219-11-1360.ch-5559-1433.lg-5594-110.sh-6182.he-3740.fa-3993-110.ca-5381-84.cc-5926-110-110",
@@ -1910,10 +1910,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-831-41.hd-205-22.ch-3022-64-64.lg-280-83.sh-905-1408.ha-1002-64.he-3821-1332-1332.fa-6170-1408",
+    "habboFigure": "hr-831-41.hd-3721-22.ch-3934-110-64.lg-280-110.sh-3587-92-92.ha-3144-64-110.fa-6170-110.ca-3691-63-64.cc-3420-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3250,7 +3250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sopravvissuto The hundred",
     "habboFigure": "hr-6084-61-49.hd-5913-1.ch-3049-1415.lg-3192-1409.sh-5928.ha-3952.he-3229-68.ea-3698-110-1423.fa-1202-68.ca-5916-1315-95.cc-5926-64-1427",
@@ -3510,7 +3510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-3036-110-110.lg-3216-110.sh-5670-110.ha-3843-110-110.ca-5635-1408-1408.wa-2001.cc-5926-92-110",
