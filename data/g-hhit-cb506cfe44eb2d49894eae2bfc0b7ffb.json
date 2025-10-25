@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4979-92",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6166-1413-1408",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carusa-Famiglia Torrisi",
     "habboFigure": "hr-3673-47.hd-4383-10-8.ch-6086-64-64.lg-3355-64-64.sh-5464-73-73.ha-3843-64-66.he-5578-64.ea-3962.fa-6170-64.wa-6172-64-73",
