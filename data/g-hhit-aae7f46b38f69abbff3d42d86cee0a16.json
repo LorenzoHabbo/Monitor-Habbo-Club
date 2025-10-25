@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-3367-110-1331.lg-3364-110-1331.sh-6181-110.he-4977-64-100.ea-1402.fa-1209-110.ca-5028-100-110.wa-3366-110-1331",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4979-92",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-235-82.lg-280-64.sh-295-1408.ha-1004-64.fa-1201",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vuoi accarezzare il mio cucciolo?",
     "habboFigure": "hr-3871-40.hd-6021-10.ch-5488-71.lg-275-1408.ha-1010-71.he-5808-80.ea-3925-80-80.cc-6166-71-71",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-10.ch-255-73.lg-281-73.sh-295-73.ha-1004-73.ea-1404-64.fa-3276-73",
