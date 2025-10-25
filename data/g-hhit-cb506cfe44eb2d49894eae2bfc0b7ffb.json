@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Falso barbone",
     "habboFigure": "hr-3090-36.hd-208-8.ch-235-80.lg-6017-1408-1408.sh-906-1408.ha-6014-1408-80",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -2043,7 +2043,7 @@
     "online": true,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
-    "habboFigure": "hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-3619-76-66.ha-3632-76-71.he-5750-71.ea-5749-71.fa-4185-73.ca-6018.cc-6050-76-1408",
+    "habboFigure": "hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-3619-76-66.ha-5832-76.he-5750-71.ea-5910-76-66.fa-4185-73.ca-6018.cc-6050-76-1408",
     "memberSince": "2017-05-24T06:41:07.000+00:00",
     "uniqueId": "hhit-28e382008f4f0d53646ba3704fe3c284",
     "name": "SaveTheTrapa",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "io senza di te sono neve al sole",
     "habboFigure": "hr-3163-1404.hd-205-15.ch-255-64.lg-281-1408.sh-3693-1408-1408.fa-3276-1324.cc-5925-63",
