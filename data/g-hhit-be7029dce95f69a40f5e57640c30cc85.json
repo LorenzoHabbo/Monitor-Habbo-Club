@@ -370,10 +370,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-830-40.hd-180-10.ch-255-81.lg-3078-85.sh-3115-1408-72.wa-2011.cp-3286",
+    "habboFigure": "hr-830-40.hd-180-10.ch-255-81.lg-3078-85.sh-3115-1408-72.ha-1006.wa-2011.cp-3286",
     "memberSince": "2007-03-18T10:12:04.000+00:00",
     "uniqueId": "hhit-5ac139ac72515b9e5c5aafb03681cd45",
     "name": "Piccolohannibal",
@@ -6870,7 +6870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5607-110.lg-6000-110.sh-6043.ha-6198.he-3716.fa-6170-1408.ca-6041.wa-5370.cc-3542-100-100",
