@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -1387,16 +1387,6 @@
     "memberSince": "2011-01-10T15:03:00.000+00:00",
     "uniqueId": "hhit-fdc39cc6f697b37e1170c8b14e5d4d9b",
     "name": ".Robano.",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-802-40.hd-209-10.ch-3806-64.lg-275-64.cc-4184-64-1408",
-    "memberSince": "2011-01-14T13:23:21.000+00:00",
-    "uniqueId": "hhit-b1b11fcc6df1537609951bccc0130532",
-    "name": "=?.peppe.?=",
     "isAdmin": false
   },
   {
@@ -2330,10 +2320,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "º Comandante G.D º rosebos amicona",
-    "habboFigure": "hr-5275-1343.hd-205-1.ch-3215-110.lg-5594-77.sh-4112-110-92.he-1609-1412.ea-5897-63-1408.cc-4979-92.cp-3284-1320",
+    "habboFigure": "hr-5275-1343.hd-205-1.ch-215-110.lg-5594-77.sh-4112-92-106.he-1609-1412.ea-5897-63-1408.cc-3360-110.cp-3284-1320",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-09-30T12:35:56.000+00:00",
     "uniqueId": "hhit-e6f5e136307a668ab49dc14eadcdf575",
     "name": "NotaBot",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "cadetto G.D.",
+    "habboFigure": "hr-4118-32.hd-629-1.ch-4099-82-82.lg-4119.sh-907-64.he-3274-82",
+    "memberSince": "2023-10-03T11:20:08.000+00:00",
+    "uniqueId": "hhit-faa1a231502bcbc30046d127726bef17",
+    "name": "mary01",
     "isAdmin": false
   }
 ]
