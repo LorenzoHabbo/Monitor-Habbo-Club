@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3916-110-1408.wa-3263-92-92.cc-3232-110-88",
@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3604-1367.ch-3203-110.lg-3216-96.he-1609-96.fa-1204.ca-3844-110-96.wa-4060-96-1336",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "scout (regime skaikru)",
     "habboFigure": "hr-5791-39.hd-3604-13.ch-5559-110.lg-275-110.sh-3016-110.he-3376-63-1408.ca-6169-64-64.cc-5926-110-110",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kwancha Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-89.cc-5761-100-100",
