@@ -753,7 +753,7 @@
     "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
-    "habboFigure": "hr-893-37.hd-180-1.ch-225-66.lg-275-73.sh-3115-66-1408.ca-1804-73",
+    "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
     "memberSince": "2011-04-24T16:17:24.000+00:00",
     "uniqueId": "hhit-0bbe847ac63571a4c845a2f07c0a6a24",
     "name": "domenic76093",
@@ -1343,7 +1343,7 @@
     "online": true,
     "gender": "m",
     "motto": "scout (regime skaikru)",
-    "habboFigure": "hr-5791-39.hd-3604-13.ch-5559-110.lg-275-110.sh-3016-110.he-3376-63-1408.ca-6169-64-64.cc-5926-110-110",
+    "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
     "memberSince": "2015-08-31T21:03:20.000+00:00",
     "uniqueId": "hhit-177b821ddb0b73c8e5fdf2b3286e3a08",
     "name": "29_adrian",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6085-1404-1404.hd-6022-22.ch-3033-1408-1331.lg-5594-64.sh-3435-1331-92.he-6171-1408-100.ea-3226-100.wa-6172-1408-100.cc-3360-1331",
@@ -1910,10 +1910,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-831-41.hd-3721-22.ch-3934-110-64.lg-280-110.sh-3587-92-92.ha-3144-64-110.fa-6170-110.ca-3691-63-64.cc-3420-110",
+    "habboFigure": "hr-6034-1407-41.hd-5525-26-28.ch-3934-64-64.lg-5594-110.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-5936-92.wa-5986-110.cc-5926-110-92.cp-3122-80",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2203,7 +2203,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-6034-49-61.hd-5798-2.ch-6147.lg-5265.sh-6156-110.ha-3690-100.ea-6196.fa-5948-92.ca-5574-110-1413.cc-6204-110",
+    "habboFigure": "hr-3871-1407.hd-6046-11.ch-3059-1335.lg-5398.sh-3016-1325.ha-3690-100.fa-3344-64.ca-3916-1325-1428.wa-6154-1325-1408",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
     "name": "MVPsimo_",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kwancha Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-89.cc-5761-100-100",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3845-27.ch-3237-1408-1408.lg-5732-110-73.sh-6156-73.ha-3730.he-5482.fa-1203.ca-5936-68.wa-3072-63-1408.cc-3158-110",
@@ -2643,7 +2643,7 @@
     "online": true,
     "gender": "m",
     "motto": "your lips, my lips",
-    "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-80.fa-5624-72.cc-5926-64-1408",
+    "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-71.fa-5624-72",
     "memberSince": "2021-12-14T21:13:50.000+00:00",
     "uniqueId": "hhit-b4b3db4487f6d276a1682565d6798e1b",
     "name": "Maadness",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-5018-1403-1403.hd-6216-25-1364.ch-5516-110-1418.lg-5974-110-110.sh-5729-110-1418.he-6171-92-96",
@@ -3823,7 +3823,7 @@
     "online": false,
     "gender": "f",
     "motto": "ammucchitilli quattru",
-    "habboFigure": "hr-6083-1404.hd-615-2.ch-6029-1428-1427.lg-3006-1425-1425.sh-5464-92-1408.ha-3156-1427.he-3070-92.fa-3276-72.ca-5635-64-64.cc-4091-110",
+    "habboFigure": "hr-6083-1404.hd-615-2.ch-665-110.lg-5594-1425.sh-735-110.ha-3144-110-110.he-3070-92.fa-3276-72.ca-5635-64-64.cc-4091-110",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
