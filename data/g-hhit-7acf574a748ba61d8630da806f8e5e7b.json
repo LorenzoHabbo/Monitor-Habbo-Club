@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "m",
     "habboFigure": "hr-3768-49.hd-205-28.ch-6177-110-110.lg-3361-92.sh-6182.he-5088.fa-5601-1408.ca-6207.cc-6175-108",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "your lips, my lips",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-1408.lg-4167-64.sh-305-1408.he-3833-80.fa-5624-72.cc-5926-64-1408",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5679-45-40.hd-600-1.ch-822-75.lg-720-80.sh-725-1408.fa-3276-73",
