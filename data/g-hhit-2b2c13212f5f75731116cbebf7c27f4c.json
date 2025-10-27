@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5684-28.ch-5921-110-1331.lg-4066-110.sh-3206-110.he-4977-64-100.fa-1209-110.ca-5028-110-100.wa-3366-110-1331",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3043-61.hd-3845-1362.ch-3443.lg-3078-82.sh-3275-1416.ha-5305-1323-96.he-3239-64.ea-3141.fa-4168-96.ca-5770-1408.wa-5123-1417.cc-4107-76-1341.cp-3316-1408",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -2920,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " giustiziere celeste 1.p |",
     "habboFigure": "hr-3957-61-1345.hd-629-19.ch-5351-1336-96.lg-715-1336.sh-6181-1413.he-1608",
@@ -4810,9 +4810,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "zuete  t7tti falxiu",
+    "motto": "avano ragione sono un difetto",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
@@ -5430,10 +5430,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
-    "habboFigure": "hr-835-42.hd-605-28.ch-3036-110-1423.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93",
+    "habboFigure": "hr-835-42.hd-605-28.ch-824-110.lg-716-1331-93.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-85-93.cc-6166-1430-1321",
     "memberSince": "2020-03-26T19:37:50.000+00:00",
     "uniqueId": "hhit-0f111a42a97a3c90e719659bbefe6715",
     "name": "giu.ntura",
@@ -5450,7 +5450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-155-34.hd-180-8.ch-806-83.lg-280-83.sh-295-1408.ha-3620.fa-3276-1408.cc-4979-1408",
