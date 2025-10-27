@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cavaliere 1p G.D",
     "habboFigure": "hr-890-36.hd-629-1.ch-4067-91-1408.lg-3078-64.sh-740-1408.ha-3254-81",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SCAGNOZZO GD",
     "habboFigure": "hr-3163-42.hd-209-1.ch-4165-82-1408.lg-3078-1408.sh-3016-81.cc-886-81",
@@ -4600,7 +4600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cavaliere Fidato 1p G.D",
     "habboFigure": "hr-893-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
