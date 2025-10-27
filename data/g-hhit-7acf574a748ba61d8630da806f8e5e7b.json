@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sono stata Sbannata",
     "habboFigure": "hr-3671-45-42.hd-4383-10-14.ch-665-110.lg-4114-110-1414.he-6103-1327.fa-3276-92",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo dino Ingegnere",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-4050.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
@@ -1340,9 +1340,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "scout (regime skaikru)",
+    "motto": "fighter (regime skaikru)",
     "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
     "memberSince": "2015-08-31T21:03:20.000+00:00",
     "uniqueId": "hhit-177b821ddb0b73c8e5fdf2b3286e3a08",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Penelope",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-1425.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-92-92",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-830-48.hd-207-10.ch-3030-71.lg-3216-71.sh-905-71.ha-3730.he-1610.ea-3698-83-72.fa-1211.cc-3723-64.cp-3126-64",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5605-31.hd-3845-10.ch-3293-110-1408.lg-3257-1412.sh-3524-110-1408.ha-3144-92-70.cc-6077",
@@ -2400,9 +2400,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Kwancha Regime Wonkru [TH]",
+    "motto": "Shira Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-3483-110-110.he-3820-64.fa-4044.ca-4936.wa-4060-64-89.cc-5761-100-100",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
@@ -2720,7 +2720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3643,7 +3643,7 @@
     "online": true,
     "gender": "m",
     "motto": "La Tigre - Ronin YKZ",
-    "habboFigure": "hr-3020-37.hd-180-1.ch-3506-92-1408.lg-3290-108.sh-300-110.fa-1204.ca-3503-96.wa-3504-108.cc-3508-108-108",
+    "habboFigure": "hr-3163-52.hd-3102-7.ch-3679-110-64.lg-3257-64.sh-3027-64-110.ha-1021-110.ca-5028-96-99.cc-4091-64.cp-3205",
     "memberSince": "2024-08-22T16:11:03.000+00:00",
     "uniqueId": "hhit-920ad88f0afa9eb3037544d503189bd5",
     "name": "Najim",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred capo settore",
     "habboFigure": "hr-5773-1395.hd-4163-2-1369.ch-5245-1331.lg-5594-1341.sh-5308-94.he-6173-100.fa-3276-1413.ca-5916-1334-1330.wa-5986-110.cc-6166-100-92",
