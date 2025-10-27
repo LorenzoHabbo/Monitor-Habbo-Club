@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5607-110.lg-6000-110.sh-6043.ha-6198.he-3716.fa-6170-1408.ca-6041.wa-5370.cc-3542-100-100",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mi piacciono i Codici e saaaas",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-5139-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-3091-1.ch-5559-110.lg-4138-94.sh-3035-104.ha-6198.ca-6044.cc-3007-105-110",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3436-61-40.hd-180-1390.ch-3077-110-92.lg-280-110.ha-3242-110-1408.he-1608.ea-5007.fa-1206-110",
