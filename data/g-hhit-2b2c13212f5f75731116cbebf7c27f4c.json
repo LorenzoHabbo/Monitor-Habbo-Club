@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-220-73.lg-3407-73-66.sh-3115-66-73.ha-3409-73-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-73-66",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3725-42.hd-3845-14.ch-4111-64.lg-280-64.sh-300-64.ha-4192.he-3324-64-66.ca-5278-64.cc-3827-64-1408",
@@ -1780,7 +1780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-3845-1.ch-3030-1408.lg-4066-91.sh-3068-1408-64.cc-3327-91-1408",
@@ -2353,7 +2353,7 @@
     "online": true,
     "gender": "m",
     "motto": "SCAGNOZZO ESPERTO GD",
-    "habboFigure": "hr-3163-42.hd-209-1.ch-4165-82-1408.lg-3078-1408.sh-3016-81.cc-886-81",
+    "habboFigure": "hr-3163-42.hd-209-1.lg-3018-1408",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -6990,7 +6990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-1354.hd-3095-8.ch-3215-110.lg-3202-110-1408.ea-1402.fa-3276-64.cp-3205",
