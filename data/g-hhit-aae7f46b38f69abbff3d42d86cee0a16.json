@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ALWAYS",
     "habboFigure": "hr-3520-1349.hd-205-1363.ch-3032-75-92.lg-280-110.sh-3419-110-110.he-3070-1408.ea-1405.fa-3296.wa-3073-110.cc-3158-1425",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ultimo custode di mondi in cenere",
     "habboFigure": "hr-3273-1355-1401.hd-5913-18.ch-3197-92.lg-3006-108-92.sh-3184-108.fa-3378-108-100.cc-6205-108",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-37.hd-3091-1.ch-5559-110.lg-4138-94.sh-3035-104.ha-6198.ca-6044.cc-3007-105-110",
