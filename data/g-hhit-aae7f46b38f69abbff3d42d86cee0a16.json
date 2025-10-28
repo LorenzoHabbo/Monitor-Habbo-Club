@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Seiha Kumicho YaºKuºZa",
     "habboFigure": "hr-4363-49-49.hd-5685-28.ch-5921-110-1331.lg-4066-110.sh-3206-110.he-4977-64-1425.fa-1209-110.ca-5028-1425-1338.wa-3366-110-1425",
@@ -30,7 +30,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-82-72.lg-285-1408",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ora splendo di più [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-5952-92-92.lg-5594-110.sh-4112-110-92.he-3660-64-1408.fa-6170-1408.wa-3072-110-92.cc-3509-110-92",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "in apnea",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-665-92.lg-710-1426.sh-5803-92.ha-5730-92.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-6166-1426-1427",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6085-1404-1404.hd-6022-22.ch-3033-1408-1331.lg-5594-64.sh-3435-1331-92.he-6171-1408-100.ea-3226-100.wa-6172-1408-100.cc-3360-1331",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ultimo custode di mondi in cenere",
     "habboFigure": "hr-3273-1355-1401.hd-5913-18.ch-3197-92.lg-3006-108-92.sh-3184-108.fa-3378-108-100.cc-6205-108",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3436-61-40.hd-180-1390.ch-3077-110-92.lg-280-110.ha-3242-110-1408.he-1608.ea-5007.fa-1206-110",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-36.hd-209-1370.ch-5830-85.lg-3023-64.sh-906-1408.ha-5832-88.he-6125-1408.cp-3119-88",
