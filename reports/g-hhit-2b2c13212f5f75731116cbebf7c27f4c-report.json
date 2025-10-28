@@ -119300,5 +119300,21 @@
     "nuovi": [],
     "abbandonati": [],
     "adminChanges": []
+  },
+  {
+    "data": "martedì 28 ottobre 2025 alle ore 12:24",
+    "nuovi": [
+      {
+        "name": "hacktool",
+        "uniqueId": "hhit-7b1a606109e00260861ca0b3ddb7be5a"
+      }
+    ],
+    "abbandonati": [
+      {
+        "name": "NotaBot",
+        "uniqueId": "hhit-e6f5e136307a668ab49dc14eadcdf575"
+      }
+    ],
+    "adminChanges": []
   }
 ]

@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -1197,6 +1197,16 @@
     "memberSince": "2010-10-06T16:40:39.000+00:00",
     "uniqueId": "hhit-c60dc1f6c59b7a23f1b75e62ad8b05c5",
     "name": "-!-michael-!-",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "apprendista Novello GD",
+    "habboFigure": "hr-802-40.hd-209-1.ch-877-82-1408.lg-275-1408.sh-290-64.ca-1813",
+    "memberSince": "2010-10-10T20:16:20.000+00:00",
+    "uniqueId": "hhit-7b1a606109e00260861ca0b3ddb7be5a",
+    "name": "hacktool",
     "isAdmin": false
   },
   {
@@ -2980,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ApprendistanovelloGD",
     "habboFigure": "hr-893-38.hd-180-14.ch-210-1408.lg-3088-66-66.sh-906-64.ca-1804-1408",
@@ -4470,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-660-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
@@ -9460,7 +9470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-802-32.hd-208-8.ch-3030-64.lg-3290-82.sh-300-90.he-1608",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-30T09:04:40.000+00:00",
     "uniqueId": "hhit-d3f5b23ad54815e5d742a8878bdf57df",
     "name": "PoIpetta",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "uf",
-    "habboFigure": "hr-5503-34.hd-627-1.ch-665-64.lg-720-80.he-4944.fa-3276-72.ca-5502",
-    "memberSince": "2023-09-30T12:35:56.000+00:00",
-    "uniqueId": "hhit-e6f5e136307a668ab49dc14eadcdf575",
-    "name": "NotaBot",
     "isAdmin": false
   }
 ]
