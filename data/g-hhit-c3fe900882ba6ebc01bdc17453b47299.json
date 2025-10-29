@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est ª Oblivion",
     "habboFigure": "hr-828-54.hd-180-28.ch-3032-110-1408.lg-3023-64.sh-6156-1428.he-3891.ea-3639",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "da bimbo facevo l'adulto",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1428.lg-710-110.sh-5803-92.he-3891.fa-5601-1408.cc-5078-110",
@@ -1143,7 +1143,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6085-1404-1404.hd-6022-22.ch-3033-1408-1331.lg-5594-64.sh-3435-1331-92.he-6171-1408-100.ea-3226-100.wa-6172-1408-100.cc-3360-1331",
+    "habboFigure": "hr-6085-1404-1404.hd-6022-22.ch-3033-1408-1331.lg-5594-64.sh-3435-1331-92.he-6171-1408-100.ea-3226-100.fa-5760.wa-6172-1408-100.cc-3360-1331",
     "memberSince": "2017-01-30T23:25:49.000+00:00",
     "uniqueId": "hhit-a8e16aa80c02440b9f11b81cffff433c",
     "name": "Whochins",
@@ -1530,7 +1530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "per gli amici e-e a verità",
     "habboFigure": "hr-828-1403.hd-180-1.ch-5596-1408.lg-5594-82.sh-5069.he-6171-92-96.ea-4985.ca-5002.wa-5370",

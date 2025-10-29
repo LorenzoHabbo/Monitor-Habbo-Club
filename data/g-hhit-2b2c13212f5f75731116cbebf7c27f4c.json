@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199.cp-5932-76",
@@ -5450,7 +5450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-835-42.hd-605-28.ch-5453-1430-89.lg-716-1331-93.sh-6156-91.ha-3272-1430-1321.he-3081-92.fa-3276-66.wa-3798-89-1430.cc-6166-1430-93",
@@ -6420,7 +6420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "chiedi scusa",
     "habboFigure": "hr-5598-42-48.hd-195-10.ch-4111-1408.lg-4167-82.ea-3925-64-64.fa-3993-64.ca-4115-64-1408",
