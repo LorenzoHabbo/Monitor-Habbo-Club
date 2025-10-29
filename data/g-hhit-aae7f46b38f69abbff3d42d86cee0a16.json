@@ -20,10 +20,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Tra le maschere vale qualsiasi cosa",
-    "habboFigure": "hr-515-42.hd-615-28.ch-3013-110.lg-710-64.sh-725-92.he-6066-92.fa-5601-1408.ca-1804-64",
+    "habboFigure": "hr-515-42.hd-615-14.ch-630-1408.lg-710-64.sh-725-1408.he-6066-1408.fa-5601-1408.ca-1804-64",
     "memberSince": "2007-01-16T21:42:14.000+00:00",
     "uniqueId": "hhit-2962b6ec9af6b2262e95a79ddbb877a8",
     "name": "MagdaSuperStar",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-235-82.lg-280-64.sh-295-1408.ha-1004-64.fa-5600-1408",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vuoi accarezzare il mio cucciolo?",
     "habboFigure": "hr-3871-40.hd-6021-10.ch-5488-71.lg-275-1408.ha-1010-71.he-5808-80.ea-3925-80-80.cc-6166-71-71",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-22.ch-5036.lg-5584.sh-5032.ha-5704.ea-3169-102.fa-5636-92.wa-5676.cc-5690-102",
