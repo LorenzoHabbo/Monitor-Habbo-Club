@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-3093-1.ch-215-89.lg-4066-1409.sh-3016-110.he-6171-92-1413.ea-3727",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!     EAM79",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "pelato come state of mind",
     "habboFigure": "hr-125-57.hd-205-1.ch-3185-110.lg-280-110.ca-3187-1417",
@@ -7050,7 +7050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
     "habboFigure": "hr-3860-42-42.hd-180-1370.ch-3498-64.lg-4138-64.sh-3587-1408-64.ha-3620.he-1609-64.ea-3640.fa-5975.cc-5926-64-1408",
