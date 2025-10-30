@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Kumicho -I K A R I - YKZ",
     "habboFigure": "hr-3278-49-49.hd-180-28.ch-5833-110-1408.lg-3078-110.sh-3419-110-110.ea-5897-110-110.fa-1205-92.ca-5916-110-1408.cc-5951-110",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carusa-Famiglia Torrisi.",
     "habboFigure": "hr-4126-47-40.hd-4383-10-8.ch-5374-64-64.lg-5927-64-66.sh-5308-66.ha-3843-64-66.he-5578-64.ea-3962.fa-6170-66.ca-6168-66-66",
