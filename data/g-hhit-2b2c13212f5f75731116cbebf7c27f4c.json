@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199.cp-5932-76",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo GD",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-6029-85-73.lg-4012-1408.sh-6181-73.he-3274-73.ca-5635-71-85",
@@ -2583,7 +2583,7 @@
     "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
-    "habboFigure": "hr-3163-61.hd-180-30.ch-3443.lg-4138-110.ha-3605-63-1408",
+    "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
     "memberSince": "2012-11-18T23:30:08.000+00:00",
     "uniqueId": "hhit-6e2f899a7806ecdc3fb89f80821a9c24",
     "name": "CarotoMagico",
@@ -4000,10 +4000,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sono !!Belle",
-    "habboFigure": "hr-6055-1394-1348.hd-4383-28-14.ch-3598-110-110.lg-4066-110.he-5808-97",
+    "habboFigure": "hr-5680-1394.hd-4383-28-14.ch-3076-110-110.lg-4066-110.ha-3054-110-1408.he-5808-97",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "eneide",
@@ -7550,7 +7550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sentinella semplice gd",
     "habboFigure": "hr-890-47.hd-629-1.ch-665-68.lg-715-64.sh-3068-64-80",
