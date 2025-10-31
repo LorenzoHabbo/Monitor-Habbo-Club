@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tu sei solo uno sbaglio da non rifare.",
     "habboFigure": "hr-831-61.hd-3721-18.ch-5036.lg-3933-1427.sh-5032.ha-5704.ca-3844-1418-92.cc-5690-1418",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-42.hd-615-14.ch-665-1408.lg-710-64.sh-725-1408.ha-1003-64.fa-5601-1408.ca-6081-1408.cc-5926-64-64",
