@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -2653,7 +2653,7 @@
     "online": true,
     "gender": "m",
     "motto": "sono un cane",
-    "habboFigure": "hr-3746-32.hd-207-10.ch-4111-68.lg-3116-68-1408.sh-905-68.ha-3775.fa-3378-64-1408.cc-4107-90-1408",
+    "habboFigure": "hr-3746-32.hd-207-10.ch-4111-68.lg-3116-68-1408.sh-905-68.ha-3775.he-3660-64-1408.fa-3378-64-1408.cc-4107-90-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
@@ -2960,10 +2960,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Shira Regime Wonkru [TH]",
-    "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-5545-110-90.sh-3419-91-90.ha-3855-100.fa-4044.ca-4936.wa-6154-1325-1430.cc-4942-100-89",
+    "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-3030-110.lg-5545-110-90.sh-3419-91-90.ha-5301-110.fa-4044.ca-4936.wa-6154-1325-1430.cc-6178-100",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -4920,7 +4920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3416-1330-1331.lg-3418-1330.sh-3419-110-92.ha-3415-1330-1331",
