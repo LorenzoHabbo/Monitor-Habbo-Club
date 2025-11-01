@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-1404.hd-6248-1.ch-215-89.lg-4066-1409.sh-3016-110",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "EH VABBÉ SKIBIDIPOPPI ¬¬¬",
     "habboFigure": "hr-5619-1403.hd-600-1.ch-5998-1415.lg-5974-110-110.sh-5670-1418.he-5578-95.fa-5122-1415.wa-5123-95",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-5239-92.lg-275-110.sh-290-110.ha-5704.he-6171-92-96.fa-5600-92.cc-6166-1412-92",
@@ -7940,7 +7940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "medico specializzato psico dirigente",
     "habboFigure": "hr-3673-48.hd-629-10.ch-3770-73-1408.lg-3216-82.sh-3467.ha-3843-64-1408.ca-3444-64",
