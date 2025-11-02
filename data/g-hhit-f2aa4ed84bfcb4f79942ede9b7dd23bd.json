@@ -870,10 +870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3977-1403.hd-3721-2.ch-6121-110-110.lg-6089-110-110.sh-5247-92-63.ha-3544.ea-5576-110-110.ca-5936-92.cc-5925-1427",
+    "habboFigure": "hr-3977-1403.hd-3721-2.ch-255-110.lg-6089-110-110.sh-5247-92-63.ha-3544.ea-5576-110-110.ca-5936-92.cc-5925-1427",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -1393,7 +1393,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.ha-3488.fa-5600-92.cc-3542-92-100",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -2860,7 +2860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fast Rap - Yuno Miles",
     "habboFigure": "hr-3163-1403.hd-5525-2-1372.ch-3934-1408-64.lg-3483-110-110.sh-6156-1408",
@@ -4110,7 +4110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-5679-48-42.hd-627-10.ch-3517-82-64.lg-3216-64.sh-906-64.he-3329-64-66.fa-3276-72.ca-1801-66",
