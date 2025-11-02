@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Work all day and then i wake up",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "little princess",
     "habboFigure": "hr-5680-61.hd-3100-1390.ch-665-1326.lg-3320-99-1326.fa-3276-1328.cc-5461-1326-99",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-30.ch-230-90.lg-275-68.sh-295-68",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4352-1347.hd-6216-10-1360.ch-5919-83-83.lg-3006-1326-1326.sh-5803-92.ca-6128",
