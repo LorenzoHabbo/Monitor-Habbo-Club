@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -463,7 +463,7 @@
     "online": true,
     "gender": "m",
     "motto": "Un canguro per amico",
-    "habboFigure": "hr-135-48.hd-6248-14.ch-5448.lg-5398.sh-5247-1408-64.ha-5083.he-3557.ca-5051-64-64",
+    "habboFigure": "hr-135-48.hd-6248-14.ch-255-1408.lg-280-1408.sh-5247-1408-64.ha-5083",
     "memberSince": "2009-01-30T13:21:57.000+00:00",
     "uniqueId": "hhit-666646e9ff6da635b3434965adddfea6",
     "name": "Clean",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Work all day and then i wake up",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "spia esperta g.d",
     "habboFigure": "hr-5679-1343-1343.hd-600-10.ch-3233-64.lg-3078-64.sh-3383-64-64.ha-3546-92.fa-5601-92.ca-3545-92",
@@ -6990,7 +6990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
