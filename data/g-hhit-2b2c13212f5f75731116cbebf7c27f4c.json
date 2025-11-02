@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non ho bocca e devo urlare",
     "habboFigure": "hd-3704-14.ch-3372-85-81.lg-3365-85.sh-290-85.ha-3409-85-84.ca-5028-84-85",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel g.d",
     "habboFigure": "hr-4343-39-35.hd-3845-14.ch-3442.lg-3361-1320.ha-3441",
@@ -5570,7 +5570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5605-31.hd-3845-10.ch-3293-110-1408.lg-3257-1412.sh-3524-110-1408.ha-3144-92-70.cc-6077",
@@ -9071,6 +9071,16 @@
   },
   {
     "online": false,
+    "gender": "f",
+    "motto": "Apprendista Novello G.D",
+    "habboFigure": "hr-545-32.hd-629-1.ch-4099-71-1408.lg-695-81.he-1602-81.fa-3276-71",
+    "memberSince": "2023-06-01T13:56:26.000+00:00",
+    "uniqueId": "hhit-76f5f9b963c73c02b81e86177b386260",
+    "name": "AnninaTheBest",
+    "isAdmin": false
+  },
+  {
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello gd",
     "habboFigure": "hd-207-30.ch-3111-85-1408.lg-3116-64-1408.sh-3115-64-1408.ha-1021-85.cp-3128-64",
@@ -9180,7 +9190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D",
     "habboFigure": "hr-892-42.hd-629-1.ch-665-71.lg-3216-64.he-3274-71",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-28T13:38:09.000+00:00",
     "uniqueId": "hhit-a7f4282b060bbd2e921938c8093e489d",
     "name": "Sweetlikelemon",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-890-35.hd-629-1.ch-665-1408.lg-710-72.sh-906-1408.he-3274-72.wa-3210-72-72",
-    "memberSince": "2023-09-30T08:15:48.000+00:00",
-    "uniqueId": "hhit-d4696c4ac2815420d8ed175a2687e45b",
-    "name": "Monikastar",
     "isAdmin": false
   }
 ]
