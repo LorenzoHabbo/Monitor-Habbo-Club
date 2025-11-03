@@ -860,10 +860,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "Toes in the sand",
-    "habboFigure": "hr-515-37.hd-600-1.ch-635-73.lg-716-66-1408.sh-735-68",
+    "habboFigure": "hr-3829-60.hd-200-1379.ch-4220-1408.lg-3057-110.sh-3089-64.ha-4039-64-1418.he-4264.cc-4277-110",
     "memberSince": "2008-06-05T15:59:03.000+00:00",
     "uniqueId": "hhit-f6d2953bf83dbb266423b7b4f4f46396",
     "name": ":.alfo.:",
@@ -2412,7 +2412,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Shatei esperto ykz",
+    "motto": "",
     "habboFigure": "hr-5680-40.hd-625-14.ch-630-1408.lg-3526-64-64.sh-5247-1408-1408.fa-6170-64.cc-5440-1408-1408",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
@@ -3013,7 +3013,7 @@
     "online": true,
     "gender": "m",
     "motto": "stella tenebrosa NT",
-    "habboFigure": "hr-3829-36.hd-3845-19.ch-5608-1408.lg-3078-81.sh-3180-76-1408",
+    "habboFigure": "hr-3829-36.hd-3845-19.ch-5608-76.lg-3078-81.sh-3180-76-1408",
     "memberSince": "2010-08-25T14:32:05.000+00:00",
     "uniqueId": "hhit-18d242838182ac36d3e6506c71ff9a98",
     "name": "catabbo",
@@ -5490,7 +5490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader [ NºT ]",
     "habboFigure": "hr-4117-1342-40.hd-6216-28-27.ch-660-110.lg-3502-92.sh-5803-110.ha-5301-110.he-5074-92.fa-5975.ca-3414-1413.cc-4300-110-110",
@@ -6660,7 +6660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "I'm a tiny builder ƒ",
     "habboFigure": "hr-6083-34.hd-3631-10-30.ch-685-64.lg-4369-64-85.sh-5308-1408.fa-3276-72.ca-3982-90-85.cc-3837-64",
