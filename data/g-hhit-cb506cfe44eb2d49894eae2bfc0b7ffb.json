@@ -233,7 +233,7 @@
     "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
-    "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ha-4326.ca-5916-106-108",
+    "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
     "memberSince": "2008-10-27T14:12:58.000+00:00",
     "uniqueId": "hhit-e850fb161825b1c5e00fe342f46c737f",
     "name": "MIRC.70",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5607-110.lg-6000-110.sh-6043.ha-6198.he-3716.fa-6170-1408.ca-6041.wa-5370.cc-3542-100-100",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -4250,7 +4250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-10.ch-255-73.lg-281-73.sh-295-73.ha-1004-73.ea-1404-64.fa-3276-73",
