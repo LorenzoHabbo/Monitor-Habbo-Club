@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "L'invidia è una Brutta Bestia",
     "habboFigure": "hr-5680-42.hd-4383-10-28.ch-5998-110.lg-4066-110.ha-3586.he-5279.fa-3276-92",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "12:12 prendilo come un segno",
     "habboFigure": "hr-6127-1404.hd-5913-22.ch-665-92.lg-710-1425.sh-5803-92.ha-6203-1425.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-1408.cc-6166-1324-96",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-5720-37-40.hd-6216-1391-20.ch-5245-1411.lg-3006-1325-1411.sh-6181-1411.ha-6203-1411.he-3070-1411.fa-3276-72.ca-3828-68-72",
