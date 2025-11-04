@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "L'invidia è una Brutta Bestia",
     "habboFigure": "hr-5680-42.hd-4383-10-28.ch-5998-110.lg-4066-110.ha-3586.he-5279.fa-3276-92",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Work all day and then i wake up",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.fa-1204.wa-2012",
@@ -663,7 +663,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-829-1394.hd-6159-1380-22.ch-3030-1331.lg-6161-64-63.sh-3419-1325-1409.ha-5744-1325-1409.fa-6245-1325.ca-5739-1325-64.cc-3692-1325-1409",
+    "habboFigure": "hr-828-1394.hd-6159-1380-22.ch-3030-1331.lg-6161-64-63.sh-3419-1325-1409.ha-6244-64-110.fa-6245-1330.ca-6167-100-1330.cc-5800-1325-1325",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-3673-1398.hd-4383-10-5.ch-4067-1421-72.lg-5312-1413-92.sh-4064-63.ha-3709.fa-5601-1337",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gaki - YKZ-",
     "habboFigure": "hr-3386-42.hd-180-19.ch-3342-1320-1320.lg-3355-82-72.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "avano ragione sono un difetto",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-30.ch-230-90.lg-275-68.sh-295-68",
