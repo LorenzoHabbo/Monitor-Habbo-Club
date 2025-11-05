@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tutto ciò che fa viene dall’interno",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-92.lg-4066-1341.ha-4050.he-3833-89.fa-1209-110.ca-3175-1427.wa-3263-110-110.cc-3509-1338-1422",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -4803,7 +4803,7 @@
     "online": true,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ Jehudiel GD ƒ",
-    "habboFigure": "hr-5914-45-1404.hd-6216-10-13.ch-5963-100.lg-3136-110.he-5997-66.fa-5467.cc-5690-92",
+    "habboFigure": "hr-5914-45-1404.hd-6216-10-13.ch-5963-100.lg-3136-110.he-5997-66.fa-5467.ca-5523.cc-5690-92",
     "memberSince": "2018-09-21T14:50:00.000+00:00",
     "uniqueId": "hhit-6a7cec4fe2064fed4a5c24554c6a1fae",
     "name": "Persephone",
@@ -5640,7 +5640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3161-1350.hd-3092-28.ch-3167.lg-3320-110-92.ha-5704.ea-1402.fa-6232-1413.cc-3928",
@@ -6220,7 +6220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Shira Regime Wonkru [TH]",
     "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-4111-1420.lg-3483-110-110.ha-5301-1337.he-5088.fa-4044.ca-4936.wa-4060-64-89.cc-3867-1337-1337",
@@ -8160,7 +8160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5601-92",
