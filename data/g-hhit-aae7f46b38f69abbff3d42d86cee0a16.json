@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -303,7 +303,7 @@
     "online": true,
     "gender": "m",
     "motto": ". . . . . . .",
-    "habboFigure": "hr-3278-61-49.hd-3845-28.ch-3987-110-110.lg-3257-110.sh-3419-110-110.ha-1013-110.fa-1205-110.cc-5951-110",
+    "habboFigure": "hr-3278-61-49.hd-3604-28.ch-5833-110-1408.lg-3257-110.sh-3419-110-110.fa-1205-110.cc-5951-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5607-110.lg-6000-110.sh-6043.ha-6198.he-3716.fa-6170-1408.ca-6041.wa-5370.cc-3542-100-100",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "12:12 prendilo come un segno",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-665-1427.lg-3018-1334.sh-5803-89.ha-6249-1334-1324.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-6166-1325-86",
