@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Me & the Devil walkin' side by side A|",
     "habboFigure": "hr-4117-49-49.hd-6216-28-1365.ch-650-110.lg-5594-92.he-3149-110.fa-5467.ca-4378.cc-6115-110-92",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tutto ciò che fa viene dall’interno",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-92.lg-4066-1341.ha-4050.he-3833-89.fa-1209-110.ca-3175-1427.wa-3263-110-110.cc-3509-1338-1422",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-6222-1322-1408.lg-5113-94.sh-3621-63-1408.ha-5832-94.ca-5592-83-1408.wa-6154-110-1325",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-3852-55.hd-600-10.ch-3046-110.lg-3006-110-110.ha-6203-110.fa-3276-72",
