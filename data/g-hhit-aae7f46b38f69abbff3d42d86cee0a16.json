@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "O.M in pensione",
     "habboFigure": "hr-829-33.hd-205-13.ch-3222-110.lg-3023-1427.sh-295-110.fa-1204.wa-2001",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "12:12 prendilo come un segno",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-665-1427.lg-3018-1334.sh-5803-89.ha-6249-1334-1324.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-6166-1325-86",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "•",
     "habboFigure": "hr-3936-1403-1403.hd-600-2.ch-3013-92.lg-720-1422.sh-5247-92-92.ha-6250-1422-92.he-3070-92.fa-3276-1331.ca-3885-1422-92.cc-5800-92-92",
