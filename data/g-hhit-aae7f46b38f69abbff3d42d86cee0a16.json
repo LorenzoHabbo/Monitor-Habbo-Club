@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1407.hd-3604-1370.ch-4111-92.lg-3078-110.sh-3016-64.ha-3261-1413.he-5418-1413-96.fa-3344-110.ca-1816.wa-5836-96-92.cp-3125-110",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "stai lontano da questi serpenti...",
     "habboFigure": "hr-828-61.hd-3103-28.ch-3779-110-92.lg-3320-110-92.sh-3720-110-1408.ha-3620.he-1609-100.ca-3844-100-110",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1403-40.hd-6219-2-29.ch-665-92.lg-5594-63.sh-5308-92.ha-5301-1331.he-5808-110.fa-5467.cc-5800-1330-1330",
