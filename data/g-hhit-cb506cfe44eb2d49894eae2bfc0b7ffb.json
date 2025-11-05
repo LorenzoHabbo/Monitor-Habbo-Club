@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mandatemi i vostri inidun",
     "habboFigure": "hr-3841-45.hd-208-1.ch-5608-90.lg-3290-64.sh-3524-64-1408.he-5553.fa-5601-91",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "...",
     "habboFigure": "hr-4363-1349-1349.hd-6216-10-1364.ch-6180-1326.lg-700-1408.sh-6182.ha-6209.he-3974.fa-5467.ca-5934-1416",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-5720-37-40.hd-6216-1391-20.ch-5245-1411.lg-3006-1325-1411.sh-6181-1411.ha-6203-1411.he-3070-1411.fa-3276-72.ca-3828-68-72",
