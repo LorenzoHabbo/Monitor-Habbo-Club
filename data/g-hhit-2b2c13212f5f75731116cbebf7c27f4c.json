@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel g.d",
     "habboFigure": "hr-4117-39-35.hd-629-14.ch-4110-72.lg-3418-1320.sh-3524-1320-1408.ha-6203-64.he-6171-1320-1408.fa-5601-1320.ca-5770-64",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista G.D.",
     "habboFigure": "hr-891-39.hd-180-8.ch-807-85.lg-270-72.sh-3115-1408-1408.ea-1403-1408.wa-2011",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
