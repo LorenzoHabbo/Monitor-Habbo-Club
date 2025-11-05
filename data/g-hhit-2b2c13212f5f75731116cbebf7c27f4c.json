@@ -540,10 +540,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
-    "habboFigure": "hr-830-40.hd-180-10.ch-5258.lg-4083.sh-905-71.ha-4324.ea-5009.cp-5932-76",
+    "habboFigure": "hr-830-40.hd-180-10.ch-5856.lg-6137.sh-5869-1408-1408.ha-4324.ea-5009.ca-6199.cp-5932-76",
     "memberSince": "2009-06-13T11:17:50.000+00:00",
     "uniqueId": "hhit-4a479ef8db6255a9d26cda388ee00de1",
     "name": "el--rudy",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
