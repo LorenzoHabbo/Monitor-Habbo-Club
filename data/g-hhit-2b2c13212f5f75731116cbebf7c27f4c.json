@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sono fo*****",
     "habboFigure": "hr-165-45.hd-205-1.ch-6222-1408-1408.lg-6161-82-82.sh-3524-64-1408.fa-5211-91.wa-2001.cc-3326-91-91",
@@ -2743,7 +2743,7 @@
     "online": false,
     "gender": "m",
     "motto": "ªAmbasciatore G.D.ª",
-    "habboFigure": "hr-4117-1401-61.hd-6045-22.ch-3203-110.lg-5732-110-100.sh-3720-110-110.he-3081-92.fa-3350.ca-6167-110-100.wa-6172-92-100.cc-6184-110",
+    "habboFigure": "hd-190-1370.ch-215-1408.lg-275-80.he-1608.fa-1205-91",
     "memberSince": "2013-03-14T11:19:09.000+00:00",
     "uniqueId": "hhit-e1d362604f2965f2fdfea9b984d75921",
     "name": ".:Asmodeus:.",
@@ -3110,10 +3110,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Take me back to the night we met",
-    "habboFigure": "hr-3936-1403-1403.hd-600-1383.ch-4128-1409-67.lg-3006-110-110.sh-6181-67.he-3070-1410.fa-3276-1414.ca-5026-92",
+    "habboFigure": "hr-3936-40-40.hd-600-14.ch-4128-1408-1408.lg-695-1408.sh-6181-1408.fa-3276-1408.ca-5026-1408",
     "memberSince": "2014-08-14T11:40:31.000+00:00",
     "uniqueId": "hhit-8d92b048211fc5db27afd3c2ed777509",
     "name": "_celine",
@@ -5360,7 +5360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ultima custode di mondi in cenere",
     "habboFigure": "hr-3273-56-1401.hd-5913-1383.ch-3197-92.lg-3006-1420-92.sh-3184-1420.ha-6203-1420.fa-3378-1420-70.cc-6205-1420",
@@ -5460,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-716-1331-93.ha-6203-1430.he-3081-92.fa-3276-66.ca-5575.cc-6166-1430-93",
