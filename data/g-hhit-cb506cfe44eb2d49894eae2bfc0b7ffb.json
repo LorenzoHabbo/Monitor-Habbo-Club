@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-180-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.fa-5600-1408.cc-6184-1424",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201.wa-2008",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ultima custode di mondi in cenere",
     "habboFigure": "hr-3273-56-1401.hd-5913-1383.ch-3197-92.lg-3006-1420-92.sh-3184-1420.ha-6203-1420.fa-3378-1420-70.cc-6205-1420",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-49-61.hd-5524-1391-1365.ch-5110-110-92.lg-5398.sh-5639.ha-3690-100.he-5828.fa-5948-92.ca-5574-110-1412.wa-6154-1325-1408.cc-6255-110-100",
@@ -2930,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Regolatevi!",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-710-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590",
@@ -3773,7 +3773,7 @@
     "online": false,
     "gender": "m",
     "motto": "capo dei tori",
-    "habboFigure": "hr-3163-61.hd-205-23.ch-3050-100-110.lg-275-110.sh-3154-93-93",
+    "habboFigure": "hr-3163-61.hd-205-23.ch-3840-92-1408.lg-280-110.sh-305-92.ca-5916-110-92.cc-3389-110-70",
     "memberSince": "2024-01-03T01:51:17.000+00:00",
     "uniqueId": "hhit-7f229ac597d1000643b8192aa5e48837",
     "name": "M-Batshuayi-",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-30.ch-230-90.lg-275-68.sh-295-68",
@@ -4040,7 +4040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5619-54.hd-6216-1-14.ch-3293-92-1326.lg-3174-92-1326.sh-3275-92.he-3082-92.fa-5467.wa-6154-1326-92",
