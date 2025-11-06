@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Paladina 1p G.D",
     "habboFigure": "hr-520-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-3254-1408",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SENTINELLA SEMPLICE G.D.",
     "habboFigure": "hr-3163-61.hd-209-1.ch-230-106.lg-3058-110.sh-3016-92.ca-3219-63",
@@ -2537,16 +2537,6 @@
     "memberSince": "2012-06-06T19:29:56.000+00:00",
     "uniqueId": "hhit-3d4ed7d59a18d9ce192984b32f694ad6",
     "name": "Dragomaculato",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3322-31.hd-209-1370.ch-3321-1408.lg-3320-82-1408.ha-3461.he-1601",
-    "memberSince": "2012-06-17T23:14:50.000+00:00",
-    "uniqueId": "hhit-81d6e34cf09d3efa689786a4e22ea95a",
-    "name": ".:NiK95:.",
     "isAdmin": false
   },
   {
@@ -5470,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-716-1331-93.ha-6203-1430.he-3081-92.fa-3276-66.ca-5575.cc-6166-1430-93",
@@ -5900,7 +5890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "DRACARYS",
     "habboFigure": "hr-5619-45.hd-600-8.ch-665-80.lg-3078-80.sh-3180-91-1408.he-1609-80.fa-3276-73.ca-3876-66-81.cc-5926-73-73",
@@ -7210,7 +7200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "California, here we come!",
     "habboFigure": "hd-6003.ch-4111-90.lg-5594-90.sh-3435-80-1408.ha-5991.he-3772-80.ea-3750.fa-5280-80.wa-3773-80.cc-4377-1320-1320",
@@ -7250,7 +7240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello GD",
     "habboFigure": "hr-802-35.hd-180-1.ch-230-1408.lg-275-64.sh-305-1408.ha-3767-64.ca-1804-1408.wa-2001.cc-3593-64-1408",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-09-20T19:56:09.000+00:00",
     "uniqueId": "hhit-e611c64f319df218ae37dbd0dd0e9ee0",
     "name": "veronicaaaaaa",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "apprendista novella. G.D",
+    "habboFigure": "hr-890-38.hd-628-1.ch-685-64.lg-720-64.sh-740-1408.he-3274-64.fa-3276-72.wa-2012",
+    "memberSince": "2023-09-25T15:44:40.000+00:00",
+    "uniqueId": "hhit-19468e261bcb804dd21824237d84afc1",
+    "name": "Mirka_0299",
     "isAdmin": false
   }
 ]
