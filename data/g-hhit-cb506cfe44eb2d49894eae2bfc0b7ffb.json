@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "che shoook!... twitch.tv/ttnovee",
     "habboFigure": "hr-3163-1407.hd-205-28.ch-5559-110.lg-3078-1338.sh-3275-92.ha-3690-92.ea-5897-92-92.fa-1211.ca-3691-77-1408.wa-2011.cc-3975-81-1408",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Per sempre nel mio cuore |||",
     "habboFigure": "hr-4941-61-31.hd-180-1389.ch-3059-1339.lg-3787-1327-1431.sh-3587-92-93.he-3070-93.fa-1201",
@@ -4110,7 +4110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-660-110.lg-710-1426.sh-5803-92.ha-3986.he-3070-92.fa-5601-1408",
