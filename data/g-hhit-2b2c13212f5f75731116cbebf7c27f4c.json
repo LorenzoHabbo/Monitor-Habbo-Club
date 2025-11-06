@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Novello GD",
     "habboFigure": "hr-802-45.hd-180-8.ch-235-1408.lg-270-64.sh-300-64.cc-3509-91-1408",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo GD",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-5351-85-73.lg-270-1408.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " giustiziere celeste 1.p |",
     "habboFigure": "hr-3810-32.hd-629-19.ch-3501-95.lg-3787-95-99.sh-3089-95.wa-2005",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Iniziato G.D",
     "habboFigure": "hr-891-42.hd-209-1370.ch-4111-73.lg-4167-1408.sh-906-1408.ha-3494-73-1408.fa-1201.wa-2012",
@@ -4860,7 +4860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "avano ragione sono un difetto",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -5940,7 +5940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "XD",
     "habboFigure": "hr-515-37.hd-600-1.ch-4392-64-1408.lg-715-64.sh-3383-91-91.fa-3276-72.wa-2001",
@@ -7670,6 +7670,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "f",
+    "motto": "apprendista novello gd",
+    "habboFigure": "hr-890-31.hd-629-1370.ch-665-74.lg-710-75.sh-730-76.he-6019",
+    "memberSince": "2022-09-18T21:13:08.000+00:00",
+    "uniqueId": "hhit-ddb6c866465c007c235b189c7e40c9a6",
+    "name": "mari.panda",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "apprendista G.D.",
@@ -8523,7 +8533,7 @@
     "online": true,
     "gender": "f",
     "motto": "messagera del patto 1p G.d.",
-    "habboFigure": "hr-5617-39-48.hd-600-10.ch-3528-80-1408.lg-695-85.sh-906-1408",
+    "habboFigure": "hr-4117-39-39.hd-600-10.ch-3528-80-1408.lg-695-85.sh-906-1408.he-1602-80",
     "memberSince": "2023-02-24T11:41:10.000+00:00",
     "uniqueId": "hhit-d1591d3f32347c841a6647b7b7f90aca",
     "name": "everblacknoemi",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-19T18:32:51.000+00:00",
     "uniqueId": "hhit-092e7317f1cf26a5e2c3fc42922245d9",
     "name": "CifellonePazzo",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "apprendista novella.g.d",
-    "habboFigure": "hr-545-44.hd-627-1.ch-884-64.lg-710-64.sh-735-64.fa-3276-72.wa-3210-64-64",
-    "memberSince": "2023-09-20T19:56:09.000+00:00",
-    "uniqueId": "hhit-e611c64f319df218ae37dbd0dd0e9ee0",
-    "name": "veronicaaaaaa",
     "isAdmin": false
   }
 ]
