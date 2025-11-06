@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -4013,7 +4013,7 @@
     "online": false,
     "gender": "f",
     "motto": "HIHFNS-VER-8nE7ao",
-    "habboFigure": "hr-5680-61.hd-4383-28-14.ch-665-110.lg-4066-110.ha-1002-96.he-3070-96",
+    "habboFigure": "hr-5680-61.hd-4383-28-14.ch-665-110.lg-4066-110.ha-3156-96.he-3070-96",
     "memberSince": "2016-11-29T13:26:47.000+00:00",
     "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
     "name": "eneide",
@@ -5580,7 +5580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5605-31.hd-3845-10.ch-3293-110-1408.lg-3257-1412.sh-3524-110-1408.ha-3144-92-70.cc-6077",
@@ -6430,7 +6430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Comando io qui, io parlo voi zitti.",
     "habboFigure": "hr-3786-39-48.hd-195-10.ch-4111-1408.lg-4167-82.sh-3383-64-1408.ha-1014.ea-3925-64-64.fa-3993-64.ca-4115-64-1408",
