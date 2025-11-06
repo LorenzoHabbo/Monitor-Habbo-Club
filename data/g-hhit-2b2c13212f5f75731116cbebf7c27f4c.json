@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel g.d",
     "habboFigure": "hr-4117-39-35.hd-629-14.ch-4110-72.lg-3418-1320.sh-3524-1320-1408.ha-6203-64.he-6171-1320-1408.fa-5601-1320.ca-5770-64",
@@ -2383,7 +2383,7 @@
     "online": true,
     "gender": "m",
     "motto": "SENTINELLA SEMPLICE G.D.",
-    "habboFigure": "hr-3163-61.hd-209-1.ch-230-106.lg-3023-110.sh-3016-92.ca-3219-63",
+    "habboFigure": "hr-3163-61.hd-209-1.ch-230-106.lg-3058-110.sh-3016-92.ca-3219-63",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Elite 1p G.D",
     "habboFigure": "hr-125-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
