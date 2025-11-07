@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fillet knife, mi piace la Spigola",
     "habboFigure": "hr-3322-45.hd-190-10.ch-3030-1408.lg-3407-71-1408.sh-3524-1408-1408.ha-3352-71-1408.he-1602-71.ea-1404-64.fa-3276-72.cc-3512-71-1408",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-4360-1403-49.hd-3721-2.ch-5093-110.lg-5594-77.sh-5247-92-92.fa-5600-92.ca-3702-92-1408.wa-6165-92.cc-4041-92",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-40.hd-3845-8.ch-5833-110-92.lg-3202-110-1408.sh-5247-92-92.he-5348",
@@ -5530,7 +5530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -5953,7 +5953,7 @@
     "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
-    "habboFigure": "hr-3163-34.hd-180-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.fa-5600-1408.cc-6184-107",
+    "habboFigure": "hr-3163-34.hd-3845-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.cc-6184-107",
     "memberSince": "2012-02-26T15:41:41.000+00:00",
     "uniqueId": "hhit-6880b62f86fed38d39dd624c02e190ca",
     "name": "THEBIGPLANET.",
@@ -6490,7 +6490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-3278-1344-40.hd-3095-1389.ch-5856.lg-5594-63.sh-5297.ha-5866.he-5813-1410-92.ca-4037-1337-110.cp-5878-63",
