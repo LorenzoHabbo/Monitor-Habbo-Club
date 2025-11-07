@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1407.hd-3604-1370.ch-4111-92.lg-3078-110.sh-3016-64.ha-3261-1413.he-5418-1413-96.fa-3344-110.ca-1816.wa-5836-96-92.cp-3125-110",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "...",
     "habboFigure": "hr-4117-1403-40.hd-6216-10-1387.ch-3881-1412.lg-4375-1323.sh-5308-93.ha-6203-1324.he-3070-1321.fa-5467.ca-5934-93.cc-5761-1324-92",
@@ -1683,7 +1683,7 @@
     "online": true,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
-    "habboFigure": "hr-5306-40-44.hd-200-30.ch-4068-76-66.lg-3387-75-1408.ha-5366-1408-73.he-3395-73-76.fa-4185-73",
+    "habboFigure": "hr-5306-40-44.hd-200-30.ch-4068-76-66.lg-3387-75-1408.sh-5551.ha-4319.fa-4185-73.ca-5454-71.cc-4300-71-1408",
     "memberSince": "2017-05-24T06:41:07.000+00:00",
     "uniqueId": "hhit-28e382008f4f0d53646ba3704fe3c284",
     "name": "SaveTheTrapa",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-655-1427.lg-710-110.sh-5670-63.ha-3709.he-3070-92.fa-6170-92.cp-3309-92",
