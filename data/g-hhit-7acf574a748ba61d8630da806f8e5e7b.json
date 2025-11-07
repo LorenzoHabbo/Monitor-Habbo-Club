@@ -210,10 +210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-4360-1403-49.hd-3721-2.ch-6121-110-110.lg-5594-77.sh-5247-92-92.fa-5600-92.ca-3702-92-1408.wa-6165-92",
+    "habboFigure": "hr-4360-1403-49.hd-3721-2.ch-6121-110-110.lg-5594-77.sh-5247-92-92.fa-5600-92.ca-3702-92-1408.wa-6165-92.cp-3311-110",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gaki - YKZ-",
     "habboFigure": "hr-3386-42.hd-180-19.ch-3342-1320-1320.lg-3355-82-72.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "leader (regime skaikru)",
     "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
@@ -3240,7 +3240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trash queenna",
     "habboFigure": "hr-5503-1353.hd-3631-19-1357.ch-3214-1326.lg-3202-1416-92.sh-5308-1323.ha-5744-1323-1416.he-5911-1323.ea-3698-110-1340.fa-4185-1323.ca-5770-1408.wa-6071.cc-5926-1323-1408",
