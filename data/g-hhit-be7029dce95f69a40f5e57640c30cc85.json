@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-42.hd-4383-10-22.ch-5998-110.lg-4066-110.ha-3745-64-72.he-5279.fa-3276-92",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1407.hd-3604-1370.ch-4111-92.lg-3078-110.sh-3016-64.ha-3261-1413.he-5418-1413-96.fa-3344-110.ca-1816.wa-5836-96-92.cp-3125-110",
