@@ -22,7 +22,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "Tra le maschere vale qualsiasi cosa",
+    "motto": "",
     "habboFigure": "hr-515-42.hd-615-28.ch-3013-110.lg-710-64.sh-725-92.he-6066-92.fa-5601-1408.ca-1804-64",
     "memberSince": "2007-01-16T21:42:14.000+00:00",
     "uniqueId": "hhit-2962b6ec9af6b2262e95a79ddbb877a8",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-5808-1333.fa-5467",
@@ -530,20 +530,20 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "...",
-    "habboFigure": "hr-4363-1403-1403.hd-6216-10-1367.ch-3293-110-92.lg-3387-110-110.sh-5308-89.he-4946-110.fa-5835-96.ca-5635-92-110.wa-5836-96-110.cc-4979-64",
+    "habboFigure": "hr-4186-41.hd-3845-28.ch-3935-110-110.lg-3006-110-110.sh-4064-110.ha-3463-110.he-3884-110-92.fa-1209-110.wa-3264-64-92.cc-3867-110-110",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
-    "habboFigure": "hd-6248-1379.lg-5909-1325-1325.he-5808-95.fa-5601-110.cp-3205",
+    "habboFigure": "hr-3768-61.hd-6248-1379.lg-280-110.he-5808-95.fa-5601-110.ca-5936-63.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-665-1427.lg-3018-1334.sh-5803-89.ha-6249-1334-1324.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-6166-1334-86",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-64.lg-285-1320.sh-3524-1408-64.he-5088.fa-3276-73.cc-3532-1408-1408",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1403-40.hd-6219-2-29.ch-665-92.lg-5594-63.sh-5308-92.ha-5301-1331.he-5808-110.fa-5467.cc-5800-1330-1330",
