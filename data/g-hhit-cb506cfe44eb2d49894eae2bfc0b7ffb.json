@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.ha-6241-100-92.fa-5600-92.cc-3542-92-100",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-180-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.fa-3276-96.cc-6184-107",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-3426-1408-82.fa-3344-91",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
@@ -4903,7 +4903,7 @@
     "online": true,
     "gender": "m",
     "motto": "cherubini G.D",
-    "habboFigure": "hr-3163-61.hd-3091-8.ch-5596-1408.lg-4138-110.sh-4030-110-92.ha-6250-106-1410.ca-5771-110-92",
+    "habboFigure": "hr-3163-61.hd-3091-8.ch-5596-1408.lg-4138-110.sh-4030-110-92.ha-6250-106-1410",
     "memberSince": "2025-05-07T11:16:49.000+00:00",
     "uniqueId": "hhit-de8e2328ed3f3e1c7b894290877d8369",
     "name": ".andrea2270...:",
