@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PESARO CAPITALE | TE DAG NA SGHèTA",
     "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.ha-6241-100-92.fa-5600-92.cc-3542-92-100",
@@ -673,7 +673,7 @@
     "online": true,
     "gender": "m",
     "motto": "Fast Rap - Yuno Miles",
-    "habboFigure": "hr-3163-61.hd-5525-2-14.ch-3934-110-110.lg-5594-110.sh-6156-1412.fa-5975",
+    "habboFigure": "hr-3163-1342.hd-5525-2-14.ch-3934-100-64.lg-3483-110-110.sh-6156-1412.fa-5975.cc-5925-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -2720,7 +2720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FONDATORE - Tesoriere ¥Grove Street¥",
     "habboFigure": "hr-3281-1395.hd-3091-8.ch-3032-1408-1408.lg-3058-110.sh-290-110.ca-3187-110.wa-2005.cc-3186-110",
