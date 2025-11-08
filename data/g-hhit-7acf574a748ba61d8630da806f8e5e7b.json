@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3916-110-1408.wa-3263-92-92.cc-3232-110-88",
@@ -60,10 +60,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3657-61.hd-185-1367.ch-3779-110-92.lg-285-110.sh-5247-110-96.he-3820-96.fa-1204.ca-3844-110-96.wa-4060-96-1336.cc-6178-1408",
+    "habboFigure": "hd-3604-1367.ch-3203-110.lg-3216-96.he-1609-96.fa-1204.ca-3844-110-96.wa-4060-96-1336",
     "memberSince": "2007-01-25T17:31:07.000+00:00",
     "uniqueId": "hhit-b50374e8e35e289491db892006ecb3b4",
     "name": "THE-B.BOY.90",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-1342.hd-629-1370.ch-3672-92-110.lg-5970-95.sh-6064-89-92.ha-3488.he-3740",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3528-71-1408.lg-3391-72-71.sh-3621-71-73.ea-1401-71.cc-4106-73-1408",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hr-5306-40-44.hd-200-30.ch-5452-76-66.lg-3387-75-1408.sh-5551.ha-4319.ea-1406.fa-4185-73.ca-5454-71",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-49-61.hd-5524-1391-1365.ch-5110-110-92.lg-5398.sh-5639.ha-3690-100.he-5828.fa-5948-92.ca-5574-110-1412.wa-6154-1325-1408.cc-6255-110-100",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-3800-49-1401.hd-6219-2-1365.ch-3913-63-64.lg-3384-64-1408.sh-3375-64-110.fa-4044.ca-4936.wa-4060-64-1408.cc-3389-64-1408",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
