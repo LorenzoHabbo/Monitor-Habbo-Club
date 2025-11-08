@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-32.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -4110,7 +4110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-655-1427.lg-710-110.sh-5670-63.ha-3709.he-3070-92.fa-6170-92.cp-3309-92",
@@ -4900,7 +4900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-5596-1408.lg-4138-110.sh-4030-110-92.ha-6250-106-1410",
