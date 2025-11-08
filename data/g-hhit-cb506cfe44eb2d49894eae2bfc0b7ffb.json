@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Allons-Y",
     "habboFigure": "hr-4941-49-1354.hd-3095-1359.ch-4111-92.lg-3596-92-92.sh-3027-92-1408.ha-4194.ea-3484.fa-3865-92.ca-3466-1408-92.cc-6077",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dedito al bello *-*",
     "habboFigure": "hr-4941-52-52.hd-3091-1370.ch-3234-110.lg-4102-110-110.sh-3089-1432.he-3070-93.ea-3484.ca-6167-1413-92.cc-3946-1430",
