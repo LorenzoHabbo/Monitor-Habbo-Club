@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sono fo*****",
     "habboFigure": "hr-165-45.hd-205-1.ch-6222-73-1408.lg-3088-82-82.sh-3068-66-91.ha-1002-91.fa-5211-91.wa-2001.cc-3509-91-66",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Elite 1p G.D",
     "habboFigure": "hr-125-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
