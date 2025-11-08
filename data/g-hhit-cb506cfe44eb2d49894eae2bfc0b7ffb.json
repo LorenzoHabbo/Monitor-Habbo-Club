@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-5390-34-40.hd-180-10.ch-5258.lg-4125.sh-5869-66-1408.ha-1008.ea-5009",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fast Rap - Yuno Miles",
     "habboFigure": "hr-3163-1342.hd-5525-2-14.ch-3934-100-64.lg-3483-110-110.sh-6156-1412.fa-5975",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-5720-37-37.hd-6216-1391-20.ch-5245-1411.lg-3006-1325-1411.sh-6181-1411.ha-6203-1411.he-3070-1411.fa-3276-72.ca-3828-68-72",
