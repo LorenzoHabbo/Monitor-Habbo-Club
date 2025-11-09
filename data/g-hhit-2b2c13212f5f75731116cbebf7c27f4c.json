@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Paladina 1p G.D",
     "habboFigure": "hr-555-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-3254-1408",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aprendista G.D.",
     "habboFigure": "hr-891-39.hd-180-8.ch-807-85.lg-270-72.sh-3115-1408-1408.ea-1403-1408.wa-2011",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vicario esperto g.d/babymonster",
     "habboFigure": "hr-5679-1343-1343.hd-600-10.ch-3233-64.lg-3078-64.sh-3383-64-64.ha-3546-92.fa-5601-92.ca-3545-92",
@@ -4490,7 +4490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-5607-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
@@ -5463,7 +5463,7 @@
     "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
-    "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-716-1331-93.ha-6203-1430.he-3081-92.ea-5576-110-110.fa-3276-66.ca-5575.cc-6166-1430-93",
+    "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-3136-1430.sh-5464-71-93.ha-6203-1430.he-3081-92.fa-3276-66.ca-5575",
     "memberSince": "2020-03-26T19:37:50.000+00:00",
     "uniqueId": "hhit-0f111a42a97a3c90e719659bbefe6715",
     "name": "giu.ntura",
@@ -6220,10 +6220,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
-    "habboFigure": "hr-3800-49-1401.hd-6219-2-1365.ch-3913-88-64.lg-3384-64-1408.sh-3375-64-110.fa-4044.ca-4936.wa-4060-64-1408.cc-3389-64-1427",
+    "habboFigure": "hr-3800-49-1401.hd-6219-2-1365.ch-3913-1427-64.lg-3384-64-1408.sh-3375-64-110.fa-4044.ca-4936.wa-4060-64-1408.cc-3389-64-1427",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -6247,6 +6247,16 @@
     "memberSince": "2021-03-31T19:49:10.000+00:00",
     "uniqueId": "hhit-a62bfa699e61e2fd235146102a20ae1e",
     "name": "Outwest",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "sergente maggiore",
+    "habboFigure": "hr-893-38.hd-209-1.ch-215-1408.lg-275-80.sh-908-90.ha-3409-1408-1408",
+    "memberSince": "2021-04-17T10:01:40.000+00:00",
+    "uniqueId": "hhit-aba1d57749dd4620415617e333054283",
+    "name": "pinkSoul2",
     "isAdmin": false
   },
   {
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-19T18:32:51.000+00:00",
     "uniqueId": "hhit-092e7317f1cf26a5e2c3fc42922245d9",
     "name": "CifellonePazzo",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "apprendista novella.g.d",
-    "habboFigure": "hr-545-44.hd-627-1.ch-884-64.lg-710-64.sh-735-64.fa-3276-72.wa-3210-64-64",
-    "memberSince": "2023-09-20T19:56:09.000+00:00",
-    "uniqueId": "hhit-e611c64f319df218ae37dbd0dd0e9ee0",
-    "name": "veronicaaaaaa",
     "isAdmin": false
   }
 ]
