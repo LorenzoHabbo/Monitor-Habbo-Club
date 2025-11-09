@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-5808-1333.fa-5467",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -663,7 +663,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-828-1394.hd-6159-1380-22.ch-3323-1331-1408.lg-6161-64-63.sh-3419-1325-1409.ha-6244-64-110.fa-6245-1330.ca-6167-100-1330",
+    "habboFigure": "hr-3163-1394.hd-6159-1380-22.ch-3323-1331-1329.lg-6161-64-63.sh-3419-1325-1409.ha-6244-64-110.fa-6245-1330.ca-6167-100-1330.cc-5800-1325-1325",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -1400,10 +1400,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
-    "habboFigure": "hd-6248-1379.lg-5909-1325-1325.he-5808-95.fa-5601-110.ca-5936-1321.cp-3205",
+    "habboFigure": "hd-6248-1379.lg-5909-1325-1325.fa-5601-110.ca-5936-1321.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-3810-47.hd-208-10.ch-805-84.lg-3216-74.sh-3068-82-81.ha-1014.he-3918.ea-1406.fa-1205-72.ca-1804-80",
@@ -3350,7 +3350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode dei 13 the100  TheHitcher_97 |",
     "habboFigure": "hr-5617-32-40.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-3324-71-1408.fa-5467",
