@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1407.hd-3604-1370.ch-4111-92.lg-3078-110.sh-3016-64.ha-3261-1413.he-5418-1413-96.fa-3344-110.ca-1816.wa-5836-96-92.cp-3125-110",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4991-50.hd-209-1365.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-3858-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
@@ -3543,7 +3543,7 @@
     "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hr-4363-1347-1346.hd-6216-1391-1362.ch-5919-83-83.lg-3006-1326-1326.sh-5803-92.fa-5467.ca-6128.cc-4217-92",
+    "habboFigure": "hr-4363-1347-1346.hd-6216-1391-1362.ch-5919-83-83.lg-3006-1326-1326.sh-5803-92.he-5466.fa-5467.ca-6128.cc-4217-92",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-660-110.lg-710-1426.sh-5803-92.ha-3986.he-3070-92.fa-6170-92",
