@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CRIPS - First Lady",
     "habboFigure": "hr-4363-49-49.hd-6219-28-25.ch-5921-92-1408.lg-5545-110-110.sh-5308-92.he-4977-64-1418.fa-3276-1329.wa-5986-64.cc-3867-63-1427",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-82-72.lg-285-1408",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ Stella tenebrosa ¥",
     "habboFigure": "hr-837-61.hd-625-18.ch-3036-71-1414.lg-3526-64-64.sh-5247-92-110.fa-6170-64.cc-5440-110-110",

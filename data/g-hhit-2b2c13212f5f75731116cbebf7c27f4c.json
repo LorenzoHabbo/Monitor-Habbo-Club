@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non ho bocca e devo urlare",
     "habboFigure": "hd-3704-14.ch-3372-85-81.lg-3365-85.sh-290-85.ha-3409-85-84.ca-5028-84-85",
@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "CRIPS - First Lady",
     "habboFigure": "hr-4363-49-49.hd-6219-28-25.ch-5921-92-1408.lg-5545-110-110.sh-5308-92.he-4977-64-1418.fa-3276-1329.wa-5986-64.cc-3867-63-1427",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Paladina 1p G.D",
     "habboFigure": "hr-555-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-3254-1408",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Elite 1p G.D",
     "habboFigure": "hr-125-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
@@ -5640,7 +5640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-3161-1350.hd-3092-28.ch-3167.lg-3320-110-92.ha-5704.ea-1402.fa-1201.cc-3928",
@@ -6760,7 +6760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5841-1403.hd-5838-10-1367.ch-5856.lg-5594-82.sh-5868.he-5578-1427.fa-1211.ca-5769-92-1321.cc-5926-110-1408.cp-5883-110",
@@ -7150,7 +7150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ";)",
     "habboFigure": "hr-3810-45.hd-629-1.ch-3809-64-73.lg-3391-82-1408.sh-907-73.he-3329-1408-73",
