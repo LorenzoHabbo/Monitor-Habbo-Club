@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-830-40.hd-180-10.ch-255-81.lg-3078-85.sh-3115-1408-72.ha-1006.wa-2011.cp-3286",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ Stella tenebrosa ¥",
     "habboFigure": "hr-555-61.hd-615-10.ch-5907-110-110.lg-3842-110-110.sh-5670-110",
@@ -9690,7 +9690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Evbb",
     "habboFigure": "hr-155-42.hd-180-10.ch-3438-1408-1408.lg-280-1408.sh-300-1408.ha-3620.fa-1204",
