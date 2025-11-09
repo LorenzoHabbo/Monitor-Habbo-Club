@@ -663,7 +663,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-828-1394.hd-6159-1380-22.ch-3030-1331.lg-6161-64-63.sh-3419-1325-1409.ha-6244-64-110.fa-6245-1330.ca-6167-100-1330.cc-5800-1325-1325",
+    "habboFigure": "hr-828-1394.hd-6159-1380-22.ch-3030-1331.lg-6161-64-63.sh-3419-1325-1409.ha-6244-64-110.fa-6245-1330.ca-6167-100-1330",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tutto ciò che fa viene dall’interno",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-92.lg-4066-1341.ha-4050.he-3833-89.fa-1209-110.ca-3175-1427.wa-3263-110-110.cc-3509-1338-1422",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.cc-5800-63-63",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4991-50.hd-209-1365.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-3858-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
