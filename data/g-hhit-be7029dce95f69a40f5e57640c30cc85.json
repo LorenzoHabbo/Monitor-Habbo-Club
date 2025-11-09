@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "In pensione.",
     "habboFigure": "hd-5522-1-14.ch-5452-66-1408.lg-3116-1408-1408.sh-5551.he-3550.fa-5703.ca-5550.wa-2007.cc-5622",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amor che muovi il sole le stelle mare",
     "habboFigure": "hr-3791-32.hd-600-10.ch-4067-76-73.lg-710-64.sh-3180-74-76.he-3274-73.fa-3276-71.ca-1801-80",
@@ -5833,7 +5833,7 @@
     "online": false,
     "gender": "f",
     "motto": "little princess",
-    "habboFigure": "hr-5680-61.hd-3100-1390.ch-4392-96-1408.lg-4066-92.he-6066-96.fa-3276-1328",
+    "habboFigure": "hr-5680-61.hd-3100-1390.ch-4368-106.lg-4138-1424.he-5845.fa-3276-1328.cc-5800-1424-106",
     "memberSince": "2012-02-04T18:51:43.000+00:00",
     "uniqueId": "hhit-e1f833cd4352e443b025fb5c33b15792",
     "name": "Chanel22",
@@ -7493,7 +7493,7 @@
     "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-3677.fa-3276-95.cc-6178-1335",
+    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-88.sh-5247-92-110.ha-6241-110-1326.fa-3276-95.cc-6166-1413-1408",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -8750,7 +8750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
