@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non ho bocca e devo urlare",
     "habboFigure": "hd-3704-14.ch-3372-85-81.lg-3365-85.sh-290-85.ha-3409-85-84.ca-5028-84-85",
@@ -541,16 +541,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "Apprendista Novello G.D.",
-    "habboFigure": "hr-3322-44.hd-205-1.ch-3486-64-64.lg-270-82.he-3376-64-1408.cc-3420-1408",
-    "memberSince": "2009-06-02T19:43:05.000+00:00",
-    "uniqueId": "hhit-211abb977ee0aa53e13ec011fe76e2a5",
-    "name": "TheDogma",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "apprendista novello g.d",
     "habboFigure": "hr-5680-38.hd-5684-2.ch-6029-108-1408.lg-3192-108.sh-3184-110.he-1603-107.ca-3175-1408",
@@ -840,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1407.hd-3604-1370.ch-4111-92.lg-3078-110.sh-3016-64.ha-3261-1413.he-5418-1413-96.fa-3344-110.ca-1816.wa-5836-96-92.cp-3125-110",
@@ -2290,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Paladina 1p G.D",
     "habboFigure": "hr-555-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-3254-1408",
@@ -2370,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "comandante g.d",
     "habboFigure": "hr-5275-34.hd-205-1371.ch-4111-1320.lg-3290-91.sh-4065-91-91.ha-5744-91-1320.fa-1206-91.ca-5768-1320-66.cc-4107-91-1320",
@@ -2630,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Aprendista G.D.",
     "habboFigure": "hr-891-39.hd-180-8.ch-807-85.lg-270-72.sh-3115-1408-1408.ea-1403-1408.wa-2011",
@@ -4650,7 +4640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Elite 1p G.D",
     "habboFigure": "hr-125-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
@@ -5367,6 +5357,16 @@
     "memberSince": "2020-01-09T17:31:36.000+00:00",
     "uniqueId": "hhit-c884292945332ba823f2f2c7a6559a23",
     "name": "afinil",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "f",
+    "motto": "apprendista novella G.D",
+    "habboFigure": "hr-5120-34-40.hd-3845-10.ch-5302-76-88.lg-720-84.fa-3276-1408",
+    "memberSince": "2020-02-10T12:16:49.000+00:00",
+    "uniqueId": "hhit-c1f859e18015a2e511de90409630b077",
+    "name": "cinzietta31-ban",
     "isAdmin": false
   },
   {
@@ -6223,7 +6223,7 @@
     "online": true,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
-    "habboFigure": "hr-3800-49-1401.hd-6219-2-1365.ch-3913-63-64.lg-3384-64-1408.sh-3375-64-110.fa-4044.ca-4936.wa-4060-64-1408.cc-3389-64-1408",
+    "habboFigure": "hr-3800-49-1401.hd-6219-2-1365.ch-3913-88-64.lg-3384-64-1408.sh-3375-64-110.fa-4044.ca-4936.wa-4060-64-1408.cc-3389-64-1427",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
