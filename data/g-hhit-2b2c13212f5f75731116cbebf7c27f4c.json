@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-1407.hd-3604-1370.ch-4111-92.lg-3078-110.sh-3016-64.ha-3261-1413.he-5418-1413-96.fa-3344-110.ca-1816.wa-5836-96-92.cp-3125-110",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-37.hd-208-1.ch-3030-64.lg-3116-64-1408.sh-3068-1408-84",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico p 1  g.d",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-5901-92-110.lg-5970-110.sh-5670-110.ha-3709.he-5578-1408.cc-5580-92-1408",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "comandante g.d",
     "habboFigure": "hr-5275-34.hd-205-1371.ch-4111-1320.lg-3290-91.sh-4065-91-91.ha-5744-91-1320.fa-1206-91.ca-5768-1320-66.cc-4107-91-1320",
