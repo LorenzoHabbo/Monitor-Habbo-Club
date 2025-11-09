@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CRIPS - First Lady",
     "habboFigure": "hr-4363-49-49.hd-6219-28-25.ch-5921-92-1408.lg-5545-110-110.sh-5308-92.he-4977-64-1418.fa-3276-1329.wa-5986-64.cc-3867-63-1427",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "che shoook!... twitch.tv/ttnovee",
     "habboFigure": "hr-3163-1407.hd-205-28.ch-5559-110.lg-3078-1338.sh-3275-92.ha-3690-92.ea-5897-92-92.fa-1211.ca-3691-77-1408.wa-2011.cc-3975-81-1408",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "comandante g.d",
     "habboFigure": "hr-5275-34.hd-205-1371.ch-4111-1320.lg-3290-91.sh-4065-91-91.ha-5744-91-1320.fa-1206-91.ca-5768-1320-66.cc-4107-91-1320",
