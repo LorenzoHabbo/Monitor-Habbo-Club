@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3528-71-1408.lg-3391-72-71.sh-3621-71-73.ea-1401-71.cc-4106-73-1408",
@@ -1933,7 +1933,7 @@
     "online": true,
     "gender": "f",
     "motto": "..",
-    "habboFigure": "hr-4118-44.hd-3631-1-1371.ch-3770-81-80.lg-3526-80-1408.sh-3524-82-81.he-3329-81-1408.cc-3373-80",
+    "habboFigure": "hr-4118-44.hd-3631-1-1371.ch-630-1408.lg-3526-80-1408.sh-3524-82-81.he-3329-81-1408.cc-3373-80",
     "memberSince": "2019-03-22T19:33:52.000+00:00",
     "uniqueId": "hhit-f576f16f6cf6a4119b668aa3f628d492",
     "name": "mianabba",
@@ -3540,10 +3540,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hr-4363-32-32.hd-6216-1391-1386.ch-4087-110.lg-5970-1338.sh-5308-110.ha-6203-1325.fa-3276-72.ca-3828-1338-110.cc-5307-1325",
+    "habboFigure": "hr-4363-32-32.hd-6216-1391-1386.ch-4087-110.lg-5970-1338.sh-5308-110.fa-3276-72.ca-3828-1338-110.cc-5307-1325",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
