@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1010,9 +1010,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Gaki - YKZ-",
+    "motto": " ¥ Stella Tenebrosa ¥ - Novae -",
     "habboFigure": "hr-3386-42.hd-180-19.ch-3342-1320-1320.lg-3355-82-72.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
     "memberSince": "2012-03-30T21:06:58.000+00:00",
     "uniqueId": "hhit-f72ca46d0fcfc8efbf49fa6f7ee8b07e",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-1342.hd-629-1370.ch-3672-92-110.lg-5970-95.sh-6064-89-92.ha-3488.he-3740",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-6219-10-1361.ch-5245-110.lg-5594-110.sh-6182.he-3740.fa-3276-97.ca-3885-1410-110.wa-6165-110.cc-6166-110-64",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-1.ch-230-84.lg-275-84.sh-295-68",
