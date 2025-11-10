@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -883,7 +883,7 @@
     "online": true,
     "gender": "f",
     "motto": ".",
-    "habboFigure": "hr-6063-1405.hd-5799-27.ch-3237-63-1427.lg-6013-110-1412.sh-3338-1408.ha-5704.he-4946-1412.ea-5910-110-1330.fa-5600-92.wa-3895-110.cc-5825",
+    "habboFigure": "hr-6063-1405.hd-5799-27.ch-3237-92-1412.lg-6013-110-1427.sh-3338-1408.ha-5704.he-4946-110.ea-5910-92-1408.fa-5600-1408.wa-3895-110.cc-5825",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
@@ -1453,7 +1453,7 @@
     "online": true,
     "gender": "m",
     "motto": "NON SONO IO",
-    "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-84",
+    "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73",
     "memberSince": "2019-11-11T17:05:56.000+00:00",
     "uniqueId": "hhit-a61b66ab2e501e56cc34fdfbaae6f99d",
     "name": "80Pazienza",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4126-47-47.hd-4383-10-8.ch-6029-66-72.lg-5927-64-66.sh-5308-66.ha-5443.he-1608.fa-5467.ca-5365-66-1320.cc-3744-1320-1320",
