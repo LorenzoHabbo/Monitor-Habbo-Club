@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "CRIPS - First Lady",
     "habboFigure": "hr-4363-49-49.hd-6219-28-25.ch-5921-92-1408.lg-5545-110-110.sh-5308-92.he-4977-64-1418.fa-3276-1329.wa-5986-64.cc-3867-63-1427",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-5808-1333.fa-5467",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-235-82.lg-280-64.sh-295-1408.ha-1004-64.fa-5600-1408",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-4363-1342-1342.hd-3956-1391-1367.ch-665-92.lg-5594-1338.he-5279.ea-3170-110.fa-4168-92.wa-5370.cc-5926-110-92",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-3800-1397-1401.hd-6219-1-1365.ch-3913-1427-64.lg-3384-64-1408.sh-3375-64-110.fa-4044.ca-4936.wa-4060-64-1408.cc-3389-64-1427",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1403-40.hd-6219-2-29.ch-665-92.lg-5594-63.sh-5308-92.ha-5301-1331.he-5808-110.fa-5467.cc-5800-1330-1330",
