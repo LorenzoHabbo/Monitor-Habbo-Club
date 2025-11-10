@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.cc-6166-105-1408",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ª¥stellina¥",
     "habboFigure": "hr-3852-39.hd-3845-10.ch-665-88.lg-4081.sh-3419-64-64.he-5088.fa-5601-64.ca-4173-64.cc-6115-64-88",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "NON SONO IO",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-84",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabb",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
