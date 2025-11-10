@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " ¥ Stella Tenebrosa ¥ - Novae -",
     "habboFigure": "hr-3386-42.hd-180-19.ch-3342-1320-1320.lg-3355-82-72.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vivo ma non ho scelta ne motivo",
     "habboFigure": "hr-3746-32.hd-207-10.ch-4111-90.lg-3116-90-1408.sh-905-68.ha-6241-90-68.he-3660-64-1408.fa-3378-64-1408.wa-4317-90",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Allora go",
     "habboFigure": "hr-4216-47-40.hd-5913-10.ch-4299-91-83.lg-5970-81.sh-730-85.ha-6203-90.he-5765-72.ea-3959.fa-5467.ca-3437-73.cc-5826-84",
@@ -3540,10 +3540,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hr-4117-1404-1404.hd-6216-1391-1375.ch-4087-92.lg-3526-1341-92.sh-5308-92.ha-5677-1341.he-3070-92.cc-5307-1341",
+    "habboFigure": "hr-4363-32-32.hd-6216-1391-1386.ch-4087-110.lg-5970-1338.sh-5308-110.cc-5307-1325",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -3680,9 +3680,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "capo aiutante gd.",
+    "motto": "",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-660-110.lg-710-1423.sh-5803-92.he-5088.fa-6170-1423.cp-3309-1423",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
