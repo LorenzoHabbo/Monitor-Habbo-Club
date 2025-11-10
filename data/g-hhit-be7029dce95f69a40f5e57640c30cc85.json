@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corazzatatorres",
     "habboFigure": "hr-3090-47.hd-190-14.ch-210-1408.lg-270-1408.sh-5551.ca-5575",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -5730,7 +5730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Wolfgang",
     "habboFigure": "hr-5019-35.hd-3604-1.ch-4025-64-81.lg-4017-64-81.sh-4016-64-81.ha-4194.he-4019-64-81.ea-4021-64-81.fa-4014-64-81.ca-4378.cc-4026-64-81",
@@ -8750,7 +8750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
