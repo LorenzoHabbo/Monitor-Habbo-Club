@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tutto ciò che fa viene dall’interno",
     "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-92.lg-4066-1341.ha-4050.he-3833-89.fa-1209-110.ca-3175-1427.wa-3263-110-110.cc-3509-1338-1422",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dedito al bello *-*",
     "habboFigure": "hr-4941-52-52.hd-3091-1370.ch-3234-110.lg-4102-110-110.sh-3089-1432.he-3070-93.ea-3484.ca-6167-1413-92.cc-3946-1430",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-891-42.hd-207-10.ch-3030-1408.lg-275-64.sh-906-64",
@@ -2770,7 +2770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Run for the hills.",
     "habboFigure": "hr-4363-40-40.hd-6216-1-14.ch-5595-1408.lg-5594-1408.ha-3544.he-5618-1408.fa-5467.cc-6166-1408-1408",
@@ -2933,7 +2933,7 @@
     "online": true,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
-    "habboFigure": "hr-3871-1397.hd-6219-2-1365.ch-6222-64-64.lg-6161-82-82.sh-3419-91-1409.ha-5854.fa-4044.ca-4936.wa-3263-1325-1410.cc-6077",
+    "habboFigure": "hr-5791-1397.hd-6219-2-1365.ch-6222-64-64.lg-6161-82-82.sh-3419-91-1409.ha-5854.fa-4044.ca-4936.wa-3263-1325-1410.cc-6077",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -3060,7 +3060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -3963,7 +3963,7 @@
     "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hr-4363-39-32.hd-6216-1391-1371.ch-4199-1423.lg-3502-1423.he-6019.ca-4958",
+    "habboFigure": "hr-4363-39-32.hd-6216-1391-1365.ch-4368-1423.lg-3006-1423-92.sh-5803-92.he-6019.ca-4958.wa-6165-1423",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -4102,7 +4102,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "barista esperta gd.",
+    "motto": "capo aiutante gd.",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-660-110.lg-710-1423.sh-5803-92.he-5088.fa-6170-1423.cp-3309-1423",
     "memberSince": "2024-09-06T19:16:42.000+00:00",
     "uniqueId": "hhit-5fbeef297c0d21fb5850cbcd5d048ddd",
@@ -4960,7 +4960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " FONDATRICE - GARANTE DIRITTI -G.S.",
     "habboFigure": "hr-5914-39-39.hd-4383-1-14.ch-4099-91-1408.lg-4167-91.sh-5671-68.ha-4349.he-1608.fa-3276-73",
