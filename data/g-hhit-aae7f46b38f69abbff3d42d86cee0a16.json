@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1321.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5607-110.lg-6000-110.sh-6043.ha-6198.he-6173-100.fa-5467.ca-6041.wa-5370.cc-3542-100-100",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-829-37.hd-3092-8.ch-3015-70.lg-3057-63.sh-3275-1410.ha-4192.he-5088.ea-3169-105.fa-3344-1325.ca-1816.cc-6069",
