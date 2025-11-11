@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-4117-59-59.hd-6219-2-1367.ch-6180-110.lg-3136-89.sh-6182.ha-3586.cc-6031-1410-110",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6083-1404.hd-3845-10.ch-665-110.lg-3006-110-110.sh-5308-1330.ha-6203-1331.fa-5467.cc-6205-1331",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "che shoook!... twitch.tv/ttnovee",
     "habboFigure": "hr-3163-1407.hd-205-28.ch-5559-110.lg-3078-1338.sh-3275-92.ha-3690-92.ea-5897-92-92.fa-1211.ca-3691-77-1408.wa-2011.cc-3975-81-1408",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sono fo*****",
     "habboFigure": "hr-165-45.hd-205-1.ch-6222-73-1408.lg-3088-82-82.sh-3068-66-91.ha-1002-91.fa-5211-91.wa-2001.cc-3509-91-66",
@@ -6790,7 +6790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-170-1355.hd-207-1.ch-804-1408.lg-275-1408.sh-905-66.ha-1009-66.he-1601.fa-1211.wa-3074-1408-1408.cc-5826-63",
@@ -6920,7 +6920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-30.ch-6039.lg-3047-1336.sh-907-110.ha-6037.he-3833-1321.ca-6041.cc-6119",
@@ -7030,7 +7030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.fa-6170-64.cc-3389-110-1323",
