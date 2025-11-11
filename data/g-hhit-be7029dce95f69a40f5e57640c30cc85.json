@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fillet knife, mi piace la Spigola",
     "habboFigure": "hr-3322-45.hd-190-10.ch-3779-1320-1408.lg-3407-91-91.sh-3524-1320-1408.fa-1201",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    / Since 2008 \\",
     "habboFigure": "hr-170-40.hd-190-1369.ch-210-1408.lg-285-64.sh-305-1408.ha-1013-1408.ea-3484.fa-1206-1408.cc-3717-64-1408",
@@ -5020,7 +5020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6010-1401-1401.hd-3100-1370.ch-5917-100.lg-5594-1338.sh-3089-92.ha-6250-1338-1408.ea-3484.fa-5600-1408.cc-5926-92-92",
@@ -6030,7 +6030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " ¥ Stella Tenebrosa ¥ - Novae -",
     "habboFigure": "hr-3386-42.hd-180-19.ch-3342-1320-1320.lg-3355-82-72.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
