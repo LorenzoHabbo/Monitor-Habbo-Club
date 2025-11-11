@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHFNS-VER-PyOQGN",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-110.lg-4066-110.ha-3709.he-5088.fa-3276-92",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-125-37.hd-205-1.ch-235-82.lg-280-64.sh-295-1408.ha-1004-64.fa-5600-1408",
