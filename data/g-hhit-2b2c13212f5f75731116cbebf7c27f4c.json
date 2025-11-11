@@ -2440,7 +2440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo GD",
     "habboFigure": "hr-6083-42.hd-3631-1-1371.ch-5351-85-73.lg-270-1408.sh-6181-73.he-3274-73.ca-5635-71-1408",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-5607-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
