@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un canguro per amico",
     "habboFigure": "hr-3768-37.hd-6248-14.ch-255-64.lg-280-64.sh-5247-1408-73.he-5767-73-90.fa-1202-73",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-5607-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
