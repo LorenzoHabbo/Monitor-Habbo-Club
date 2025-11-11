@@ -3370,7 +3370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3800-45-40.hd-180-1.ch-876-85-1408.lg-280-64.sh-295-64.ea-1401-1408.fa-3344-91",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-61.hd-3095-1390.ch-3203-1408.lg-4138-110.sh-4112-110-93.ha-3986.he-5279.ca-6044.cc-5761-110-110",
@@ -6030,7 +6030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " ¥ Stella Tenebrosa ¥ - Novae -",
     "habboFigure": "hr-3386-42.hd-180-19.ch-3342-1320-1320.lg-3355-82-72.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
@@ -9690,7 +9690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Evbb",
     "habboFigure": "hr-155-42.hd-180-10.ch-3438-1408-1408.lg-280-1408.sh-300-1408.ha-3620.fa-1204",
