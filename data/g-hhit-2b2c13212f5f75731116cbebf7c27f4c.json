@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -2360,7 +2360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "comandante g.d",
     "habboFigure": "hr-5275-34.hd-205-1371.ch-4111-1320.lg-3290-91.sh-4065-91-91.ha-5744-91-1320.fa-1206-91.ca-5768-1320-66.cc-4107-91-1320",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-5607-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
@@ -5530,7 +5530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Recluta P.I.H.",
     "habboFigure": "hr-890-48.hd-600-1.ch-655-1408.lg-3078-91.sh-3115-64-1408.ha-1005-88.ea-1404-73.fa-3276-72",
@@ -5540,7 +5540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Recluta P.I.H",
     "habboFigure": "hr-596.hd-600-1.ch-812-73.lg-705-64.sh-740-68",
@@ -6940,7 +6940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-30.ch-6039.lg-3047-1336.sh-907-110.ha-6037.he-3833-1321.ca-6041.cc-6119",
