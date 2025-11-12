@@ -40,10 +40,10 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Polizia PIH",
-    "habboFigure": "hr-165-45.hd-180-8.ch-225-82.lg-285-64.sh-3068-82-82.ha-1023-82.fa-3276-73.ca-1804-1408.wa-2001",
+    "habboFigure": "hr-165-45.hd-4015-8.ch-225-82.lg-285-64.sh-3068-82-82.ha-1023-82.fa-3276-73.ca-1804-1408.wa-2001",
     "memberSince": "2004-07-17T16:35:18.000+00:00",
     "uniqueId": "hhit-ce0d007626e1239fc75db269b1781ebd",
     "name": "Sethep",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sono Mutata |||||||||",
     "habboFigure": "hr-5680-45.hd-6216-10-1362.ch-3005-110-110.lg-3018-1408.ha-4120.he-5279.fa-3276-96",
@@ -3013,7 +3013,7 @@
     "online": true,
     "gender": "m",
     "motto": "Anima perduta",
-    "habboFigure": "hr-3829-34.hd-3845-12.ch-215-76.lg-3078-64.sh-3524-64-1408.ha-4192.he-3324-64-72.fa-3276-71.cc-5761-1408-1408",
+    "habboFigure": "hr-3829-34.hd-3845-12.ch-215-1408.lg-3078-64.sh-3524-64-1408.fa-3276-71.cc-5761-1408-1408",
     "memberSince": "2010-08-25T14:32:05.000+00:00",
     "uniqueId": "hhit-18d242838182ac36d3e6506c71ff9a98",
     "name": "catabbo",
@@ -6030,7 +6030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " ¥ Stella Tenebrosa ¥ - Novae -",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3342-1320-1320.lg-3384-73-82.ha-3494-72-82.he-3385-1408-1408-1408.ea-3388-64-81.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
@@ -6493,7 +6493,7 @@
     "online": true,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
-    "habboFigure": "hr-3278-1344-40.hd-6248-1389.ch-5856.lg-5594-1427.ha-5866.he-5813-1410-92.fa-5600-1423.ca-4037-1337-110.cc-6255-92-107.cp-5878-63",
+    "habboFigure": "hd-6248-1379.lg-5909-1325-1325.ha-5704.he-5813-1410-92.fa-6095.ca-6044.cc-6255-67-92",
     "memberSince": "2012-09-09T14:12:42.000+00:00",
     "uniqueId": "hhit-ee9f373b6a5f6cfaa5dc829d5ece9cd7",
     "name": "-MrVanny-",
@@ -6600,7 +6600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -8580,7 +8580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-1342.hd-3956-1390-1368.ch-665-92.lg-5594-1338.he-3082-110.fa-3276-1413.wa-5370.cc-5926-110-92",
