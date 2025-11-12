@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1321.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-5517-1347-40.hd-209-1370.ch-3342-71-1408.lg-3078-1408.sh-3016-64.ha-6209.he-5088.ea-3168-1408.fa-4168-95.ca-6208.wa-5836-99-110.cp-3125-1408",
@@ -300,10 +300,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Custode della Stella N T",
-    "habboFigure": "hr-3791-34.hd-3091-28.ch-3203-92.lg-3078-88.sh-300-91.ha-5832-93.ea-1404-110.fa-1205-1320.cc-5926-110-110",
+    "habboFigure": "hr-3278-61-49.hd-3845-28.ch-3987-110-110.lg-3257-110.sh-3419-110-110.ha-1013-110.fa-1205-110.cc-5951-110",
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-5952-92-92.lg-5594-110.sh-4112-110-92.he-3660-64-1408.fa-6170-1408.wa-3072-110-92.cc-3509-110-92",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-2.ch-3668-92-110.lg-5594-110.sh-5247-92-110.he-3891.fa-5601-92.cc-5800-110-110",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-1403.hd-615-15.ch-660-110.lg-710-110.sh-5803-63.ha-5483-110-92.he-5088.fa-6170-92",
