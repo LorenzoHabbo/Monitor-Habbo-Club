@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "¥La ruota gira e vi schiaccerà¥",
     "habboFigure": "hr-3281-40.hd-3845-8.ch-5833-110-92.lg-3202-110-1408.sh-5247-92-92.he-5348",
@@ -710,10 +710,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Cittadino the hundred",
-    "habboFigure": "hr-3011-1403.hd-180-1391.lg-270-100.sh-290-63.ha-3129-100.fa-1206-1325.cc-3039-100",
+    "habboFigure": "hr-802-31.hd-180-14.ch-3506-93-93.lg-270-93.sh-300-93.ha-1014.ea-3484.fa-1204.ca-3503-93.cc-4026-93-93",
     "memberSince": "2011-02-27T11:17:09.000+00:00",
     "uniqueId": "hhit-31c25de964f6081df264b8ad1332b53a",
     "name": "megapunitoreUno",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3671-31-40.hd-605-28.ch-5831-92.lg-3006-77-77.sh-5803-94.ha-5832-1320.he-1608.fa-5467.ca-3175-1427.cc-5926-1427-94",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3935-110-110.lg-5594-77.sh-5247-92-92.ha-3544.ea-5576-110-110.fa-3276-100.cc-5926-110-110",
@@ -3540,7 +3540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-32-32.hd-6216-1391-1364.ch-5919-1327-1327.lg-3006-1341-1408.sh-5308-1327.ha-6241-1341-1327.cc-3003-1341",
