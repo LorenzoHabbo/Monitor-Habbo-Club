@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-4111-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -2380,10 +2380,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIA G.D.",
-    "habboFigure": "hr-3163-61.hd-209-1.ch-4165-82-110.lg-3088-110-1408.sh-3016-110.ca-1801-110",
+    "habboFigure": "hr-3163-61.hd-209-1.lg-3136-110.ca-1801-110",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -5610,7 +5610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-5605-31.hd-3845-10.ch-3293-110-1408.lg-3257-1412.sh-3524-110-1408.ha-6203-100.cc-6077",
@@ -6250,7 +6250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-5791-1397.hd-6219-2-1365.ch-3030-110.lg-4138-110.ha-5301-110.he-5074-64.fa-4044.ca-4936.wa-4060-64-1409.cc-3867-110-110",
