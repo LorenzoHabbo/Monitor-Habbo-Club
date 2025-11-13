@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rie",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-829-37.hd-3092-8.ch-3015-70.lg-3057-63.sh-3275-1410.ha-4192.he-5088.ea-3169-105.fa-3344-1325.ca-1816.cc-6069",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-1342.hd-615-15.ch-5998-110.lg-710-110.sh-5803-63.ha-3709.he-3070-92.ea-1404-92.fa-5601-1427.cc-4175-1427-92",
