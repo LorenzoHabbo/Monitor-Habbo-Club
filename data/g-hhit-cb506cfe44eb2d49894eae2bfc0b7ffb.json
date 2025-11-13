@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-5372-57.hd-3956-1389-30.ch-3013-1422.lg-3019-110.ha-6014-110-1422.fa-3276-1328.ca-4281-92.cc-5951-110",
@@ -4190,7 +4190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|Apprendista novella .G.D |",
     "habboFigure": "hr-890-35.hd-629-8.ch-665-64.lg-3216-64.sh-907-64.he-3274-64",
