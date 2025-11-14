@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "APPRENDISTA DEL SOLE",
     "habboFigure": "hr-3673-40.hd-3845-10.ch-3995-82-82.lg-710-1408.he-3329-1408-73.fa-3276-1408.ca-4130-76-76.cc-3373-64",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Free Palestine! ƒ",
     "habboFigure": "hr-155-45.hd-180-1370.ch-210-82.lg-281-1408.sh-305-1408.ha-1002-1408",
