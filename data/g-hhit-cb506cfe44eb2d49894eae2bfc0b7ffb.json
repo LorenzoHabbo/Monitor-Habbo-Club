@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-5619-36.hd-5684-1.ch-655-90.lg-710-91.sh-725-68.he-3358-90-1408.ca-1801-66",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-5390-34-40.hd-180-10.ch-5258.lg-4125.sh-5869-66-1408.ha-1008.ea-5009",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "vuoi accarezzare il mio cucciolo?",
     "habboFigure": "hr-3871-40.hd-6021-10.ch-5488-71.lg-275-1408.ha-1010-71.he-5808-80.ea-3925-80-80.cc-6166-71-71",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "bobba boy",
     "habboFigure": "hr-3786-53-53.hd-6219-2-29.ch-3506-92-92.lg-6161-1428-92.sh-908-1422.ha-3690-63.he-5578-92.ca-3414-1412.wa-5986-1325.cc-3692-63-92.cp-3205",
