@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ultima custode di mondi in cenere",
     "habboFigure": "hr-3273-55-55.hd-5913-1383.ch-3197-1327.lg-3006-1327-92.sh-3184-1327.ha-6203-1327.fa-3378-1327-1329.cc-6205-1327",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "capo aiutante gd.",
     "habboFigure": "hr-3163-61.hd-205-15.ch-215-110.lg-280-82.sh-5803-92.he-3070-92.cc-4176-1338-92",
