@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-5390-34-40.hd-180-10.ch-5258.lg-4125.sh-5869-66-1408.ha-1008.ea-5009",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1321.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -1430,10 +1430,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Penelope",
-    "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-95.sh-5247-92-92.ha-5730-1408.he-3070-92.ea-3108-63-1408.ca-3844-95-93",
+    "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -1502,7 +1502,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Gaijin esperto Ykz Shiro !",
+    "motto": "Gaijin esperto Ykz Shiro !o",
     "habboFigure": "hr-3841-31.hd-205-1370.ch-3840-80-81.lg-275-81.sh-4112-64-1408.ha-4192.he-6125-64.ea-1404-64.fa-3378-64-1408",
     "memberSince": "2016-06-30T18:10:40.000+00:00",
     "uniqueId": "hhit-d558b0d1c5a74a81c7c67605927f1add",
@@ -2020,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "unico mio clone @noemiofficial",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-84",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-3852-1342.hd-6219-10-1361.ch-5560-92-110.lg-5594-110.he-3740.fa-3276-97.ca-3885-1410-110.wa-6165-110.cc-6166-110-64",
