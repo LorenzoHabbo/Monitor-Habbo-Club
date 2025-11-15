@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1403.hd-6219-2-1363.ch-5921-98-92.lg-3502-92.sh-5803-92.he-5808-1408.fa-5467.ca-6235",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "capo aiutante gd.",
     "habboFigure": "hr-3163-61.hd-205-15.ch-215-110.lg-280-82.sh-5803-92.he-3070-92.cc-4176-1338-92",
