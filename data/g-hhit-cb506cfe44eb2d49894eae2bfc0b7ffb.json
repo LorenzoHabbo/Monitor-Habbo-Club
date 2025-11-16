@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "But Every Tears Has Been a Lesson!",
     "habboFigure": "hr-893-39.hd-209-1.ch-255-76.lg-4309.sh-3068-76-1408.ha-4324.he-4381.ea-3484.ca-4957",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hd-3845-1.ch-5608-64.lg-3418-82.sh-3419-66-64.ha-1004-64.fa-5600-1408.ca-5916-1408-1408",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-32-32.hd-6216-1391-1364.ch-5919-1327-1327.lg-3006-1341-1408.sh-5308-1327.ha-6241-1341-1327.cc-3003-1341",
