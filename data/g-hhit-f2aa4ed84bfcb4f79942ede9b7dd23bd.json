@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CORLEONE - 800A",
     "habboFigure": "hr-893-37.hd-180-1370.ch-255-71.lg-280-64.sh-290-64",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1321.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -4110,7 +4110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-5679-48-42.hd-627-10.ch-3517-82-64.lg-3216-64.sh-906-64.ha-6203-82.fa-3276-72.ca-1801-66",
