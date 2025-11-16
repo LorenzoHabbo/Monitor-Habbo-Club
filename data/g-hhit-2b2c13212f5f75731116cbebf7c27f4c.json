@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIA G.D.",
     "habboFigure": "hr-3163-61.hd-209-1.ch-3222-1408.lg-3088-110-1408.sh-3089-1408.ca-1801-110",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Condottiero 1p G.D",
     "habboFigure": "hr-125-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
