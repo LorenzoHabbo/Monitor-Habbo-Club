@@ -472,16 +472,6 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Hai proprio ragione tu",
-    "habboFigure": "hr-3768-37.hd-6248-14.ch-255-64.lg-280-64.sh-5247-1408-73.he-5767-73-90.fa-1202-73.ca-5051-73-73",
-    "memberSince": "2009-01-30T13:21:57.000+00:00",
-    "uniqueId": "hhit-666646e9ff6da635b3434965adddfea6",
-    "name": "Clean",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
     "motto": "Kobun albero esperto",
     "habboFigure": "hd-3092-7.ch-5021-63-1408.lg-5022-1408-1408.ha-5020-63-1408.he-5482.fa-3344-110.ca-5770-63.cc-5826-63",
     "memberSince": "2009-02-04T14:38:34.000+00:00",
@@ -2380,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIA G.D.",
     "habboFigure": "hr-3163-61.hd-209-1.ch-3498-92.lg-4113-110-1408.sh-3016-63.ca-1816.cc-3389-110-92",
@@ -3390,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -6272,7 +6262,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Colonello Prima Divisione",
+    "motto": "Colonello Speciale Prima Divisione",
     "habboFigure": "hr-893-38.hd-209-1.ch-215-1408.lg-275-80.sh-908-90.ha-3409-1408-1408",
     "memberSince": "2021-04-17T10:01:40.000+00:00",
     "uniqueId": "hhit-aba1d57749dd4620415617e333054283",
@@ -6790,7 +6780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "1red2green3blue4yellow",
     "habboFigure": "hr-3163-44.hd-3845-10.ch-4361-83-80.lg-5594-80.sh-3375-105-84.ha-3431-83-80.he-3376-1410-80.ca-3916-84-83.wa-5478-83-80.cc-4377-83-80",
@@ -7050,7 +7040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
@@ -9997,6 +9987,16 @@
     "memberSince": "2023-09-19T10:36:59.000+00:00",
     "uniqueId": "hhit-c4ada0350d37a1b33f36bd945ff3866c",
     "name": "._Asmodeus_.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Soldato G.D",
+    "habboFigure": "hr-165-31.hd-209-19.ch-3030-71.lg-270-82.sh-300-1408.ea-1406.ca-1809",
+    "memberSince": "2023-09-19T18:32:51.000+00:00",
+    "uniqueId": "hhit-092e7317f1cf26a5e2c3fc42922245d9",
+    "name": "CifellonePazzo",
     "isAdmin": false
   }
 ]
