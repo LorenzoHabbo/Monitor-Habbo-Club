@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "- YaºKuºZa Sud -",
     "habboFigure": "hr-4363-1405-1405.hd-6219-28-29.ch-5921-92-92.lg-4066-110.sh-3206-110.he-4977-64-100.fa-3276-1329.ca-5028-110-100.wa-3366-110-1331.cc-5951-110",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1321.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-4943-92",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-5808-1327.fa-5467",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-5952-92-92.lg-5594-110.sh-4112-110-92.he-3660-64-1408.fa-6170-1408.wa-3072-110-92.cc-6115-92-110",
@@ -723,7 +723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Avvera tutti i sogni, toglimi felicità",
-    "habboFigure": "hr-5773-61.hd-3631-1370-20.ch-5923-1320-1320.lg-5594-1326.sh-3035-1326.ha-6203-1324.ea-5576-110-110.ca-5983-92.cc-5926-1324-1408",
+    "habboFigure": "hr-5773-61.hd-3631-1370-20.ch-5923-1320-1320.lg-5594-1326.sh-3035-1326.ha-6203-1324.ea-5576-110-110.ca-5916-1426-1341.cc-5926-1324-1408",
     "memberSince": "2018-06-23T11:00:29.000+00:00",
     "uniqueId": "hhit-c329e045e40b2f1b1c89479e937d6a4f",
     "name": "giada092",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ultima custode di mondi in cenere",
     "habboFigure": "hr-836-1342.hd-629-28.ch-3013-80.lg-3006-80-92.sh-3277-80-1326.he-3329-80-1326.fa-3276-1415.cc-3008-80-92",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.ha-4296-1412-1408.he-3070-92.fa-5601-89",
