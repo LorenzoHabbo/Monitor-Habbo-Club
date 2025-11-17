@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est ª Oblivion",
     "habboFigure": "hr-828-54.hd-180-28.ch-3030-110.lg-280-110.he-3891.ea-3639",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5372-1402.hd-6216-2-1372.ch-5607-106.lg-5970-106.sh-5297.ha-5294.he-5802-92.fa-4185-1328.ca-6190.wa-5123-95.cc-5291",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
