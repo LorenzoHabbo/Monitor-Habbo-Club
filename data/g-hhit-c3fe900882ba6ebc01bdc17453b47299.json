@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Habbo Rewind|",
     "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-85-85.lg-700-82.sh-3068-1408-85.fa-3276-72.wa-2001",
@@ -770,10 +770,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "che fai tonight",
-    "habboFigure": "hr-3260-1395.hd-3095-30.ch-210-1417.lg-270-1417.sh-300-1417.ha-1021-1417.ea-1401-1417",
+    "habboFigure": "hr-3260-1395.hd-5317-1388-1357.ch-265-92.lg-5594-110.sh-3016-110.ha-6198.fa-5600-92.cc-3158-110",
     "memberSince": "2013-04-01T22:17:16.000+00:00",
     "uniqueId": "hhit-ba5093b778388fd2533b789a95bb8388",
     "name": "Avaren",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
