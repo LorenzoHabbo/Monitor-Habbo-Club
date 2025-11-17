@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-4111-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIA G.D.",
     "habboFigure": "hr-3163-61.hd-209-1.ch-3498-92.lg-4113-110-1408.sh-3016-63.ca-1816.cc-3389-110-92",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-5607-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
@@ -5460,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-3136-1430.sh-5464-71-93.ha-6203-1430.he-3081-92.fa-3276-66.ca-5575",
@@ -5510,20 +5510,20 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Recluta P.I.H.",
-    "habboFigure": "hr-890-48.hd-627-1.ch-655-1408.lg-3078-91.sh-3115-64-1408.ha-1005-88.ea-1401-73.fa-3276-72",
+    "habboFigure": "hr-890-48.hd-627-1.ch-635-82.lg-720-64.sh-3068-82-82.ha-1023-82.ea-1401-73.fa-3276-72.ca-1804-1408.wa-2001",
     "memberSince": "2020-04-07T19:22:56.000+00:00",
     "uniqueId": "hhit-f6436b800f138502dce54eb1adca3097",
     "name": "Ksuksu",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Recluta P.I.H",
-    "habboFigure": "hr-100.hd-180-14.ch-220-85.lg-285-64.sh-305-1408",
+    "habboFigure": "hd-180-14.ch-225-82.lg-285-64.sh-3068-82-82.ha-1023-82.ca-1804-1408.wa-2001",
     "memberSince": "2020-04-08T09:00:46.000+00:00",
     "uniqueId": "hhit-892edb98c9a185d31cff69c160d526d1",
     "name": "jakopo58",
@@ -6272,7 +6272,7 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "sergente maggiore",
+    "motto": "Stella Tenebrosa, Colonello",
     "habboFigure": "hr-893-38.hd-209-1.ch-215-1408.lg-275-80.sh-908-90.ha-3409-1408-1408",
     "memberSince": "2021-04-17T10:01:40.000+00:00",
     "uniqueId": "hhit-aba1d57749dd4620415617e333054283",
