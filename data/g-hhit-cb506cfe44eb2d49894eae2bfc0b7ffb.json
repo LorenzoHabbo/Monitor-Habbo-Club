@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-110.lg-3006-1339-92.sh-3587-92-92.he-6236.fa-5435.cp-5886-92",
@@ -2850,7 +2850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Buon per te.",
     "habboFigure": "hr-125-37.hd-5799-1.ch-5559-110.lg-5545-94-110.sh-3524-110-1322.ha-6198.cc-5400",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "insalata",
     "habboFigure": "hr-515-45.hd-600-1.ch-650-64.lg-4167-82.fa-5456-66.wa-3661-74-1408",
@@ -2980,7 +2980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Forza Armata",
     "habboFigure": "hr-891-42.hd-195-10.ch-255-1408.lg-275-1408.ha-1008.he-1609-1408.ea-1406.fa-5456-66",
@@ -4880,7 +4880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D",
     "habboFigure": "hr-3841-61.hd-3091-8.ch-6117.lg-3596-92-1408.sh-3419-110-92.he-4022.ca-5759.cc-6204-106",
