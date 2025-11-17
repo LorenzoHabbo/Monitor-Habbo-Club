@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scriba Celeste Di Salathiel GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-220-73.lg-3407-73-66.sh-3115-66-73.ha-3409-73-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-73-66",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH|",
     "habboFigure": "hr-5517-1394-40.hd-3845-1.ch-883-110-92.lg-3328-110-110.sh-3524-92-110.ca-5770-63.cc-6205-110",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-5019-61.hd-3095-10.ch-3203-96.lg-3384-110-107.sh-3089-110.he-5827-71-1321.ca-6213-107-110.wa-3080-110.cc-3269-107-110",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -3830,7 +3830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista G.D.",
     "habboFigure": "hr-3791-36.hd-629-8.ch-4385-1408.lg-4119.sh-907-64.cc-3373-64",
@@ -5502,8 +5502,8 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Recluta P.I.H.",
-    "habboFigure": "hr-890-48.hd-627-1.ch-635-82.lg-720-64.sh-3068-82-82.ha-1023-82.ea-1401-73.fa-3276-72.ca-1804-1408.wa-2001",
+    "motto": "Recluta scelta P.I.H.",
+    "habboFigure": "hr-890-48.hd-600-1.ch-665-1408.lg-3078-91.sh-3115-64-1408.ha-1005-73.ea-1401-73.fa-3276-72",
     "memberSince": "2020-04-07T19:22:56.000+00:00",
     "uniqueId": "hhit-f6436b800f138502dce54eb1adca3097",
     "name": "Ksuksu",
@@ -5512,8 +5512,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Recluta P.I.H",
-    "habboFigure": "hd-180-14.ch-225-82.lg-285-64.sh-3068-82-82.ha-1023-82.ca-1804-1408.wa-2001",
+    "motto": "Recluta Capo P.I.H",
+    "habboFigure": "hr-100.hd-180-14.ch-220-85.lg-285-64.sh-305-1408.ha-1008.ea-1403-1408",
     "memberSince": "2020-04-08T09:00:46.000+00:00",
     "uniqueId": "hhit-892edb98c9a185d31cff69c160d526d1",
     "name": "jakopo58",
@@ -9920,7 +9920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aiutante  Esperto G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -9990,7 +9990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-71.lg-270-82.sh-300-1408.ea-1406.ca-1809",
