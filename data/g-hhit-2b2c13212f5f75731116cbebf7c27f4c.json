@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scriba Celeste Di Salathiel GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-220-73.lg-3407-73-66.sh-3115-66-73.ha-3409-73-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-73-66",
@@ -4630,7 +4630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Condottiero 1p G.D",
     "habboFigure": "hr-125-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
