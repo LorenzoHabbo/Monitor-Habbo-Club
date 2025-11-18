@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-5808-1327.fa-5467",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -1893,7 +1893,7 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-836-1404.hd-605-22.ch-660-110.lg-3502-110.sh-5803-92.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-1420.cc-6166-1420-110",
+    "habboFigure": "hr-836-1404.hd-605-22.ch-660-110.lg-3502-110.sh-5803-92.he-6066-1420.ea-5576-1408-1408.fa-5467.ca-3292-1420.cc-6166-1420-110",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ultima custode di mondi in cenere",
     "habboFigure": "hr-836-1342.hd-629-28.ch-3013-80.lg-3006-80-92.sh-3277-80-1326.he-3329-80-1326.fa-3276-1415.cc-3008-80-92",
@@ -3813,14 +3813,14 @@
     "online": true,
     "gender": "m",
     "motto": "sta vit c corr, tu ce capit coccos?",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-64-64.lg-280-1427.sh-305-92.he-1609-1408.fa-3276-90.cc-3917-64",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-64-110.lg-280-1427.sh-305-92.he-3660-110-64.fa-3276-90.cc-3917-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3935-110-110.lg-5594-77.sh-5247-92-92.ha-3544.ea-5576-110-110.fa-3276-100.cc-5926-110-110",
