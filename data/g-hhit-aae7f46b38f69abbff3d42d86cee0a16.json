@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -603,7 +603,7 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-3852-1404.hd-5913-22.ch-660-1334.lg-710-1334.sh-5803-92.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-6166-1324-1334",
+    "habboFigure": "hr-3852-1404.hd-5913-22.ch-660-110.lg-3502-110.sh-5803-92.ha-6249-110-1326.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3292-1420.cc-6166-1420-110",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "1red2green3blue4yellow",
     "habboFigure": "hr-3163-44.hd-3845-10.ch-4361-83-80.lg-5594-80.sh-3375-105-84.ha-3431-83-80.he-3376-1410-80.ca-3916-84-83.wa-5478-83-80.cc-4377-83-80",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "capo aiutante gd.",
     "habboFigure": "hr-5619-61.hd-615-15.ch-655-92.lg-710-110.sh-5803-92.he-1609-92.ea-1404-110.fa-5601-1427",
