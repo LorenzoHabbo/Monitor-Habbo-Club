@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-665-1427.lg-710-1427.sh-5803-92.he-3070-92.ea-5576-1408-1408.fa-5467.ca-3084-87-1408.cc-6166-1334-92",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-4165-64-64.lg-4167-64.sh-3383-110-110.ea-3169-102.fa-5636-92.wa-3264-110-1408",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1403.hd-6219-2-1363.ch-5921-98-92.lg-3502-92.sh-5803-92.he-5808-1408.fa-5467.ca-6235",
