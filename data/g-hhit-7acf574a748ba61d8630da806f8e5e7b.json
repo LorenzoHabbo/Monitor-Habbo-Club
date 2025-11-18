@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-5019-45.hd-3845-8.ch-5608-64.lg-4167-82.sh-3068-1408-1408.fa-5601-64.ca-5770-73",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-32-32.hd-6216-1391-1364.ch-5919-1327-1327.lg-3006-1341-1408.sh-5308-1327.ha-6241-1341-1327.cc-3003-1341",
