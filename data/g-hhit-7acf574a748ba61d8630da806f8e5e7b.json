@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "che shoook!... twitch.tv/ttnovee",
     "habboFigure": "hr-3163-1407.hd-205-1.ch-6201.lg-3078-110.sh-905-1408.ha-3690-92.ea-5576-1428-92.fa-1210.wa-3074-110-92.cc-5826-1425.cp-3128-64",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scimmia tenebrosa NT<3",
     "habboFigure": "hr-6083-1403.hd-600-1379.ch-660-110.lg-5594-1334.sh-5247-110-92.ha-6241-110-1408.he-5577-1422-94.fa-3276-95.cc-6166-1413-1408",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -1423,7 +1423,7 @@
     "online": false,
     "gender": "f",
     "motto": "Leader º Oblivion",
-    "habboFigure": "hr-5773-40.hd-600-14.ch-660-1408.lg-710-1408.sh-725-1408.he-3891",
+    "habboFigure": "hr-5773-1342.hd-600-13.ch-660-1341.lg-710-1409.sh-725-92.he-3891",
     "memberSince": "2016-01-06T20:57:39.000+00:00",
     "uniqueId": "hhit-c5e3344863899d5f4e744bf2a6894943",
     "name": "Clare_",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "betting like im rich",
     "habboFigure": "hr-5773-1404.hd-3096-3.ch-635-110.lg-5594-64.sh-4112-1428-64.ha-6244-1428-110.ea-5576-64-64.cc-5926-110-110",
@@ -1770,10 +1770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a gift :)",
-    "habboFigure": "hr-3163-1394.hd-180-13.ch-3779-110-93.lg-3596-110-1408.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-100-93",
+    "habboFigure": "hr-3163-1394.hd-180-13.ch-3779-110-70.lg-3596-110-1408.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-110",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.cc-5800-63-63",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred",
     "habboFigure": "hr-515-42.hd-605-1.ch-4067-84-83.lg-700-85.sh-730-84.he-3329-83-85.fa-3276-72",
