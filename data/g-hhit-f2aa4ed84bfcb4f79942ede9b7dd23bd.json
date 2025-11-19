@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "In pensione.",
     "habboFigure": "hd-5522-1-14.ch-5452-66-1408.lg-3116-1408-1408.sh-5551.he-3550.fa-5703.ca-5550.wa-2007.cc-5622",
@@ -2723,7 +2723,7 @@
     "online": true,
     "gender": "m",
     "motto": "OMBRA MINORE",
-    "habboFigure": "hr-3829-34.hd-3845-12.ch-210-1408.lg-3078-81.sh-3524-64-1408.fa-3276-71.cc-5761-64-72",
+    "habboFigure": "hr-3829-34.hd-3845-12.ch-210-1408.lg-3078-81.sh-3524-73-1408.fa-3276-71.cc-5761-64-72",
     "memberSince": "2010-08-25T14:32:05.000+00:00",
     "uniqueId": "hhit-18d242838182ac36d3e6506c71ff9a98",
     "name": "catabbo",
@@ -8240,7 +8240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-1362.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -9390,7 +9390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
