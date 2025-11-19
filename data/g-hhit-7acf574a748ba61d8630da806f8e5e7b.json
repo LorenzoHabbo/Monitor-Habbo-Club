@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-42.hd-3604-19.ch-3581-66-85.lg-5113-73.sh-295-66.ha-3591.he-5074-1408.fa-5280-90.ca-4938.cc-4091-64",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "meow",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-68.lg-4167-64.sh-305-1408.he-3833-71.fa-5624-72",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-32-32.hd-6216-1391-1364.ch-5919-1327-1327.lg-3006-1341-1408.sh-5308-1327.ha-6241-1341-1327.cc-3003-1341",
