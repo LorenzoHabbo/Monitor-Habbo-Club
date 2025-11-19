@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rie",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-5913-28.ch-660-110.lg-3502-110.sh-5803-92.he-3227-96.ea-5576-1408-1408.fa-5467.ca-3292-92.cc-6166-96-92",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "N º T",
     "habboFigure": "hr-4131-40-40.hd-600-10.ch-660-1408.lg-710-1408.he-1609-1408.ea-3484.fa-3276-64",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "1red2green3blue4yellow",
     "habboFigure": "hr-5841-1403.hd-5838-10-1367.ch-5856.lg-5594-82.sh-5868.he-5578-1427.ca-5769-92-1321.cc-5926-110-1408.cp-5883-110",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
