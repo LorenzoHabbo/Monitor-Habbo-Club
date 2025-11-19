@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-4111-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -6253,7 +6253,7 @@
     "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D Colonello",
-    "habboFigure": "hr-893-38.hd-209-1.ch-215-1408.lg-270-64.sh-300-64.ha-3409-1408-1408.cc-260-1408",
+    "habboFigure": "hr-893-38.hd-209-1.ch-215-1408.lg-270-64.sh-300-64.ha-3409-1408-1408.wa-2012.cc-260-1408",
     "memberSince": "2021-04-17T10:01:40.000+00:00",
     "uniqueId": "hhit-aba1d57749dd4620415617e333054283",
     "name": "pinkSoul2",
@@ -6900,7 +6900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-30.ch-6039.lg-3047-1336.sh-907-110.ha-6037.he-3833-1321.ca-6041.wa-3798-1408-1408.cc-6119",
@@ -7030,7 +7030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
@@ -9690,7 +9690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello g.d.",
     "habboFigure": "hr-170-45.hd-209-10.ch-255-64.lg-3088-1408-1408.sh-3180-64-64.ha-1003-73",
