@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-165-47.hd-208-10.ch-3432-82-1320.lg-3434-82-1320.sh-3435-82-1320.ha-3431-82-1320.ca-1804-72.cc-3744-82-82",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "phippho calze lunghe",
     "habboFigure": "hr-515-46.hd-205-10.ch-5488-1320.lg-3418-73.ea-1403-1408.cc-6166-71-71",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-32-32.hd-6216-1391-1364.ch-5919-1327-1327.lg-3006-1341-1408.sh-5308-1327.ha-6241-1341-1327.cc-3003-1341",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3800-59-61.hd-190-1.ch-3237-1331-1336.lg-3078-82.sh-3089-1336.ha-4192.he-1604.ea-3148-1336-95.fa-3344-1323.ca-5278-85.cc-3152-79",
