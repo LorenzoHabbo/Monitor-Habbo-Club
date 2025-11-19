@@ -260,10 +260,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Take me back to Eden",
-    "habboFigure": "hr-5306-49-1345.hd-4015-29.ch-5452-92-110.lg-3596-110-92.sh-3154-110-110.ha-3775.he-5088.ca-4965-1412-92.wa-3211-96-92",
+    "habboFigure": "hr-5306-49-1345.hd-4015-29.ch-5452-92-110.lg-3596-110-92.sh-3154-110-110.ha-3775.he-5088.wa-3211-96-92",
     "memberSince": "2009-11-29T18:36:00.000+00:00",
     "uniqueId": "hhit-2a5a2a8345171d811f3d28f430242f5f",
     "name": "Sadvicious",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "dancing in the moonlight~ A.|",
     "habboFigure": "hr-4117-49-49.hd-6216-28-1365.ch-650-110.lg-6161-110-92.he-5314-110-110.fa-5467.cc-4184-110-92",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5374-110-1325.lg-6000-110.sh-6043.ha-6198.he-6173-100.fa-5467.ca-6041.wa-5370.cc-3542-100-100",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5372-1355.hd-5913-2.ch-5607-110.lg-5970-110.sh-5464-92-110.he-4990-110.ea-5910-110-1326.fa-5122-92.ca-5771-1424-110.wa-5123-110.cc-5825.cp-3315-1408",
