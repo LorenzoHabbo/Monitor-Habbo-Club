@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -4433,7 +4433,7 @@
     "online": false,
     "gender": "f",
     "motto": "Soldato semplice G.D.",
-    "habboFigure": "hr-4118-39.hd-629-1.ch-665-76.lg-3216-76.sh-907-76.fa-3276-72",
+    "habboFigure": "hr-4118-39.hd-629-1.ch-665-68.lg-3216-76.fa-3276-72.ca-1812",
     "memberSince": "2017-11-15T14:52:23.000+00:00",
     "uniqueId": "hhit-a6e27400ac2c1b18cb2ce283f312a619",
     "name": "Prexiteria",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Cuccuruccucu",
     "habboFigure": "hr-3791-45.hd-4163-10-20.ch-5607-91.lg-3078-91.sh-906-90.ha-3546-91.fa-3276-73",
@@ -4530,7 +4530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-3810-47.hd-208-10.ch-805-84.lg-3216-74.sh-3068-82-81.ha-1014.he-3918.ea-1406.fa-1205-72.ca-1804-80",
@@ -4850,7 +4850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -6240,7 +6240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-5791-1397.hd-6219-2-1365.ch-3030-92.lg-4138-92.ha-5301-92.he-5074-64.fa-4044.ca-4936.wa-4060-92-1409.cc-3867-92-92",
@@ -9710,7 +9710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista GD",
     "habboFigure": "hr-170-45.hd-180-10.ch-255-64.lg-3088-1408-1408.sh-3180-64-64.ha-1003-73",

@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Ombra Minore ¥ -  -",
     "habboFigure": "hr-3386-42.hd-205-19.ch-3342-1320-91.lg-3384-73-82.ha-3494-72-82.he-3385-1408-1408-1408.ea-3925-1320-1320.fa-1201.ca-3876-73-66.wa-3798-1408-1408.cc-4979-73",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "leader (regime skaikru)",
     "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-665-92.lg-3283-1427-92.sh-5803-92.ha-3613-92.he-3070-92.ea-5576-1408-1408.fa-5456-1327.ca-3292-92.cc-5800-92-92",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-3810-47.hd-208-10.ch-805-84.lg-3216-74.sh-3068-82-81.ha-1014.he-3918.ea-1406.fa-1205-72.ca-1804-80",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-5791-1397.hd-6219-2-1365.ch-3030-92.lg-4138-92.ha-5301-92.he-5074-64.fa-4044.ca-4936.wa-4060-92-1409.cc-3867-92-92",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-39-40.hd-180-1.ch-3432-84-1408.lg-3434-84-1408.sh-3435-84-1408",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-110.lg-5594-64.sh-3252-110-1408.ha-5677-110.ca-5635-92-1408.wa-6165-110.cc-6077",
