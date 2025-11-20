@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rie",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Donna d'onore Corleone ª | Herma Mora",
     "habboFigure": "hr-5503-1395.hd-629-10.ch-3013-1327.lg-5594-89.sh-5308-1327.he-5808-1327.fa-5467",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-3321-1419.lg-3596-110-1408.sh-3383-110-92.ha-5677-110.ea-5576-63-1408.ca-5815-84-92.cc-6115-92-110",
@@ -603,7 +603,7 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-3852-1404.hd-5913-22.ch-5831-92.lg-3283-77-1408.sh-5803-92.ha-3613-92.he-3070-92.ea-5576-1408-1408.fa-5456-94.ca-3292-92.cc-5440-86-92",
+    "habboFigure": "hr-3852-1404.hd-5913-22.ch-5831-92.lg-3283-1427-92.sh-5803-92.ha-3613-1326.he-3070-92.ea-5576-1408-1408.fa-5456-1326.ca-3292-92.cc-5440-1427-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Unicorn 190 BPM |",
     "habboFigure": "hr-831-49.hd-180-8.ch-5559-1408.lg-3078-110.sh-3154-93-110.ha-3986.ea-3484.fa-1201.ca-1816.cc-6077",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1403.hd-6219-2-1363.ch-5921-98-92.lg-3502-92.sh-5803-92.he-5808-1408.fa-5467.ca-6235",
