@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Mi sono persa",
     "habboFigure": "hr-3810-42.hd-3845-10.ch-3399-64-64.lg-3333-64.sh-3619-64-1408.ha-4374.he-3974.fa-3276-73.wa-2002",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3916-110-1408.wa-3263-92-92.cc-3232-110-88",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "OMBRA MINORE",
     "habboFigure": "hr-3829-34.hd-3845-8.ch-215-80.lg-3078-1320.sh-3524-64-1408.fa-3276-71.cc-5761-64-64",
