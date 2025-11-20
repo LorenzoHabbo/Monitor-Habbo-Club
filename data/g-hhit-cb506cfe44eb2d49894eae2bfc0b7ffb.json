@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Un giorno, tre autunni",
     "habboFigure": "hr-3725-32.hd-209-12.ch-3323-64-64.lg-270-64.sh-4112-64-1408.fa-3344-73.cc-3744-64-64",
@@ -2470,7 +2470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non sono io",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-85.sh-3687-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-84",
@@ -3190,7 +3190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "meow",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-68.lg-4167-64.sh-305-1408.he-3833-71.fa-5624-72",
