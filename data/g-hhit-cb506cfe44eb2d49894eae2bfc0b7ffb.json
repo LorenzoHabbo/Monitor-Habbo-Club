@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1404-54.hd-3631-1389-1372.ch-3013-1424.lg-3483-110-71.he-5578-110.ea-1402.fa-3276-1328.cc-5440-110-71",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Addio!!",
     "habboFigure": "hr-4363-1400-1400.hd-4383-9-1367.ch-5245-77.lg-5594-77.sh-3089-77.he-5088.fa-3276-96.wa-5370.cc-5926-92-93",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-828-42.hd-205-26.ch-3185-110.lg-3933-64.sh-3587-92-92.he-3820-92.ea-5392.fa-5948-92",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -2710,7 +2710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "punto di corda ritardat",
     "habboFigure": "hr-6034-49-61.hd-5524-1391-1365.ch-5110-110-92.lg-5398.sh-5639.ha-3690-100.he-5828.fa-5948-92.ca-5574-110-1412.wa-6154-1325-1408.cc-6255-110-100",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
