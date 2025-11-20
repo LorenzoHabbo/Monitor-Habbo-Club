@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sono Felice Grazie Habbo per tutto",
     "habboFigure": "hr-5773-34.hd-4383-28-14.ch-5903-110-110.lg-4369-110-1408.ha-3144-64-1408",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-5390-34-40.hd-180-10.ch-5258.lg-4125.sh-5869-66-1408.ha-1008.ea-5009",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "rotta rotta rotta da dietro",
     "habboFigure": "hr-3012-37.hd-3536-1-1.ch-3342-110-110.lg-3434-1430-1323.sh-4159-100-1408.ha-3150-100-1430.he-3081-68.cc-3542-100-1430.cp-3315-92",
@@ -3000,10 +3000,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "OMBRA MINORE",
-    "habboFigure": "hr-3829-34.hd-3845-1.ch-210-1408.lg-3078-1320.sh-3524-64-1408.cc-3917-64",
+    "habboFigure": "hr-3829-34.hd-3845-1.ch-210-1408.lg-3023-64.sh-3524-64-1408.cc-3874-64-1408",
     "memberSince": "2010-08-25T14:32:05.000+00:00",
     "uniqueId": "hhit-18d242838182ac36d3e6506c71ff9a98",
     "name": "catabbo",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3800-45-40.hd-190-1.ch-876-64-1408.lg-280-64.sh-295-64.fa-3344-91.cc-3827-85-64",
