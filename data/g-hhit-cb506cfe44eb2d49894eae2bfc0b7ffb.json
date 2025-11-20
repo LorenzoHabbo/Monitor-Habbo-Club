@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-650-110.lg-3006-1339-92.sh-3587-92-92.he-6236.fa-5435.cp-5886-92",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-61.hd-3956-1390-1368.ch-5560-92-1408.lg-5594-110.he-5088.fa-4168-98.ca-6235.cc-6077",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1404.hd-5913-22.ch-5831-92.lg-3283-77-1408.sh-5803-92.ha-3613-92.he-3070-92.ea-5576-1408-1408.fa-5456-94.ca-3292-92.cc-5440-86-92",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Unicorn 190 BPM |",
     "habboFigure": "hr-831-49.hd-180-8.ch-5559-1408.lg-3078-110.sh-3154-93-110.ha-3986.ea-3484.fa-1201.ca-1816.cc-6077",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-77.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3893,7 +3893,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3841-40.hd-3845-8.ch-5559-1408.lg-5545-64-1408.sh-3419-1408-1408.ha-4006.he-5088.cc-3522-64-1408",
+    "habboFigure": "hr-3841-40.hd-3845-8.ch-5559-1408.lg-5545-64-1408.sh-5247-1408-1408.ha-4006.he-5088.cc-5690-64",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
@@ -4123,7 +4123,7 @@
     "online": false,
     "gender": "f",
     "motto": "Nulla è come appare",
-    "habboFigure": "hr-5617-48-40.hd-600-10.ch-650-73.lg-3695-73.he-5618-66.fa-3276-72.ca-3989-66-66",
+    "habboFigure": "hr-5617-37-44.hd-600-10.ch-635-73.lg-3695-76.ha-5276-1320.he-5618-66.fa-3276-72.ca-3989-1408-76.cc-5440-74-1320",
     "memberSince": "2024-10-15T14:37:37.000+00:00",
     "uniqueId": "hhit-abcefbc8d30d97654e0c0313c7d75614",
     "name": "Albertine",
@@ -4350,10 +4350,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
-    "habboFigure": "hr-3163-1342.hd-205-2.ch-215-92.lg-5594-63.sh-3035-63.ha-3690-110.he-3070-92.fa-3276-1413.cc-3420-110",
+    "habboFigure": "hr-3163-1342.hd-205-2.ch-215-110.lg-5594-1427.sh-3035-63.ha-3690-110.he-3070-92.fa-3276-1413.cc-3360-92",
     "memberSince": "2025-01-15T16:53:39.000+00:00",
     "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
     "name": ".Drip",
