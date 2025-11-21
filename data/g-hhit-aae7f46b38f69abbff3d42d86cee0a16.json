@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -603,7 +603,7 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-5517-59-40.hd-5522-28-14.ch-660-96.lg-3502-1341.sh-5803-93.he-3081-92.fa-1202-96.ca-3187-93.cc-5942-108.cp-3207-1408-1408",
+    "habboFigure": "hr-5517-59-40.hd-5522-28-14.ch-660-96.lg-3502-1341.sh-5803-93.he-3081-92.fa-1202-96.ca-3187-93.cc-5942-108",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "non voglio una hoe voglia una wifey",
     "habboFigure": "hr-830-37.hd-208-10.ch-255-85.lg-285-82.sh-295-1408.fa-3590",
@@ -753,7 +753,7 @@
     "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
-    "habboFigure": "hd-185-1389.ch-5367-93-93.lg-3078-106.sh-3275-96.ha-5169-95.he-3858-106.ea-6053-92.fa-1211.ca-3151-95-1408.wa-5599-77-99.cc-5810-1327",
+    "habboFigure": "hd-185-1389.ch-4299-101-93.lg-3078-106.sh-3275-96.ha-5169-95.he-3858-106.ea-6053-92.fa-1211.ca-3151-95-1408.wa-5599-77-99.cc-5810-1327",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
@@ -833,7 +833,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-49.hd-3093-7.ch-4165-64-64.lg-4167-64.sh-3383-110-110.ea-3169-102.fa-5636-92.wa-3264-110-1408",
+    "habboFigure": "hr-5791-49.hd-3093-7.ch-5006.lg-4114-1408-96.sh-5551.ha-5774-96-1408.ea-3169-102.fa-5636-1408.cc-5761-96-1408",
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3935-110-110.lg-5594-77.sh-5247-92-92.ha-3544.ea-5576-110-110.fa-3276-100.cc-5926-110-110",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "AC/DC",
     "habboFigure": "hr-891-44.hd-209-1370.ch-5830-85.lg-3078-64.sh-295-90.ha-1004-64.fa-1202-73",

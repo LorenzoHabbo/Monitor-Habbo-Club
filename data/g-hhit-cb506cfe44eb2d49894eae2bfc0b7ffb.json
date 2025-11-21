@@ -570,10 +570,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ombra minore ¥",
-    "habboFigure": "hr-679-61.hd-629-28.ch-3036-110-110.lg-5594-110.sh-5308-1321.he-3071-110.fa-4014-110-110.ca-5739-110-1412.wa-2002",
+    "habboFigure": "hr-3024-61.hd-6216-10-1380.ch-3076-110-110.lg-696-110.sh-5247-73-92.ca-6081-100.cc-5926-1425-110",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -663,7 +663,7 @@
     "online": true,
     "gender": "m",
     "motto": "cosa leggi?",
-    "habboFigure": "hr-3163-49.hd-5525-28-1.ch-210-110.lg-280-110.sh-5803-110.ha-3690-110.he-3891.ea-6270.fa-5948-92.cc-3744-110-110",
+    "habboFigure": "hr-3163-49.hd-5525-2-1372.ch-210-110.lg-275-110.sh-6156-110.ha-5169-92.he-6173-110.ea-6270.fa-5948-92.cc-3744-110-110",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -723,14 +723,14 @@
     "online": true,
     "gender": "m",
     "motto": "                        #AV1912",
-    "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.fa-5601-1320.ca-3410-1408.wa-6172-1408-73",
+    "habboFigure": "hr-893-48.hd-180-10.ch-225-64.lg-275-64.sh-295-64.ha-1002-64.fa-3276-1408",
     "memberSince": "2010-12-01T13:13:46.000+00:00",
     "uniqueId": "hhit-dd751684352a9f8dceb02644e71c687e",
     "name": "-:giggi:-",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mandatemi i vostri inidun",
     "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3290-80.sh-3524-74-83.he-5553.fa-5601-91.cc-6119",
@@ -1120,7 +1120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-180-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.fa-3276-96.cc-6184-107",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-3013-92.lg-5594-77.sh-5247-92-92.he-3070-1408.ea-3108-63-1408.ca-3844-1338-77",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1404-54.hd-3631-1389-1372.ch-3013-1424.lg-3483-110-71.he-5578-110.ea-1402.fa-3276-1328.cc-5440-110-71",
@@ -1893,7 +1893,7 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-5517-59-40.hd-5522-28-14.ch-660-96.lg-3502-1341.sh-5803-93.he-3081-92.fa-1202-96.ca-3187-93.cc-5942-108.cp-3207-1408-1408",
+    "habboFigure": "hr-5517-59-40.hd-5522-28-14.ch-660-96.lg-3502-1341.sh-5803-93.he-3081-92.fa-1202-96.ca-3187-93.cc-5942-108",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2343,7 +2343,7 @@
     "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
-    "habboFigure": "hd-185-1389.ch-5367-93-93.lg-3078-106.sh-3275-96.ha-5169-95.he-3858-106.ea-6053-92.fa-1211.ca-3151-95-1408.wa-5599-77-99.cc-5810-1327",
+    "habboFigure": "hd-185-1389.ch-4299-101-93.lg-3078-106.sh-3275-96.ha-5169-95.he-3858-106.ea-6053-92.fa-1211.ca-3151-95-1408.wa-5599-77-99.cc-5810-1327",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
@@ -2563,7 +2563,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-49.hd-3093-7.ch-4165-64-64.lg-4167-64.sh-3383-110-110.ea-3169-102.fa-5636-92.wa-3264-110-1408",
+    "habboFigure": "hr-5791-49.hd-3093-7.ch-5006.lg-4114-1408-96.sh-5551.ha-5774-96-1408.ea-3169-102.fa-5636-1408.cc-5761-96-1408",
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sta vit c corr, tu ce capit coccos?",
     "habboFigure": "hr-3163-31.hd-205-2.ch-3032-110-110.lg-280-64.sh-305-92.he-3660-110-64",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3935-110-110.lg-5594-77.sh-5247-92-92.ha-3544.ea-5576-110-110.fa-3276-100.cc-5926-110-110",
@@ -4020,7 +4020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-96-92.lg-5970-82.sh-5464-92-96.ha-3461.he-5466.fa-5467",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "AC/DC",
     "habboFigure": "hr-891-44.hd-209-1370.ch-5830-85.lg-3078-64.sh-295-90.ha-1004-64.fa-1202-73",
@@ -4353,7 +4353,7 @@
     "online": true,
     "gender": "m",
     "motto": "Trust the process",
-    "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-3035-63.ha-4052.he-3070-92.cc-3360-92",
+    "habboFigure": "hr-3163-41.hd-205-27.ch-215-63.lg-280-63.sh-3035-63.ha-3709.he-3070-92.fa-5624-110.ca-1804-63.cc-3360-1428",
     "memberSince": "2025-01-15T16:53:39.000+00:00",
     "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
     "name": ".Drip",
@@ -4880,7 +4880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.lg-3596-92-1408.sh-3419-110-92.he-1609-81.ca-1816.cc-5441-110-1408",
