@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  Masarez © 2o16 / 2o25 - NT",
     "habboFigure": "hr-829-41.hd-190-1.ch-3934-92-110.lg-5732-110-64.sh-3587-92-92.he-1609-110.ea-1402.cc-3509-110-79",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "triste nella prigione triste quando e",
     "habboFigure": "hr-3161-54.hd-205-10.lg-285-63.sh-908-1408.ha-3242-64-1408.ea-3727.fa-5467.ca-5938-64-64.cc-260-64",
@@ -852,7 +852,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "I smell like ice cream & pheromones",
+    "motto": "Brise mon cœur, encore, ce soir",
     "habboFigure": "hr-3278-32-32.hd-180-2.ch-3203-96.lg-280-80.sh-3068-110-68.he-3660-110-110.fa-3344-68.cc-3512-80-71",
     "memberSince": "2008-06-05T15:59:03.000+00:00",
     "uniqueId": "hhit-f6d2953bf83dbb266423b7b4f4f46396",
@@ -3150,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fanculo",
     "habboFigure": "hd-209-19.ch-3683-91-82.lg-280-85.sh-300-64",
@@ -3860,10 +3860,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ":crikey Cittadino the hundred",
-    "habboFigure": "hr-802-31.hd-180-14.ch-3506-93-93.lg-270-93.sh-300-93.ha-1014.ea-3484.fa-1204.ca-3503-93.cc-4026-93-93",
+    "habboFigure": "hr-125-1396.hd-180-1367.ch-3077-110-110.lg-270-110.sh-300-110.ea-3168-76.cc-3186-110",
     "memberSince": "2011-02-27T11:17:09.000+00:00",
     "uniqueId": "hhit-31c25de964f6081df264b8ad1332b53a",
     "name": "megapunitoreUno",
@@ -3880,7 +3880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5624-110.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -6490,7 +6490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-828-1344.hd-3095-1389.ch-5856.lg-5594-1427.sh-5297.ha-5866.he-5813-1410-92.fa-5600-1423.ca-4037-1337-110.cp-5878-63",
