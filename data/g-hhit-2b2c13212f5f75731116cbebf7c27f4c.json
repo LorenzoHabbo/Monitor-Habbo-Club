@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-4117-59-59.hd-6219-2-1367.ch-6180-110.lg-3136-89.sh-6182.ha-3586.cc-6031-1410-110",
@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-4363-1404-1404.hd-3845-10.ch-3834-98.lg-3006-110-110.he-6236.fa-5467.ca-6235.cc-6119",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-4111-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
