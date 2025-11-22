@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-3030-64.lg-5732-81-73.sh-6156-73.ha-4192.he-5088.ca-5936-66.cc-4184-64-73",
@@ -2840,7 +2840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Buon per te.",
     "habboFigure": "hr-125-37.hd-5799-1.ch-5559-110.lg-5545-94-110.sh-3524-110-1322.ha-6198.cc-5400",
@@ -3370,7 +3370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "bacon avocado",
     "habboFigure": "hr-802-45.hd-190-10.ch-3030-1408.lg-285-64.sh-3068-64-64.ha-1003-64.wa-2001",
@@ -3940,10 +3940,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hr-4363-1395-1395.hd-6216-1391-1376.ch-3321-1338.lg-3006-92-1338.sh-3277-1338-92.he-5088.cc-5800-92-1338",
+    "habboFigure": "hr-4363-1395-1395.hd-6216-1391-1376.ch-3321-1338.lg-3006-92-1338.sh-5308-1338.he-5088.cc-5800-92-1338",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-96-92.lg-5970-82.sh-5464-92-96.ha-3461.he-5466.fa-5467",
