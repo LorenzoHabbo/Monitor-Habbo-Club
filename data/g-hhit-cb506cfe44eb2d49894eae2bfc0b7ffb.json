@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-44.hd-4383-1-14.ch-5607-85.lg-5970-82.sh-6181-64.he-5808-1408.wa-6165-1408.cc-4979-1408",
@@ -3730,7 +3730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sciamune mo a quai",
     "habboFigure": "hr-6083-42.hd-4383-10-30.ch-650-75.lg-5974-73-66.sh-3354-73-66.ha-6203-66.fa-4168-72.ca-1803-66.cc-4108-73-1408",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "pero o sol c stev, er ij ca no vrev",
     "habboFigure": "hr-3163-31.hd-205-2.ch-3032-110-110.lg-280-1428.sh-305-92.he-3660-110-64",
