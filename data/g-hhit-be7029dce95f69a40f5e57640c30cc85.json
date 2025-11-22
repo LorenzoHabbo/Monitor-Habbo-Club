@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "da bimbo facevo l'adulto",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.he-3891.fa-5601-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Brise mon cœur, encore, ce soir",
     "habboFigure": "hr-3278-32-32.hd-180-2.ch-3203-96.lg-280-80.sh-3068-110-68.he-3660-110-110.fa-3344-68.cc-3512-80-71",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mutata",
     "habboFigure": "hr-5914-42-42.hd-4383-28-14.ch-3446.lg-3006-110-110.ha-3461.he-5808-63",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fanculo",
     "habboFigure": "hd-209-19.ch-3683-91-82.lg-280-85.sh-300-64",
@@ -5950,7 +5950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-180-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.fa-3276-96.cc-6184-107",
