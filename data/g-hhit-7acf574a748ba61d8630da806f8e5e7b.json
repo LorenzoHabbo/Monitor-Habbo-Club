@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "leader (regime skaikru)",
     "habboFigure": "hr-5791-1395.hd-3604-1.ch-5596-110.lg-281-110.sh-3016-110.ha-5597-110.ea-5897-110-110.ca-6169-64-64.cc-6119",
@@ -2190,7 +2190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "punto di corda ritardat",
     "habboFigure": "hr-6034-49-61.hd-5524-1391-1365.ch-5110-110-92.lg-5398.sh-5639.ha-3690-100.he-5828.fa-5948-92.ca-5574-110-1412.wa-6154-1325-1408.cc-6255-110-100",
@@ -3480,7 +3480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
