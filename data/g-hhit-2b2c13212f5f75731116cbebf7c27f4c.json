@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-209-8.ch-3321-73.lg-3596-64-1408.sh-3068-1408-1408.fa-3993-91.cc-4184-73-1408",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "VICARIO SEMPLICE G.D.",
     "habboFigure": "hr-3841-61.hd-209-1.ch-5596-1408.lg-3320-110-1408.sh-3089-110.ca-1801-1408",
@@ -4490,7 +4490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ";p",
     "habboFigure": "hr-6083-45.hd-4163-10-20.ch-4067-1320-1408.lg-3078-91.sh-4064-90.he-3858-90.fa-5467",
