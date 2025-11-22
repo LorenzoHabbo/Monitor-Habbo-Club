@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-170-45.hd-3092-2.ch-4286-1325-90.lg-3290-91.sh-4065-1325-1409.ha-3823-91-91.he-3070-1410.ea-3169-91.fa-5636-1409.wa-2001.cc-4978-91-67",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-195-10.ch-240-64.lg-285-1408.ha-1003-66.fa-1204",
@@ -3550,7 +3550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ladra 1p GD",
     "habboFigure": "hr-3673-42.hd-4383-1370-14.ch-5906-73.lg-270-82.sh-5671-1408",
