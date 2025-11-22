@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Nope, your too late i already died.",
     "habboFigure": "hr-3829-1407.hd-190-22.ch-5608-1409.lg-3483-82-82.sh-4112-110-110.ha-1002-110.ea-1404-110.fa-5601-1408.cp-3315-110",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
@@ -4990,7 +4990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-515-45.hd-600-1370.ch-660-64.lg-700-88.sh-725-1408.ea-1404-64",
