@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ombra minore ¥",
     "habboFigure": "hr-596.hd-6216-10-1380.ch-3076-110-110.lg-3391-110-110.sh-4064-1330.ha-5677-1331.he-3894-1331.fa-5467.ca-3876-64-64.cc-5485-1330-110",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "                        #AV1912",
     "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.fa-5601-1408.wa-6172-1408-73",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5073.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
