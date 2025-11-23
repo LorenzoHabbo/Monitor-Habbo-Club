@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scriba Celeste Di Salathiel GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-220-73.lg-3407-73-66.sh-3115-66-73.ha-3409-73-66.ca-3425-66-66.wa-3211-66-1408.cc-3405-73-66",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -4490,7 +4490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ";p",
     "habboFigure": "hr-6083-45.hd-4163-10-20.ch-4067-1320-1408.lg-3078-91.sh-4064-90.he-3858-90.fa-5467.wa-3661-90-68",
