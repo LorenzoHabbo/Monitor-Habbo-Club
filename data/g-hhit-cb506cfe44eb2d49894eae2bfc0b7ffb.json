@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "       NON SONO DEL 2002",
     "habboFigure": "hr-155-40.hd-180-1370.ch-3030-1408.lg-275-64.ha-1002-64",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-32.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -570,7 +570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ombra minore ¥",
     "habboFigure": "hr-596.hd-6216-10-1380.ch-3076-110-110.lg-3391-110-110.sh-4064-1330.ha-5677-1331.he-3894-1331.fa-5467.ca-3876-64-64.cc-5485-1330-110",
@@ -4990,7 +4990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-45.hd-615-1370.ch-660-64.lg-710-88.sh-725-1408.ha-1006.he-3543-1408.ea-1404-64",
