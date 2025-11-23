@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Corazzatatorres",
     "habboFigure": "hr-3090-47.hd-190-14.ch-210-1408.lg-270-1408.sh-5551.ca-5575",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ombra minore ¥",
     "habboFigure": "hr-596.hd-6216-10-1380.ch-3076-110-110.lg-3391-110-110.sh-4064-1330.ha-5677-1331.he-3894-1331.fa-5467.ca-3876-64-64.cc-5485-1330-110",
