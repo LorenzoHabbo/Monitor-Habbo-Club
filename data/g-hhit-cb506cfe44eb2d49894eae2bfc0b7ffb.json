@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "20 LUGLIO 2025",
     "habboFigure": "hr-828-61.hd-180-17.ch-215-92.lg-285-82.sh-6182.he-3070-66.fa-3276-91.ca-3414-1410.cc-6184-1322",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "meow",
     "habboFigure": "hr-5971-45.hd-205-10.ch-5596-68.lg-4167-64.sh-305-1408.he-3833-71.fa-5624-72",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "sai per caso, nulla accade",
     "habboFigure": "hr-3090-31.hd-205-1.ch-255-64.lg-275-82.sh-305-1408.he-1608.fa-3276-72",
