@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-5019-37.hd-6021-8.ch-250-88.lg-3078-64.sh-3068-1408-1320.ha-1004-1320.ea-1403-64.fa-1208-90.cc-3825-66-64",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "phippho calze lunghe",
     "habboFigure": "hr-515-46.hd-205-10.ch-3203-71.lg-3138-71-1408.ha-1010-71.ea-1403-1408.wa-2004-71.cc-6166-71-71",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-39-40.hd-180-1.ch-3432-84-1408.lg-3434-84-1408.sh-3435-84-1408",
