@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Appr.Novello GD - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6091.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-6222-1322-1408.lg-5113-94.sh-3621-63-1408.ha-6203-94.ca-5592-83-1408.wa-6154-110-1325",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "phippho calze lunghe",
     "habboFigure": "hr-515-46.hd-205-10.ch-3203-71.lg-3138-71-1408.ha-1010-71.ea-1403-1408.wa-2004-71.cc-6166-71-71",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-209-1.ch-235-72.lg-3078-82.sh-906-1408",
@@ -1900,10 +1900,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-828-42.hd-205-23.ch-3498-110.lg-3933-64.sh-3587-92-92.he-3820-92.ea-5392.fa-5948-92.cc-5461-64-110",
+    "habboFigure": "hr-828-42.hd-205-23.ch-3498-110.lg-3933-64.sh-3587-92-92.ha-3544.he-5393.ea-5392.fa-5948-92.cc-5461-64-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Lunga vita e prosperità¥",
     "habboFigure": "hr-3852-1342.hd-6219-10-23.ch-5245-110.lg-5594-110.sh-6182.he-3740.fa-3276-97.ca-3885-1410-110.wa-6165-110.cc-6166-110-64",
