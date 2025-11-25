@@ -530,10 +530,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5589-1403-1403.hd-3536-10-10.ch-6223-1327-92.lg-6161-1338-77.sh-3587-92-92.ha-5511",
+    "habboFigure": "hr-6083-1403.hd-3536-10-10.ch-6223-1327-92.lg-6161-1338-77.sh-5297.ha-5511",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -570,10 +570,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Ombra minore ¥",
-    "habboFigure": "hr-3024-61.hd-6216-10-1380.ch-3076-110-110.lg-696-110.sh-5247-73-92.ca-6081-100.cc-5926-1425-110",
+    "habboFigure": "hr-3024-61.hd-6216-10-1380.ch-3076-110-110.lg-696-110.sh-5247-73-92.ha-4054.ca-6081-100.cc-5926-1425-110",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -653,7 +653,7 @@
     "online": true,
     "gender": "m",
     "motto": "cosa leggi?",
-    "habboFigure": "hr-3163-1403.hd-5525-2-1362.ch-210-91.lg-275-91.sh-6156-91.he-3821-1433-1433.ea-6270.fa-5948-92.ca-3414-63.cc-3744-91-91",
+    "habboFigure": "hr-3163-1403.hd-5525-2-1362.ch-210-91.lg-275-91.sh-6156-91.he-3821-1433-1433.ea-6270.fa-5975.ca-3414-102.cc-3744-91-91",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-70.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-93",
@@ -2270,10 +2270,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒ",
-    "habboFigure": "hr-5566-32-32.hd-627-10.ch-5245-71.lg-3216-71.sh-6156-91.he-4977-72-72.fa-3276-1408.ca-5108-1408-1408",
+    "habboFigure": "hr-5566-32-32.hd-629-10.ch-3446.lg-3526-71-1408.ha-3461.fa-3276-73",
     "memberSince": "2018-11-19T12:49:50.000+00:00",
     "uniqueId": "hhit-82471907bd4ddae32193f36dee4c0e0a",
     "name": "Jasminebaby",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5006.lg-4114-1408-96.sh-5551.ha-5774-96-1408.ea-3169-102.fa-5636-1408.cc-5761-96-1408",
@@ -2700,7 +2700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "punto di corda ritardat",
     "habboFigure": "hr-6034-49-61.hd-5524-1391-1365.ch-5110-110-92.lg-5398.sh-5639.ha-3690-100.he-5828.fa-5948-92.ca-5574-110-1412.wa-6154-1325-1408.cc-6255-110-100",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-5803-92.ha-4052.he-3070-92.cc-5800-92-1408",
