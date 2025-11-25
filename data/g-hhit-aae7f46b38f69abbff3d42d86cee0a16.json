@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rie",
     "habboFigure": "hr-828-61.hd-180-1.ch-3728-1341-1330.lg-3057-82.sh-3089-100.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-100",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "...",
     "habboFigure": "hr-6055-1403-59.hd-6216-10-1357.ch-5762-92-1324.lg-4375-96.sh-6064-92-110.ha-3741.he-5808-94.fa-5467.cc-3867-102-96",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-3386-31.hd-185-1389.ch-5358-101.lg-5909-1409-67.sh-3275-96.ha-5169-95.he-5808-106.ea-5007.fa-1211",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Buon per te.",
     "habboFigure": "hr-125-37.hd-5799-1.ch-5559-110.lg-5545-94-110.sh-3524-110-1322.ha-6198.cc-5400",
