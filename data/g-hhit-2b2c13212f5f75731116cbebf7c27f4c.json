@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico p 1  g.d",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5970-1423.sh-5671-92.ha-3709.cc-5761-107-1408",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "comandante g.d",
     "habboFigure": "hr-5275-34.hd-205-1.ch-6177-1320-91.lg-3361-1320.sh-6181-91.ha-3986.fa-5600-1408.ca-4936.cc-6175-82",
@@ -2757,6 +2757,16 @@
     "memberSince": "2013-03-14T11:19:09.000+00:00",
     "uniqueId": "hhit-e1d362604f2965f2fdfea9b984d75921",
     "name": ".:Asmodeus:.",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista Novello [GD]",
+    "habboFigure": "hr-3657-45.hd-4174-2.ch-3779-110-1325.lg-3058-64.sh-4065-1325-110",
+    "memberSince": "2013-03-24T09:09:55.000+00:00",
+    "uniqueId": "hhit-fe4e4e435b9fa97f8c53ac2f8002fbc9",
+    "name": "mario741854",
     "isAdmin": false
   },
   {
@@ -4060,10 +4070,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello G.D",
-    "habboFigure": "hr-3673-48.hd-628-1.ch-650-64.lg-710-82.sh-906-64.fa-3276-72",
+    "habboFigure": "hr-3673-48.hd-628-1.ch-655-64.lg-710-82.sh-906-64.fa-3276-72",
     "memberSince": "2017-02-06T19:20:03.000+00:00",
     "uniqueId": "hhit-e1e4b10e6b79bdc75eadc821b9a20b82",
     "name": "Chiaralolly899",
@@ -4123,7 +4133,7 @@
     "online": true,
     "gender": "f",
     "motto": "Decima esperta GD",
-    "habboFigure": "hr-5617-34-40.hd-5684-1.ch-5762-73-1408.lg-4092-64.sh-4064-64.he-5314-73-73.fa-3276-72",
+    "habboFigure": "hr-5680-34.hd-4163-1-30.ch-3598-1408-71.lg-4092-64.sh-5670-64.he-5314-64-64.fa-3276-72.wa-2001.cc-3373-64",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -8210,7 +8220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5601-89",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-13T18:18:01.000+00:00",
     "uniqueId": "hhit-91201256580eeae85a168b7e056af756",
     "name": "Celeste...",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista Novello G.D.",
-    "habboFigure": "hr-3163-1399.hd-209-1.ch-3185-107.lg-3019-1422.sh-3016-102.ha-3171-101-110.he-1607.ca-3175-1408.cp-3205",
-    "memberSince": "2023-09-15T09:37:54.000+00:00",
-    "uniqueId": "hhit-1df68dd2c94bb4e25330f88560a98eba",
-    "name": "Ken43",
     "isAdmin": false
   }
 ]
