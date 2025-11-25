@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-220-110.lg-280-1426.sh-908-92.fa-3276-100",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5073.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P.",
     "habboFigure": "hr-3810-47.hd-208-10.ch-805-84.lg-3216-74.sh-3068-82-81.ha-1014.he-3918.ea-1406.fa-1205-72.ca-1804-80",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-70.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-93",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lunga vita e prosperità¥",
     "habboFigure": "hr-3852-1342.hd-6219-10-23.ch-5245-110.lg-5594-110.sh-6182.he-3740.fa-3276-97.ca-3885-1410-110.wa-6165-110.cc-6166-110-64",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-110.lg-5594-64.sh-3252-110-1408.ha-5677-110.ca-5635-92-1408.wa-6165-110.cc-6077",

@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from the stars",
     "habboFigure": "hr-828-34.hd-180-18.ch-215-110.lg-275-110.sh-305-110.ha-1002-110.he-1609-1330",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.he-6236.fa-5600-92.cc-3542-92-100",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -2170,10 +2170,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ombra minore ¥",
-    "habboFigure": "hr-3024-61.hd-6216-10-1380.ch-3076-110-110.lg-696-110.sh-5247-73-92.ha-4054.ca-6081-100.cc-5926-1425-110",
+    "habboFigure": "hr-3024-61.hd-5799-10.ch-3076-110-110.lg-696-110.sh-5247-73-92.ca-6081-100.cc-5926-1425-110",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -3770,7 +3770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME.",
     "habboFigure": "hr-3602-32-45.hd-3845-1.ch-255-110.lg-3418-64.sh-5247-92-64.ca-6167-100-1412",

@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.he-6236.fa-5600-92.cc-3542-92-100",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-93.lg-5594-1338.sh-3089-110.ha-3709.cc-5800-110-110",
@@ -453,7 +453,7 @@
     "online": true,
     "gender": "m",
     "motto": "Per sempre nel mio cuore |||",
-    "habboFigure": "hr-4941-61-1347.hd-180-1389.ch-5833-1322-76.lg-3787-63-75.sh-3587-92-93.he-3070-93.fa-1201",
+    "habboFigure": "hr-4941-61-46.hd-180-1389.ch-5833-1431-1408.lg-3787-1330-75.sh-3587-92-93.he-3070-93.fa-1201",
     "memberSince": "2009-08-03T22:05:35.000+00:00",
     "uniqueId": "hhit-c79cf730fbcdde55c65a32605e94393d",
     "name": ".T-Money.",
@@ -570,10 +570,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ombra minore ¥",
-    "habboFigure": "hr-3024-61.hd-6216-10-1380.ch-3076-110-110.lg-696-110.sh-5247-73-92.ha-4054.ca-6081-100.cc-5926-1425-110",
+    "habboFigure": "hr-3024-61.hd-5799-10.ch-3076-110-110.lg-696-110.sh-5247-73-92.ca-6081-100.cc-5926-1425-110",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
     "name": "parajama",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-5074-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5073.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-70.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-93",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Coniglio con licenza di uccidere",
     "habboFigure": "hr-891-42.hd-195-10.ch-255-1408.lg-275-1408.ha-1008.he-1609-1408.ea-1406.fa-5456-66",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-45.hd-190-10.ch-3030-64.lg-3078-82.sh-906-1408.he-1608",
@@ -3890,7 +3890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-110.lg-5594-64.sh-3252-110-1408.ha-5677-110.ca-5635-92-1408.wa-6165-110.cc-6077",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-5803-92.ha-4052.he-3070-92.cc-5800-92-1408",
