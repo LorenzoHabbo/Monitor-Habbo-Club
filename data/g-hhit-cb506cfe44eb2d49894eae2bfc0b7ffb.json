@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3845-1391.ch-3538-1322.lg-5113-94.sh-3621-63-1408.ha-5468-94-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
@@ -1740,7 +1740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-31.hd-205-2.ch-3934-64-110.lg-280-64.sh-305-92.he-5466.fa-3276-1329.cc-3917-64",
