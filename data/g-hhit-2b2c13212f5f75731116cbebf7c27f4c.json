@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -460,10 +460,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-34.hd-615-1.ch-3788-74.lg-5909-1320-1320.ha-6091.fa-3276-72",
+    "habboFigure": "hr-5914-42-42.hd-4383-10-14.ch-5310-73-1408.lg-3483-73-73.ha-3461.fa-3276-72",
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico p 1  g.d",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-3013-92.lg-5970-1423.sh-5671-92.ha-3709.cc-5761-107-1408",
@@ -1473,7 +1473,7 @@
     "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH|",
-    "habboFigure": "hr-4117-31-40.hd-3845-1.ch-3446.lg-3361-96.sh-3467.ha-3461.ca-3916-1413-1408",
+    "habboFigure": "hr-4117-31-40.hd-3100-1.ch-3446.lg-3361-96.sh-3467.ha-3461.ca-3916-1413-1408",
     "memberSince": "2011-01-24T22:01:51.000+00:00",
     "uniqueId": "hhit-4e13ca6b20f37f44e5f277c1fa174fbb",
     "name": "POWAALEBAN3-.-",
@@ -6940,7 +6940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-5088.cc-6119",
@@ -8450,7 +8450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Naples",
     "habboFigure": "hd-205-1.ch-3030-71.lg-3216-71.sh-3180-73-73.ha-3734.he-4022.ea-1404-1408.fa-1201.ca-1809.wa-2008",
