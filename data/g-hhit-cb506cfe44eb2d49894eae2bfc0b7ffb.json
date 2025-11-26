@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":)",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
@@ -1813,7 +1813,7 @@
     "online": false,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
-    "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5073.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
+    "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-70.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-93",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-6034-1407-41.hd-5525-23-28.ch-3934-64-64.lg-3483-110-64.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-3844-92-92",
