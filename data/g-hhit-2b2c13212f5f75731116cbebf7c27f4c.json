@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -463,7 +463,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5914-42-42.hd-4383-10-14.ch-5310-73-1408.lg-3483-73-73.ha-3461.fa-3276-72",
+    "habboFigure": "hr-4186-45.hd-4383-10-14.ch-3788-74.lg-5909-73-73.ha-4050.fa-3276-72",
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Appr.Novello GD - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6091.he-6173-100.ea-4161.fa-5636-89.wa-2004-96.cc-6184-100",
@@ -6940,7 +6940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-5088.cc-6119",
@@ -8450,7 +8450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Naples",
     "habboFigure": "hd-205-1.ch-3030-71.lg-3216-71.sh-3180-73-73.ha-3734.he-4022.ea-1404-1408.fa-1201.ca-1809.wa-2008",
