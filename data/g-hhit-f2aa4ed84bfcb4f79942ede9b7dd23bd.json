@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.ha-3488.fa-5600-92.cc-3542-92-100",
@@ -2172,7 +2172,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Ombra minore ¥",
+    "motto": "",
     "habboFigure": "hr-3024-61.hd-6216-10-1380.ch-3076-110-110.lg-696-110.sh-5247-73-92.ca-6081-100.cc-5926-1425-110",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
@@ -4120,10 +4120,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LA FLAME.",
-    "habboFigure": "hr-3829-45.hd-3845-1.ch-3030-92.lg-275-110.sh-5308-92.ha-4324.he-6171-1408-92.fa-5691-92-110.ca-5936-92.wa-5986-110.cc-6204-110",
+    "habboFigure": "hr-3602-32-45.hd-3845-1.ch-255-110.lg-3418-64.sh-5247-92-64.ca-6167-100-1412",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -6820,7 +6820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "But Every Tears Has Been a Lesson!",
     "habboFigure": "hr-893-39.hd-209-1.ch-255-76.lg-4309.sh-3068-76-1408.ha-4324.he-4381.ea-3484.ca-4957",
