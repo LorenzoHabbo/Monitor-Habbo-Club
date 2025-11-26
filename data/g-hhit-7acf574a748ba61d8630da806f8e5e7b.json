@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hr-5390-34-40.hd-180-10.ch-5258.lg-4125.sh-5869-66-1408.ha-1008.ea-5009",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -583,7 +583,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5019-49.hd-3845-28.ch-5559-1408.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408.cp-3315-110",
+    "habboFigure": "hr-5019-49.hd-3845-28.ch-3167.lg-3787-110-110.sh-3089-110.he-1609-110.fa-1209-110.wa-4060-110-110.cc-3509-110-1408",
     "memberSince": "2010-07-13T20:56:54.000+00:00",
     "uniqueId": "hhit-fd2bffd5ce1b2ebd10cbbb1a6a730b6f",
     "name": "Infernus94",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3528-71-1408.lg-3391-72-71.sh-3621-71-73.ea-1401-71.cc-4106-73-1408",
@@ -2030,16 +2030,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
-    "motto": "",
-    "habboFigure": "hr-3841-37.hd-180-1.ch-235-64.lg-280-1408.sh-300-91.ea-3484.fa-3344-91",
-    "memberSince": "2019-11-13T19:40:41.000+00:00",
-    "uniqueId": "hhit-37ea08b3fb214dece3b9f0fc58e69aaf",
-    "name": "boymanuelm74",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "f",
     "motto": "apprendista novello gd",
@@ -2100,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5006.lg-4114-1408-96.sh-5551.ha-5774-96-1408.ea-3169-102.fa-5636-1408.cc-5761-96-1408",
@@ -2610,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ei ciao",
     "habboFigure": "hr-4162-1406.hd-5838-10-1360.ch-5361-76.lg-6089-76-1408.sh-5868.ha-3272-76-1413.fa-5467.ca-5936-63.cc-5926-1412-91",
@@ -3150,7 +3140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Aiutante  Esperto G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -3160,7 +3150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-71.lg-270-82.sh-300-1408.ea-1406.ca-1809",
@@ -3530,7 +3520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-1395-1395.hd-6216-1391-1376.ch-3540-1430.lg-3006-100-100.sh-3277-100-1430.ha-3461.he-5088.cc-5800-100-1430",
