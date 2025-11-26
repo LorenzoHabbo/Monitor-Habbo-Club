@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-1403.hd-3536-10-10.ch-6223-1327-92.lg-6161-1338-77.sh-5297.he-6236.fa-5467.ca-6228",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "El Bombon - Los Palmeras",
     "habboFigure": "hr-3163-49.hd-5525-2-28.ch-3934-92-64.lg-275-92.sh-6156-92.he-5466.fa-5948-92",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-45.hd-190-10.ch-5608-64.lg-5594-82.sh-3383-66-90.ha-5851.fa-3462-91",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Allons-Y",
     "habboFigure": "hr-4941-49-1354.hd-3095-1359.ch-4111-92.lg-3596-92-92.sh-3027-92-1408.ha-4194.ea-3484.fa-3865-92.ca-3466-1408-92.cc-6077",
@@ -1500,10 +1500,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
-    "habboFigure": "hr-828-1405.hd-180-18.ch-5559-92.lg-281-1335.sh-3035-96.he-3070-92.ca-1816",
+    "habboFigure": "hr-828-1405.hd-195-18.ch-3001-1335-1408.lg-285-110.sh-908-92.he-3070-92.ca-4115-110-92.cc-5485-92-96",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -1650,7 +1650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dedito al bello *-*",
     "habboFigure": "hr-4941-52-52.hd-3091-1370.ch-3234-110.lg-3235-110.sh-3089-1432.he-3070-93.ea-3484.ca-6167-1413-92.cc-3946-1430",
@@ -1690,10 +1690,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
+    "habboFigure": "hr-3671-60-40.hd-5522-1390-14.ch-3433-92-1408.lg-3787-92-92.ha-5379-90-66.he-1610.fa-5703.wa-2001.cc-6111",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -2300,10 +2300,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-6034-1407-41.hd-5525-23-28.ch-3934-64-64.lg-3483-110-64.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-3844-92-92",
+    "habboFigure": "hr-6034-1407-41.hd-5525-26-28.ch-3934-64-64.lg-5594-110.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-5936-92.wa-5986-110.cc-5926-110-92.cp-3122-80",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1002-91.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
@@ -4340,7 +4340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-5803-92.ha-4052.he-3070-92.cc-5800-92-1408",
