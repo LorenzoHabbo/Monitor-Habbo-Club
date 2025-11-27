@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-3852-1404.hd-3845-10.ch-3540-85.lg-3006-100-100.sh-5308-100.he-5314-100-100.fa-5467.cc-5800-100-85",
@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-5969-34.hd-3956-1-20.ch-665-74.lg-3078-82.sh-906-74.he-3274-74.wa-2012.cc-3975-74-1408",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.cc-5800-108-1408",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -4490,7 +4490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| | |",
     "habboFigure": "hr-6083-45.hd-4163-10-1371.ch-4067-1320-81.lg-3023-91.sh-5670-90.he-3858-90.fa-5467.wa-3661-90-66",
