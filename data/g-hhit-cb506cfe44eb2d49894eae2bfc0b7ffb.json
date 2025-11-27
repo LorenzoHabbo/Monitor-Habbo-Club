@@ -340,10 +340,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "svendo dipinti ultimi giorni",
-    "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-96.lg-4066-110.ha-3586.he-3740.fa-3276-92",
+    "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-96.lg-4066-110.ha-3586.he-3740.fa-3276-92.cc-6115-96-1424",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -650,10 +650,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "El Bombon - Los Palmeras",
-    "habboFigure": "hr-3163-1342.hd-5525-15-30.ch-3934-110-110.lg-280-91.sh-5247-1408-1408.he-3891.ea-6270.fa-5948-92.ca-3084-1324-1337.cc-3360-1408",
+    "habboFigure": "hr-3163-61.hd-5525-2-1372.ch-3934-1408-110.lg-5594-64.sh-6156-92.he-5466.fa-5948-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "e-e truffa",
     "habboFigure": "hr-5503-31.hd-600-1.ch-5917-71.lg-3216-74.sh-5671-71.fa-3276-73.ca-3844-71-1408.cc-5826-1408",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -1760,10 +1760,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "...",
-    "habboFigure": "hr-4186-1342.hd-6216-10-1362.ch-4353-1414-96.lg-3387-110-110.sh-5308-89.ha-4354-1328-96.he-3070-92.fa-5467.cc-4137-96",
+    "habboFigure": "hr-4363-1403-1403.hd-6216-10-1367.ch-3293-110-92.lg-3387-110-110.sh-5308-89.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5619-1342.hd-5913-28.ch-660-1428.lg-710-110.sh-5803-92.ha-5301-110.he-5808-92.ea-5576-1408-1408.fa-5467.ca-3292-1427.cc-6166-1412-92.cp-3207-1408-1408",
@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Addio!!",
     "habboFigure": "hr-6083-1400.hd-4383-9-1367.ch-5245-92.lg-5594-110.sh-3089-96.ha-3461.he-5088.fa-3276-96.wa-5370.cc-5926-96-92",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Matagazzu?",
     "habboFigure": "hr-4363-1342-40.hd-6216-1-1364.ch-4067-92-1408.lg-700-92.sh-5803-92.ha-3544.he-3149-92.fa-5467.ca-5916-92-92.wa-6165-1421.cc-4300-1337-89",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-180-1370.ch-215-1408.lg-275-73.sh-295-64.fa-5601-1408",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-31.hd-205-2.ch-3934-64-110.lg-280-64.sh-305-92.he-5466.fa-3276-1329.cc-3917-64",
@@ -3890,7 +3890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-110.lg-5594-64.sh-3252-110-1408.ha-5677-110.ca-5635-92-1408.wa-6165-110.cc-6077",
