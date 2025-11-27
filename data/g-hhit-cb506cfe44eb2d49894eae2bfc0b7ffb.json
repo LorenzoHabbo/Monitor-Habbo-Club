@@ -1690,10 +1690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
+    "online": false,
+    "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3692-110-92",
+    "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "...",
     "habboFigure": "hr-4363-1403-1403.hd-6216-10-1367.ch-3293-110-92.lg-3387-110-110.sh-5308-89.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
@@ -2910,7 +2910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-5791-1397.hd-6219-2-1365.ch-3030-92.lg-4138-92.ha-5301-92.he-5074-64.fa-4044.ca-4936.wa-4060-92-1409.cc-3867-92-92",
@@ -3450,7 +3450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5601-89",
