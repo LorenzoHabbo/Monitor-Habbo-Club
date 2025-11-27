@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH|",
     "habboFigure": "hr-4117-31-40.hd-3100-1.ch-3446.lg-3361-96.sh-3467.ha-3461.ca-3916-1413-1408",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-209-8.ch-3321-73.lg-3596-64-1408.sh-3068-1408-1408.fa-3993-91.cc-4184-73-1408",
@@ -7070,7 +7070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
