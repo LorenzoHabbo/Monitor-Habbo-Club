@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "phippho calze lunghe",
     "habboFigure": "hr-515-46.hd-205-10.ch-5488-71.lg-270-1408.ha-1010-71.ea-1403-1408.wa-2004-71.cc-6166-71-71",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5006.lg-4114-1408-96.sh-5551.ha-5774-96-1408.ea-3169-102.fa-5636-1408.cc-5761-96-1408",

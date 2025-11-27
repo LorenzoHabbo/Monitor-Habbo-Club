@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich.",
     "habboFigure": "hr-3829-49.hd-4174-2.ch-3934-92-110.lg-5594-77.sh-5464-92-1325.he-3660-78-110.fa-5384-92.ca-5934-1427.wa-3074-1325-1325.cc-3360-64",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.ha-3488.fa-5600-92.cc-3542-92-100",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3800-45-40.hd-190-1.ch-876-64-1408.lg-280-64.sh-295-64.fa-3344-91.cc-3827-85-64",
@@ -8650,7 +8650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",

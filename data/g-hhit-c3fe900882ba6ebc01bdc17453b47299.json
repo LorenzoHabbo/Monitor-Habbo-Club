@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-100.sh-290-100.ha-3488.fa-5600-92.cc-3542-92-100",
@@ -880,10 +880,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
-    "habboFigure": "hr-6063-55.hd-6216-2-1372.ch-5607-106.lg-5970-106.sh-5297.ha-5294.he-5802-92.fa-4185-1328.ca-6190.wa-5123-95.cc-5291",
+    "habboFigure": "hr-6063-1405.hd-6216-2-30.ch-5374-98-1322.lg-5909-98-98.sh-5729-110-98.ha-5468-110-98.he-5808-110.fa-5691-98-110.ca-6235.wa-5123-110.cc-5825",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
