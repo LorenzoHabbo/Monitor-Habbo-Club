@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-3860-1407-49.hd-3102-18.ch-3934-110-110.lg-4138-110.sh-6182.he-3740.fa-4044.cc-6217",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "dancing in the moonlight~ A.|",
     "habboFigure": "hr-4363-49-49.hd-6216-28-1365.ch-650-110.lg-5594-77.sh-5803-92.he-5314-77-77.fa-5467",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabb",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
