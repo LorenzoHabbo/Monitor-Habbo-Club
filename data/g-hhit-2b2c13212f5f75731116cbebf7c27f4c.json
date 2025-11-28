@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -4100,6 +4100,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-3090-34.hd-180-1.ch-230-82.lg-3088-1408-64.sh-906-81.wa-2009-1408",
+    "memberSince": "2017-02-20T18:38:16.000+00:00",
+    "uniqueId": "hhit-41ba28c13610f4d52c9186241a5098fc",
+    "name": "trizio92",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "f",
     "motto": "Colombia",
@@ -4490,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| | |",
     "habboFigure": "hr-6083-45.hd-4163-10-1371.ch-4067-1320-81.lg-3023-91.sh-5670-90.he-3858-90.fa-5467.wa-3661-90-66",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-13T18:18:01.000+00:00",
     "uniqueId": "hhit-91201256580eeae85a168b7e056af756",
     "name": "Celeste...",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista Novello G.D.",
-    "habboFigure": "hr-3163-1399.hd-209-1.ch-3185-107.lg-3019-1422.sh-3016-102.ha-3171-101-110.he-1607.ca-3175-1408.cp-3205",
-    "memberSince": "2023-09-15T09:37:54.000+00:00",
-    "uniqueId": "hhit-1df68dd2c94bb4e25330f88560a98eba",
-    "name": "Ken43",
     "isAdmin": false
   }
 ]
