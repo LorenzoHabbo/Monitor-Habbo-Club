@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "svendo dipinti ultimi giorni",
     "habboFigure": "hr-5680-45.hd-4383-28-30.ch-3005-110-110.lg-5974-110-110.ha-3690-1408.fa-3276-1414",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "It's leviosa, not leviosà.",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.cc-3867-100-110",
@@ -4360,7 +4360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Anima perduta N.T.",
     "habboFigure": "hr-3829-1395.hd-3845-7.ch-5596-92.lg-5594-63.sh-4112-110-1408.ha-4192.he-5808-1408.fa-4058-1408.ca-5936-1408.cc-5926-110-92",
