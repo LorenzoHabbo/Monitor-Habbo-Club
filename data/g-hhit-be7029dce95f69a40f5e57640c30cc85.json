@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "In pensione.",
     "habboFigure": "hd-5522-1-14.ch-5452-66-1408.lg-3116-1408-1408.sh-5551.he-3550.fa-5703.ca-5550.wa-2007.cc-5622",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5018-45-40.hd-600-10.ch-3351-1408-1408.lg-3526-80-1408.fa-3276-72.ca-3702-80-1408",
@@ -8650,7 +8650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
