@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5247-92-92.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
@@ -1930,7 +1930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "..",
     "habboFigure": "hr-4118-44.hd-3631-1-1371.ch-3540-71.lg-3290-81.sh-5551.fa-3276-72",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
