@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "since 2009",
     "habboFigure": "hr-5971-40.hd-190-10.ch-5596-1408.lg-5970-1408.sh-3383-1408-1408.fa-5600-1408.ca-5583.wa-5674.cc-5622",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-180-1370.ch-3030-64.lg-4114-64-1408.sh-295-64",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-5803-92.ha-4052.he-3070-92.cc-5800-92-1408",
