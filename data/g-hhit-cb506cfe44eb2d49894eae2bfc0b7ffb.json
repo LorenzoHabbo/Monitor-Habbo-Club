@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per sempre nel mio cuore |||",
     "habboFigure": "hr-4941-61-1347.hd-3091-1389.ch-5833-1430-1408.lg-3787-1412-1431.sh-3587-92-93.he-3070-93.fa-1201",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -1690,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4193-31.hd-6021-1389.ch-5358-1413.lg-4191-101-106.sh-3275-1321.ha-1006.he-5767-1327-67.ea-6053-110.fa-1211.wa-6165-1321",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-31.hd-205-2.ch-3934-64-110.lg-280-64.sh-305-92.he-5466.cc-3917-64",
@@ -3820,7 +3820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-100.hd-180-8.ch-5488-84.lg-3088-71-1408.sh-290-71.ha-1014.ea-1404-64.fa-1208-64",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-5803-92.ha-4052.he-3070-92.cc-5800-92-1408",
