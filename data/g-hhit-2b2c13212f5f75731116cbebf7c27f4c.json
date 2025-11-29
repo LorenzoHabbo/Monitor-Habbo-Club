@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -1350,7 +1350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "portavoce angelico p 1  g.d",
     "habboFigure": "hr-5680-1399.hd-3100-8.ch-4166-92-110.lg-5970-110.sh-5670-92.ha-3709",
@@ -6810,7 +6810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ei ciao",
     "habboFigure": "hr-4162-1406.hd-5838-10-1360.ch-5361-76.lg-6089-76-1408.sh-5868.ha-3272-76-1413.fa-5467.ca-5936-63.cc-5926-1412-91",
