@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "che shoook!... twitch.tv/ttnovee",
     "habboFigure": "hr-3163-1407.hd-207-1.ch-3981-92-64.lg-3078-92.ha-5075-92.ea-5576-1428-92.fa-3276-110.ca-5916-63-1408.cp-3128-64",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
     "habboFigure": "hr-3852-61.hd-627-2.ch-4087-92.lg-5594-110.sh-5247-92-92.he-3732.ea-3108-63-1408.cc-5926-1325-1408",
@@ -1770,10 +1770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a gift :)",
-    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-92.lg-3257-1341.sh-3089-110.ha-3461.he-3740.ea-1402.fa-3276-72.ca-3485.cc-5800-110-92",
+    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-1323.lg-3257-1341.sh-3089-110.ha-3461.he-3740.ea-1402.fa-3276-72.ca-3485.cc-5800-110-1323",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -2213,7 +2213,7 @@
     "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
-    "habboFigure": "hr-5898-31-44.hd-3845-10.ch-630-1408.lg-4066-64.sh-3524-73-1408.fa-3276-1408.cc-5440-73-1408",
+    "habboFigure": "hr-5898-31-44.hd-3845-10.ch-3446.lg-4369-73-73.sh-3524-73-1408.ha-3461.fa-3276-1408",
     "memberSince": "2020-04-27T14:00:56.000+00:00",
     "uniqueId": "hhit-9ca83877f1b71181a8f009d0ac76c1b3",
     "name": "Ellie_williams",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Lunga vita e prosperità¥",
     "habboFigure": "hr-3852-1342.hd-6219-10-23.ch-3540-110.lg-5594-110.he-5767-110-92.fa-3276-97",
