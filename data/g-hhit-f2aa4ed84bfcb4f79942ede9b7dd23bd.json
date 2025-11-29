@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥ APACHE ¥",
     "habboFigure": "hr-515-31.hd-190-14.ch-255-1408.lg-3626-1408-1408.ea-3640",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-49.hd-6216-27-1364.ch-655-110.lg-5594-110.sh-5803-92.ha-5301-110.fa-5975.wa-6154-1428-110.cc-5690-110",
