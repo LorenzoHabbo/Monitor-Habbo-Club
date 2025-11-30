@@ -530,10 +530,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6083-1403.hd-3536-10-10.ch-6223-1327-92.lg-6161-1338-77.sh-5297.ha-6250-1337-92.he-6236.fa-5467.cc-4300-1337-92",
+    "habboFigure": "hr-6083-1403.hd-3536-10-10.ch-6060-1412-100.lg-3006-1338-77.sh-3587-92-92.he-4293-92.fa-5467",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabb",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
