@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a gift :)",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-93.lg-3257-1341.sh-3089-110.ha-3461.he-3740.ea-1402.fa-3276-72.ca-3485.cc-5800-110-96",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mordo",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.sh-3419-64-1408.he-3660-64-1408.fa-3378-64-1408.wa-4317-1408",
