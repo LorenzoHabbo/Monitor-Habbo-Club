@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3092-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63.fa-3276-63",
@@ -1773,7 +1773,7 @@
     "online": true,
     "gender": "m",
     "motto": "Life is a gift :)",
-    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-93.lg-3257-1341.sh-3089-110.ha-3709.he-3740.ea-1402.fa-3276-72.ca-3485.cc-5800-110-96",
+    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-93.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-96",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -1903,7 +1903,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.cc-5800-63-63",
+    "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.he-3820-92.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Toma mucho tiempo llegar a ser joven",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3934-92-110.lg-3418-110.sh-3016-110.ha-4325.he-5348.fa-3296.ca-6213-63-1408.cc-5800-110-110",
@@ -2600,7 +2600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ei ciao",
     "habboFigure": "hr-4162-1406.hd-5838-10-1360.ch-5361-76.lg-6089-76-1408.sh-5868.ha-3272-76-1413.fa-5467.ca-5936-63.cc-5926-1412-91",
