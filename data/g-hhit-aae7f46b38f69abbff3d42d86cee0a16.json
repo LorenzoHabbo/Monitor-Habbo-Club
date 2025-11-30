@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-6127-1342.hd-5913-22.ch-665-92.lg-710-1334.sh-5803-92.ha-5301-92.he-3070-92.ea-5576-1408-1408.fa-5467.cc-5800-1427-1427",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "AC/DC",
     "habboFigure": "hr-891-44.hd-209-1370.ch-5830-85.lg-3078-64.sh-295-90.ha-1004-64.fa-1202-73",
