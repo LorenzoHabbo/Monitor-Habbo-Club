@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "It's leviosa, not leviosà.",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.cc-3867-100-110",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Toma mucho tiempo llegar a ser joven",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3934-92-110.lg-3418-110.sh-3016-110.ha-4325.he-5348.fa-3296.ca-6213-63-1408.cc-5800-110-110",
@@ -2710,7 +2710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
@@ -4190,7 +4190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred fabbro",
     "habboFigure": "hr-5773-1394.hd-4383-2-1383.ch-5560-1331-110.lg-5594-110.sh-5308-1409.ha-5469-1325-1409.he-6173-100.ea-3484.fa-3276-1413.cc-5307-1409",
