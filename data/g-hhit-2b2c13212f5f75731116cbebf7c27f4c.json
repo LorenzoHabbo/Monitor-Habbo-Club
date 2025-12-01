@@ -172,7 +172,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Corleone",
+    "motto": "",
     "habboFigure": "hr-5503-40.hd-3845-10.ch-4165-64-64.lg-3088-1408-64.sh-3383-64-64.ha-1013-64.ea-1404-64.fa-3344-1408.wa-5599-64-64",
     "memberSince": "2007-12-08T11:40:11.000+00:00",
     "uniqueId": "hhit-22f4495677cafa3e06f6f45ec68c84e8",
@@ -293,7 +293,7 @@
     "online": true,
     "gender": "f",
     "motto": "Apprendista novello G.D",
-    "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3320-82-73.sh-3419-73-64.ha-1006.he-3974.fa-3276-72.ca-1815-1408.cc-3744-82-64",
+    "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3320-82-73.sh-3383-64-1408.ha-1006.he-3974.fa-3276-72.ca-1815-1408.cc-3744-82-64",
     "memberSince": "2008-06-08T23:22:22.000+00:00",
     "uniqueId": "hhit-32ecec70925e159097223a54c8c78b77",
     "name": "cinzietta31",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH||",
     "habboFigure": "hr-4117-31-40.hd-3100-1.ch-3446.lg-3361-96.sh-3467.ha-3461.ca-3916-1413-1408",
@@ -2460,10 +2460,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime GD",
-    "habboFigure": "hr-6083-1407.hd-4163-1-14.ch-3013-1409.lg-3483-110-110.sh-6181-1409.ca-5635-92-92",
+    "habboFigure": "hr-6083-1407.hd-4163-1-14.ch-3540-96.lg-710-110",
     "memberSince": "2012-04-30T09:29:57.000+00:00",
     "uniqueId": "hhit-4da73f87a4622d2ca38451abb0034c3e",
     "name": "rossella880",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1404-54.hd-3631-1389-1372.ch-3013-1424.lg-3483-110-71.he-5578-110.ea-1402.fa-3276-1328.cc-5440-110-71",
@@ -4503,7 +4503,7 @@
     "online": true,
     "gender": "f",
     "motto": "¥ƒ|",
-    "habboFigure": "hr-6083-45.hd-4163-10-1371.ch-4067-1320-81.lg-3023-91.sh-5670-90.he-3858-90.fa-5467.wa-3661-90-66",
+    "habboFigure": "hr-6083-45.hd-4163-10-1371.ch-4067-1320-75.lg-3116-64-64.sh-5670-90.he-3858-90.fa-5467.wa-3661-90-66",
     "memberSince": "2018-01-06T22:56:26.000+00:00",
     "uniqueId": "hhit-ffad8a2aaf3f1ff5ef2284cff8d28af4",
     "name": "marta5520",
@@ -4870,7 +4870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -7410,7 +7410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista",
     "habboFigure": "hr-5567-35.hd-629-10.ch-655-64.lg-4341-73.sh-905-1408",
