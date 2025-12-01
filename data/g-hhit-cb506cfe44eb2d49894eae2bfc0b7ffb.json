@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "svendo dipinti ultimi giorni",
     "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-96.lg-4066-110.ha-3461.he-5808-1408.fa-3276-92.ca-1815-92",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "e oggi è come ieri",
     "habboFigure": "hr-3163-1342.hd-205-18.ch-210-92.lg-281-77.sh-908-92.he-3070-92.cc-5800-110-110",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-4363-1403-1403.hd-6216-10-1367.ch-3293-110-92.lg-3387-110-110.sh-5308-89.he-4946-110.fa-5467.ca-5635-92-110.cc-4979-64",
@@ -1883,14 +1883,14 @@
     "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-3852-1342.hd-605-18.ch-660-92.lg-710-110.sh-5803-92.ha-5340.he-5808-1408.fa-5467.ca-3292-92",
+    "habboFigure": "hr-3852-1342.hd-605-18.ch-660-92.lg-710-110.sh-5803-92.ha-5340.he-5808-92.fa-5467.ca-3292-92",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-190-15.ch-255-110.lg-280-110.sh-3587-92-1408.he-3070-92.cc-6166-96-92",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Quando sei diversa, ti senti un errore",
     "habboFigure": "hr-9534-1404.hd-629-1383.ch-3197-110.lg-3078-110.sh-3016-1335.he-3149-1335.fa-3378-1335-110.cc-3157-1335",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " commerciante afrodisiaco",
     "habboFigure": "hr-3725-42.hd-190-10.ch-4165-64-71.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
@@ -2680,7 +2680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-34.hd-180-20.ch-804-80.lg-3088-64-64.sh-295-1408.ha-1005-64.ea-1406.ca-5737-64.wa-2006",
@@ -2690,7 +2690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-267-85.lg-3023-85.sh-3524-64-1408.he-1608.ca-1812",
@@ -2750,7 +2750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Matagazzu?",
     "habboFigure": "hr-4363-1342-40.hd-6216-1-1364.ch-4067-92-1408.lg-700-92.sh-5803-92.ha-3544.he-3149-92.fa-5467.ca-5916-92-92.wa-6165-1421.cc-4300-1337-89",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥",
     "habboFigure": "hr-5619-1407.hd-615-1.ch-4128-110-92.lg-3006-110-92.sh-5803-92.ha-5620-110.he-3891.fa-5600-92.cc-5926-1335-1408",
@@ -2913,7 +2913,7 @@
     "online": true,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
-    "habboFigure": "hr-5791-1397.hd-6219-2-1365.ch-3030-92.lg-4138-92.ha-5301-92.he-5074-64.fa-4044.ca-4936.wa-4060-92-1409.cc-3867-92-92",
+    "habboFigure": "hr-5791-1398.hd-6219-2-1365.ch-3030-73.lg-4138-73.ha-5301-73.he-5074-64.fa-4044.ca-4936.wa-4060-92-1409.cc-3867-1431-1432",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -3253,7 +3253,7 @@
     "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
-    "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
+    "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.ha-3461.he-3376-110-1408.cc-3389-110-1323",
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
@@ -3290,7 +3290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-45.hd-190-10.ch-3030-64.lg-3078-82.sh-906-1408.he-1608",
@@ -3450,7 +3450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.he-3070-92.fa-5601-89",
@@ -3723,7 +3723,7 @@
     "online": true,
     "gender": "f",
     "motto": "Custode dei 13 the100  TheHitcher_97 |",
-    "habboFigure": "hr-3791-32.hd-4163-1-1369.ch-665-1408.lg-4369-1408-1408.sh-5308-1408.he-6171-1408-73.fa-5601-1408.ca-1815-1408.cc-3326-90-91",
+    "habboFigure": "hr-3791-32.hd-4163-1-1369.ch-3459.lg-4369-1408-1408.sh-5308-1408.ha-3461.he-6171-1408-73.fa-5601-1408.ca-1815-1408.cc-3326-90-91",
     "memberSince": "2023-12-22T10:53:21.000+00:00",
     "uniqueId": "hhit-077cd475971c5d1a55ee36a304c79a2f",
     "name": "Cristalgemma",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-39-40.hd-180-1.ch-3432-84-1408.lg-3434-84-1408.sh-3435-84-1408",
@@ -3800,10 +3800,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1404.hd-205-2.ch-3032-110-110.lg-281-64.sh-305-92.he-3740",
+    "habboFigure": "hr-5019-61.hd-205-2.ch-3934-92-110.lg-3078-64.sh-305-92.ea-5897-110-110.fa-3344-110.ca-5936-1410",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-1408-92.lg-5970-1426.sh-6156-92.ha-5774-92-92.fa-5467",
@@ -4123,7 +4123,7 @@
     "online": false,
     "gender": "f",
     "motto": "se non esiste altro modo.",
-    "habboFigure": "hr-6083-1404.hd-615-2.ch-3165-64.lg-3006-64-110.sh-6181-89.ha-3144-89-64.he-3070-92.fa-3276-72.ca-5635-92-92.cc-4091-64.cp-3207-110-110",
+    "habboFigure": "hr-5773-1404.hd-615-2.ch-4087-92.lg-3006-1338-1338.sh-6181-77.ha-3363.he-3070-92.fa-5467.ca-5635-92-92.cc-4091-64",
     "memberSince": "2024-10-29T23:47:25.000+00:00",
     "uniqueId": "hhit-1c1a399838acbdfcbdedf57d2e699fa4",
     "name": "Dueminuti",
