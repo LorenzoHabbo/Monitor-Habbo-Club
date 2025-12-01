@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -3800,7 +3800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1404.hd-205-2.ch-3032-110-110.lg-281-64.sh-305-92.ha-3145-110-92.he-3740",
@@ -3810,7 +3810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5772-1342-61.hd-627-1383.ch-3935-110-110.lg-3192-110.sh-5247-92-92.he-5279.ea-6270.fa-3276-1412.cc-5926-110-110",
@@ -4850,7 +4850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "la vostra invidia è la mia forza",
     "habboFigure": "hr-3841-61.hd-3091-8.ch-5596-63.lg-3596-92-92.sh-3419-110-92.ha-3461.ca-5759.cc-5622",
