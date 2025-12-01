@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5258.lg-4125.sh-5869-76-1408.ha-4324.ea-5743-1408",
@@ -1890,10 +1890,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5791-61.hd-3845-1391.ch-3688-110.lg-5594-110.he-3070-92.fa-3276-96.cc-4979-110",
+    "habboFigure": "hr-5791-61.hd-3845-27.ch-3688-110.lg-5594-110.he-3070-92.fa-3276-96.cc-4979-110",
     "memberSince": "2009-09-22T17:15:48.000+00:00",
     "uniqueId": "hhit-216c58552359918f0949b0f2bdaaf652",
     "name": "francescobot",
@@ -2290,10 +2290,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
-    "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.ca-1816.wa-5123-110.cp-3125-92",
+    "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
     "memberSince": "2010-01-10T10:04:19.000+00:00",
     "uniqueId": "hhit-9a8a5badd64dda4e6ebc49b34559d23e",
     "name": "cristian666",
@@ -3870,10 +3870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
-    "habboFigure": "hr-5566-1342-1342.hd-6216-10-1365.ch-665-92.lg-5594-1326.sh-5803-92.ha-3709.he-6173-1414.fa-5467.wa-5370.cc-5440-1414-1326",
+    "habboFigure": "hr-5566-1342-1342.hd-6216-28-1365.ch-5595-92.lg-5594-77.sh-5803-92.ha-6197.he-5808-110.fa-5467.ca-5738-1339.wa-5370.cc-5800-92-92",
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": ".Bibol.",
@@ -5010,7 +5010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "[ NºT ] Dama dell'Oscurità [ NºT ]",
     "habboFigure": "hr-6010-1401-1401.hd-3100-1370.ch-5917-100.lg-5594-1338.sh-3089-92.ha-6250-1338-1408.ea-3484.fa-5600-1408.cc-5926-92-92",
@@ -5940,7 +5940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-3163-34.hd-180-2.ch-6179-92.lg-281-92.sh-6182.ha-3620.he-6183.fa-3276-96.cc-6184-107",
@@ -6480,7 +6480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-828-1344.hd-3095-1389.ch-5856.lg-5594-1427.sh-3089-110.ha-5866.he-5813-1410-92.fa-5600-1423.ca-4037-106-92.cp-5878-63",
@@ -6863,7 +6863,7 @@
     "online": false,
     "gender": "f",
     "motto": "yøløwn",
-    "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5374-110-1408.lg-6000-110.sh-6043.ha-6198.he-6173-100.fa-5467.ca-6041.wa-5370.cc-3542-100-100",
+    "habboFigure": "hr-6063-49.hd-6216-28-1367.ch-5374-110-1408.lg-6000-110.sh-6043.ha-5774-100-92.he-6173-100.fa-5467.ca-6041.wa-5370.cc-3542-100-100",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -7350,7 +7350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-125-1395.hd-3092-8.ch-3015-70.lg-3057-63.sh-3275-1410.ha-4056.he-5088.ea-3169-105.fa-3344-1325.cc-6069",
