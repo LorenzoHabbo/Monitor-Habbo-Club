@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-3852-1404.hd-3845-10.ch-3540-85.lg-3006-100-100.sh-5308-100.he-5314-100-100.fa-5467.cc-5800-100-85",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scriba Celeste Di Salathiel GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-3110-72-1408.lg-3078-73.sh-3115-73-73.ha-1010-73.ca-1809.wa-2011.cc-3294-73-66",
@@ -290,10 +290,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista novello G.D",
-    "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3320-82-73.sh-3383-64-1408.ha-1006.he-3974.fa-3276-72.ca-1815-1408.cc-3744-82-64",
+    "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3320-82-73.sh-3383-64-73.ha-1006.he-3974.fa-3276-72.ca-1815-1408.cc-3744-82-64",
     "memberSince": "2008-06-08T23:22:22.000+00:00",
     "uniqueId": "hhit-32ecec70925e159097223a54c8c78b77",
     "name": "cinzietta31",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5813-1408-1408.ea-3170-63.ca-6213-96-110.wa-3263-110-1320.cc-3509-82-1408",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-209-8.ch-3321-73.lg-3596-64-1408.sh-3068-1408-1408.fa-3993-91.cc-4184-73-1408",
@@ -2463,7 +2463,7 @@
     "online": true,
     "gender": "f",
     "motto": "Decime GD",
-    "habboFigure": "hr-6083-1407.hd-4163-1-14.ch-3540-96.lg-710-110",
+    "habboFigure": "hr-6083-1407.hd-4163-1-14.ch-3540-96.lg-4066-110.ha-3461",
     "memberSince": "2012-04-30T09:29:57.000+00:00",
     "uniqueId": "hhit-4da73f87a4622d2ca38451abb0034c3e",
     "name": "rossella880",
@@ -3000,7 +3000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -4760,7 +4760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-3030-1408.lg-275-81.ea-1404-1408.fa-1205-64",
@@ -4870,7 +4870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -5613,7 +5613,7 @@
     "online": true,
     "gender": "f",
     "motto": "||Spirito della Forza jehudie G.D||",
-    "habboFigure": "hr-5638-59-1343.hd-5682-10.ch-5310-96-1408.lg-5312-96-92.sh-6064-68-96.he-5997-93.cc-6217",
+    "habboFigure": "hr-5638-59-1343.hd-5682-10.ch-5310-96-1408.lg-5312-96-92.sh-6064-68-96.he-5997-93.ca-6242.cc-6217",
     "memberSince": "2020-04-23T13:52:31.000+00:00",
     "uniqueId": "hhit-5445c4e273f5d05af99303e744ee0116",
     "name": "moonshine95",
@@ -7410,7 +7410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista",
     "habboFigure": "hr-5567-35.hd-629-10.ch-655-64.lg-4341-73.sh-905-1408",
@@ -9630,7 +9630,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5773-45.hd-6157-10-30.ch-665-1408.lg-5594-82.sh-5803-1408.he-6103-82.fa-5467.cc-5461-1408-82",
