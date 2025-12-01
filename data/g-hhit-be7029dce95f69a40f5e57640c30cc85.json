@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Mi sono persa",
     "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3320-82-73.sh-3419-73-64.ha-1006.he-3974.fa-3276-72.ca-1815-1408.cc-3744-82-64",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-103.sh-290-103.ha-3488.fa-5600-92.ca-6242.cc-3542-92-103",
@@ -3640,7 +3640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH||",
     "habboFigure": "hr-4117-31-40.hd-3100-1.ch-3446.lg-3361-96.sh-3467.ha-3461.ca-3916-1413-1408",
