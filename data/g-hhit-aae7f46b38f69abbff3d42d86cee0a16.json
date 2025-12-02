@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-3321-1419.lg-3596-110-1408.sh-3383-110-92.ha-3857-110-92.ea-5576-63-1408.fa-5601-92.ca-5815-84-92.cc-6115-92-110",
@@ -530,10 +530,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "…",
-    "habboFigure": "hr-6055-1403-59.hd-6216-10-1387.ch-5015-100.lg-3387-100-1408.sh-6064-92-110.ha-3461.he-4293-92.fa-5467.cc-3867-92-96",
+    "habboFigure": "hr-6055-1403-1403.hd-6216-10-1387.ch-5015-100.lg-3387-100-1408.sh-6064-92-110.he-6215-100.fa-5467.cc-3867-92-96",
     "memberSince": "2015-12-06T23:23:39.000+00:00",
     "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
     "name": ".Nanami.",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4193-31.hd-6021-1389.ch-5358-1413.lg-4191-101-106.sh-3275-1321.ha-1006.he-5767-1327-67.ea-6053-110.fa-1211.wa-6165-1321",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Quando sei diversa, ti senti un errore",
     "habboFigure": "hr-9534-1404.hd-629-1383.ch-3197-110.lg-3078-110.sh-3016-1335.he-3149-1335.fa-3378-1335-110.cc-3157-1335",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-5772-1342-61.hd-627-1383.ch-3935-110-110.lg-3192-110.sh-5247-92-92.he-5279.ea-6270.fa-3276-1412.cc-5926-110-110",
