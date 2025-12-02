@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.he-3891.fa-5601-1408",
@@ -883,7 +883,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6010-1403-1404.hd-5799-2.ch-5374-1412-92.lg-5909-98-98.sh-5928.ha-5025.he-6215-1412.fa-5467.ca-5051-1324-1412.wa-5123-1412.cc-6115-1412-92",
+    "habboFigure": "hr-6010-1403-1404.hd-5799-2.ch-5374-1412-92.lg-3695-1412.sh-5928.ha-5025.he-6215-1412.fa-5467.ca-5051-1324-1412.wa-5123-1412.cc-6115-1412-92",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1850,7 +1850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-3852-39.hd-600-10.ch-660-1408.lg-4066-82.fa-3276-72",
