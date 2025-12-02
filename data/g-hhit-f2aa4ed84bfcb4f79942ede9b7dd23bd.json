@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "occhio x occhio e sarà un mondo cieco.",
     "habboFigure": "hr-125-34.hd-180-1.ch-3030-64.lg-5732-81-73.sh-6156-73.ha-4192.he-5088.ca-5936-66.cc-4184-64-73",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
@@ -8133,7 +8133,7 @@
     "online": false,
     "gender": "m",
     "motto": "sono uno , nessuno e centomila",
-    "habboFigure": "hd-180-22.ch-255-1412.lg-270-92.sh-6182.ha-1006.ea-3575",
+    "habboFigure": "hd-180-1359.ch-255-1412.lg-270-92.sh-6182.ha-1006.ea-3575.fa-1201",
     "memberSince": "2014-08-12T13:33:15.000+00:00",
     "uniqueId": "hhit-323b4a9622f06f50bd21f58bcd6a13f2",
     "name": "Orticus",
