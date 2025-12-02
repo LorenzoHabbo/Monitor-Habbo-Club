@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "svendo dipinti ultimi giorni",
     "habboFigure": "hr-5680-45.hd-6216-28-1365.ch-3005-110-110.lg-3018-82.ha-3054-82-1408.he-5279.fa-3276-96.cc-6119",
@@ -1463,14 +1463,14 @@
     "online": true,
     "gender": "m",
     "motto": "PESARO CAPITALE | TE DAG NA SGHèTA",
-    "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72",
+    "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72.ha-1006",
     "memberSince": "2009-03-19T20:01:40.000+00:00",
     "uniqueId": "hhit-acd52bbc2f23cad9d81a85f2ea6e8688",
     "name": "007pat",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-106.sh-5803-92.ha-6246.fa-5600-92.cc-3542-92-106",
@@ -6480,7 +6480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-828-1344.hd-3095-1389.ch-5856.lg-5594-1427.sh-3089-110.ha-5866.he-5813-1410-92.fa-5600-1423.ca-4037-106-92.cp-5878-63",
@@ -8640,7 +8640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3692-110-92",
