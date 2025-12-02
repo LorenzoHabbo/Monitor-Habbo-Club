@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™",
     "habboFigure": "hr-3468-40.hd-195-1.ch-3459.lg-3460.sh-3180-64-64.ha-3461.fa-3462-1408",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3803,7 +3803,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3032-1412-1412.lg-280-64.sh-305-92.he-5466.fa-5467",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3032-1412-1412.lg-280-64.sh-305-92.ha-3145-64-92.he-5466.fa-1209-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3940,7 +3940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-1395-1395.hd-6216-1391-1376.ch-3540-1430.lg-3006-100-100.sh-3277-100-1430.ha-3461.he-5088.cc-5800-100-1430",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-1408-92.lg-5970-1426.sh-6156-92.ha-5774-92-92.fa-5467",
@@ -4330,7 +4330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-28.ch-5596-92.lg-5594-77.sh-5803-92.ha-6197.he-3070-92.fa-3276-96.cc-5800-92-1408",

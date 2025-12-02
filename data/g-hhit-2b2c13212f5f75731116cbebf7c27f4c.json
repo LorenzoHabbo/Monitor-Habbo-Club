@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Si vis pacem , para bellum",
     "habboFigure": "hr-3163-45.hd-180-1.ch-3059-100.lg-3088-1429-1429.sh-3524-1429-1408",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "One Life|",
     "habboFigure": "hr-893-37.hd-209-1371.ch-6177-91-1408.lg-275-91.sh-295-91.he-4946-91.cc-6175-1408",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime GD",
     "habboFigure": "hr-6083-1407.hd-4163-1-14.ch-3540-96.lg-4066-110.ha-3461",
@@ -8580,7 +8580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "messagera del patto 1p G.d.",
     "habboFigure": "hr-5680-45.hd-600-1.ch-4166-82-1408.lg-695-64.sh-3115-1408-1408.he-3329-1408-81",
