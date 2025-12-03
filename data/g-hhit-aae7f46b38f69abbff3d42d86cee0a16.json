@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-665-92.lg-710-1413.sh-5803-92.ha-3461.he-5808-1408.fa-5467.ca-3292-92.cc-5800-92-92",
@@ -950,7 +950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Heda Regime Wonkru [TH]",
     "habboFigure": "hr-5791-1398.hd-6219-2-1365.ch-3030-73.lg-4138-73.ha-5301-73.he-5074-64.fa-4044.ca-4936.wa-4060-92-1409.cc-3867-1431-1432",

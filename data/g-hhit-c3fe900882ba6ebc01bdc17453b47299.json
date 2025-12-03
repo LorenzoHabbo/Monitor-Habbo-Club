@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Diffidati con noi!     EAM79",
     "habboFigure": "hr-3531-34-40.hd-180-14.ch-255-64.lg-285-80.ea-1404-64.fa-3462-1320",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-3881-73.lg-710-64.sh-5803-1408.ha-3461.he-3891.fa-5601-1408",
@@ -493,7 +493,7 @@
     "online": true,
     "gender": "f",
     "motto": "la bontà è mangime x gli avvoltoi ~A.|",
-    "habboFigure": "hr-4363-49-49.hd-6216-28-1365.ch-650-110.lg-5594-110.sh-5803-92.he-5314-110-110.fa-5467",
+    "habboFigure": "hr-4363-49-49.hd-6216-28-1365.ch-650-110.lg-5594-110.sh-5803-92.he-4059-110-110.fa-4058-92.wa-4060-110-110",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -880,10 +880,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5503-1403.hd-5799-11.ch-5762-1412-92.lg-3695-1412.sh-3467.ha-5025.he-6215-1412.fa-5467.ca-5771-110-92.wa-3895-64.cc-5825",
+    "habboFigure": "hr-6010-1403-1404.hd-6216-2-1359.ch-5762-1412-92.lg-3695-1412.sh-5928.ha-5025.he-6215-1412.fa-5467.ca-5051-1324-1412.wa-5123-1412.cc-6115-1412-92",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -2170,7 +2170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-35.hd-185-10.ch-807-64.lg-280-64.sh-305-1408.ha-1013-64",
