@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Si vis pacem , para bellum",
     "habboFigure": "hr-3163-45.hd-180-1.ch-3059-100.lg-3088-1429-1429.sh-3524-1429-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista GD - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-3461.he-6173-100.ea-4161.fa-5636-89.wa-6071.cc-6184-100",
@@ -2460,7 +2460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime GD",
     "habboFigure": "hr-6083-1407.hd-4163-1-14.ch-3540-96.lg-4066-110.ha-3461",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -4560,7 +4560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-92.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-106",
@@ -4880,10 +4880,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
+    "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.ha-1006.he-3891.fa-5601-1408.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -5280,7 +5280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello gd",
     "habboFigure": "hr-3673-42.hd-3956-1370-30.ch-5607-64.lg-3216-64.sh-3383-64-1408.ha-4192.he-1608",
@@ -8580,7 +8580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "messagera del patto 1p G.d.",
     "habboFigure": "hr-4343-37-40.hd-600-1.ch-655-73.lg-3088-64-1408.sh-906-1408.cc-3523-64-81",
