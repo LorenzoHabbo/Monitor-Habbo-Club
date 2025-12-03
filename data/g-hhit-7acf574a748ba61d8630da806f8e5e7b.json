@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3785-45.hd-3721-2.ch-5695-92-92.lg-3202-1338-1338.sh-5247-92-1427.ha-6246.he-3732.fa-5601-92.ca-3882-106-106.cc-3867-106-106.cp-3311-92",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-220-110.lg-280-1426.sh-908-92.fa-3276-100",
@@ -980,7 +980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "little princess",
     "habboFigure": "hr-5914-1404-1398.hd-3100-1390.ch-655-92.lg-3192-1326.he-5767-92-92.fa-3276-1328.ca-3545-92.cc-3744-92-92",
@@ -1133,7 +1133,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5773-1407.hd-627-18.ch-5921-92-63.lg-5594-109.sh-5247-92-1408.ha-5301-109.fa-5601-1334.cc-5800-1335-1335",
+    "habboFigure": "hr-5773-1407.hd-627-18.ch-5921-92-63.lg-5594-109.sh-5247-92-1408.ha-1006.fa-5601-1334.cc-5800-1335-1335",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -1773,7 +1773,7 @@
     "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D! Life is a gift",
-    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-92.lg-3257-1341.sh-3089-110.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-106",
+    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3710.he-3740.fa-3276-72.ca-3485.cc-5800-110-106",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -1803,7 +1803,7 @@
     "online": false,
     "gender": "f",
     "motto": " ~ Hai capito, chi è che è entrato!? ×",
-    "habboFigure": "hr-4131-40-40.hd-626-1370.ch-5560-1408-1408.lg-5594-1408.sh-908-1408.he-3858-1408.fa-3590.ca-3973-68-1408.cc-3744-1408-1408",
+    "habboFigure": "hr-4131-37-32.hd-626-1370.ch-5560-91-90.lg-5594-91.sh-740-90.ha-4196.he-4059-91-1408.fa-4045.ca-3973-68-68.cc-4137-68",
     "memberSince": "2018-05-16T09:09:54.000+00:00",
     "uniqueId": "hhit-e89ba581afcc50ed0522688bd3781137",
     "name": "-ANSIA-",
@@ -1880,10 +1880,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-677-42.hd-205-28.ch-4299-1432-1413.lg-5594-92.sh-3419-96-92.ha-3461.he-5088.fa-5601-1408.cc-5800-92-1408",
+    "habboFigure": "hr-677-42.hd-205-28.ch-4299-1432-1413.lg-5594-92.sh-3419-96-92.ha-3461.he-5088.fa-5601-92.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mordo",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-90-1408.sh-3419-90-68.ha-1006.he-3660-64-1408.fa-3378-64-1408.wa-4317-68.cc-4105-90-68",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Toma mucho tiempo llegar a ser joven",
     "habboFigure": "hr-3860-61-49.hd-5317-8-1365.ch-3934-92-110.lg-3418-110.sh-3016-110.ha-4325.he-5348.fa-3296.ca-6213-63-1408.cc-5800-110-110",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred",
     "habboFigure": "hr-515-42.hd-605-1.ch-4067-84-83.lg-700-85.sh-730-84.he-3329-83-85.fa-3276-72",
@@ -2920,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-64.sh-3089-110.ha-3461.he-3070-92.fa-5601-89",
@@ -2930,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-190-10.ch-255-64.lg-281-1408.sh-295-64.ha-1015.he-1601.fa-3276-91",
