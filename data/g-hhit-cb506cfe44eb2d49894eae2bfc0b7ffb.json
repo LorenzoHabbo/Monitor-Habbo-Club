@@ -241,16 +241,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "I'm gonna be pirates king!",
-    "habboFigure": "hr-3393-40-40.hd-207-10.ch-876-73-1320.lg-280-66.sh-295-1408.he-1609-72.fa-1201",
-    "memberSince": "2008-12-22T18:54:54.000+00:00",
-    "uniqueId": "hhit-07d96ce674a26b27769f467bae99f480",
-    "name": "vidager",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "Liars",
     "habboFigure": "hr-5773-45.hd-600-10.ch-3689-64.lg-3483-64-64.sh-6043.ha-6209.he-6173-72.ea-5576-1408-1408.fa-5467.ca-5474-1408.wa-6165-64",
@@ -900,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4363-1348-1342.hd-4383-10-5.ch-3540-1412.lg-5594-1432.sh-4112-110-89.wa-6165-92.cc-5440-1412-1432",
@@ -1503,7 +1493,7 @@
     "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
-    "habboFigure": "hr-3172-1342.hd-205-18.ch-210-92.lg-281-96.sh-908-110.he-3070-92.cc-5800-110-110",
+    "habboFigure": "hr-3172-1342.hd-205-18.ch-210-92.lg-281-96.sh-908-110.he-3070-92",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -1670,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-32.hd-3956-1-1370.ch-665-73.lg-5594-82.ha-1006.he-3543-1408.fa-3276-73.cc-6077",
@@ -1880,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-665-92.lg-3006-110-110.sh-5803-92.ha-3461.he-5808-1408.fa-5467.ca-3292-92.cc-5800-92-92",
@@ -3803,7 +3793,7 @@
     "online": true,
     "gender": "m",
     "motto": "che sembriamo tutti falliti",
-    "habboFigure": "hr-3163-61.hd-205-2.ch-3032-1412-1412.lg-280-64.sh-305-92.fa-6304-64",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-3032-1412-1412.lg-280-64.sh-305-92.he-3070-92.fa-6304-64",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3940,7 +3930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-1395-1395.hd-6216-1391-1376.ch-3540-1430.lg-3192-100.sh-3277-100-1430.he-5767-100-1430.fa-3276-73.cc-5307-1331",

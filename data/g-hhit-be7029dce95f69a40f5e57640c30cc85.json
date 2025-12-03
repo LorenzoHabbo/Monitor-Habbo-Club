@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-830-40.hd-180-10.ch-255-81.lg-3078-85.sh-3115-1408-72.ha-1006.wa-2011.cp-3286",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-3673-37.hd-600-8.ch-5560-76-64.lg-720-64.sh-5551.ha-6091.fa-3276-73.ca-6081-66.cc-5461-1408-76",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Habbo Rewind|",
     "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-85-85.lg-700-82.sh-3068-1408-85.fa-3276-72.wa-2001",
@@ -3470,7 +3470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-60.hd-209-1391.ch-265-106.lg-4138-106.sh-4112-1336-1321.ea-1403-80.ca-1816",
@@ -4720,7 +4720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4363-1348-1342.hd-4383-10-5.ch-3540-1412.lg-5594-1432.sh-4112-110-89.wa-6165-92.cc-5440-1412-1432",
@@ -7753,7 +7753,7 @@
     "online": true,
     "gender": "m",
     "motto": "e oggi è come ieri",
-    "habboFigure": "hr-3172-1342.hd-205-18.ch-210-92.lg-281-96.sh-908-110.he-3070-92.cc-5800-110-110",
+    "habboFigure": "hr-3172-1342.hd-205-18.ch-210-92.lg-281-96.sh-908-110.he-3070-92",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -8570,7 +8570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-32.hd-3956-1-1370.ch-665-73.lg-5594-82.ha-1006.he-3543-1408.fa-3276-73.cc-6077",
