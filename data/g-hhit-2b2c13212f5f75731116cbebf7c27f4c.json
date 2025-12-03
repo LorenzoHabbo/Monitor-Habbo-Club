@@ -340,10 +340,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Navigo a vista....da troppo tempo.",
-    "habboFigure": "hr-165-45.hd-180-1.ch-4165-91-64.lg-6161-91-91.sh-3524-64-1408.ha-1006.ca-3882-66-73.wa-2001.cc-3512-82-1408",
+    "habboFigure": "hr-165-45.hd-180-1.ch-4165-91-64.lg-6161-91-91.sh-3524-64-1408.ha-5305-64-1408.ca-3882-66-73.wa-2001.cc-3512-82-1408",
     "memberSince": "2008-10-17T16:37:32.000+00:00",
     "uniqueId": "hhit-805a13e304d74b81c0fe2167721ea1f1",
     "name": "tonycipriany",
@@ -2970,7 +2970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "conservatrice della luce G.D |",
     "habboFigure": "hr-5680-36.hd-629-19.ch-4087-1322.lg-3695-1322.sh-6181-1410.he-3329-93-1322",
@@ -7530,7 +7530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novella g.d.",
     "habboFigure": "hr-540-37.hd-629-1.ch-685-74.lg-3216-75.sh-735-74.he-1608.fa-3276-72",
@@ -9460,7 +9460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "aiutante G.D crikey",
     "habboFigure": "hr-5680-32.hd-3845-1.ch-4067-73-1408.lg-4066-1408.sh-3619-72-1408.he-5767-91-90.fa-4168-72.ca-5705",
