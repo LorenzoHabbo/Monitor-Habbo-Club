@@ -910,10 +910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3785-45.hd-3721-2.ch-5695-92-92.lg-3202-1338-1338.sh-5247-92-1427.ha-6246.he-3732.fa-5601-92.ca-3882-106-106.cc-3867-106-106.cp-3311-92",
+    "habboFigure": "hr-3785-45.hd-3721-2.ch-5695-92-92.lg-3202-1338-1338.sh-5247-92-1427.ha-1006.he-3732.fa-5601-92.ca-3882-106-106.cc-3867-106-106.cp-3311-92",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "        Born to be rich.",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-1428.lg-5594-77.sh-5464-92-92.ha-5557-63-110.ea-3750.fa-5384-92.ca-5934-1321.cc-5926-110-92",
@@ -1733,7 +1733,7 @@
     "online": true,
     "gender": "f",
     "motto": "rotta rotta rotta da dietro",
-    "habboFigure": "hr-3012-37.hd-3536-1-1.ch-3342-110-110.lg-3434-1430-1323.sh-4159-100-110.ha-3150-100-1430.he-3081-68.fa-6274-96.cc-3542-100-1430.cp-3315-92",
+    "habboFigure": "hr-3012-37.hd-3536-1-1.ch-3342-110-110.lg-3434-1430-1323.sh-4159-100-110.ha-1006.he-3081-68.fa-6274-96.cc-3542-100-1430.cp-3315-92",
     "memberSince": "2009-07-11T16:06:48.000+00:00",
     "uniqueId": "hhit-3cfa1724cf9f1b0601bd5b6c313a5b72",
     "name": "Powerenza",
@@ -5820,7 +5820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "little princess",
     "habboFigure": "hr-5914-1404-1398.hd-3100-1390.ch-655-92.lg-3192-1326.he-5767-92-92.fa-3276-1328.ca-3545-92.cc-3744-92-92",
