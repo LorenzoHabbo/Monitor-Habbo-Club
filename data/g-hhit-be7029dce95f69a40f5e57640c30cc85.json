@@ -870,10 +870,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista novello G.D",
-    "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3787-1408-1408.ha-1006.he-3974.fa-3276-72.ca-3466-1408-64.cc-3744-1408-72",
+    "habboFigure": "hr-3810-34.hd-3845-10.ch-3446.lg-3787-1408-1408.sh-3383-64-1408.ha-1006.he-3974.fa-3276-72.ca-3466-1408-64.cc-3744-1408-72",
     "memberSince": "2008-06-08T23:22:22.000+00:00",
     "uniqueId": "hhit-32ecec70925e159097223a54c8c78b77",
     "name": "cinzietta31",
@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-209-1.ch-809-1408.lg-270-64.sh-906-91.ha-3461.fa-1204.wa-2012",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
