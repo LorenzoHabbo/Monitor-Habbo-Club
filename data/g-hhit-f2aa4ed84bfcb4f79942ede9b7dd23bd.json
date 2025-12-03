@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-205-1.ch-3342-64-64.lg-4066-1408.ha-3461.fa-3344-64",
@@ -2050,7 +2050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -6590,7 +6590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "C.E.O. [The Montana Club]",
     "habboFigure": "hr-125-1403.hd-3997-2.ch-3779-64-110.lg-3058-110.sh-4065-110-110.ha-3461.fa-3344-91.ca-3187-110",

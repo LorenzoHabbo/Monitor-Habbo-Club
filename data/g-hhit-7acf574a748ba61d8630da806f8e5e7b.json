@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "svendo dipinti ultimi giorni",
     "habboFigure": "hr-5914-42-42.hd-4383-28-14.ch-3446.lg-3006-110-110.ha-3461.he-5808-63",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-3461.he-6173-100.ea-4161.fa-5636-89.wa-6071.cc-6184-100",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-3494-92-110.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "                        #AV1912",
     "habboFigure": "hr-5971-45.hd-205-1.ch-255-64.lg-280-64.sh-305-1408.ha-3461.fa-5601-1408.wa-6172-1408-73",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO VELATO  [ N -T ]",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-73-1320.lg-3023-64.ha-1006.he-3385-64-1408-1408.ea-3388-64-64.fa-1201.ca-3876-1320-82.cc-4979-72",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
     "habboFigure": "hd-6248-1379.lg-5909-1325-1325.fa-6232-93.ca-5936-1321.cp-3205",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-665-92.lg-710-1413.sh-5803-92.ha-3461.he-5808-1408.fa-5467.ca-3292-92.cc-5800-92-92",
@@ -1770,10 +1770,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D! Life is a gift",
-    "habboFigure": "hr-3163-1394.hd-180-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3710.he-3740.fa-3276-72.ca-3485.cc-5800-110-106",
+    "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3710.he-3740.fa-3276-72.ca-3485.cc-5800-110-86",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -1803,7 +1803,7 @@
     "online": false,
     "gender": "f",
     "motto": " ~ Hai capito, chi è che è entrato!? ×",
-    "habboFigure": "hr-4131-37-32.hd-626-1370.ch-5560-91-90.lg-5594-91.sh-740-90.ha-4196.he-4059-91-1408.fa-4045.ca-3973-68-68.cc-4137-68",
+    "habboFigure": "hr-4131-37-32.hd-626-1370.ch-5560-91-90.lg-5594-91.sh-740-90.ha-4196.he-5137.fa-4045.ca-3973-68-68.cc-4137-68",
     "memberSince": "2018-05-16T09:09:54.000+00:00",
     "uniqueId": "hhit-e89ba581afcc50ed0522688bd3781137",
     "name": "-ANSIA-",
@@ -1883,7 +1883,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-677-42.hd-205-28.ch-4299-1432-1413.lg-5594-92.sh-3419-96-92.ha-3461.he-5088.fa-5601-92.cc-5800-92-1408",
+    "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2020,7 +2020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CHIAMAMI BIANCA !!",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-1408.sh-3435-84-84.ha-5076-83.he-6125-1408.fa-5600-73.ca-6081-84.wa-3359-1408",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Lunga vita e prosperità ¥",
     "habboFigure": "hr-3852-1342.hd-6219-10-23.ch-5245-110.lg-5594-110.sh-6182.he-3740.fa-3276-97.ca-3885-1410-110.wa-6165-110.cc-6166-110-64",
@@ -3220,7 +3220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trash queenna",
     "habboFigure": "hr-4117-1351-1350.hd-600-10.ch-650-96.lg-3361-77.sh-5308-106.ha-3144-92-1414.ea-3698-110-1331.ca-3916-1327-106.cc-3289-77",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3935-110-110.lg-3192-110.sh-5247-92-92.ha-4050.he-5279.ea-6270.fa-3276-1412.cc-5926-110-110",
