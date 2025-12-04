@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Allons-Y",
     "habboFigure": "hr-4941-49-1354.hd-3095-1359.ch-4111-92.lg-3596-92-92.sh-3027-92-1408.ha-3461.ea-3484.fa-3865-92.ca-3466-1408-92.cc-6077",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-677-42.hd-205-28.ch-4299-1432-1413.lg-5594-92.sh-3419-96-92.ha-3461.he-5088.fa-5601-92.cc-5800-92-1408",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-205-15.ch-255-87.lg-280-64.sh-305-92.he-5466.fa-6304-63.ca-1815-63",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Trust the process",
     "habboFigure": "hr-3163-1342.hd-205-2.ch-215-63.lg-280-92.sh-5803-92.ha-4052.he-3070-92.cc-5800-92-1408",
