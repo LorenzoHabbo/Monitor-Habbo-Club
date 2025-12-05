@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Since 2011",
     "habboFigure": "hr-5679-32-48.hd-629-10.ch-655-73.lg-710-73.sh-735-1408.ha-1006.ca-1803-1408",
@@ -4870,7 +4870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-677-42.hd-205-28.ch-4299-1432-1413.lg-5594-92.sh-3419-96-92.ha-3461.he-5088.fa-5601-92.cc-5800-92-1408",
@@ -9630,7 +9630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5773-34.hd-6216-10-12.ch-5560-1408-1408.lg-5594-1408.sh-5274-1408-1408.ha-3620.fa-5467.cc-5461-1320-82",
