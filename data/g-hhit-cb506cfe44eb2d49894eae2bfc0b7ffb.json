@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-38.hd-190-1370.ch-3581-66-85.lg-5113-82.sh-305-85.ha-3591.he-5074-1408.ea-1401-1408.fa-5280-66.ca-4938.cc-4091-64",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63",
@@ -1490,10 +1490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sollecito",
-    "habboFigure": "hr-828-1403.hd-180-2.ch-240-110.lg-281-1330.sh-290-92.he-3070-92.fa-1212",
+    "habboFigure": "hr-828-1403.hd-180-2.ch-210-110.lg-281-106.sh-290-92.he-3070-92.fa-1212",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "| MoH |",
     "habboFigure": "hr-831-49.hd-180-8.ch-5559-1408.lg-3078-110.sh-3154-93-110.ha-3986.ea-3484.fa-1201.ca-1816.cc-6077",
