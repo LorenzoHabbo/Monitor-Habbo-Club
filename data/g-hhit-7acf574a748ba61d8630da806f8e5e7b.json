@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3785-45.hd-3721-2.ch-5695-92-92.lg-3202-1338-1338.sh-5247-92-1427.ha-6246.he-3732.fa-5601-92.ca-3882-106-106.cc-3867-106-106.cp-3311-92",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-6211-1342-1342.hd-605-22.ch-660-1427.lg-710-1427.sh-5803-92.he-6173-92.ea-1405.fa-5467.cc-6166-92-77",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5006.lg-4114-1408-96.sh-5551.ha-5774-96-1408.ea-3169-102.fa-5636-1408.cc-5761-96-1408",
@@ -3061,16 +3061,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "sono amico di camillo.benso",
-    "habboFigure": "hr-830-40.hd-190-1.ch-3030-64.lg-275-82.sh-295-71.ea-1404-64",
-    "memberSince": "2023-07-20T10:18:07.000+00:00",
-    "uniqueId": "hhit-65bfefb34edbf77bd3a10252485c1ac9",
-    "name": "camillo.benso.:",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5720-42-40.hd-3956-1-30.ch-665-80.lg-4119.he-5721-72-72.ea-3484.cc-4091-1408",
@@ -3370,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-39-40.hd-3604-1.ch-3432-84-1408.lg-3434-84-1408.sh-3435-84-1408.ha-1006",
