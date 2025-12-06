@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5258.lg-4125.sh-5869-76-1408.ha-4324.ea-5743-1408",
@@ -833,7 +833,7 @@
     "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
-    "habboFigure": "hr-3841-45.hd-3095-1370.ch-3540-110.lg-280-92.sh-3016-64.ha-1006.he-5088.ea-3168-80.fa-4168-80.ca-1816.wa-5123-110.cp-3125-92",
+    "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
     "memberSince": "2010-01-10T10:04:19.000+00:00",
     "uniqueId": "hhit-9a8a5badd64dda4e6ebc49b34559d23e",
     "name": "cristian666",
@@ -2373,7 +2373,7 @@
     "online": true,
     "gender": "m",
     "motto": "comandante g.d",
-    "habboFigure": "hr-3841-34.hd-3845-1.ch-3323-85-1408.lg-5594-82.sh-4112-64-73.ha-5677-91.ca-5916-91-91.cc-4097-1408-1408",
+    "habboFigure": "hr-3841-34.hd-3845-1.ch-3323-91-1408.lg-5594-82.sh-4112-64-1320.ha-5677-91.ca-5916-91-91.cc-4097-91-1320",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CAVALIERE 1P G.D.",
     "habboFigure": "hr-3841-61.hd-209-1.ch-5596-92.lg-3787-110-1408.sh-3016-110.cc-3153-110-1408",
@@ -2963,7 +2963,7 @@
     "online": true,
     "gender": "f",
     "motto": "conservatrice della luce G.D |",
-    "habboFigure": "hr-3673-36.hd-3100-1370.ch-5905-66.lg-4092-70.sh-6181-1410.he-6215-66",
+    "habboFigure": "hr-3810-36.hd-3100-1370.ch-5905-66.lg-4092-70.sh-6181-1410.he-6215-66",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LETSGOSKI",
     "habboFigure": "hr-3531-40-40.hd-209-1.ch-5559-1408.lg-5594-64.sh-3524-66-64.he-3660-64-82.fa-5601-66.ca-4115-64-1408.cc-3593-64-1408",
@@ -6360,6 +6360,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "f",
+    "motto": "apprendista novello G.D.",
+    "habboFigure": "hr-890-35.hd-629-1.ch-670-72.lg-3216-72.sh-907-73.he-1602-81.wa-2009-81",
+    "memberSince": "2021-05-08T01:07:04.000+00:00",
+    "uniqueId": "hhit-4d06b0d2836dda6b400c9b392b687df6",
+    "name": "Gloria",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "",
@@ -7710,7 +7720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista scelto gd",
     "habboFigure": "hr-890-31.hd-629-1370.ch-665-74.lg-710-75.sh-730-76.ha-1006",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-13T07:34:08.000+00:00",
     "uniqueId": "hhit-bc454f59760112f5fb04d5eacbcabafd",
     "name": "Alessiaa19",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-540-37.hd-600-1.ch-670-80.lg-3216-64.sh-735-1408",
-    "memberSince": "2023-09-13T18:18:01.000+00:00",
-    "uniqueId": "hhit-91201256580eeae85a168b7e056af756",
-    "name": "Celeste...",
     "isAdmin": false
   }
 ]
