@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ALWAYS",
     "habboFigure": "hr-125-1398.hd-190-1363.ch-3032-75-110.lg-6303-110-110.sh-3524-110-92.ha-1004-110.fa-6304-110.ca-5916-110-110.wa-3073-110.cc-3158-110",
@@ -573,7 +573,7 @@
     "online": false,
     "gender": "f",
     "motto": "Idontwannabeyouanymore",
-    "habboFigure": "hr-3852-61.hd-615-2.ch-655-92.lg-3200-92.sh-5247-92-92.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3885-92-1408.cc-4300-1337-92",
+    "habboFigure": "hr-3852-61.hd-615-2.ch-655-92.lg-3006-96-1408.sh-5247-92-92.ha-3461.he-3070-92.ea-3108-92-92.fa-3276-100.ca-3844-96-92",
     "memberSince": "2016-02-07T08:27:28.000+00:00",
     "uniqueId": "hhit-9f4d235575a04a53616fc34f7b1ce789",
     "name": "GineZad",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "p",
     "habboFigure": "hr-3841-45.hd-180-1370.ch-3030-64.lg-285-1320.sh-3524-1408-64.he-5088.fa-3276-73.cc-3532-1408-1408",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-3852-1342.hd-627-1383.ch-5310-96-92.lg-3460.sh-5073.ha-3461.fa-5760",
