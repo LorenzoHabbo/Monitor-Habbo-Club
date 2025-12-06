@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Always ∆",
     "habboFigure": "hr-170-45.hd-3092-2.ch-4286-1325-90.lg-3290-91.sh-4065-1325-1409.ha-3823-91-91.he-3070-1410.ea-3169-91.fa-5636-1409.wa-2001.cc-4978-91-67",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6091.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3528-71-1408.lg-3391-72-71.sh-3621-71-73.ha-1006.ea-1401-71.cc-4106-73-1408",
@@ -1910,7 +1910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4991-55.hd-185-1389.ch-4361-1413-1432.lg-5398.sh-3275-1321.ha-5169-1338.ea-6053-110.fa-1211.ca-5365-94-106.cc-5895",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-645-92.lg-5594-110.sh-3252-92-92.ha-3461.ca-5635-92-1408.wa-6165-1330.cc-5307-73",
@@ -4320,7 +4320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Anima perduta N.T.",
     "habboFigure": "hr-5210-1395-1344.hd-3845-7.ch-5596-1410.lg-5594-110.sh-4112-1410-1408.ha-4192.he-3833-1408.fa-4058-1408.ca-6239-92",
