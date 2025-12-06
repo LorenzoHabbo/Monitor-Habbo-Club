@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I smell like ice cream & pheromones",
     "habboFigure": "hr-3278-32-32.hd-180-2.ch-3203-96.lg-280-80.sh-3068-110-68.he-3660-110-110.fa-3344-68.cc-3512-80-71",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5791-61.hd-3845-1391.ch-3688-110.lg-5594-110.he-3070-92.fa-3276-96.cc-4979-110",
@@ -6470,7 +6470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-828-1344.hd-3095-1389.ch-5856.lg-5594-1427.sh-3089-110.ha-5866.fa-5600-1423.ca-4037-106-92.cp-5878-63",
@@ -8730,7 +8730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
