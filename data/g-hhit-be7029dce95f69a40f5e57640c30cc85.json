@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -7740,10 +7740,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sollecito",
-    "habboFigure": "hr-828-1403.hd-180-2.ch-5856.lg-280-106.sh-6043.he-3070-92.fa-1212.cp-5883-110",
+    "habboFigure": "hr-828-1403.hd-180-2.ch-5856.lg-280-1428.sh-6043.he-3070-92.fa-1212.cp-5883-110",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
