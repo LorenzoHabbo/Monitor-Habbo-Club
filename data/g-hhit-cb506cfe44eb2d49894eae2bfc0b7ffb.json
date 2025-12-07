@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-1404-1346.hd-3536-10-10.ch-5167-1428.lg-3006-110-92.sh-3587-92-92.he-5698-110-1410.fa-5435.ca-6239-63",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dedito al bello *-*",
     "habboFigure": "hr-4941-52-52.hd-3091-1370.ch-3234-110.lg-4102-110-110.sh-3089-1432.he-3070-93.ea-3484.ca-6167-1413-92.cc-3946-1430",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -3673,7 +3673,7 @@
     "online": false,
     "gender": "m",
     "motto": "òO",
-    "habboFigure": "hd-6248-10.lg-3138-1408-1408.ha-6197.ea-3961.fa-3965",
+    "habboFigure": "hd-6248-10.lg-3138-1408-1408.ha-6197",
     "memberSince": "2023-11-15T10:31:43.000+00:00",
     "uniqueId": "hhit-8d4193246a03dff26533ecc3049feffe",
     "name": "_sandrino00_",
