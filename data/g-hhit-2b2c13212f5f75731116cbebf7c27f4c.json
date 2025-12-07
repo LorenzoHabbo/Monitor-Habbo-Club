@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -6360,7 +6360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-890-35.hd-629-1.ch-670-72.lg-3216-72.sh-907-73.he-1602-81.wa-2009-81",
@@ -8580,7 +8580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "messagera del patto 1p G.d.",
     "habboFigure": "hr-3519-39-39.hd-600-1.ch-3528-82-1408.lg-4167-80.sh-906-1408.ha-5620-81.cc-3523-82-81",
