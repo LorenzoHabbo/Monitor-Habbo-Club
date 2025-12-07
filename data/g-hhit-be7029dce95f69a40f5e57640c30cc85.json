@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-106.sh-5803-92.ha-6246.fa-5600-92.cc-3542-92-106",
@@ -3130,7 +3130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-61.hd-3095-1390.ch-3050-72-72.lg-4138-110.sh-4112-110-93.ha-1006.he-5279.ca-1816.cc-5761-110-110",
@@ -8420,7 +8420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "[¥] Presidente S.W.A.T. [¥]",
     "habboFigure": "hr-3322-31.hd-180-1.ch-3323-1408-1408.lg-280-82.sh-3621-1408-64.ha-3709.fa-3276-73.cc-3326-64-1408",
