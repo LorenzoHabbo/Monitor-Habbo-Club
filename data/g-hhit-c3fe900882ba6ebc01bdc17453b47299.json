@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6211-49-1401.hd-6216-28-1367.ch-5374-110-100.lg-6000-110.sh-6043.ha-5620-100.he-6173-100.fa-5467.ca-6041.wa-5370.cc-6070",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-35.hd-185-10.ch-807-64.lg-280-64.sh-305-1408.ha-1013-64",
