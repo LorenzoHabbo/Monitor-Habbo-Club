@@ -60,7 +60,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-3604-1367.ch-3203-110.lg-3216-96.he-1609-96.fa-1204.ca-3844-110-96.wa-4060-96-1336",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5306-61-61.hd-3092-11.ch-3779-110-92.lg-3407-110-110.sh-4065-110-110.ha-3632-110-110.ea-3822-92.fa-5624-96.cc-5951-110",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Recluta H.A.",
     "habboFigure": "hr-893-38.hd-209-8.ch-235-82.lg-275-1320",
