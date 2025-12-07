@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5258.lg-4125.sh-5869-76-1408.ha-4324.ea-5743-1408",
@@ -2560,10 +2560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " commerciante afrodisiaco",
-    "habboFigure": "hr-5465-42-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
+    "habboFigure": "hr-3725-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
     "memberSince": "2020-02-24T13:11:58.000+00:00",
     "uniqueId": "hhit-42e997113909c856fec3b955c57ba7b0",
     "name": "b0nostrain",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabb",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-255-85.lg-3088-82-82.sh-3524-64-1408.ha-1006.he-1608.ca-1812.cc-5942-88",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3446.lg-5909-110-110.sh-5073.he-3912.ea-6270",
