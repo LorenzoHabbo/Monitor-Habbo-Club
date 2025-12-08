@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "amore effimero privo di sentimenti|",
     "habboFigure": "hr-3852-39.hd-600-10.ch-5351-1408-1408.lg-4066-82.fa-3276-72.cc-3837-82",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-5962-34.hd-5913-1.ch-3668-64-66.lg-275-1408.sh-5803-1408.he-4022.ea-3978-64-64.fa-3276-72.wa-5123-88.cc-5800-64-64",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-802-42.hd-180-1.ch-255-1408.lg-270-64.sh-300-91",
