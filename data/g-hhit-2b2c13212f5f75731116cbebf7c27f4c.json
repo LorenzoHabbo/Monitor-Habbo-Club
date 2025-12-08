@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scriba Celeste Di Salathiel GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-3110-72-1408.lg-3078-73.sh-3115-73-73.ha-1010-73.ca-1809.wa-2011.cc-3294-73-66",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Difensore G.D",
     "habboFigure": "hr-890-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-3254-1408",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CAVALIERE 1P G.D.",
     "habboFigure": "hr-3841-61.hd-209-1.ch-3506-1408-1408.lg-3057-110.sh-3027-1408-1408.ca-3503-110.cc-3508-110-64",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gran Signore G.D",
     "habboFigure": "hr-893-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
