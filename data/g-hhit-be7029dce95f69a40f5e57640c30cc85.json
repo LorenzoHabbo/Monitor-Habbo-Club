@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.ha-3461.he-3891.fa-5601-1408.cc-3744-73-1408",
@@ -870,10 +870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "e adesso???",
-    "habboFigure": "hr-3810-34.hd-3845-10.ch-3399-1320-68.lg-3787-82-1408.ha-3857-82-73.he-3974.fa-3276-72.ca-3466-82-72.wa-2002.cc-3744-73-82",
+    "habboFigure": "hr-3810-34.hd-3845-10.ch-3399-1320-68.lg-3787-82-1408.ha-3857-81-72.he-3974.fa-3276-72.ca-3466-82-72.wa-2002.cc-3744-73-82",
     "memberSince": "2008-06-08T23:22:22.000+00:00",
     "uniqueId": "hhit-32ecec70925e159097223a54c8c78b77",
     "name": "cinzietta31",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich.",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-1428.lg-5594-77.sh-5464-92-92.ha-5557-63-110.ea-3750.fa-5384-92.ca-5934-1321.cc-5926-110-92",
@@ -3460,10 +3460,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5971-61.hd-6004.ch-3203-1408.lg-4138-110.sh-4112-110-93.ha-3986.he-5279.ca-1816.cc-5761-110-110",
+    "habboFigure": "hr-5971-61.hd-3095-1390.ch-3203-1408.lg-4138-110.sh-4112-110-93.ha-3986.he-5279.ca-1816.cc-5761-110-110",
     "memberSince": "2010-12-29T14:17:19.000+00:00",
     "uniqueId": "hhit-a88f8e1e96b5626d5b23563f5afbce55",
     "name": "davidinhoPaura",
@@ -5060,7 +5060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-215-1428.lg-280-1426.sh-5247-92-1334.he-3740.fa-3276-100",
