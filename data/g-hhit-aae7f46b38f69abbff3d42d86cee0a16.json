@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-100.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-180-1370.ch-3030-64.lg-4114-64-1408.sh-295-64",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "AC/DC",
     "habboFigure": "hr-891-44.hd-205-1370.ch-5830-85.lg-3078-64.sh-295-90.ha-1004-64.fa-1202-73",
