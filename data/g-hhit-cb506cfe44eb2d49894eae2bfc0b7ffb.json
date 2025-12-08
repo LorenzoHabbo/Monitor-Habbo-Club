@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sono mutata",
     "habboFigure": "hr-6211-42-38.hd-4383-28-10.ch-5167-96.lg-4066-110.he-6103-96.fa-3276-92",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-100.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-40.hd-4383-10-14.ch-6058-73-73.lg-4066-1408.he-5348",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HAHAHA",
     "habboFigure": "hr-3670-54.hd-180-28.ch-3880-73.lg-3078-81.sh-3524-1338-1408.ha-1012-110.ea-3169-110.ca-3883.cc-5800-82-81",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-22.ch-665-92.lg-710-1412.sh-5803-92.ha-3461.fa-5467.cc-5800-92-92",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2660,7 +2660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "440k",
     "habboFigure": "hr-5791-34.hd-180-10.ch-804-80.lg-3088-64-64.sh-295-1408.ha-1005-64.ea-1404-76.ca-5737-64.wa-2006",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-205-15.ch-255-87.lg-280-64.sh-305-92.he-5466.fa-6304-63.ca-1815-63",
@@ -3923,7 +3923,7 @@
     "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hd-6216-1383-1365.ch-3501-1414.lg-3502-1414.sh-5803-92.he-6215-1414.fa-1211.ca-3828-1414-92",
+    "habboFigure": "hr-4352-32.hd-6216-1391-1372.ch-5762-1338-92.lg-3006-100-100.sh-5803-92.ha-4196.he-5808-1408.ca-6212",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
