@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "e adesso???",
     "habboFigure": "hr-3810-34.hd-3845-10.ch-3399-1320-68.lg-3787-82-1408.ha-3857-82-73.he-3974.fa-3276-72.ca-3466-82-72.wa-2002.cc-3744-73-82",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Navigo a vista....da troppo tempo.",
     "habboFigure": "hr-165-45.hd-180-1.ch-4165-91-64.lg-6161-91-91.sh-3524-64-1408.ha-5305-64-1408.ca-3882-66-73.wa-2001.cc-3512-82-1408",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
@@ -4650,7 +4650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Gran Signore G.D",
     "habboFigure": "hr-893-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-3494-64-64.ea-3484",
