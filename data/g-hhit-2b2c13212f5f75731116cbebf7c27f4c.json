@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Criminal",
     "habboFigure": "hr-4117-42-42.hd-3845-10.ch-3817-72-1408.lg-3787-82-1408.sh-3619-64-1408.ha-3461.he-3974.fa-3276-72.cc-3744-73-72",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|Sentinella g.d|",
     "habboFigure": "hr-802-45.hd-209-1.ch-3030-110.lg-3023-82.sh-3068-110-82.he-5813-1408-1408.ea-3170-63.ca-6213-96-110.wa-3263-110-1320.cc-3509-82-1408",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CAVALIERE 1P G.D.",
     "habboFigure": "hr-3841-61.hd-209-1.ch-255-1408.lg-3407-110-1408.sh-906-63.ca-3176-110-1408",
