@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-34.hd-205-1.ch-3342-64-64.lg-4066-1408.ha-3461.fa-3344-64",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.ha-3461.he-3891.fa-5601-1408.cc-3744-73-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "The most wonderful time of the year",
     "habboFigure": "hr-3278-32-32.hd-180-2.ch-3203-96.lg-280-80.sh-3068-110-68.he-3660-110-110.fa-3344-68.cc-3512-80-71",
@@ -3130,7 +3130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "           - 08 -",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -3840,7 +3840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":crikey Cittadino the hundred",
     "habboFigure": "hr-802-31.hd-180-14.ch-3506-93-93.lg-270-93.sh-300-93.ha-1014.ea-3484.fa-1204.ca-3503-93.cc-4026-93-93",
@@ -5933,7 +5933,7 @@
     "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
-    "habboFigure": "hr-828-1342.hd-3091-1.ch-220-92.lg-3596-1334-1408.he-3833-92.cc-3867-1427-92",
+    "habboFigure": "hr-3172-61.hd-205-28.lg-280-110.sh-906-1428.fa-4058-1408.cc-3360-110",
     "memberSince": "2012-02-26T15:41:41.000+00:00",
     "uniqueId": "hhit-6880b62f86fed38d39dd624c02e190ca",
     "name": "THEBIGPLANET.",
@@ -6580,7 +6580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
@@ -8350,7 +8350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Paul Kalkbrenner",
     "habboFigure": "hr-3090-35.hd-180-8.ch-804-64.lg-3078-90.sh-295-1408.he-3465-1408-1408",
