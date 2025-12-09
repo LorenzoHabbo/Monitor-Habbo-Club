@@ -270,10 +270,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "    Musica Inaudita",
-    "habboFigure": "hr-125-42.hd-180-1.ch-3030-1408.lg-285-82.sh-4112-90-90.cp-3288-64",
+    "habboFigure": "hr-125-42.hd-180-1.ch-3030-1408.lg-285-82.sh-4112-90-90.ha-1006.cp-3288-64",
     "memberSince": "2009-01-14T21:57:15.000+00:00",
     "uniqueId": "hhit-6037a3829ee891d5aa862b6be74471cb",
     "name": "Erosione",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-40.hd-4383-10-14.ch-6058-73-73.lg-4066-1408.he-5348",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Buon per te.",
     "habboFigure": "hr-3163-1395.hd-3095-1.ch-875-92-1408.lg-5545-110-1408.sh-3016-110.he-3071-1410.ea-3169-110.cc-3158-110",
