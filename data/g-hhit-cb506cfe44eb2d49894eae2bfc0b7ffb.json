@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sono mutata",
     "habboFigure": "hr-6211-40-38.hd-6216-28-1365.ch-5167-96.lg-4066-110.he-6103-96.fa-3276-92",
@@ -4000,7 +4000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6211-45-1401.hd-6219-2-26.ch-5917-100.lg-710-92.sh-5803-92.he-6215-100.fa-5467.ca-3828-100-92",
