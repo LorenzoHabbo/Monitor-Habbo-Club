@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "- CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-64-92.lg-3058-64.sh-905-64.he-6173-100.ea-4161.fa-5636-89",
@@ -1110,10 +1110,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-3857-1412-1408.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
+    "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-1006.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Iniziato G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-72.ca-3485.cc-5800-110-86",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2400,7 +2400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "BLACK PEARL la nave è affondata",
     "habboFigure": "hr-155-42.hd-205-14.ch-250-64.lg-280-75.sh-908-64.fa-1202-91",
@@ -2920,7 +2920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-190-10.ch-255-64.lg-281-1408.sh-295-64.ha-1015.he-1601.fa-3276-91",
@@ -4160,7 +4160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "soppravvissuto the hundred",
     "habboFigure": "hr-5971-45.hd-180-1370.ch-225-110.lg-3078-81.sh-906-92.ea-1403-1408.fa-3344-91.cc-886-1325",
