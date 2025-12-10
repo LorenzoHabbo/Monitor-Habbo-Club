@@ -650,10 +650,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "No PAIN No GAIN º",
-    "habboFigure": "hr-3841-31.hd-3845-14.ch-3030-66.lg-3787-1408-1408.he-1608",
+    "habboFigure": "hr-3841-31.hd-3845-14.ch-3342-1320-1320.lg-3787-81-1408.sh-4112-1320-1408.ha-3461.ea-3925-1408-1408",
     "memberSince": "2009-09-03T23:22:57.000+00:00",
     "uniqueId": "hhit-a654b7dfd12029161f9aa04340ecfda4",
     "name": "Nivis",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
@@ -7090,7 +7090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
@@ -9460,7 +9460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "DJROBOT|",
     "habboFigure": "hr-5680-32.hd-3845-1.ch-3598-76-75.lg-4066-75.sh-3180-76-1408.ha-1006",
