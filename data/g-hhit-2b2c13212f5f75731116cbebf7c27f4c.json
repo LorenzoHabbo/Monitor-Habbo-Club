@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408",
@@ -4300,7 +4300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello GD",
     "habboFigure": "hr-3322-42.hd-3845-1.ch-5608-1408.lg-280-73.sh-3068-1408-73.ha-1006.fa-5811-1408.cp-3120-1408",
@@ -5830,10 +5830,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "*.*",
-    "habboFigure": "hr-3810-31.hd-605-14.ch-822-1408.lg-720-1408.sh-725-1408",
+    "habboFigure": "hr-3810-31.hd-605-14.ch-822-1408.lg-720-1408.sh-725-1408.ha-1006",
     "memberSince": "2020-08-23T22:30:54.000+00:00",
     "uniqueId": "hhit-85065fbba0210a8071a164870ba055da",
     "name": "kelly.21",
