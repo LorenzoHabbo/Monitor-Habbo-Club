@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.ha-3461.he-3891.fa-5601-1408.cc-3744-73-1408",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3676-39.hd-4383-1-30.ch-3540-73.lg-3596-73-1408.sh-3587-91-1408.ha-3461.he-3579.fa-3276-72.cc-3867-73-72",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-5774-1412-1408.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato Semplice G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-70.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-71.ca-3485.cc-5800-92-92",
