@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-54-54.hd-3536-10-10.ch-655-110.lg-6303-1426-92.sh-3587-92-92.he-3070-92.fa-5467",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-5774-1412-1408.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
@@ -3920,7 +3920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
     "habboFigure": "hr-4117-32-32.hd-6216-1391-1364.ch-5919-1327-1327.lg-3006-1341-1408.sh-5308-1327.ha-6241-1341-1327.cc-3003-1341",
