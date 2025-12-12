@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3916-110-1408.wa-3263-92-92.cc-3232-110-88",
@@ -4480,10 +4480,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
-    "habboFigure": "hr-891-45.hd-190-1.ch-5559-83.lg-5594-82.sh-5803-1408.ha-5851.fa-3462-91.cc-4282-73",
+    "habboFigure": "hr-891-45.hd-190-1.ch-5559-83.lg-5594-82.sh-3383-90-68.ha-3461.fa-3462-91.cc-5441-73-1408",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
@@ -5050,7 +5050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-215-1428.lg-280-1426.sh-5247-92-1334.he-3740.fa-3276-100",
@@ -6210,7 +6210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-3768-44.hd-4163-1-14.ch-3881-76.lg-4066-75.sh-3419-76-76.he-3974.ea-3484",
@@ -7490,7 +7490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Coniglio since 2007. Osment in the |",
     "habboFigure": "hd-3604-10.ch-255-1408.lg-275-64.ha-1008.fa-1212",
