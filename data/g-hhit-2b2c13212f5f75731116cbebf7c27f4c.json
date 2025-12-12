@@ -1600,7 +1600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":crikey Cittadino the hundred",
     "habboFigure": "hr-802-31.hd-180-14.ch-3506-93-93.lg-270-93.sh-300-93.ha-1014.ea-3484.fa-1204.ca-3503-93.cc-4026-93-93",
@@ -2250,7 +2250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello GD",
     "habboFigure": "hr-170-40.hd-3845-1.ch-210-1408.lg-3384-1408-1408.sh-3524-1408-1408.ha-3709.fa-3344-64.cc-4184-64-1408",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-3030-1408.lg-275-81.ea-1404-1408.fa-1205-64",
@@ -4880,7 +4880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
