@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Guns N' Roses - Sweet Child O' Mine",
     "habboFigure": "hr-3800-34-42.hd-3845-10.ch-3809-64-1408.lg-4012-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
@@ -2290,7 +2290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -2720,7 +2720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-5579-45.hd-600-8.ch-665-81.lg-3526-1408-1408.sh-3354-81-1408.he-4318-81.fa-5601-1408.ca-5454-1408.wa-4317-1408.cc-4943-1408",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-61.hd-6002.ch-3203-1408.lg-4138-110.sh-4112-110-93.ha-3986.he-5279.ca-1816.cc-5761-110-110",
