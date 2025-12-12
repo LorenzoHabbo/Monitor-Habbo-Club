@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Nirvana - Smells Like Teen Spirit",
     "habboFigure": "hr-3800-34-42.hd-3845-10.ch-3809-64-1408.lg-4012-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
@@ -593,7 +593,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
-    "habboFigure": "hr-829-1394.hd-3095-2.ch-803-103.lg-3136-110.sh-295-110.fa-1204.ca-6189",
+    "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -3682,8 +3682,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "apprendista novello G.D",
-    "habboFigure": "hd-3604-10.ch-4025-64-73.lg-4017-64-64.sh-3375-64-64.he-3379-64-64.ea-3388-64-83.fa-3378-64-85.ca-4936",
+    "motto": "recluta P IH",
+    "habboFigure": "hd-3604-10.ch-220-82.lg-285-64.sh-3068-82-64.ha-1023-82.he-3379-64-64.ea-3388-64-84.fa-3378-64-84.ca-1804-1408.wa-2001",
     "memberSince": "2016-01-23T14:12:22.000+00:00",
     "uniqueId": "hhit-a9fb480423034c15da95ffdbacc6fae5",
     "name": "francexl",
@@ -5520,7 +5520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-3136-1430.sh-5464-71-93.ha-3272-1430-93.he-3081-92.fa-3276-66.ca-6242",
@@ -6680,7 +6680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-1407.hd-3845-18.ch-3987-110-96.lg-3596-110-96.sh-3089-110.he-3070-1410.ea-3169-110.fa-3296.cc-3360-110",
