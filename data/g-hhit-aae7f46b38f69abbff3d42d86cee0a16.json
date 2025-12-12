@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-5774-1412-1408.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "In pensione.",
     "habboFigure": "hr-125-42.hd-190-1.ch-3030-64.lg-3116-64-1408.sh-295-1408.ha-1004-64",
