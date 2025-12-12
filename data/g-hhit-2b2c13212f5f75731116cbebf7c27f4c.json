@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -3682,8 +3682,8 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "recluta P IH",
-    "habboFigure": "hd-3604-10.ch-220-82.lg-285-64.sh-3068-82-64.ha-1023-82.he-3379-64-64.ea-3388-64-84.fa-3378-64-84.ca-1804-1408.wa-2001",
+    "motto": "recluta .P .I.H.",
+    "habboFigure": "hd-3604-10.ch-220-82.lg-285-64.sh-3068-82-82.ha-1023-82.he-3379-64-64.ea-3388-64-84.fa-3378-64-84.ca-1804-1408.wa-2001",
     "memberSince": "2016-01-23T14:12:22.000+00:00",
     "uniqueId": "hhit-a9fb480423034c15da95ffdbacc6fae5",
     "name": "francexl",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ Jehudiel GD ƒ",
     "habboFigure": "hr-6211-49-49.hd-6216-10-13.ch-5919-1331-92.lg-3006-110-110.sh-5308-1335.he-5767-1331-91.fa-5467.ca-6212.cc-5926-109-110",
@@ -7320,7 +7320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista novello GD",
     "habboFigure": "hr-802-35.hd-180-1.ch-230-1408.lg-275-64.sh-305-1408.ha-3767-64.wa-2001.cc-3593-64-1408",
@@ -8600,7 +8600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "custode G.d.",
     "habboFigure": "hr-3519-37-37.hd-600-1.ch-817-80.lg-4092-64.sh-906-1408.ha-5620-80.cc-3326-81-1408",
