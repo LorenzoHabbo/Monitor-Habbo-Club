@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  Masarez © 2o16 / 2o25 - NT",
     "habboFigure": "hr-829-41.hd-190-1.ch-3934-92-110.lg-5732-110-64.sh-3587-92-92.he-1609-110.ea-1402.cc-3509-110-79",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bon Jovi - Always",
     "habboFigure": "hr-3800-34-42.hd-3845-10.ch-3809-64-1408.lg-4012-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
@@ -6030,7 +6030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "WALES SINCE 2007",
     "habboFigure": "hr-5791-42.hd-3845-1369.ch-5559-64.lg-3116-1408-1408.sh-305-66.ha-4201.fa-4168-72.cc-3420-64",

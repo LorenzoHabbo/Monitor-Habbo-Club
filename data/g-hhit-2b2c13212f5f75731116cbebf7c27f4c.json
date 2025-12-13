@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bon Jovi - Always",
     "habboFigure": "hr-3800-34-42.hd-3845-10.ch-3809-64-1408.lg-4012-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -4560,10 +4560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato G.D! Life is a gift",
-    "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-70.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-71.ca-3485.cc-5800-92-92",
+    "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-71.ca-3485.cc-5800-92-92",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -9660,7 +9660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5973-45-45.hd-6216-10-30.ch-5560-82-1408.lg-5594-1408.sh-5274-1408-1408.ha-3620.fa-5467.cc-6166-66-82",
