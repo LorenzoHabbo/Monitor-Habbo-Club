@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-5774-1412-1408.he-3753.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La bontà è mangime x gli avvoltoi.",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-665-110.lg-3006-110-92.sh-5464-92-110.he-6215-92.fa-5467.cc-3066-110",
