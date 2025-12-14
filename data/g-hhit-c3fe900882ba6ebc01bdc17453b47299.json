@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Habbo Rewind|",
     "habboFigure": "hr-5619-1347.hd-3631-1-1368.ch-3046-1415.lg-3006-110-110.sh-3277-110-1415.he-3082-110",
@@ -613,7 +613,7 @@
     "online": true,
     "gender": "m",
     "motto": "Ciao :)",
-    "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.ha-1006.he-3740.cc-5925-82",
+    "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
     "memberSince": "2011-12-22T22:14:33.000+00:00",
     "uniqueId": "hhit-b01772c35df1f2fe4a256423a1e355a9",
     "name": ".Robi.",
