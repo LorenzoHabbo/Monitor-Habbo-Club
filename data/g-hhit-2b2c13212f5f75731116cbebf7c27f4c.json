@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-35.hd-629-8.ch-685-90.lg-5582-90-1320.sh-735-90.ha-3461.fa-5601-1408.ca-3414-72.cc-5580-90-1320",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
