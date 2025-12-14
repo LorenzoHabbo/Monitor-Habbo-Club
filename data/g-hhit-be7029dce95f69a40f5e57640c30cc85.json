@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "triste nella prigione triste quando e",
     "habboFigure": "hr-4117-45-45.hd-205-10.ch-210-1408.lg-285-1408.sh-908-1408.ha-5141-64-1408.ea-3727.fa-5467.ca-5938-64-64.cc-260-64",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bon Jovi - Always",
     "habboFigure": "hr-3800-34-42.hd-3845-10.ch-3809-64-1408.lg-4012-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -2930,7 +2930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",

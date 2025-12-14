@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-5773-61.hd-629-1370.ch-3446.lg-3136-96.sh-3467.ha-3461",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408.ea-1404-63",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " commerciante afrodisiaco",
     "habboFigure": "hr-3725-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-295-64.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "la vostra invidia è la mia forza",
     "habboFigure": "hr-3841-40.hd-209-8.ch-210-1408.lg-3596-1408-1408.sh-3419-64-72.ha-3461.he-4022.ca-5759.cc-5622",
