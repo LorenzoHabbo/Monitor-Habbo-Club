@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-54-54.hd-3536-10-10.ch-655-110.lg-6303-1426-92.sh-3587-92-92.he-3070-92.fa-5467",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "a pukkiakk",
     "habboFigure": "hr-3163-45.hd-205-14.ch-210-64.lg-280-1408.sh-300-1408.he-1609-73.fa-3276-73",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "la vostra invidia è la mia forza",
     "habboFigure": "hr-3841-40.hd-209-8.ch-210-1408.lg-3596-1408-1408.sh-3419-64-72.ha-3461.he-4022.ca-5759.cc-5622",
