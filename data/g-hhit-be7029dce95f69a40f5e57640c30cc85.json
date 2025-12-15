@@ -873,7 +873,7 @@
     "online": true,
     "gender": "f",
     "motto": "Bon Jovi - Always",
-    "habboFigure": "hr-3800-34-42.hd-3845-10.ch-3809-64-1408.lg-4012-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
+    "habboFigure": "hr-3870-34.hd-3845-10.ch-3809-64-1408.lg-3526-1408-1408.sh-3338-64.he-4318-1408.fa-3276-72.wa-2002.cc-3744-64-64",
     "memberSince": "2008-06-08T23:22:22.000+00:00",
     "uniqueId": "hhit-32ecec70925e159097223a54c8c78b77",
     "name": "cinzietta31",
@@ -1373,7 +1373,7 @@
     "online": true,
     "gender": "f",
     "motto": "sono mutata",
-    "habboFigure": "hr-6211-40-45.hd-4383-28-1372.ch-3005-96-1323.lg-4066-110.he-6103-96.fa-3276-92",
+    "habboFigure": "hr-6211-40-45.hd-6216-28-1365.ch-5167-1413.lg-4066-110.he-6103-96.fa-3276-92",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -5050,7 +5050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-215-1428.lg-280-1426.sh-5247-92-1334.he-3740.fa-3276-100",
@@ -5500,7 +5500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
