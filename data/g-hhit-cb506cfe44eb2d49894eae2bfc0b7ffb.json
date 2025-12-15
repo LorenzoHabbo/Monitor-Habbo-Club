@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.ha-3461.he-3891.fa-5601-1408.cc-3744-73-1408",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-3040-1395.hd-3092-8.ch-3438-110-110.lg-3460.sh-3275-1410.ha-3461.he-5088.fa-1211.cc-6069",
@@ -1660,7 +1660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Moglie di Gnomica|",
     "habboFigure": "hr-5773-32.hd-3956-1-1370.ch-3540-73.lg-5594-85.he-3543-1408.fa-3276-73.cc-6077",
@@ -2030,7 +2030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-180-1370.ch-3030-64.lg-4114-64-1408.sh-295-64",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "AC/DC",
     "habboFigure": "hr-891-44.hd-205-1370.ch-5830-85.lg-3078-64.sh-295-90.ha-1004-64.fa-1202-73",
