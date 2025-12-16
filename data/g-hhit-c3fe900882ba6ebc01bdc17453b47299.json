@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-37-31.hd-180-1370.ch-210-1408.lg-3337-1408.sh-3338-1408.ea-3639.cc-3928",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "pioggia e sole",
     "habboFigure": "hr-5681-49-49.hd-6216-28-1365.ch-3487-92-92.lg-3483-77-92.sh-5803-92.he-3958-77.fa-5467",
@@ -803,7 +803,7 @@
     "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-3621-1412-1408.ha-5774-1412-1408.he-3753.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
+    "habboFigure": "hd-3103-1391.ch-3538-1412.lg-5113-1412.sh-4159-1412-1408.ha-5774-1412-1408.he-3753.fa-4168-1412.ca-5592-83-1408.wa-6154-110-1325.cc-6115-63-1408",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.ha-3461.he-3376-110-1408.cc-3389-110-1323",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "pioggia e sole",
     "habboFigure": "hr-5681-49-61.hd-600-28.ch-660-110.lg-715-110.sh-730-110.fa-5467.ca-6212",

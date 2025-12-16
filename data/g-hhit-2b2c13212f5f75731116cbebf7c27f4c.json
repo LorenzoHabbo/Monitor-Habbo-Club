@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4140-64.lg-4138-64.sh-3419-64-66.ha-3986.fa-3344-66.cc-3928",
@@ -2070,7 +2070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-5969-34.hd-3956-1-20.ch-685-71.lg-3078-82.sh-906-74.wa-2012",
@@ -3670,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "LETSGOSKI",
     "habboFigure": "hr-3531-40-40.hd-209-1.ch-5559-1408.lg-5594-64.sh-3524-66-64.he-3660-64-82.fa-5601-66.ca-4115-64-1408.cc-3593-64-1408",
@@ -3680,9 +3680,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Recluta G.D",
+    "motto": "APPRENDISTA NOVELLO G.D",
     "habboFigure": "hd-3604-10.ch-4025-64-73.lg-4017-64-64.sh-3375-64-64.he-3379-64-64.ea-3388-64-84.fa-3378-64-84.ca-4936",
     "memberSince": "2016-01-23T14:12:22.000+00:00",
     "uniqueId": "hhit-a9fb480423034c15da95ffdbacc6fae5",
@@ -4120,10 +4120,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decima esperta GD",
-    "habboFigure": "hr-6211-34-40.hd-5684-1.ch-3446.lg-3526-64-64.sh-5670-64.ha-1006",
+    "habboFigure": "hr-6211-34-42.hd-5684-1.ch-5699-64.lg-3526-64-64.sh-5670-64.he-5845",
     "memberSince": "2017-03-02T19:34:59.000+00:00",
     "uniqueId": "hhit-e709e562306cfbf654ffd9d9a46a225a",
     "name": "_MelissaMeli_",
@@ -4500,7 +4500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥ƒ|",
     "habboFigure": "hr-6083-1346.hd-4163-28-1364.ch-3233-110.lg-4369-110-1420.sh-5308-1420.ha-3144-110-1420.fa-5467",
@@ -6850,7 +6850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ei ciao",
     "habboFigure": "hr-5791-1400.hd-5838-29-8.ch-5361-72.lg-6089-72-73.ha-3272-72-83.he-3081-1337.ea-3270-63-1408.fa-1211.ca-5815-85-83.wa-5599-83-83",
@@ -7090,7 +7090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.ha-3461.he-3376-110-1408.cc-3389-110-1323",
@@ -7320,7 +7320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista novello GD",
     "habboFigure": "hr-802-35.hd-180-1.ch-230-1408.lg-275-64.sh-305-1408.ha-3767-64.wa-2001.cc-3593-64-1408",
@@ -8260,7 +8260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-82.sh-3089-82.ha-6225-82-92.he-3070-92.fa-5601-89",
