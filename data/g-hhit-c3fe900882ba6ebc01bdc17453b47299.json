@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-37-31.hd-180-1370.ch-210-1408.lg-3337-1408.sh-3338-1408.ea-3639.cc-3928",
@@ -610,7 +610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ª¥stellina¥ Ombra NT¥ crikey",
     "habboFigure": "hr-4117-48-40.hd-3845-10.ch-3321-1408.lg-710-1408.sh-908-73.ha-3461.he-3550.fa-5601-1408",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
