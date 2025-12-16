@@ -773,7 +773,7 @@
     "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
-    "habboFigure": "hr-3768-35.hd-205-1.ch-5559-1408.lg-5594-64.sh-3383-1408-1408.ha-1002-1408.he-1608.ea-1404-64.fa-3462-1320.wa-2001.cc-3509-64-1408",
+    "habboFigure": "hr-3768-35.hd-205-1.ch-5559-1408.lg-5594-64.sh-3383-1408-1408.ha-1002-1408.he-1608.ea-1404-64.wa-2001.cc-3509-64-1408.cp-3286",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-42.hd-205-28.ch-3779-110-110.lg-5594-92.he-3891.fa-5601-1408.cc-5800-92-1408",
@@ -2760,7 +2760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "the hundred",
     "habboFigure": "hr-515-42.hd-605-1.ch-4067-84-83.lg-700-85.sh-730-84.he-3329-83-85.fa-3276-72",
@@ -3320,7 +3320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-39-40.hd-3604-1.ch-210-1408.lg-281-84.ha-1006",
