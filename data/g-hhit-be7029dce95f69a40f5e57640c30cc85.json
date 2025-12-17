@@ -40,7 +40,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-165-45.hd-180-1370.ch-215-91.lg-5594-64.sh-305-1408.ea-5576-64-64.fa-3276-73.ca-6020-64.wa-2001.cc-3294-64-64",
@@ -7633,7 +7633,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-4363-1398-1397.hd-6047-1390.ch-3321-100.lg-3596-1408-1408.sh-3621-1408-100.ha-3745-1412-1408.he-6215-100.ea-5910-110-1408.fa-5601-92.ca-5431.wa-4060-1412-1408.cc-5800-1408-100",
+    "habboFigure": "hr-4363-1398-1397.hd-6047-1390.ch-3321-100.lg-3596-1408-1408.sh-3621-1408-100.ha-3461.he-6215-100.ea-5910-110-1408.fa-5601-92.ca-5431.wa-4060-1412-1408.cc-5800-1408-100",
     "memberSince": "2014-02-23T12:43:53.000+00:00",
     "uniqueId": "hhit-fbfb9941548d16a65a422b5c66b08f29",
     "name": "MaryAlien",
@@ -8360,7 +8360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Hey tu... Buona fortuna |",
     "habboFigure": "hr-3602-45-40.hd-190-1.ch-3110-73-82.lg-4167-82.sh-3524-82-73.ha-4095-82-73.ea-1403-1408.fa-3592-90.ca-1801-1408",
