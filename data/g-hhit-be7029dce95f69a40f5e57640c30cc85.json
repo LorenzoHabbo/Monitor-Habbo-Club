@@ -280,10 +280,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "- YaºKuºZa Sud -",
-    "habboFigure": "hr-6211-49-61.hd-6219-28-29.ch-5245-92.lg-5545-110-110.sh-6181-92.ha-3544.fa-3276-1414.wa-5986-64.cc-3867-63-1427",
+    "habboFigure": "hr-6211-49-61.hd-6219-28-29.ch-5245-92.lg-5545-110-110.sh-5308-92.ha-3544.fa-3276-1414.wa-5986-64.cc-3867-63-1427",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -413,7 +413,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3870-42.hd-600-1370.ch-630-82.lg-720-64.sh-3068-82-82.fa-3378-64-1408.ca-1804-1408.wa-2001",
+    "habboFigure": "hr-3870-42.hd-600-1370.ch-3342-1408-1408.lg-3320-64-1408.sh-3068-64-64.fa-3378-64-1408",
     "memberSince": "2007-05-11T20:18:31.000+00:00",
     "uniqueId": "hhit-53198861420ef86c1df1f927a4380b0c",
     "name": ":WomenBlack:",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3785-1403.hd-3721-2.ch-5695-92-92.lg-3202-1338-1338.sh-5247-92-63.ha-6246.he-3732.fa-5601-92.ca-3882-106-106.cc-3867-106-106",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "    Musica Inaudita",
     "habboFigure": "hr-125-42.hd-180-1.ch-3030-1408.lg-285-82.sh-4112-90-90.cp-3288-64",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ALWAYS",
     "habboFigure": "hr-831-1398.hd-190-1363.ch-215-110.lg-6303-110-110.sh-305-110.ha-1002-110.he-3070-1408.fa-6304-110.ca-5916-110-110.wa-3264-64-63.cc-4033-110-110",
@@ -3120,9 +3120,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "!",
+    "motto": "|",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
     "memberSince": "2010-10-16T14:49:58.000+00:00",
     "uniqueId": "hhit-cb8149d758da2a4ae8d1aa4a085c1af4",
@@ -5463,7 +5463,7 @@
     "online": true,
     "gender": "f",
     "motto": "Leader [ NºT ] - M |",
-    "habboFigure": "hr-5773-1342.hd-6216-28-28.ch-5351-92-92.lg-3502-92.he-5074-92.fa-5975.wa-5370.cc-5800-92-92",
+    "habboFigure": "hr-5773-1405.hd-6216-28-28.ch-3439-110-64.lg-3502-110.sh-6156-1330.ha-3606.he-3070-92.ea-5392.fa-5975.ca-5702-110-1420.wa-5370.cc-5800-64-110",
     "memberSince": "2011-12-10T13:54:58.000+00:00",
     "uniqueId": "hhit-1aececd81b1ee6f57c05517a1b0f9eb4",
     "name": "Pioggia,",
@@ -6000,7 +6000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gusto della Stella ¥¥  [ N -T ]",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-73-1320.lg-3023-64.ha-1006.he-3385-64-1408-1408.ea-3388-64-64.fa-1201.ca-3876-1320-82.cc-4979-72",
@@ -8340,7 +8340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Paul Kalkbrenner",
     "habboFigure": "hr-3090-35.hd-180-8.ch-267-64.lg-275-90.sh-295-1408.he-3465-1408-1408",
@@ -8890,7 +8890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "» Uomo d'onore FC»",
     "habboFigure": "hr-5210-60-61.hd-207-28.ch-5559-110.lg-5594-110.sh-5729-110-110.he-3740.ea-3148-110-110.fa-4048.ca-3844-110-92.wa-3264-110-110",
