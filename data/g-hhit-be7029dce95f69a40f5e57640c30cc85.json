@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "you don't like me, I don't like you",
     "habboFigure": "hr-4117-34-40.hd-3845-1.ch-3446.lg-3320-72-1408.sh-3383-64-72.ha-3461.he-5618-64.fa-3276-72.ca-1815-1408.cc-3744-1408-81",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3916-110-1408.wa-3263-92-92.cc-3232-110-88",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "FAM VOLPE ON THE BEAT |",
     "habboFigure": "hr-5544-49-40.hd-6216-28-1365.ch-650-92.lg-5594-77.sh-6042.he-5074-1408.cc-5926-1425-110",
@@ -5120,7 +5120,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-5969-34.hd-3956-1-20.ch-685-71.lg-3078-82.sh-906-74.wa-2012",
@@ -5460,7 +5460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Leader [ NºT ] - M |",
     "habboFigure": "hr-5773-1405.hd-6216-28-28.ch-3439-110-64.lg-3502-110.sh-6156-1330.ha-3606.he-3070-92.ea-5392.fa-5975.ca-5702-110-1420.wa-5370.cc-5800-64-110",
@@ -6130,7 +6130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-3321-1419.lg-5594-110.sh-3383-110-92.ha-6246.ea-5576-63-1408.fa-5601-92.ca-5815-84-92.cc-6115-92-110",
@@ -6470,10 +6470,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-31.hd-600-10.ch-5907-73-73.lg-4369-64-64.sh-5308-64.he-5314-73-73.fa-3276-72.cc-5926-72-72",
+    "habboFigure": "hr-5619-31.hd-600-10.ch-5907-73-73.lg-4369-64-64.sh-5308-1408.he-5314-73-73.fa-3276-72.cc-5926-72-72",
     "memberSince": "2012-10-03T19:51:58.000+00:00",
     "uniqueId": "hhit-5e5cb84a7c18e2e0fc799f65892f8d1c",
     "name": "-Shylar.",
