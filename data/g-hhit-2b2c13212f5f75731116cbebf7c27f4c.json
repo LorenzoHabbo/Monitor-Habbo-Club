@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-3461.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "One Life|",
     "habboFigure": "hr-893-37.hd-209-1371.ch-6177-91-1408.lg-275-91.sh-295-91.he-4946-91.cc-6175-1408",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-49.hd-6216-27-1364.ch-655-110.lg-5594-110.sh-5803-92.ha-5301-110.he-6173-92.fa-5975.wa-6154-1428-110.cc-5690-110",
@@ -3790,7 +3790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-6211-31-40.hd-3631-1389-1372.ch-3540-85.lg-3391-1325-92.he-5314-85-1412.ea-3169-110.fa-3276-1328.cc-5926-1325-92",
@@ -4570,7 +4570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato Scelto G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-71.ca-3485.cc-5800-92-92",
@@ -4843,7 +4843,7 @@
     "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ Jehudiel GD ƒ",
-    "habboFigure": "hr-6211-1403-49.hd-6216-10-13.ch-5919-1331-92.lg-3006-110-110.sh-5308-1335.he-5767-1331-91.fa-5467.ca-6212.cc-5926-109-110",
+    "habboFigure": "hr-6211-1403-1403.hd-6216-10-13.ch-5919-110-1335.lg-3006-110-110.he-3740.fa-5467.ca-6212.cc-3867-110-1334",
     "memberSince": "2018-09-21T14:50:00.000+00:00",
     "uniqueId": "hhit-6a7cec4fe2064fed4a5c24554c6a1fae",
     "name": "Lilyjade",
@@ -4980,7 +4980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Novello G.D",
     "habboFigure": "hr-3841-37.hd-209-10.ch-225-64.lg-3407-91-66.sh-3068-91-66.ha-3409-91-66.ea-3484.ca-3425-66-1408.wa-2001.cc-3405-91-66",
@@ -5710,7 +5710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "damn",
     "habboFigure": "hr-3725-1396.hd-3845-1389.ch-3032-92-1408.lg-5970-70.sh-3089-110.ha-1006.ea-3726.ca-5175-63.wa-2005.cc-5926-110-1408",
@@ -6977,6 +6977,16 @@
     "memberSince": "2022-01-06T01:53:17.000+00:00",
     "uniqueId": "hhit-0da0dc55d3fdf2f709eb6ff88162819b",
     "name": "Eva00",
+    "isAdmin": false
+  },
+  {
+    "online": true,
+    "gender": "m",
+    "motto": "Apprendista Novello G.D",
+    "habboFigure": "hr-3370-37.hd-3845-8.ch-4165-110-66.lg-3384-110-66.sh-906-110.ha-3268-110-1408.ea-3484.fa-3344-110",
+    "memberSince": "2022-01-07T16:20:46.000+00:00",
+    "uniqueId": "hhit-b9c68b79903a7cc88de7e815e75f5dd4",
+    "name": "ermal999",
     "isAdmin": false
   },
   {
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-04T22:10:20.000+00:00",
     "uniqueId": "hhit-85306c80572e067b931b27948181a301",
     "name": "LaGrandedixie",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista novello G.D",
-    "habboFigure": "hr-100.hd-209-14.ch-804-1408.lg-3023-1408.sh-305-64.ha-1005-73.he-1608.wa-2007",
-    "memberSince": "2023-09-06T08:18:07.000+00:00",
-    "uniqueId": "hhit-5739a99f003d17deda574c8eef1778f5",
-    "name": "AvorioNero",
     "isAdmin": false
   }
 ]
