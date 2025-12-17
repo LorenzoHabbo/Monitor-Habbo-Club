@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM-HIH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-22.ch-660-92.lg-3502-1427.sh-5803-92.he-6224-1426-1408.fa-5467.cc-3917-1426",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3446.lg-5909-110-110.sh-5073.he-3912.ea-6270",

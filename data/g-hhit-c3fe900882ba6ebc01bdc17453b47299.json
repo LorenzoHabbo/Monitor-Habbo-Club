@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "28/11",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-1408.ha-3461.he-3891.fa-5601-1408.cc-3744-73-1408",
@@ -773,7 +773,7 @@
     "online": true,
     "gender": "m",
     "motto": "<3",
-    "habboFigure": "hr-3260-1395.hd-5317-1388-1357.lg-5594-110.sh-3016-110.ha-3690-1412.fa-5600-92.ca-1816.cc-3075-110",
+    "habboFigure": "hr-3260-1395.hd-5317-1388-1357.ch-265-92.lg-5594-110.sh-3016-110.ha-6198.fa-5600-92.cc-3158-110",
     "memberSince": "2013-04-01T22:17:16.000+00:00",
     "uniqueId": "hhit-ba5093b778388fd2533b789a95bb8388",
     "name": "Avaren",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Mai più nessun legame.",
     "habboFigure": "hr-5681-49-61.hd-600-28.ch-665-110.lg-5970-110.fa-3378-110-92",
