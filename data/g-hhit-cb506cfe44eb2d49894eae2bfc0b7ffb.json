@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1394-1395.hd-3536-10-10.ch-655-110.lg-6303-1426-92.sh-3587-92-92.he-6215-110.fa-5467.ca-6212",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-1405.hd-180-28.ch-215-92.lg-280-110.sh-906-92.ha-1004-110.he-3070-1427.ea-1404-110.cc-5926-64-92",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-1412-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "non ho mai truffato in vita mia",
     "habboFigure": "hd-6021-10.ch-5351-71-71.lg-3216-71.ha-5366-1408-71.ea-1403-1408.cc-6166-71-71",
@@ -4840,7 +4840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3841-61.hd-209-8.ch-5833-96-92.lg-3596-92-92.sh-3419-110-96.ha-1006.he-1609-81",
