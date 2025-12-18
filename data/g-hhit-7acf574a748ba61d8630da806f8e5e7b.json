@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.ha-1006.he-3082-1412.cc-3744-96-92",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-3461.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -1750,10 +1750,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
-    "habboFigure": "hr-828-1403.hd-3536-18-28.ch-3668-92-92.lg-3418-92.sh-5803-92.ha-3736.ca-3885-92-92.cc-5800-77-77",
+    "habboFigure": "hr-828-1403.hd-3536-18-28.ch-3735-1413.lg-5363-1432.sh-5803-92.ha-3736.ca-3885-1410-92.cc-5800-1432-92",
     "memberSince": "2018-02-01T01:44:05.000+00:00",
     "uniqueId": "hhit-25cff609b6c5e80f363b18a686a61679",
     "name": "AnGeLsHoK",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo Semplice G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-71.ca-3485.cc-5800-92-92",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista  G.D",
     "habboFigure": "hr-3860-45-45.hd-205-28.ch-3498-110.lg-5594-110.he-3891.fa-5601-1408.ca-5603-80-81.cc-5800-1429-110",
