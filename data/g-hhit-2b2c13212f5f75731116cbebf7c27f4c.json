@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6211-59-1345.hd-6219-2-1367.ch-6180-96.lg-3136-89.sh-6182.he-5348.cc-6031-1410-110",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Si vis pacem , para bellum",
     "habboFigure": "hr-5275-37.hd-180-1.ch-215-73.lg-3088-1408-1408.sh-3524-91-1408",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -1020,7 +1020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5680-35.hd-629-8.ch-655-72.lg-3596-1408-1408.sh-735-64.he-3274-72.fa-5601-1408.ca-3414-1408",
@@ -5530,7 +5530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-3136-1430.sh-5464-71-93.ha-3272-1430-93.he-3081-92.fa-3276-66.ca-6242",
