@@ -100,10 +100,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est ª Oblivion",
-    "habboFigure": "hr-828-54.hd-3845-10.ch-3030-1334.lg-285-80.ea-3639.cc-5810-1408",
+    "habboFigure": "hr-828-54.hd-3845-10.ch-3030-1334.lg-285-80.ea-3639",
     "memberSince": "2007-12-12T18:26:05.000+00:00",
     "uniqueId": "hhit-fc2cc48a4effdccd773b15c24b2c7928",
     "name": "Darrell",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-3860-1407-49.hd-3102-18.ch-5596-110.lg-5594-63.sh-4112-1408-1408.he-3740.fa-5600-1408.wa-3773-110",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-3461.he-1608.fa-3462-1427.ca-3916-1413-85",
