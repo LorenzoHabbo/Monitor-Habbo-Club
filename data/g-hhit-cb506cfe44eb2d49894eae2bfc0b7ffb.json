@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-1394-1395.hd-3536-10-10.ch-655-110.lg-6303-1426-92.sh-3587-92-92.he-6215-110.fa-5467.ca-6212",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6211-49-1401.hd-6216-28-1367.ch-5607-1418.lg-6000-110.sh-6043.he-5802-64.fa-5467.ca-5026-64.wa-5370.cc-5926-110-64",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-1412-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
     "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.he-3820-92.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "mi trovi dal lun al ven",
     "habboFigure": "hr-4363-1404-1404.hd-600-2.ch-5963-110.lg-3134-92-92.ha-5364.he-5279.fa-3276-1328",
@@ -3780,7 +3780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "a pukkiakk",
     "habboFigure": "hr-3163-1404.hd-205-15.ch-255-87.lg-280-64.sh-305-92.he-5466.fa-6304-63.ca-1815-63",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "la vostra invidia è la mia forza",
     "habboFigure": "hr-3841-40.hd-209-8.ch-210-1408.lg-3596-1408-1408.sh-3419-64-72.ha-3461.he-4022.ca-5759.cc-5622",
