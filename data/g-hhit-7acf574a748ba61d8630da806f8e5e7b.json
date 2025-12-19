@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-3461.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Gusto della Stella ¥¥  [ N -T ]",
     "habboFigure": "hr-5465-42-48.hd-205-19.ch-3342-73-1320.lg-3023-64.ha-1006.he-3385-64-1408-1408.ea-3388-64-64.fa-1201.ca-3876-1320-82.cc-4979-72",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1343.hd-3102-1.ch-3077-73-110.lg-3078-110.sh-3089-92.ha-3620.wa-3773-110.cc-3692-110-92",
@@ -1900,17 +1900,17 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.he-3820-92.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
+    "habboFigure": "hr-828-42.hd-205-23.ch-210-110.lg-280-110.sh-3587-92-92.ha-3544.he-5393.ea-5392.cc-3532-64-1428",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-5139-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "punto di corda ritardat",
     "habboFigure": "hr-5124-49.hd-5524-1391-1365.ch-255-63.lg-5594-1428.sh-6305-63-92.ha-5512.he-5466.fa-5948-92.ca-5574-110-110.cc-5690-110",
@@ -3180,7 +3180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Trash queennaaa",
     "habboFigure": "hr-4117-34-1395.hd-3956-1383-1367.ch-5015-96.lg-4102-110-96.sh-3154-110-96.ha-1012-110.he-3155-96.fa-3276-72.ca-3292-110.cc-3744-96-1413",
