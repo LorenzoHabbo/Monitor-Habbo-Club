@@ -360,10 +360,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-830-40.hd-180-10.ch-210-73.lg-270-73.sh-290-73.ha-1006.ca-1809.cp-3286",
+    "habboFigure": "hd-180-10.ch-210-73.lg-270-73.sh-290-73.ha-1006.ca-1809",
     "memberSince": "2007-03-18T10:12:04.000+00:00",
     "uniqueId": "hhit-5ac139ac72515b9e5c5aafb03681cd45",
     "name": "Piccolohannibal",
@@ -3420,7 +3420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amor che muovi il sole le stelle mare",
     "habboFigure": "hr-3791-32.hd-600-10.ch-4067-76-73.lg-710-64.sh-3180-74-76.he-3274-73.fa-3276-71.ca-1801-80",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-44.hd-3845-1.ch-3443.lg-285-73.ha-3441.fa-3462-1408",
