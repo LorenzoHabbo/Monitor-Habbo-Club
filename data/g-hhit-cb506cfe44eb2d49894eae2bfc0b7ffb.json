@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "sono mutata",
     "habboFigure": "hr-6211-42-40.hd-6216-28-1362.ch-5167-96.lg-5974-110-110.ha-3586.he-3740.fa-3276-1414",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Colpa della nostalgia, ricordi?",
     "habboFigure": "hr-5791-34.hd-209-1.ch-5833-82-1408.lg-270-90.ha-1006.he-1608.fa-1204",
@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "El Bombon - Los Palmeras",
-    "habboFigure": "hr-3163-49.hd-5525-2-22.ch-210-92.lg-3136-92.sh-5803-92.ha-5947-100.he-3740.fa-5975.ca-3414-100.cc-3744-92-92",
+    "habboFigure": "hr-3163-49.hd-5525-2-22.ch-210-92.lg-3138-92-64.sh-5803-92.ha-5947-100.he-3740.fa-5975.ca-3414-100.cc-3744-92-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Squadra bling",
     "habboFigure": "hr-5773-1400.hd-4383-9-1367.ch-5351-92-96.lg-5594-110.sh-3089-100.ha-5301-100.he-5808-1408.fa-3276-96.wa-5370.cc-5307-100",
