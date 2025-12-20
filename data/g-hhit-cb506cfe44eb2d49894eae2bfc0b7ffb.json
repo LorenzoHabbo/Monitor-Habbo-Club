@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -2330,7 +2330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-891-42.hd-207-10.ch-3030-1408.lg-275-64.sh-906-64",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Stay focus boy",
     "habboFigure": "hr-5971-34.hd-205-1.ch-215-1408.lg-5594-64.sh-5803-1408.ha-4052.fa-3276-72.cc-5800-1408-1408",
