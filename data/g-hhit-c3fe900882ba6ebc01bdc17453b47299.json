@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-1412-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
     "habboFigure": "hr-6174-1405-1405.hd-6216-11-1365.ch-5374-64-110.lg-4114-110-64.ha-3953-101-1431.he-4990-110.ea-5910-101-101.fa-5703.ca-5771-110-110.wa-5478-64-101.cc-5825",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sono grande, mollatemi!",
     "habboFigure": "hr-5681-49-61.hd-600-28.ch-3183.lg-3006-110-92.sh-3016-110.he-1609-110.ea-1401-110.fa-5600-92",
