@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3785-1403.hd-3721-2.ch-5695-92-92.lg-3202-1338-1338.sh-5247-92-63.ha-6246.he-3732.fa-5601-92.ca-3882-106-106.cc-3867-106-106",
@@ -1280,10 +1280,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "        Born to be rich.",
-    "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-1428.lg-5594-77.sh-5464-92-92.ha-5557-63-110.ea-3750.fa-5384-92.ca-5934-1321.cc-5926-110-92",
+    "habboFigure": "hd-4174-1.ch-220-1408.lg-281-1408.sh-290-1408.ha-1006",
     "memberSince": "2009-02-04T18:01:59.000+00:00",
     "uniqueId": "hhit-696b3401fbd111ab44ebbafe72d4de9c",
     "name": "yufuss",
@@ -3450,7 +3450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-61.hd-3095-1390.ch-3203-1408.lg-4138-110.sh-4112-110-93.ha-3986.he-5279.cc-5761-110-110",
@@ -9320,16 +9320,6 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "f",
-    "motto": "…",
-    "habboFigure": "hr-6211-49-1401.hd-6216-28-1367.ch-3935-110-64.lg-4092-110.sh-4064-100.he-4977-110-73.fa-3193-110.ca-5771-110-100.cc-4387-110-1412.cp-3315-100",
-    "memberSince": "2015-12-06T23:23:39.000+00:00",
-    "uniqueId": "hhit-ca9e7c2a9dde190a4bdf8886f17731f0",
-    "name": ".:DarkAngel:.",
-    "isAdmin": false
-  },
-  {
     "online": false,
     "gender": "m",
     "motto": "Ijess a muri p te / S.",
@@ -9997,6 +9987,16 @@
     "memberSince": "2016-06-23T11:30:25.000+00:00",
     "uniqueId": "hhit-f8ea6dcba2b5b2a938a047de54177fd2",
     "name": "-Walvy-",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "\"ma la brama di vivere è alle stelle\"",
+    "habboFigure": "hr-3782-42.hd-629-1370.ch-665-1335.lg-3483-1411-1324.sh-3419-1409-1325.he-3070-1427.ea-6053-1325.fa-4058-1427.ca-4183-1427-1427.wa-5986-1324",
+    "memberSince": "2016-06-24T20:30:04.000+00:00",
+    "uniqueId": "hhit-77685bba5325aee6aa6085fb1e9e7f59",
+    "name": "LucyR.96",
     "isAdmin": false
   }
 ]
