@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-32.hd-209-8.ch-215-64.lg-275-81.sh-290-64.he-1608.fa-1208-64",
@@ -1640,7 +1640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dedito al bello *-*",
     "habboFigure": "hr-4941-52-52.hd-3091-1370.ch-3234-110.lg-4102-110-110.sh-3089-1432.he-3070-93.ea-3484.ca-6167-1413-92.cc-3946-1430",
@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "non ho mai truffato in vita mia",
     "habboFigure": "hd-6021-10.ch-5488-71.lg-3216-71.ha-1010-71.ea-1403-1408.cc-6166-71-71",
@@ -1750,7 +1750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "…",
     "habboFigure": "hr-6211-49-1401.hd-6216-28-1367.ch-3935-110-64.lg-4092-110.sh-4064-100.he-4977-110-73.fa-3193-110.ca-5771-110-100.cc-4387-110-1412.cp-3315-100",
@@ -4860,7 +4860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "guarda le mie stanze kitemmuort",
     "habboFigure": "hr-3665-1342.hd-4174-28.ch-5608-92.lg-5594-63.sh-3016-64.ha-3494-1427-1408.ea-3169-1334.ca-3292-1427.cc-5441-1408-92",
