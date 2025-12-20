@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-82-72.lg-285-1408",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-1412-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-96-92.lg-5970-82.sh-5464-92-96.ha-5366-92-96.fa-5467.cc-6077",
