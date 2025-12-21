@@ -520,10 +520,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "se non avessi mai visto il sole",
-    "habboFigure": "hr-6211-1403-40.hd-3536-10-10.ch-655-1428.lg-6303-1426-92.sh-3587-92-92.fa-5467.ca-6212",
+    "habboFigure": "hr-6211-1342-1342.hd-3536-10-10.ch-655-92.lg-6303-1426-92.sh-3587-92-92.fa-5467",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-61.hd-629-1370.ch-3446.lg-3136-96.sh-3467.ha-3461",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3334-1331-92.lg-3596-1331-1408.sh-3338-1331.ha-3855-1331.ca-4037-1331-92.cc-5961-1331-92",
@@ -2273,7 +2273,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.he-3820-92.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
+    "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.cc-5800-63-63",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2553,7 +2553,7 @@
     "online": true,
     "gender": "m",
     "motto": " commerciante afrodisiaco",
-    "habboFigure": "hr-3725-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-3419-64-1408.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
+    "habboFigure": "hr-5465-42-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-3419-64-1408.he-4990-73.ea-1404-64.fa-5054.ca-3982-64-64",
     "memberSince": "2020-02-24T13:11:58.000+00:00",
     "uniqueId": "hhit-42e997113909c856fec3b955c57ba7b0",
     "name": "b0nostrain",
@@ -2672,7 +2672,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "—: ROSÉ - APT.",
+    "motto": "—: Filtr Italy - Advertisement",
     "habboFigure": "hr-5124-49.hd-5524-1391-1365.ch-255-63.lg-5594-1428.sh-5639.ha-5512.he-5466.fa-5948-92.ca-5574-110-110.cc-5690-110",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
@@ -3773,7 +3773,7 @@
     "online": true,
     "gender": "m",
     "motto": "a pukkiakk",
-    "habboFigure": "hr-3163-34.hd-205-15.ch-3934-64-110.lg-280-64.sh-305-92.he-3740.cc-3917-64",
+    "habboFigure": "hr-3163-1342.hd-205-2.ch-210-92.lg-3136-92.sh-908-92.ca-3414-100.cc-3744-92-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -4820,7 +4820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "la vostra invidia è la mia forza",
     "habboFigure": "hr-3841-40.hd-209-8.ch-210-1408.lg-3596-1408-1408.sh-3419-1408-72.ha-3461.he-4022.cc-6204-72",
