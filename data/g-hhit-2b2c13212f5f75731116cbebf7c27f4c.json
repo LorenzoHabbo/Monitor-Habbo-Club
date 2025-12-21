@@ -2390,10 +2390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CAVALIERE ELETTO 1P G.D.",
-    "habboFigure": "hr-3841-1355.hd-209-1.ch-3222-92.lg-3787-110-1408.sh-3016-1424.ea-3484.cc-3152-110",
+    "habboFigure": "hr-3841-1355.hd-209-1.lg-3138-110-1408.ea-3484",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -6980,7 +6980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista gd",
     "habboFigure": "hr-3370-37.hd-205-8.ch-4165-110-66.lg-3384-110-66.sh-906-110.ha-3268-110-1408.ea-3484.fa-3344-110",
