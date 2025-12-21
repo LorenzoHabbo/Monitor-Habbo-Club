@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.ha-1006.he-3082-1412.cc-3744-96-92",
@@ -663,7 +663,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hd-6159-30-30.ch-4025-110-1408.lg-5594-110.sh-5247-110-110.ha-4188-110.he-4059-110-110.ea-3083-110.fa-4058-1408.ca-5771-110-110.wa-4060-110-110.cc-3158-110",
+    "habboFigure": "hr-3260-1395.hd-6159-4-30.ch-3923-67-1409.lg-6290-67.sh-6305-1325-1409.he-5767-67-1325.fa-6284.wa-4060-67-1325.cc-5307-1325",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -783,7 +783,7 @@
     "online": true,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-5681-1342-1347.hd-4383-10-5.ch-4087-1326.lg-5594-92.sh-5308-1326.ha-3709.cc-6077",
+    "habboFigure": "hr-3673-1398.hd-4383-10-5.ch-5310-1413-92.lg-5312-1413-92.sh-3354-96-1433.ha-1006.fa-5601-1326.wa-6165-1432",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Builder Designer©®™",
     "habboFigure": "hr-3260-61.hd-6219-4-28.ch-3203-106.lg-4138-92.sh-3206-92.fa-6232-100.ca-6167-92-92.cc-5761-92-92",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-3102-23.ch-3779-110-1412.lg-3257-110.sh-3089-110.ha-3461.he-3740.fa-3276-71.ca-3485.cc-5800-92-92",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3102-11.ch-3334-1331-92.lg-3596-1331-1408.sh-3338-1331.ha-3855-1331.ca-4037-1331-92.cc-5961-1331-92",
@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-82.sh-3089-82.ha-6225-82-92.he-3070-92.fa-5601-89",
@@ -3340,7 +3340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Turchia",
     "habboFigure": "hr-115-42.hd-207-10.ch-3030-82.lg-270-82.sh-290-1408.ha-5293.fa-1212.ca-5771-64-64.cc-5288",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-645-92.lg-3058-110.sh-5670-110.ha-3461.ca-6212.wa-6165-1330.cc-4300-100-1408",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista aiutante gd",
     "habboFigure": "hr-3163-37.hd-209-1.ch-255-1422.lg-3023-92.sh-3089-1422",
@@ -4200,7 +4200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1.ch-210-76.lg-280-1408.sh-305-76.ea-1404-64.cc-3512-76-1408",
