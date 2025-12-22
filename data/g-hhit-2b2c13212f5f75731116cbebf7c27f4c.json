@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "portavoce angelico p 1  g.d",
     "habboFigure": "hr-5680-1344.hd-3100-8.ch-5762-92-96.lg-5970-1423.sh-3467.ha-3461",
@@ -2960,7 +2960,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "conservatrice della luce 1P |||",
     "habboFigure": "hr-6211-49-59.hd-3100-19.ch-6029-92-96.lg-6013-1424-1408.he-5314-92-96.ca-5463",
@@ -2990,7 +2990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Piuttosto soffrire che morire æ",
     "habboFigure": "hr-893-32.hd-180-1370.ch-3030-91.lg-281-1408.fa-3276-64",
@@ -5710,7 +5710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "damn",
     "habboFigure": "hr-3725-1396.hd-3845-1389.ch-3032-92-1408.lg-5970-70.sh-3089-110.ha-1006.ea-3726.ca-5175-63.wa-2005.cc-5926-110-1408",
@@ -7780,7 +7780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "soldato gd",
     "habboFigure": "hr-890-32.hd-629-1.ch-665-73.lg-710-73.sh-3180-1408-72.ha-1006",
