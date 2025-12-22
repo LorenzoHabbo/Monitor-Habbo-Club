@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "El Bombon - Los Palmeras",
-    "habboFigure": "hr-5962-1401.hd-5525-2-12.ch-3001-1336-1336.lg-3136-1336.sh-5247-1408-1336.he-1606-1336.fa-5975.ca-3414-100.cc-3744-110-1336",
+    "habboFigure": "hr-5962-1401.hd-5525-2-12.ch-3001-1336-1336.lg-3136-1336.sh-5247-1408-1336.he-3740.fa-5975.ca-3414-100.cc-3744-110-1336",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-6211-31-40.hd-3631-1389-1372.ch-3540-85.lg-3391-1325-92.he-5314-85-1412.ea-3169-110.fa-3276-1328.cc-5926-1325-92",
