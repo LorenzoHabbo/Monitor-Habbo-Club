@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Leader TH - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-64-92.lg-3058-64.sh-905-64.he-6173-100.ea-4161.fa-5636-89",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5606-1342-1405.hd-605-28.ch-813-92.lg-3006-92-92.sh-5803-92.he-5808-1337.ea-3196-1408.fa-5467.cc-5440-77-92",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3540-110.lg-3460.sh-5073.ha-5366-92-96.ea-6270",
