@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La felicità va scelta",
     "habboFigure": "hr-5566-1342-1342.hd-3536-10-10.ch-665-92.lg-6303-1414-92.sh-3587-92-92.ha-5677-1414.he-3358-92-92.fa-5467.cc-3692-92-1414",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4182-1351-1346.hd-4383-10-5.ch-5351-92-1412.lg-6000-1412.sh-6064-92-1412.ha-3461",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "lilangela-tedonasgheta|",
     "habboFigure": "hr-3163-61.hd-190-15.ch-255-110.lg-280-110.sh-3587-92-1408.he-3070-92.cc-6166-96-92",
@@ -3460,7 +3460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dream big, work hard.",
     "habboFigure": "hr-891-40.hd-4174-14.ch-5559-91.lg-285-88.sh-906-1408.ha-1006.ea-1404-64.fa-3462-1408.cc-3280-64-1320",
