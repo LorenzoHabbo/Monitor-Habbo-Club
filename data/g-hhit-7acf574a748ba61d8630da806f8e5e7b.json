@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5606-1342-1405.hd-605-28.ch-813-92.lg-3006-92-92.sh-5803-92.he-5808-1337.ea-3196-1408.fa-5467.cc-5440-77-92",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3334-1331-92.lg-3596-1331-1408.sh-3338-1331.ha-3855-1331.ca-4037-1331-92.cc-5961-1331-92",
@@ -1893,7 +1893,7 @@
     "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-42-42.hd-5525-1357-27.ch-5713.lg-3136-1323.sh-3587-92-92.ha-3684.he-3740",
+    "habboFigure": "hr-3860-42-42.hd-5525-1357-27.ch-5713.lg-3136-1323.sh-3587-92-92.ha-3684.he-3740.ca-3844-92-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mordo",
     "habboFigure": "hr-3746-48.hd-3845-10.ch-3540-85.lg-3116-73-1408.he-1609-64.fa-3378-64-1408.wa-4317-64",
@@ -3330,7 +3330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "First Lady Corleoneº",
     "habboFigure": "hr-6083-1342.hd-627-1383.ch-3540-110.lg-3460.sh-5073.ha-5366-92-96.ea-6270",
