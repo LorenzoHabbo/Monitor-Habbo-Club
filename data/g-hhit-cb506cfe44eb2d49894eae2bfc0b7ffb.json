@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-106.sh-5803-92.ha-6246.fa-5600-92.cc-3542-92-106",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La felicità va scelta",
     "habboFigure": "hr-5566-1342-1342.hd-3536-10-10.ch-665-92.lg-6303-1414-92.sh-3587-92-92.ha-5677-1414.he-3358-92-92.fa-5467.cc-3692-92-1414",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5606-1342-1405.hd-605-28.ch-813-92.lg-3006-92-92.sh-5803-92.he-5808-1337.ea-3196-1408.fa-5467.cc-5440-77-92",
@@ -2270,10 +2270,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-42-42.hd-5525-1357-27.ch-5713.lg-3136-1323.sh-3587-92-92.ha-3684.he-3740.ca-3844-92-92",
+    "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.he-3820-92.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2550,7 +2550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " commerciante afrodisiaco",
     "habboFigure": "hr-4162-42.hd-190-10.ch-4171-64-1408.lg-5594-64.sh-3419-64-1408.ha-5677-64.fa-5054.ca-3982-64-64",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode dei 13 the100  TheHitcher_97 |",
     "habboFigure": "hr-3791-32.hd-4163-1-1369.ch-665-64.lg-3078-81.sh-5308-1408.ha-5620-1408.fa-5467.ca-1805-1408",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-96-92.lg-5970-82.sh-5464-92-96.ha-5366-92-96.fa-5467.cc-6077",
@@ -4850,7 +4850,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "guarda le mie stanze kitemmuort",
     "habboFigure": "hr-3665-1342.hd-4174-28.ch-5608-92.lg-5594-63.sh-3016-64.ha-3494-1427-1408.ea-3169-1334.ca-3292-1427.cc-5441-1408-92",
