@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-6211-31-40.hd-3631-1389-1372.ch-3540-85.lg-3391-1325-92.he-5314-85-1412.ea-3169-110.fa-3276-1328.cc-5926-1325-92",
@@ -3850,7 +3850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-3845-8.ch-5559-1408.lg-6161-81-1408.sh-3419-64-64.ha-3494-64-1408.ea-5576-64-64.cc-3874-64-1408",
