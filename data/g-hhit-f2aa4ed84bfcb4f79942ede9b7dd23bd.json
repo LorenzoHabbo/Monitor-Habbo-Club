@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-82-72.lg-285-1408",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-5365-66-1410.wa-4317-1322.cc-5182-92",
@@ -2060,7 +2060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -2230,7 +2230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "chiagn e futt",
     "habboFigure": "hr-5772-32-40.hd-615-10.ch-813-1320.lg-3483-1320-1320.sh-5803-1408.he-3958-1408.fa-5467.cc-5810-1408",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3602-32-45.hd-3845-1.ch-255-110.lg-3418-64.sh-5247-92-64.ca-5936-92",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4117-61-61.hd-4383-10-5.ch-5560-1414-110.lg-5594-64.sh-5729-110-110.he-3324-110-98",

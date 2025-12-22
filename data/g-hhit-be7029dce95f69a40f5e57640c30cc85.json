@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-82-72.lg-285-1408",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -2503,14 +2503,14 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5680-32.hd-4163-1-1371.ch-3459.lg-3460.sh-5464-1408-75.ha-3461.fa-3462-1408",
+    "habboFigure": "hr-5680-32.hd-4163-1-1371.ch-3459.lg-3460.sh-5464-1408-75.ha-3461",
     "memberSince": "2010-03-12T13:41:38.000+00:00",
     "uniqueId": "hhit-29ac1aba73fa68794785597f2c4e5a30",
     "name": "p.alessiuccia.q",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "chiagn e futt",
     "habboFigure": "hr-5772-32-40.hd-615-10.ch-813-1320.lg-3483-1320-1320.sh-5803-1408.he-3958-1408.fa-5467.cc-5810-1408",
@@ -4680,7 +4680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4117-61-61.hd-4383-10-5.ch-5560-1414-110.lg-5594-64.sh-5729-110-110.he-3324-110-98",
@@ -6820,7 +6820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6211-49-1401.hd-6216-28-1367.ch-5607-1418.lg-6000-110.sh-6043.he-5802-64.fa-5467.ca-5026-64.wa-5370.cc-5926-110-64",
