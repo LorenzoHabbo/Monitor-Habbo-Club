@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ",
     "habboFigure": "hr-6211-1404-1401.hd-3845-10.ch-3540-85.lg-3006-100-100.sh-5308-100.he-5314-100-100.fa-5467.cc-5800-100-85",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Auguri |",
     "habboFigure": "hr-4117-34-34.hd-3845-1.ch-3446.lg-3320-82-72.sh-3383-64-72.ha-3461.he-5618-82.fa-3276-72.ca-3466-1408-82.cc-3744-72-82",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAVALIERE ELETTO 1P G.D.",
     "habboFigure": "hr-3841-42.hd-209-1.ch-3498-110.lg-3320-110-1408.sh-3016-110.ea-3484.cc-3087-77",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -4880,7 +4880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.ha-3352-1323-110.he-6173-110.cc-5926-1323-110",
@@ -9690,10 +9690,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
+    "online": false,
+    "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
-    "habboFigure": "hr-3011-1406.hd-5696-1362-14.ch-3459.lg-3502-96.sh-3467.fa-1202-110.wa-2012.cc-3744-102-102",
+    "habboFigure": "hr-5973-61-61.hd-6216-28-1367.ch-5560-1412-110.lg-5594-110.sh-5274-110-110.ha-3620.fa-5467.cc-6166-107-95",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
