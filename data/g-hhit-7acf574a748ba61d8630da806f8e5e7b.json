@@ -770,17 +770,17 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
-    "habboFigure": "hr-3768-35.hd-205-1.ch-5559-1408.lg-5594-64.sh-3383-1408-1408.ha-1002-1408.he-1608.ea-1404-64.wa-2001.cc-3509-64-1408.cp-3286",
+    "habboFigure": "hr-3768-45.hd-205-1.ch-5608-73.lg-5594-64.sh-3383-1408-1408.ha-3461.he-1608.wa-3074-64-1408",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4182-1351-1346.hd-4383-10-5.ch-5351-92-1412.lg-6000-1412.sh-6064-92-1412.ha-3461",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "non ho mai truffato in vita mia",
     "habboFigure": "hd-6021-1.ch-5488-71.lg-3216-71.sh-4159-71-71.ha-4054.ea-5897-64-64.fa-1206-71.cc-6166-71-71",
@@ -4170,7 +4170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem.| Mushin Ykz|",
     "habboFigure": "hr-3810-45.hd-600-1370.ch-630-74.lg-5970-82.sh-5464-71-71.fa-3276-72.ca-5604-75-74.wa-4317-66.cc-5926-64-81",
