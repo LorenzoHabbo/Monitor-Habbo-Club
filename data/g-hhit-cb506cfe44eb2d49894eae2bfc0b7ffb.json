@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.ha-1006.he-3082-1412.cc-3744-96-92",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La felicità va scelta",
     "habboFigure": "hr-5566-1342-1342.hd-3536-10-10.ch-665-92.lg-6303-1414-92.sh-3587-92-92.ha-5677-1414.he-3358-92-92.fa-5467.cc-3692-92-1414",
@@ -2300,7 +2300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hd-209-1367.ch-5394.lg-5119-106-1408.sh-3275-96.ha-6246.ea-6053-1326.fa-1211.ca-1815-95.cc-3360-1410",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
