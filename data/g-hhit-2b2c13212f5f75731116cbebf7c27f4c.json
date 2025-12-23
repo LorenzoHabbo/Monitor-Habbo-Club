@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello g.d",
     "habboFigure": "hr-893-36.hd-209-14.ch-877-1408-1408.lg-285-1408.sh-305-1408.ca-1807.wa-2011",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ministro - Gest. BAR G.D.¥",
     "habboFigure": "hr-3322-37.hd-209-8.ch-3540-73.lg-3596-64-1408.sh-3068-1408-1408.ha-3745-1408-91.fa-3993-91.cc-4184-73-1408",
@@ -2380,7 +2380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAVALIERE ELETTO 1P G.D.",
     "habboFigure": "hr-3841-42.hd-209-1.ch-3498-110.lg-3320-110-1408.sh-3016-110.ea-3484.cc-3087-77",
@@ -2593,7 +2593,7 @@
     "online": true,
     "gender": "m",
     "motto": "GM HOH Demone Giudice di Cerbero GD",
-    "habboFigure": "hr-3163-61.hd-180-1370.ch-3459.lg-3460.sh-3383-67-92.ha-3461",
+    "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
     "memberSince": "2012-11-18T23:30:08.000+00:00",
     "uniqueId": "hhit-6e2f899a7806ecdc3fb89f80821a9c24",
     "name": "CarotoMagico",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
