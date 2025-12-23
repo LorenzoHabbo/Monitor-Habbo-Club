@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-3281-61.hd-180-1.ch-3728-1341-1330.lg-270-1408.sh-3089-1330.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-1330",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6211-49-1401.hd-6216-28-1367.ch-5607-1418.lg-6000-110.sh-6043.he-5802-64.fa-5467.ca-5026-64.wa-5370.cc-5926-110-64",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-4991-50.hd-209-1367.ch-5394.lg-3078-106.sh-3275-96.ha-5336.he-5139-102.ea-6053-110.fa-1211.ca-1815-95.wa-3798-77-99.cc-3360-1410",
