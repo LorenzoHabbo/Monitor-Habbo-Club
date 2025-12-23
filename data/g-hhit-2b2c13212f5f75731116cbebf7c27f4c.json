@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Auguri |",
     "habboFigure": "hr-4117-34-34.hd-3845-1.ch-3446.lg-3320-82-72.sh-3383-64-72.ha-3461.he-5618-82.fa-3276-72.ca-3466-1408-82.cc-3744-72-82",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Navigo a vista....da troppo tempo.",
     "habboFigure": "hr-165-45.hd-180-1.ch-3540-85.lg-6161-82-82.sh-3383-64-1408.ha-3745-91-1408.ca-3882-73-1408.cc-3326-91-91",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -9690,7 +9690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5973-61-61.hd-6216-28-1367.ch-5560-1412-110.lg-5594-110.sh-5274-110-110.ha-3620.fa-5467.cc-6166-92-96",
