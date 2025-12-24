@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-41.hd-6216-27-1365.ch-3616-63-92.lg-5594-77.sh-5803-64.ha-3709.he-3082-1428.fa-5975.ca-1804-63.wa-6154-1428-110.cc-5690-110",
@@ -1313,7 +1313,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-1006.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
+    "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201.wa-2008",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hd-209-1367.ch-5394.lg-5119-106-1408.sh-3275-96.ha-6246.ea-6053-1326.fa-1211.ca-1815-95.cc-3360-1410",
@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista aiutante gd",
     "habboFigure": "hr-3163-37.hd-209-1.ch-255-1416.lg-3023-92.sh-3089-1416",
