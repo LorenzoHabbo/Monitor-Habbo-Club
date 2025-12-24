@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": " STAI VESYìTENDO",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-3461.cc-5800-108-1408",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-180-1370.ch-3030-64.lg-4114-64-1408.sh-295-64.ha-1006",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5503-1398.hd-627-1383.ch-3213-1412-92.lg-3078-1334.sh-3016-1412.ha-3461",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-645-92.lg-3058-110.sh-5670-110.ha-3461.ca-6212.wa-6165-1330.cc-4300-100-1408",
