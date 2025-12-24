@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Rien de rien",
     "habboFigure": "hr-3281-61.hd-180-1.ch-3728-1341-1330.lg-270-1408.sh-3089-1330.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-1330",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ciao",
     "habboFigure": "hr-6084-42-31.hd-180-19.ch-3030-1408.lg-280-73.ha-6101-64",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-3321-1419.lg-5594-110.sh-3383-110-92.ha-6246.ea-5576-63-1408.fa-5601-92.ca-5815-84-92.cc-6115-92-110",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-3161-39.hd-3092-8.ch-3438-110-110.lg-3460.sh-3275-1410.ha-3461.he-5088.ea-3169-105.fa-1211.cc-6069",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-1006.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "non ho mai truffato in vita mia",
     "habboFigure": "hd-6021-1.ch-5488-71.lg-3216-71.sh-4159-71-71.ha-1006.ea-5897-64-64.fa-1206-71.cc-6166-71-71",
@@ -530,10 +530,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone    Fear Allah",
-    "habboFigure": "hr-3768-61.hd-180-1379.ch-210-73.lg-270-73.sh-290-73.ha-1006.ca-1809.cp-3205",
+    "habboFigure": "hr-3768-61.hd-180-1379.lg-280-110.he-5808-95.fa-5601-110.ca-5936-63.cp-3205",
     "memberSince": "2015-12-19T14:18:34.000+00:00",
     "uniqueId": "hhit-cea39dc90d774e795db52b0dee1c71cb",
     "name": "-Cristallo-Ban-",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-180-1370.ch-3030-64.lg-4114-64-1408.sh-295-64.ha-1006",
@@ -702,8 +702,8 @@
   {
     "online": false,
     "gender": "f",
-    "motto": " ~ Hai capito, chi è che è entrato!? ×",
-    "habboFigure": "hr-4131-40-40.hd-615-10.ch-5560-73-64.lg-5594-64.sh-3524-64-1408.he-3660-64-64.fa-4168-1408.ca-5300-68.wa-4060-91-68.cc-5761-64-64",
+    "motto": "It's chemical.",
+    "habboFigure": "hr-5503-40.hd-627-10.ch-5560-73-64.lg-710-64.sh-908-64.he-3660-64-64.wa-5986-64.cc-5800-64-64",
     "memberSince": "2018-05-16T09:09:54.000+00:00",
     "uniqueId": "hhit-e89ba581afcc50ed0522688bd3781137",
     "name": "-ANSIA-",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hd-209-1367.ch-5394.lg-5119-106-1408.sh-3275-96.ha-6246.ea-6053-1326.fa-1211.ca-1815-95.cc-3360-1410",
