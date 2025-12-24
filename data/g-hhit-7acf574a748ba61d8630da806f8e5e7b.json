@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "It's leviosa, not leviosà.",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.cc-3867-100-110",
@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.he-5088.cc-5926-1323-110",
