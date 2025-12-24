@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3602-32-45.hd-3845-1.ch-255-110.lg-3418-64.sh-5247-92-64.ca-5936-92",
@@ -4250,10 +4250,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
-    "habboFigure": "hr-3768-45.hd-205-1.ch-5608-73.lg-5594-64.sh-3383-1408-1408.ha-1006.he-1608",
+    "habboFigure": "hr-3768-45.hd-205-1.ch-5608-73.lg-5594-64.sh-3383-1408-1408.ha-5847.he-1608.cc-4282-64",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
@@ -5240,7 +5240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Youtuber ValeCav #subscribenow ;)!",
     "habboFigure": "hr-802-42.hd-209-1.ch-3368-1408-1408.lg-3364-1408-1408.sh-295-1408.fa-3378-64-1408",
@@ -9400,7 +9400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
