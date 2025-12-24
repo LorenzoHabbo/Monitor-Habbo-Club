@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Navigo a vista....da troppo tempo.",
     "habboFigure": "hr-165-45.hd-180-1.ch-3540-85.lg-6161-82-82.sh-3383-64-1408.ha-3745-91-1408.ca-3882-73-1408.cc-3326-91-91",
@@ -603,7 +603,7 @@
     "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
-    "habboFigure": "hr-829-1394.hd-3095-2.ch-3203-110.lg-3136-107.ha-5988.fa-5760.ca-5759.cc-5992",
+    "habboFigure": "hr-829-1394.hd-3095-2.ch-3203-110.lg-3136-107.fa-5760.ca-5759",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-890-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-1006",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -3680,7 +3680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dove sono?",
     "habboFigure": "hd-3604-10.ch-4025-64-73.lg-4017-64-64.sh-3375-64-64.he-3379-64-64.ea-3388-64-84.fa-3378-64-84.ca-4936",
@@ -4670,7 +4670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-893-42.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-1006.ea-3484",
