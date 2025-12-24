@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Habbo X !",
     "habboFigure": "hr-5388-33.hd-5041-2.ch-235-92.lg-4167-1426.sh-3524-110-92.he-5088.cc-5800-110-110",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Auguri |",
     "habboFigure": "hr-4117-32-34.hd-3845-1.ch-3446.lg-3320-82-72.sh-3383-64-72.ha-3461.he-5618-82.fa-3276-72.ca-3466-1408-82",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -6450,7 +6450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-31.hd-600-10.ch-5907-73-73.lg-4369-64-64.sh-5308-1408.he-5314-73-73.fa-3276-72.cc-5926-72-72",
