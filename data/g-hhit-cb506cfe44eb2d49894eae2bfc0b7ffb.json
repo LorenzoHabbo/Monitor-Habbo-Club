@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "la felicità va scelta.",
     "habboFigure": "hr-5566-1403-1404.hd-3536-10-10.ch-655-110.lg-6303-1426-92.sh-3587-92-92.ha-5677-110.fa-5467.ca-6212",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-677-31.hd-5913-1.ch-3540-1423.lg-4066-110.sh-5247-1423-110.ha-3272-1423-92.he-4022.fa-3276-1413.cc-3867-92-1423",
@@ -1720,7 +1720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "non ho mai truffato in vita mia",
     "habboFigure": "hd-6021-1.ch-5488-71.lg-270-73.sh-4159-71-71.ha-1006.ea-5897-64-64.fa-1206-71.ca-1806-73.cc-6166-71-71",
@@ -4830,7 +4830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cherubini G.D.",
     "habboFigure": "hr-3841-61.hd-209-8.ch-5833-96-92.lg-3596-92-92.sh-3419-64-72.ha-1006.he-1609-81",
