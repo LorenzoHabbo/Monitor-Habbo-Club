@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "la vita fa schifo",
     "habboFigure": "hd-3956-10-10.ch-3433-73-1320.lg-695-81.sh-3435-84-1408.ha-3431-84-66.he-1609-84.ca-3916-66-1320",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1330.sh-295-1331.ha-6116-80.ea-1404-64.fa-3344-1331.ca-1807.wa-6154-1322-1408.cc-4184-1410-1331",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tutto finirà",
     "habboFigure": "hr-115-31.hd-209-1.ch-3030-88.lg-3023-85.sh-908-91.ha-5704.ea-1406.fa-1206-90.wa-3211-85-1408.cc-3280-64-1408",
