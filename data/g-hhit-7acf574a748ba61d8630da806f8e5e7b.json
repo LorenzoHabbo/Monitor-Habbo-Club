@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-40.hd-6216-14-14.ch-5310-1408-1408.lg-695-1408.sh-5308-1408.ha-5620-1408.he-5808-1408.fa-5467.wa-6154-1408-1408.cc-4041-1408",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-3386-31.hd-185-1389.ch-5394.lg-5119-106-95.sh-3275-1321.ha-6246.ea-6053-105.fa-1211.cc-6115-96-1410",
@@ -3300,7 +3300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "clone di sandrino ma più real di tutti",
     "habboFigure": "hd-3604-30.ch-210-73.lg-270-73.sh-290-73.ha-1006.ca-1809",
