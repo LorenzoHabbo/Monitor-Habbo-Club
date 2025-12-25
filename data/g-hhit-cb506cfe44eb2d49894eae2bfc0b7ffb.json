@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marinaio B.P (Navigo nel Mar Rosso)",
     "habboFigure": "hr-5567-42.hd-200-30.ch-210-1408.lg-3333-73.sh-290-73.ha-1006.he-6094-64.fa-4185-73.ca-1809.cc-4300-73-73",
@@ -2260,7 +2260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.ha-3690-110.he-5088.ca-3691-66-1408.cc-5926-1323-110",
@@ -2273,7 +2273,7 @@
     "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.he-3820-92.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
+    "habboFigure": "hr-828-42.hd-180-26.ch-3203-110.lg-3483-110-110.sh-3587-92-92.ha-3461.he-3579.ea-1405.fa-5948-92.ca-5936-92.cc-5461-64-110",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3903,7 +3903,7 @@
     "online": true,
     "gender": "f",
     "motto": "Raggiungi i tuoi obiettivi",
-    "habboFigure": "hr-6211-45-50.hd-6216-11-30.ch-4199-86.lg-3502-77.sh-5671-86.cc-5800-86-1430",
+    "habboFigure": "hr-6211-1404-1348.hd-6216-11-4.ch-4199-86.lg-3502-77.sh-5671-1414.ca-3828-1414-86",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FRATELLO E SCHIAVO CORLEONE ceo plug",
     "habboFigure": "hr-105-34.hd-208-10.ch-5488-83.lg-3968-1408.sh-908-83.he-6171-1408-73.fa-5601-1408.wa-6172-1408-73.cc-4107-83-83",
