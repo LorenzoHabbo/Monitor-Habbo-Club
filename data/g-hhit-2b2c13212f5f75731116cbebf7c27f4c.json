@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Auguri |",
     "habboFigure": "hr-4117-34-34.hd-3631-1-8.ch-3446.lg-3320-82-72.sh-3383-64-72.ha-3461.he-5618-82.fa-3276-72.ca-1815-1408.cc-3744-81-72",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -3670,7 +3670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LETSGOSKI",
     "habboFigure": "hr-3670-40.hd-209-1.ch-3323-1408-1408.lg-5594-81.sh-3524-66-64.ha-5557-64-1408.he-3660-64-82.fa-5601-66.cc-5558-64-1408",
@@ -7883,7 +7883,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-125-31.hd-190-1.ch-255-64.lg-3078-82.sh-906-1408",
+    "habboFigure": "hr-125-31.hd-190-1.ch-255-64.lg-3078-82.sh-300-66",
     "memberSince": "2022-10-10T08:51:37.000+00:00",
     "uniqueId": "hhit-a9eaa5f69f9d30b20a87607ab98142b3",
     "name": "Stray.",
