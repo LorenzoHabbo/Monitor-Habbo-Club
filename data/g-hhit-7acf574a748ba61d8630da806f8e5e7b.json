@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-100-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5606-1342-1342.hd-605-22.ch-660-1412.lg-710-1412.sh-5803-92.he-6171-92-96.fa-5467.ca-3414-1408.cc-6166-1412-92",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
     "habboFigure": "hr-6211-52-1407.hd-3845-10.ch-3598-1328-1408.lg-3006-110-1326.sh-3180-1328-1331.he-5698-110-100.fa-4168-96",
@@ -3190,7 +3190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-125-42.hd-180-1.ch-3683-82-1408.lg-4066-1408.sh-3524-90-1408.fa-1204",
