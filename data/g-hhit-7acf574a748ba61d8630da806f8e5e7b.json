@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5258.lg-4125.sh-5869-76-1408.ha-4324.ea-5743-72",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒ.ƒ",
     "habboFigure": "hr-3800-37-48.hd-3956-1-14.ch-660-75.lg-3290-1408.sh-3419-75-1408",
@@ -1480,10 +1480,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-5606-1342-1342.hd-605-22.ch-660-1412.lg-710-1412.sh-5803-92.he-6171-92-96.fa-5467.ca-3414-1408.cc-6166-1412-92",
+    "habboFigure": "hr-5606-1342-1342.hd-605-22.ch-660-1412.lg-710-1412.sh-5803-92.he-6171-92-96.fa-5467.ca-3414-92.cc-6166-1412-1408",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mordo",
     "habboFigure": "hr-3746-48.hd-3845-10.ch-4111-73.lg-3116-73-1408.he-1609-64.fa-3378-64-1408.ca-1807.wa-4317-64.cc-4107-73-1408",
