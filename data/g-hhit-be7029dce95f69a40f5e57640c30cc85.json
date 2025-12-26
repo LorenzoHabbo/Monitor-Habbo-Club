@@ -1453,7 +1453,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-110.lg-275-110.sh-290-110.ha-3488.fa-5600-92.ca-6258.cc-3542-1410-110",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-5805-104-92.lg-275-110.sh-290-110.ha-3488.fa-5600-92",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -3440,7 +3440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5971-61.hd-3095-1390.ch-3203-1408.lg-4138-110.sh-4112-110-93.ha-3986.he-5279.ca-1816.cc-5761-110-110",
@@ -8600,7 +8600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -9990,7 +9990,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FREEDOM",
     "habboFigure": "hr-3322-31.hd-180-1.ch-210-1320.lg-3320-90-1408.sh-4112-66-90.ha-4194.cc-5307-1320",

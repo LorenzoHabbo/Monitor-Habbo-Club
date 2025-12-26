@@ -383,7 +383,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-110.lg-275-110.sh-290-110.ha-3488.fa-5600-92.ca-6258.cc-3542-1410-110",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-5805-104-92.lg-275-110.sh-290-110.ha-3488.fa-5600-92",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "colleziono pexnne legami, e tu ragazze",
     "habboFigure": "hr-5566-1342-1342.hd-3536-10-10.ch-665-92.lg-6303-92-1326.sh-3587-92-92.ha-6302-92-1326.he-5466.fa-5435.cc-3692-92-1326",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
