@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "- YaºKuºZa Sud -",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-5245-92.lg-5545-110-110.sh-5308-92.he-4977-92-92.fa-5467.wa-5986-64.cc-3867-63-1427",
@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1399.hd-209-12.ch-3022-110-110.lg-3483-70-70.sh-4112-110-92.fa-1209-96.ca-1816.cc-3420-1408",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-155-42.hd-180-10.ch-3030-1408.lg-275-81.ea-1404-1408.fa-1205-64",
