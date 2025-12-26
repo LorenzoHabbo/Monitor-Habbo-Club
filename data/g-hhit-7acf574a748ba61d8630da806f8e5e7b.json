@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leader TH - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-3209-96.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mordo",
     "habboFigure": "hr-3746-48.hd-3845-10.ch-4111-73.lg-3116-73-1408.he-1609-64.fa-3378-64-1408.ca-1807.wa-4317-64.cc-4107-73-1408",
@@ -3410,7 +3410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-3321-110.lg-3216-110.sh-5670-110.ha-5677-110.ca-1803-92.wa-6165-110",
