@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Queen - The Show Must Go On",
     "habboFigure": "hr-4117-34-34.hd-3845-1.ch-3658-71-1408.lg-3787-82-72.he-1605-82.fa-3276-72.wa-2002.cc-4184-1408-71",
@@ -3220,7 +3220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Se rimani, io ti lascio la mia voce...",
     "habboFigure": "hr-3841-32.hd-180-1.ch-3030-1408.lg-3088-1408-1408.sh-4112-1408-1408.ca-5575.cc-4080",
