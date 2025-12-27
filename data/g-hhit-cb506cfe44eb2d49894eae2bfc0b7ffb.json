@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Eravamo l'avanguardia del metaverso.",
     "habboFigure": "hr-5555-1355-1344.hd-180-2.ch-3342-1320-1408.lg-275-99.sh-5551.he-3071-1408.ea-1401-110.ca-5583.cc-5622",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "famigghia tori",
     "habboFigure": "hr-3531-45-45.hd-209-1370.ch-3323-73-1408.lg-281-1408.fa-1208-91",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5773-1404.hd-6216-1-14.ch-5762-92-92.lg-5970-82.sh-5464-92-96.he-5466.fa-5467.cc-6077",
