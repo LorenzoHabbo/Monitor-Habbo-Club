@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-215-110.lg-275-110.sh-290-110.ha-3488.fa-5600-92.ca-6258.cc-6184-1410",
@@ -1680,7 +1680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -3140,10 +3140,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "meow",
-    "habboFigure": "hr-5971-45.hd-205-10.ch-5596-68.lg-4167-64.sh-305-1408.he-3833-71.fa-5624-72",
+    "habboFigure": "hr-5971-45.hd-205-10.ch-5596-64.lg-4167-64.sh-305-1408.he-3833-71.fa-5624-72",
     "memberSince": "2021-12-14T21:13:50.000+00:00",
     "uniqueId": "hhit-b4b3db4487f6d276a1682565d6798e1b",
     "name": "Maadness",

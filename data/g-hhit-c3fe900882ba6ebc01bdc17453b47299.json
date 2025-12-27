@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-215-110.lg-275-110.sh-290-110.ha-3488.fa-5600-92.ca-6258.cc-6184-1410",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Sugar on my tongue",
     "habboFigure": "hr-834-49.hd-600-28.ch-665-92.lg-3483-110-110.ha-5620-1408.fa-5601-92.cc-3066-110",
