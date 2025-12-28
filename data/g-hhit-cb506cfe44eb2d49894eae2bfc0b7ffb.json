@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4182-1351-1346.hd-4383-10-5.ch-5351-92-1412.lg-6000-1412.sh-6064-92-1412.ha-3461",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-100-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-6211-31-40.hd-3631-1389-1372.ch-3540-85.lg-3391-1325-92.he-5314-85-1412.ea-3169-110.fa-3276-1328.cc-5926-1325-92",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1.ch-215-1408.lg-280-1408.sh-305-91.ea-1404-64.cc-3512-91-1408",
