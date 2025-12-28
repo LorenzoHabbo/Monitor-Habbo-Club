@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-215-110.lg-275-110.sh-290-110.ha-3488.fa-5600-92.ca-6258.cc-6184-1410",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -1850,10 +1850,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
-    "habboFigure": "hr-3852-1342.hd-605-22.ch-665-98.lg-710-1427.sh-5803-92.ha-5730-92.he-3070-92.fa-5467.ca-3414-92.cc-5800-1408-1408",
+    "habboFigure": "hr-6211-1342-40.hd-605-22.ch-665-87.lg-710-110.sh-5803-92.ha-5301-87.he-5808-92.fa-5467.cc-5800-110-110",
     "memberSince": "2016-06-30T15:20:34.000+00:00",
     "uniqueId": "hhit-851d4a586a7878a6bce570dec43dec5d",
     "name": "DiCarta",
@@ -4420,7 +4420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3664-45.hd-208-19.ch-3880-1408.lg-281-76.sh-905-71.ha-3117-72.he-1601.fa-1202-72.ca-1815-66.wa-3211-73-66.cp-3128-64",
