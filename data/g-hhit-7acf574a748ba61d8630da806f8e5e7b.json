@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.ha-1006.he-3082-1412.cc-3744-96-92",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leader TH - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-3209-96.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -1110,7 +1110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-100-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -1833,7 +1833,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-42.hd-4383-14-14.ch-5351-1408-73.lg-710-64.sh-725-1408.ha-5620-73.cc-3744-64-1408",
+    "habboFigure": "hr-5619-42.hd-4383-10-14.ch-5351-1408-73.lg-710-64.sh-725-1408.ha-5620-73.cc-3744-64-1408",
     "memberSince": "2018-07-30T11:14:32.000+00:00",
     "uniqueId": "hhit-49a35cc84e226b5725d264ab8975f41c",
     "name": "Mikiela!",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mordo!",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408.wa-4317-64",
@@ -4190,7 +4190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1.ch-215-1408.lg-280-1408.sh-305-91.ea-1404-64.cc-3512-91-1408",

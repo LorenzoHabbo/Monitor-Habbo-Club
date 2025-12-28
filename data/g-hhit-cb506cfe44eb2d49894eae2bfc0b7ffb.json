@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.ha-1006.he-3082-1412.cc-3744-96-92",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-100-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "  ¥Scrittrice&Builder¥",
     "habboFigure": "hr-6211-31-40.hd-3631-1389-1372.ch-3540-85.lg-3391-1325-92.he-5314-85-1412.ea-3169-110.fa-3276-1328.cc-5926-1325-92",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1.ch-215-1408.lg-280-1408.sh-305-91.ea-1404-64.cc-3512-91-1408",
