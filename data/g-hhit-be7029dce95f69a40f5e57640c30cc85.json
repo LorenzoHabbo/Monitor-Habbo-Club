@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ma quanti pg hai??? :)",
     "habboFigure": "hr-4117-34-34.hd-3631-1-1370.ch-3658-71-1408.lg-3787-82-72.he-1605-64.ea-3484.fa-3276-72.wa-2002.cc-4184-1408-71",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "      born to be rich",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-1428.lg-5594-77.sh-5464-92-92.ha-5557-63-110.ea-3750.fa-5384-92.ca-5934-1321.cc-5926-110-92",
@@ -4683,7 +4683,7 @@
     "online": true,
     "gender": "f",
     "motto": "^.^ |",
-    "habboFigure": "hr-4182-1351-1346.hd-4383-10-5.ch-5351-92-1412.lg-6000-1412.sh-6064-92-1412.ha-3461",
+    "habboFigure": "hr-4363-1394-1348.hd-4383-10-5.ch-5998-92.lg-5594-1410.sh-3035-89.he-6066-1410.wa-6165-1410.cc-5440-89-1410",
     "memberSince": "2011-07-13T20:31:39.000+00:00",
     "uniqueId": "hhit-2418272e33ac20ac96cb3edafbb06fe3",
     "name": "melissinami",
@@ -6401,16 +6401,6 @@
   },
   {
     "online": false,
-    "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-3625-45-40.hd-3721-1.ch-3332-74-76.lg-3391-82-1408.sh-3719-76-1408.ha-3709.he-3740.ea-3750.fa-4168-72.ca-3844-82-80.cc-3692-76-1408",
-    "memberSince": "2012-08-11T15:03:46.000+00:00",
-    "uniqueId": "hhit-40aa356503a334920f3ff1a05e6cc6f0",
-    "name": "Vanessa98...",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "m",
     "motto": "           MAºAREZ",
     "habboFigure": "hr-125-34.hd-207-10.ch-806-1408.lg-3078-82.sh-4112-73-73.he-1609-64.fa-3993-64.wa-4060-1320-66",
@@ -6440,7 +6430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hr-828-1344.hd-3095-1389.ch-3540-85.lg-5594-1330.sh-3089-110.ha-6246.he-6236.ea-4985.ca-5017.cc-5800-1413-1433",
@@ -9997,6 +9987,16 @@
     "memberSince": "2016-06-27T08:18:12.000+00:00",
     "uniqueId": "hhit-af1ba0b5fab616adfd37e462c5335f7c",
     "name": "giannandre56",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "tu m'e lassat sul ind a stu munn nir -",
+    "habboFigure": "hr-3163-1394.hd-3091-1370.ch-3185-64.lg-280-110.sh-3089-110.ha-3494-110-110.he-1608.fa-1209-110.ca-1816",
+    "memberSince": "2016-06-28T17:47:27.000+00:00",
+    "uniqueId": "hhit-a7b68df3094a62d2ff1b2f31885486ef",
+    "name": "M.Odegaard",
     "isAdmin": false
   }
 ]
