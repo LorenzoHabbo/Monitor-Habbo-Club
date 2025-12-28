@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6211-49-49.hd-6216-28-1367.ch-5607-110.lg-6000-110.sh-6043.he-5314-1418-1418.fa-5467.ca-6226-110-110.wa-5370.cc-5926-1418-110",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-100-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -3483,7 +3483,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6083-34.hd-4383-1-14.ch-3539-1408.lg-4092-1408.sh-3524-64-1408.ha-6225-64-1408.he-5808-1408.fa-3276-72.wa-6165-1408.cc-5926-64-1408",
+    "habboFigure": "hr-3673-34.hd-4383-1-14.ch-4067-1408-1408.lg-4092-1408.sh-3524-64-1408.ha-6225-64-1408.he-5808-1408.fa-3276-72.ca-6226-1408-64.wa-6165-1408.cc-5926-1408-1408",
     "memberSince": "2023-06-21T11:03:47.000+00:00",
     "uniqueId": "hhit-e45c93c0edc3d2aa8fbececd0e560657",
     "name": "EllieKelly",
@@ -4420,7 +4420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3664-45.hd-208-19.ch-3880-1408.lg-281-76.sh-905-71.ha-3117-72.he-1601.fa-1202-72.ca-1815-66.wa-3211-73-66.cp-3128-64",
@@ -4520,7 +4520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1.ch-215-1408.lg-280-1408.sh-305-91.ea-1404-64.cc-3512-91-1408",
