@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5566-1342-1342.hd-3536-10-10.ch-665-92.lg-6303-92-1326.sh-3587-92-92.ha-6302-92-1326.he-5466.fa-5435.cc-3692-92-1326",
@@ -773,7 +773,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-3169-110.ca-5739-1325-110.cc-4176-73-1408",
+    "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-3986.ea-3169-110",
     "memberSince": "2011-03-21T19:34:12.000+00:00",
     "uniqueId": "hhit-1dfb91044a02da3bb2708e05be09ebf6",
     "name": ".Mestruato.",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3586.he-3740.ca-6235",
@@ -1490,7 +1490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I'm on a new level",
     "habboFigure": "hr-3172-1405.hd-180-2.ch-255-110.lg-280-92.sh-6043.he-3070-92.cp-5883-92",
@@ -3750,7 +3750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "a pukkiakk",
     "habboFigure": "hr-3163-42.hd-205-2.ch-805-64.lg-275-64.sh-5803-92.he-3740.ca-3844-92-92",
