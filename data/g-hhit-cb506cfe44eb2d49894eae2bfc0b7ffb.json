@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "nel silenzio, nessuno risponde",
     "habboFigure": "hr-6211-1346-1404.hd-3536-10-10.ch-655-98.lg-6303-78-98.sh-3587-92-92.he-6138.fa-5467",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-38.hd-190-1370.ch-3581-66-85.lg-5113-82.sh-305-85.ha-3591.he-5074-1408.ea-1401-1408.fa-5280-66.ca-4938.cc-4091-64",
