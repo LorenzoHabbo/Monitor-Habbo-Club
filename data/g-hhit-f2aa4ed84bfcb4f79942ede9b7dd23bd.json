@@ -1770,10 +1770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "SPIRITO LIBERO",
-    "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-5371-92-1408.he-1608.fa-3344-1408.ca-1801-92.wa-4317-1322.cc-5182-92",
+    "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Tutto finirà",
     "habboFigure": "hr-115-31.hd-209-1.ch-3030-88.lg-3023-85.sh-908-91.ha-5704.ea-1406.fa-1206-90.wa-3211-85-1408.cc-3280-64-1408",
@@ -4120,7 +4120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3602-32-45.hd-3845-1.ch-3077-100-110.lg-3418-64.sh-5247-92-64.ca-5769-92-92.wa-5986-64",
@@ -4240,10 +4240,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Renna 2.0",
-    "habboFigure": "hr-3768-45.hd-205-1.ch-5608-73.lg-5594-64.sh-3383-1408-1408.ha-5847.he-1608.cc-4282-64",
+    "habboFigure": "hr-3768-45.hd-205-1.ch-5608-73.lg-5594-64.sh-3383-90-64.ha-5847.he-1608.cc-4107-85-90",
     "memberSince": "2011-06-11T10:30:47.000+00:00",
     "uniqueId": "hhit-846972f42ad31e547ac3b6070bf5cd93",
     "name": "Ren.",
@@ -7610,7 +7610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "<",
     "habboFigure": "hr-3322-37.hd-205-1370.ch-210-1408.lg-3407-1408-1408.sh-295-64.fa-3344-90.cc-3327-64-1408",
@@ -9130,7 +9130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -9390,7 +9390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-40.hd-3091-8.ch-3779-110-92.lg-270-110.sh-3027-1408-1408.fa-3344-1408",
@@ -9760,7 +9760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "hosto provini per il gf vip by alfonso",
     "habboFigure": "hd-6021-1.ch-5488-71.lg-270-73.sh-4159-71-71.ha-3298-1408-73.ea-5897-1408-64.fa-5624-73.cc-6166-71-71",
