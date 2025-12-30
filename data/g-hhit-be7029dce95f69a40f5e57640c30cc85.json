@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Your comfort zone will kill you",
     "habboFigure": "hd-180-14.ch-210-1408.lg-270-1408.ha-4050.cc-5182-1408",
@@ -8590,7 +8590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -9740,10 +9740,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒ — |",
-    "habboFigure": "hr-4343-38-40.hd-4163-1-14.ch-3528-81-82.lg-3391-80-82.sh-3524-80-82.ha-3461",
+    "habboFigure": "hr-4343-38-40.hd-4163-1-14.ch-3528-81-82.lg-3391-80-82.sh-3524-80-82",
     "memberSince": "2016-04-13T09:41:34.000+00:00",
     "uniqueId": "hhit-02fce38e98292fd7ab73beeac7d7c198",
     "name": "Mar.ghe.ri.ta",
