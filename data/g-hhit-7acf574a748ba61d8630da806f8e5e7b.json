@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sono mutata",
     "habboFigure": "hr-6211-1407-61.hd-6216-28-1365.ch-3881-96.lg-3006-82-82.he-6103-96.fa-3276-1328.cc-5461-1408-96",
@@ -370,9 +370,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Sono morto e poi rinato più volte",
+    "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-3461.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",

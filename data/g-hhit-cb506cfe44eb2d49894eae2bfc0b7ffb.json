@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "sono mutata",
     "habboFigure": "hr-6211-1407-61.hd-6216-28-1365.ch-3881-96.lg-3006-82-82.he-6103-96.fa-3276-1328.cc-5461-1408-96",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-4985.ca-5739-1325-110.cc-4176-73-1408",
@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
