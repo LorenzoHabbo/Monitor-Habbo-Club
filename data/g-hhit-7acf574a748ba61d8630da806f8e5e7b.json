@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1381.ch-660-110.lg-5594-1334.sh-5247-92-110.ha-3677.he-3557.fa-3276-1328.ca-5249-94-110.cc-6166-1413-92",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-210-92.lg-5594-100.sh-3016-91.he-5767-91-1325.cc-5800-100-92",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "mordo!",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408.wa-4317-64",
