@@ -50,10 +50,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Iniziata GD",
-    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3619-82-1408.he-6215-82.ea-3484.ca-5455-82-66",
+    "habboFigure": "hr-3870-37.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3619-82-1408.ha-5087.ea-3484.ca-5455-82-66",
     "memberSince": "2006-02-05T19:06:27.000+00:00",
     "uniqueId": "hhit-b2be57d2196743d6e0f3986336c5d580",
     "name": "Cici.",
@@ -410,7 +410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3531-35-35.hd-3845-1.ch-4140-64.lg-4138-64.sh-3419-64-66.ha-3986.fa-3344-66.cc-3928",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-5619-1342.hd-3100-1391.ch-5560-99-110.lg-3192-110.sh-3184-110.he-3146-1408.fa-3276-1408.ca-3175-1408",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ƒ| (non sono marta5520dietro)",
     "habboFigure": "hr-4126-1353-1347.hd-4163-28-1364.ch-3233-92.lg-3200-110.sh-5308-92.fa-5467.ca-5635-92-92.cc-4300-1326-92",
@@ -4570,10 +4570,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
-    "habboFigure": "hd-180-22.ch-210-84.lg-270-84.sh-290-84.ha-1006.ca-1809",
+    "habboFigure": "hr-3163-61.hd-180-22.ch-3779-110-106.lg-3596-110-110.sh-3089-110.he-4977-1321-106.fa-3276-72.ca-3485.cc-3867-93-110",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -6391,6 +6391,16 @@
   },
   {
     "online": false,
+    "gender": "m",
+    "motto": "Apprendita G.D.",
+    "habboFigure": "hr-802-46.hd-209-8.ch-210-1408.lg-280-1408.sh-906-68.cc-260-1408",
+    "memberSince": "2021-05-07T20:47:14.000+00:00",
+    "uniqueId": "hhit-2fe2271028c706d1affb48f5c9ccfd0f",
+    "name": "HABB0",
+    "isAdmin": false
+  },
+  {
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello G.D.",
     "habboFigure": "hr-890-35.hd-629-1.ch-670-72.lg-3216-72.sh-907-73.he-1602-81.wa-2009-81",
@@ -6980,7 +6990,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista gd",
     "habboFigure": "hr-3370-37.hd-3102-8.ch-4165-110-66.lg-3384-110-66.sh-906-110.ha-3745-110-1408.ea-3484.fa-3344-110",
@@ -9987,16 +9997,6 @@
     "memberSince": "2023-09-03T15:48:08.000+00:00",
     "uniqueId": "hhit-d542d8f5028ef8ff608cb0190a09e09f",
     "name": "_xXPGDragonXx_",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "f",
-    "motto": "apprendista novella G.D",
-    "habboFigure": "hr-890-35.hd-629-1.ch-665-71.lg-716-81-71.sh-735-81.he-3274-81.fa-3276-72",
-    "memberSince": "2023-09-04T09:33:36.000+00:00",
-    "uniqueId": "hhit-d028d4609cb8d9cf5a991c7e4d098482",
-    "name": "-Sharon-98",
     "isAdmin": false
   }
 ]
