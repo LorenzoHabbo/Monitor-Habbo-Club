@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-1346-1404.hd-3536-10-10.ch-655-98.lg-6303-78-98.sh-3587-92-92.he-6138.fa-5467.cc-5926-92-64",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-4985.ca-5739-1325-110.cc-4176-73-1408",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408",
@@ -1420,10 +1420,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbott",
-    "habboFigure": "hr-3161-39.hd-3092-8.ch-3438-110-110.lg-3460.sh-3275-1410.ha-3461.he-5088.ea-3169-105.fa-1211.cc-6069",
+    "habboFigure": "hr-3161-38.hd-3092-8.ch-3438-110-110.lg-3460.sh-3275-1410.ha-6291.he-5088.fa-1211.cc-6069",
     "memberSince": "2013-10-14T19:08:30.000+00:00",
     "uniqueId": "hhit-16e8bfb7bbe99b9bbf193923136cf672",
     "name": "A-N-D-R-E-Z",
@@ -3950,7 +3950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5619-1404.hd-6216-1-14.ch-6058-92-92.lg-5970-82.sh-5464-92-1408.he-3974.fa-5467.cc-6077",
@@ -3970,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-5917-77.lg-710-92.sh-5803-92.ha-6225-77-92.he-5808-110.fa-5467.ca-6212.cc-5800-92-92",
@@ -4480,7 +4480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "A҉₦G҉E҉ʟ҉ ¤",
     "habboFigure": "hr-515-42.hd-600-19.ch-665-1408.lg-710-64.he-1609-64.ea-1404-64",
