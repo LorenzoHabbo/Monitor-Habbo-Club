@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Rien de rie",
     "habboFigure": "hr-3281-61.hd-180-1.ch-3728-1341-1330.lg-270-1408.sh-3089-1330.ha-5864.he-6019.ea-3108-110-110.fa-3344-110.ca-6149.cc-5826-1330",
@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-3103-1391.ch-3540-1412.lg-5113-94.sh-3621-63-1408.ha-5774-100-1408.ca-5592-83-1408.wa-6154-110-1325.cc-6115-1412-1408",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ha-1006.ca-1809.wa-2011.cp-3286",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-5917-77.lg-710-92.sh-5803-92.ha-6225-77-92.he-5808-110.fa-5467.ca-6212.cc-5800-92-92",
