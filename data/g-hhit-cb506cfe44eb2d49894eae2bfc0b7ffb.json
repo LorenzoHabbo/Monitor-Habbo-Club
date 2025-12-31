@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5503-1398.hd-627-1383.ch-3213-1412-92.lg-3078-1334.sh-3016-1412.ha-3461",
@@ -3750,10 +3750,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "a pukkiakk",
-    "habboFigure": "hr-3163-61.hd-205-22.ch-210-110.lg-280-1428.sh-305-92.ha-3495-92-73",
+    "habboFigure": "hr-3163-61.hd-205-2.ch-210-110.lg-280-1428.sh-305-92.ha-3495-92-73",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
