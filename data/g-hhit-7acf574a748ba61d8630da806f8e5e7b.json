@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leader TH - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6091.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -1890,10 +1890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3977-49.hd-3721-28.ch-3372-92-110.lg-3365-92.fa-4185-100.wa-3504-100.cp-3205",
+    "habboFigure": "hr-3977-49.hd-3721-28.ch-3372-92-110.lg-3365-92.fa-4185-100.wa-3504-100",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trash queennaa",
     "habboFigure": "hr-4117-1404-1396.hd-4383-1383-1365.ch-5015-96.lg-4102-110-96.sh-3154-110-96.he-3155-96.fa-3276-72.ca-3292-110.cc-3744-96-110",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-6211-1407-1407.hd-5840-11-1362.ch-4087-92.lg-5594-77.sh-5308-1326.he-6173-1412.fa-3276-1328.cc-6069.cp-5882-1328",
