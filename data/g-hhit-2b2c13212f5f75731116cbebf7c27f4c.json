@@ -400,7 +400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".:->MIO<-:.",
     "habboFigure": "hr-3090-36.hd-209-10.ch-3668-82-64.lg-3088-1408-64.sh-3068-64-1408.ha-1013-91.fa-3344-66.ca-3466-68-1408.wa-2001.cc-3509-91-1408",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-3461.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -1792,8 +1792,8 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "apprendista novello G.D.",
-    "habboFigure": "hr-5619-1342.hd-3100-1391.ch-5560-99-110.lg-3018-80.he-3146-1408.fa-3276-1408.ca-3175-1408",
+    "motto": "",
+    "habboFigure": "hr-5619-1342.hd-3100-1391.ch-5560-99-110.lg-3192-110.sh-3184-110.ha-6225-1426-92.he-3069-1408-1408.fa-3276-1408.ca-3175-1408",
     "memberSince": "2011-05-25T18:47:57.000+00:00",
     "uniqueId": "hhit-d035c06f49ecf0062fd4cc4554e39705",
     "name": "erica334",
@@ -2643,7 +2643,7 @@
     "online": false,
     "gender": "m",
     "motto": "Tecnico Dell’Anomalia",
-    "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-92.lg-4066-1341.ha-3709.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-1427.cc-3509-81-1321",
+    "habboFigure": "hr-3531-34-35.hd-180-10.ch-3688-110.lg-3257-1429.ha-3709.he-5088.fa-1209-109.ca-3175-1427.wa-3263-110-110",
     "memberSince": "2012-11-29T20:36:28.000+00:00",
     "uniqueId": "hhit-f6e78f36f057931d190b936b17c25676",
     "name": "trey6949",
@@ -4510,7 +4510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥ƒ| (non sono marta5520dietro)",
     "habboFigure": "hr-4126-1353-1347.hd-4163-28-1364.ch-3233-92.lg-3200-110.sh-5308-92.fa-5467.ca-5635-92-92.cc-4300-1326-92",
@@ -4560,7 +4560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "codroipo",
     "habboFigure": "hr-3810-47.hd-208-10.ch-805-84.lg-3216-74.sh-905-71.ha-1014.he-3918.ea-1406.fa-1205-72.ca-1804-80",
