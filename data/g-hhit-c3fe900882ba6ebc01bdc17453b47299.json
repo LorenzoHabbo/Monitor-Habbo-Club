@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3095-1370.ch-3459.lg-3460.sh-3275-1413.ha-1006.he-1608.fa-3462-1427.ca-3916-1413-85",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Habbo Rewind|",
     "habboFigure": "hr-5619-54.hd-3631-1-1368.ch-3005-1412-1412.lg-3006-1412-1412.sh-3277-110-1412.he-3082-110.fa-3276-1328",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5681-49-49.hd-600-28.ch-655-110.lg-710-1334.ha-5620-1334.fa-5601-92",
