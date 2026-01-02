@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-210-92.lg-5594-100.sh-3016-91.he-5767-91-1325.cc-5800-100-92",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "FONDATORE - Tesoriere ¥Grove Street¥",
     "habboFigure": "hr-3281-1395.hd-3091-8.ch-3032-1408-1408.lg-3058-110.sh-290-110.ca-3187-110.wa-2005.cc-3186-110",
