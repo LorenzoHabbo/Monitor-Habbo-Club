@@ -1860,7 +1860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pelato come state of mind",
     "habboFigure": "hr-125-40.hd-205-1.ch-255-64.lg-280-1408",
@@ -3170,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "S=Samuelo, Etoo=Etoo. Non sono setto",
     "habboFigure": "hd-208-30.ch-3030-1408.lg-3116-71-1408.ca-1806-71",
@@ -4532,8 +4532,8 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Corleone",
-    "habboFigure": "hr-893-34.hd-3091-10.ch-255-64.lg-280-1409.sh-290-1408.ha-1002-64",
+    "motto": "",
+    "habboFigure": "hr-893-42.hd-3091-10.ch-255-1428.lg-280-1422.sh-290-92.ha-1002-64",
     "memberSince": "2011-07-25T14:19:21.000+00:00",
     "uniqueId": "hhit-af5489cc8ee3b4cf23ac21c618444f21",
     "name": "202sei",
@@ -6400,7 +6400,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3488.he-3740.ca-6235",
