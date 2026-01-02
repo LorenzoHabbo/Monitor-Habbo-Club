@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.cc-5925-82",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
     "habboFigure": "hr-5801-1348-1344.hd-5913-1391.ch-5374-97-92.lg-5970-1414.sh-3338-89.ha-6206-89.he-5137.fa-5122-1328.ca-5252.wa-5123-1409.cc-5307-89",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-49-49.hd-600-28.ch-650-110.lg-3483-110-110.ha-6225-110-92.fa-5601-92",
