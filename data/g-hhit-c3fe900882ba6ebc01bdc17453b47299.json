@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est",
     "habboFigure": "hr-828-1405.hd-205-28.ch-3030-110.lg-5732-110-110.he-1609-110.ea-1401-110.fa-3296.ca-1801-92",
@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "HEAD IN THE CEILING FAN HEAD IN THE CE",
     "habboFigure": "hr-4117-31-31.hd-205-10.ch-3111-80-1408.lg-275-1408.sh-906-1408.he-3884-1408-1408.ea-3727.fa-5467",
@@ -870,10 +870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
-    "habboFigure": "hr-6174-1405-1405.hd-5913-1391.ch-5374-110-92.lg-5927-110-1410.sh-6156-110.ha-5774-110-1427.he-4946-1408.fa-5600-1427.ca-5282-1428.wa-3895-1408.cc-5825",
+    "habboFigure": "hr-6174-1405-1405.hd-5913-1391.ch-5374-1340-92.lg-5927-1340-1410.sh-6156-110.ha-5774-1340-1427.he-5418-92-64.fa-5600-1427.ca-6324-64-1408.wa-5419-79-1408.cc-5825",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
