@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3531-38-40.hd-209-8.ch-809-1408.lg-3088-73-1408.sh-906-1408.cc-6119",
@@ -813,7 +813,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5756-1394-1394.hd-6009-1389-29.ch-3934-92-110.lg-6303-1426-77.sh-6305-110-92.he-5393.ea-5392.fa-3276-1330.cc-6306-64-110",
+    "habboFigure": "hr-5756-43-1394.hd-6009-1389-27.ch-3934-110-110.lg-6303-110-1428.sh-6305-1330-92.he-5393.ea-5392.fa-3276-1330.ca-3985-110.cc-6306-1409-1409",
     "memberSince": "2008-05-05T17:06:51.000+00:00",
     "uniqueId": "hhit-4ce7b841ab8add7af51efaebce0404b5",
     "name": "Proemio",
@@ -3320,10 +3320,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haly Gnaoui",
-    "habboFigure": "hr-3841-45.hd-190-1.ch-876-66-1408.lg-280-82.sh-295-64.ha-6091.ea-1404-1408.fa-3344-91",
+    "habboFigure": "hr-3841-45.hd-190-1.ch-876-66-1408.lg-280-82.sh-295-64.ha-3656.ea-1404-1408.fa-3344-91",
     "memberSince": "2010-12-09T16:02:31.000+00:00",
     "uniqueId": "hhit-79f6077cb627d4fefde73bb79d964d4a",
     "name": "batistax",
@@ -3830,7 +3830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-1342.hd-6216-10-1365.ch-5595-1326.lg-5594-1326.sh-5803-92.ha-5301-1326.he-5802-92.fa-5467.wa-5370.cc-5925-1414",
@@ -4973,7 +4973,7 @@
     "online": true,
     "gender": "f",
     "motto": "[ NºT ] Dama dell'Oscurità [ NºT ]",
-    "habboFigure": "hr-6010-61-61.hd-6072-18-1372.ch-4189-110-110.lg-5594-110.ha-6291.fa-3378-92-1408.ca-5771-110-110.cc-3946-110",
+    "habboFigure": "hr-6010-61-61.hd-6072-18-1372.ch-4189-110-110.lg-5594-110.ha-6291.fa-3378-92-1408",
     "memberSince": "2011-09-24T13:20:53.000+00:00",
     "uniqueId": "hhit-e75cb7d88b16a084bf4ddf7cf6b05249",
     "name": ".:Mimy",
@@ -5440,7 +5440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Leader [ NºT ]",
     "habboFigure": "hr-4117-1342-40.hd-6216-28-27.ch-660-110.lg-3502-92.sh-5803-110.ha-5301-110.he-5074-92.fa-5975.ca-3414-1413.wa-5370.cc-4300-110-110",
@@ -6110,7 +6110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro delle Tenebre     [ NºT ]",
     "habboFigure": "hr-3829-49.hd-190-28.ch-5952-92-92.lg-5594-110.sh-4112-110-92.he-3660-64-1408.fa-6170-1408.wa-3072-110-92.cc-3509-110-92",
@@ -7300,7 +7300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbott",
     "habboFigure": "hr-3161-38.hd-3092-8.ch-3438-110-110.lg-3460.sh-3275-1410.ha-4055.he-5088.fa-1211.cc-6069",
@@ -7430,7 +7430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1379.ch-3539-110.lg-5594-1334.sh-5247-92-110.ha-3677.he-3557.fa-3276-95.ca-5249-94-110.cc-6166-1413-92",
@@ -7700,7 +7700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "I'm on a new level",
     "habboFigure": "hr-3172-1405.hd-180-2.ch-255-110.lg-280-92.sh-6043.he-3070-92.cp-5883-92",
