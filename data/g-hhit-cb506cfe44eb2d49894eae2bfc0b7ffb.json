@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHNFNS-VER-15oELQ",
     "habboFigure": "hr-6211-42-61.hd-6216-10-1365.ch-3005-96-96.lg-3006-110-110.he-6103-96.fa-3276-1328.cc-3515-110-96",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-61.hd-205-28.ch-255-110.lg-275-1408.ha-6291.ea-3169-110",
@@ -2590,7 +2590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
