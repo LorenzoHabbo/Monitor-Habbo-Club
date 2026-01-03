@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leader TH - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6091.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -1890,10 +1890,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3977-49.hd-3721-28.ch-3372-92-110.lg-3365-92.fa-4185-100.wa-3504-100",
+    "habboFigure": "hr-6034-1407-41.hd-5525-26-28.ch-3934-64-64.lg-5594-110.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-5936-92.wa-5986-110.cc-5926-110-92.cp-3122-80",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "mordo!",
     "habboFigure": "hr-3746-48.hd-207-10.ch-255-73.lg-3116-73-1408.sh-3419-73-64.ha-6198.fa-3378-64-1408.ca-5051-84-83",
