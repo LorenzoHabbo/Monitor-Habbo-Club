@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "mutata",
     "habboFigure": "hr-6211-34-34.hd-6216-10-1365.ch-4087-110.lg-5594-82.he-6103-110.fa-3276-1328",
@@ -1700,10 +1700,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
-    "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-3461.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
+    "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.ha-1006.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -3020,10 +3020,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato delle tenebre |",
-    "habboFigure": "hr-3090-37.hd-185-1370.ch-805-64.lg-3023-73.fa-1204.ca-3802-73-73.wa-2012",
+    "habboFigure": "hd-208-1370.ch-805-64.lg-3023-73.fa-1204.ca-3802-73-73.wa-2012",
     "memberSince": "2010-09-15T13:12:38.000+00:00",
     "uniqueId": "hhit-f0f60b4d36748c726338aff3f8fa65c9",
     "name": "benHipHop",
@@ -4970,7 +4970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[ NºT ] Dama dell'Oscurità [ NºT ]",
     "habboFigure": "hr-6010-61-61.hd-6072-18-1372.ch-4189-110-110.lg-5594-110.ha-3986.fa-3378-92-1408.ca-5771-110-110.cc-3946-110",
@@ -8310,7 +8310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Paul Kalkbrenner",
     "habboFigure": "hr-3090-35.hd-180-8.ch-804-64.lg-275-1408.sh-295-1408.he-3465-1408-1408",
