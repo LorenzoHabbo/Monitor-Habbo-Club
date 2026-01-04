@@ -213,7 +213,7 @@
     "online": true,
     "gender": "m",
     "motto": "che shoook!... twitch.tv/ttnovee",
-    "habboFigure": "hr-3163-1407.hd-207-1.ch-3981-92-64.lg-3078-92.ha-5075-92.ea-5576-1428-92.fa-3276-110.ca-6276-1408.cp-3128-64",
+    "habboFigure": "hr-3163-1407.hd-207-1.ch-3981-92-64.lg-3078-92.ha-5075-92.ea-5576-1428-92.fa-3276-110.ca-6276-92.cp-3128-64",
     "memberSince": "2008-04-26T09:26:24.000+00:00",
     "uniqueId": "hhit-bd1882670aa483d39ae0faf933c7d51b",
     "name": "tnove",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-3494-1408-110.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -1393,7 +1393,7 @@
     "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
-    "habboFigure": "hr-3860-42-42.hd-180-1370.ch-3979-64.lg-4138-64.sh-3587-64-1408.ha-3586.fa-3590.ca-5502",
+    "habboFigure": "hr-3860-42-42.hd-180-1370.ch-3979-64.lg-4138-64.sh-3587-64-1408.ha-3586.fa-5975.ca-5502",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbott",
     "habboFigure": "hr-3161-38.hd-3092-8.ch-3438-110-110.lg-3460.sh-3275-1410.ha-4055.he-5088.fa-1211.cc-6069",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1379.ch-660-110.lg-5594-1334.sh-5247-92-110.ha-3677.he-3557.fa-3276-95.ca-5249-94-110.cc-6166-1413-92",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5606-1342-1342.hd-605-22.ch-660-1428.lg-710-1428.sh-5803-92.he-6171-92-110.fa-5467.ca-6276-110",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201.wa-2008",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.ha-3690-110.he-5088.ca-3691-66-1408.cc-5926-1323-110",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-255-85.lg-3088-73-82.sh-3524-64-1408.ha-1003-91.he-1608.ca-1812.cc-5942-88",
@@ -3740,10 +3740,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "a pukkiakk",
-    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-64-64.lg-280-1408.sh-305-92.he-3070-92.fa-3276-1329",
+    "habboFigure": "hr-3163-1403.hd-205-2.ch-3934-92-110.lg-280-110.sh-3252-1409-1409.he-3070-92.fa-3276-1329.cc-5926-110-92",
     "memberSince": "2024-02-02T12:50:51.000+00:00",
     "uniqueId": "hhit-652cff49e0573a17f362492b15406380",
     "name": "papablu",
@@ -3960,7 +3960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-5917-77.lg-710-92.sh-5803-92.ha-6225-77-92.he-5808-110.fa-5467.ca-6212.cc-5800-92-92",
