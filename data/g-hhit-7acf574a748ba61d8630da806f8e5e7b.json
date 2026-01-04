@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Leader TH - CEO of McDonald's",
     "habboFigure": "hr-6174-31-40.hd-209-3.ch-3779-88-89.lg-3058-88.sh-905-88.ha-6091.he-6173-100.ea-4161.fa-5636-89.cc-6184-100",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-3494-1408-110.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -810,10 +810,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "She offers me protection",
-    "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.cc-3867-100-110",
+    "habboFigure": "hr-3163-61.hd-3721-18.ch-3030-110.lg-3933-1427.sh-3587-110-92.ha-3544.cc-3867-110-1427",
     "memberSince": "2011-07-24T14:39:10.000+00:00",
     "uniqueId": "hhit-be256d1950981bb381b5d2f4d1a290c9",
     "name": "Visir",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1379.ch-660-110.lg-5594-1334.sh-5247-92-110.ha-3677.he-3557.fa-3276-95.ca-5249-94-110.cc-6166-1413-92",
@@ -1873,7 +1873,7 @@
     "online": true,
     "gender": "m",
     "motto": "apprendista scelto G.D",
-    "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3498-1326.lg-5594-1338.ha-3690-110.he-5088.cc-5926-110-110",
+    "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.ha-3690-110.he-5088.ca-3691-66-1408.cc-5926-1323-110",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2203,7 +2203,7 @@
     "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=HO ANSIA",
-    "habboFigure": "hr-3810-1401.hd-3845-10.ch-883-110-110.lg-3283-96-110.sh-3064-110.he-6094-110.fa-3276-96",
+    "habboFigure": "hr-5606-1351-59.hd-3845-10.ch-883-110-110.lg-3283-96-110.sh-3064-110.he-6094-110.fa-3276-96",
     "memberSince": "2020-04-27T14:00:56.000+00:00",
     "uniqueId": "hhit-9ca83877f1b71181a8f009d0ac76c1b3",
     "name": "Ellie_williams",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.ha-5087.cc-6119",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-4128-110-92.lg-3502-92.sh-5803-92.ha-5301-110.he-3070-92.fa-5467.ca-6324-110-92",
@@ -3530,7 +3530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
     "habboFigure": "hr-4363-1407-1407.hd-5840-1391-1362.ch-5919-1426-1322.lg-5594-1426.sh-5308-1334.ha-3026-1335.he-5827-71-1334.fa-3276-1328.ca-5936-94.wa-5676.cc-5926-1334-94",
