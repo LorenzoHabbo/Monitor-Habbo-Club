@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -270,10 +270,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ":)",
-    "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
+    "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3526-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.cc-6119",
     "memberSince": "2011-06-09T16:39:12.000+00:00",
     "uniqueId": "hhit-5053b608f115a5c2fde2933e63b40879",
     "name": "Vincy-Blues",
@@ -590,7 +590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-5606-1342-1342.hd-605-22.ch-660-1428.lg-710-1428.sh-5803-92.he-6171-92-110.fa-5467.ca-6276-110",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-5437-1343.hd-185-1389.ch-5488-1409.lg-5119-106-95.sh-5247-1321-1323.ha-6301.ea-6053-105.fa-1211.ca-5960-87-1322.cc-6115-96-1410",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "-",
     "habboFigure": "hr-836-1342.hd-615-22.ch-665-110.lg-5594-64.sh-5729-110-64.he-5314-1331-1324.ea-5897-110-110.ca-1801-92.wa-5986-64.cc-5926-1331-92",
