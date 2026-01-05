@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est",
     "habboFigure": "hr-828-54.hd-205-28.ch-255-110.lg-280-92.he-1609-110.ea-1401-110.fa-3296",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.ca-6276-92.cc-5925-82",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
     "habboFigure": "hr-6174-1405-1405.hd-6216-2-25.ch-5374-1326-92.lg-5927-1326-110.sh-6156-110.ha-5468-1326-92.he-5418-110-1326.fa-5467.ca-6276-1408.wa-5419-110-89.cc-5825",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
     "habboFigure": "hr-3163-61.hd-180-22.ch-3779-110-106.lg-3596-110-110.sh-3089-110.he-4977-1321-106.fa-3276-72.ca-3485.cc-3867-93-110",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "•.•",
     "habboFigure": "hr-3841-40.hd-207-1370.ch-267-68.lg-4138-68.sh-5803-1408.ha-3709.he-5802-1408.fa-3276-64.cc-4176-68-68",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "per gli amici e-e a verità",
     "habboFigure": "hr-828-1403.hd-5525-1-14.ch-4975.lg-280-82.sh-3693-1325-1409.he-4971.ea-4985.ca-5002.wa-5370",
