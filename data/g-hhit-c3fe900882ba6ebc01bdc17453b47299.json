@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-5306-61-51.hd-3102-2.ch-3934-109-110.lg-3391-82-92.sh-3035-1432.he-3740.fa-5601-1408.ca-3175-92.cp-3315-1332",
@@ -2180,7 +2180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-515-42.hd-615-1.ch-665-1408.lg-715-1408.fa-3276-73",
