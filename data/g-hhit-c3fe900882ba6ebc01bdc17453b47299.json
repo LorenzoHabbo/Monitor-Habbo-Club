@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-5306-61-51.hd-3102-2.ch-3934-109-110.lg-3391-82-92.sh-3035-1432.he-3740.fa-5601-1408.ca-3175-92.cp-3315-1332",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-3494-1408-110.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
     "habboFigure": "hr-6174-1405-1405.hd-6216-2-25.ch-5374-1326-92.lg-5927-1326-110.sh-6156-110.ha-5468-1326-92.he-5418-110-1326.fa-5467.ca-6276-1408.wa-5419-110-89.cc-5825",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
     "habboFigure": "hr-3163-61.hd-180-22.ch-3779-110-106.lg-3596-110-110.sh-3089-110.he-4977-1321-106.fa-3276-72.ca-3485.cc-3867-93-110",
