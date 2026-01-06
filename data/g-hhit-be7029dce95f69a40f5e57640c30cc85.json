@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Metallica, Nirvana, Guns N Roses",
     "habboFigure": "hr-5544-31-34.hd-3845-1.ch-3809-64-64.lg-4092-81.sh-3619-64-64.he-5279.fa-3276-72.wa-2002",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "      born to be rich",
     "habboFigure": "hr-5680-49.hd-4174-1.ch-5608-1428.lg-5594-77.sh-5464-92-92.ha-5557-63-110.ea-3750.fa-5384-92.ca-5934-1321.cc-5926-110-92",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-104.sh-290-104.ha-3488.fa-5600-92.cc-3542-92-104",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-255-110.lg-3023-85.sh-3027-1408-110.fa-1204.ca-3217-110-64.wa-2012.cc-3152-64",
@@ -6540,7 +6540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM HH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-6014-107-110.cc-5800-108-1408",
@@ -8590,10 +8590,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
+    "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-813-1408.lg-695-1408.sh-725-1408.ha-3620.he-3772-106.fa-4168-95",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
     "name": "surjitilfur",
