@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ardente come il fuoco.",
     "habboFigure": "hr-5791-1401.hd-3095-3.ch-235-92.lg-270-110.sh-3089-73.he-3070-93.fa-1204.cc-5926-1330-1408",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per sempre nel mio cuore |||",
     "habboFigure": "hr-4941-61-51.hd-3091-1389.ch-4361-102-92.lg-6017-1430-103.sh-3587-92-92.he-3070-93.fa-1201",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-3494-1408-110.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Luna LLena - Elvis Crespo",
-    "habboFigure": "hr-3163-1403.hd-5525-2-1372.ch-3934-92-64.lg-281-92.sh-5247-92-92.fa-5975",
+    "habboFigure": "hr-5962-49.hd-5525-10-1372.ch-3934-92-64.lg-275-110.sh-5247-92-110.fa-5975.ca-3414-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-1342.hd-6216-10-1365.ch-5595-1326.lg-5594-1326.sh-5803-92.ha-5301-1326.he-5802-92.fa-5467.ca-6276-92.wa-5370.cc-5925-1414",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1379.ch-660-110.lg-5594-1334.sh-5247-92-110.ha-3677.he-3557.fa-3276-95.ca-5249-94-110.cc-6166-1413-92",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201.wa-2008",
@@ -2280,7 +2280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-5437-1343.hd-185-1389.ch-5488-1409.lg-5119-106-95.sh-5247-1321-1323.ha-6301.ea-6053-105.fa-1211.ca-5960-87-1322.cc-6115-96-1410",
@@ -2640,7 +2640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-255-85.lg-3088-73-82.sh-3524-64-1408.ha-1003-91.he-1608.ca-1812.cc-5942-88",
@@ -3740,7 +3740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "a pukkiakk",
     "habboFigure": "hr-3163-34.hd-205-13.ch-3934-92-110.lg-280-110.sh-3252-89-89.he-3740.fa-3276-1324.cc-5077-77",
@@ -3940,7 +3940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe diem",
     "habboFigure": "hr-5619-1404.hd-6216-1-14.ch-6058-92-92.lg-5970-82.sh-5464-92-1408.he-3974.fa-5467.ca-4378.cc-6077",
@@ -4270,10 +4270,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Stay focus boy",
-    "habboFigure": "hr-3163-1342.hd-205-2.ch-215-92.lg-280-78.sh-5803-92.ha-6197.he-3070-92.cc-5800-78-78",
+    "habboFigure": "hr-3163-1342.hd-205-2.ch-215-92.lg-5594-1338.sh-5803-92.ha-6197.he-3070-92.cc-5800-1426-1426",
     "memberSince": "2025-01-15T16:53:39.000+00:00",
     "uniqueId": "hhit-68dadd808010a3637c59a0d13b636c5f",
     "name": ".Drip",
