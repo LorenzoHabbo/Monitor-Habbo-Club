@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4363-1346-1346.hd-4383-10-5.ch-5560-1417-1417.lg-3787-78-1408.sh-5308-89.he-5279.cc-5926-1326-1417",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM HH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-6014-107-110.cc-5800-108-1408",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-4128-110-92.lg-3502-92.sh-5803-92.ha-5301-110.he-3070-92.fa-5467.ca-6276-110",
