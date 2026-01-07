@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est",
     "habboFigure": "hr-828-61.hd-205-28.ch-3030-110.lg-280-92.he-3891.ea-1401-110.fa-3296",
@@ -250,10 +250,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "TMBTE",
-    "habboFigure": "hr-828-61.hd-4015-18.ch-3934-1426-110.lg-3596-110-1408.sh-3035-110.he-3740.cp-3315-89",
+    "habboFigure": "hr-828-61.hd-3102-18.ch-3934-1426-110.lg-3596-110-1408.sh-3035-110.he-3740.fa-5601-1315.cp-3315-89",
     "memberSince": "2009-11-29T18:36:00.000+00:00",
     "uniqueId": "hhit-2a5a2a8345171d811f3d28f430242f5f",
     "name": "DYWTYLM",
@@ -870,10 +870,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
-    "habboFigure": "hr-6174-1405-1405.hd-6216-2-25.ch-5374-1326-92.lg-5927-1326-110.sh-6156-110.ha-5468-1326-92.he-5418-110-1326.fa-5467.ca-6276-1408.wa-5419-110-89.cc-5825",
+    "habboFigure": "hr-6174-1405-1405.hd-6216-1392-25.ch-5374-1326-92.lg-5927-1326-110.sh-6156-110.ha-5468-1326-92.he-5418-110-1326.fa-5467.ca-6276-1408.wa-5419-110-89.cc-5825",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-180-13.ch-3779-110-70.lg-3596-110-1408.sh-3435-110-92.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-110",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "per gli amici e-e a verità",
     "habboFigure": "hr-828-1403.hd-180-1.ch-4975.lg-280-82.sh-3693-1325-1409.he-4971.ea-4985.ca-5002.wa-5370.cc-6342",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -1960,7 +1960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "-",
     "habboFigure": "hr-3322-34.hd-5913-1.ch-3540-85.lg-5594-82.sh-5803-85.he-4022.ea-3978-1408-1408.fa-3276-72.cc-5800-73-73",
