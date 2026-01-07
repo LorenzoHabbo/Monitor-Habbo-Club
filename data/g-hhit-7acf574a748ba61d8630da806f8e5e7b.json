@@ -210,10 +210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
-    "habboFigure": "hr-3860-1403-1404.hd-3721-2.ch-255-64.lg-280-110.sh-5803-92.ha-4094-110-110.he-3740.fa-5982-110.ca-3844-1331-1324.cc-6342",
+    "habboFigure": "hr-3860-1404-1403.hd-3721-2.ch-255-64.lg-280-110.sh-5803-92.ha-4094-92-1427.he-3740.fa-5982-110.ca-3844-1331-1324.cc-6342",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-1342.hd-6216-10-1365.ch-5595-1326.lg-5594-1326.sh-5803-92.ha-5301-1326.he-5802-92.fa-5467.ca-6276-92.wa-5370.cc-5925-1414",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "She offers me protection",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-3030-110.lg-3933-1427.sh-3587-110-92.ha-3544.cc-3867-110-1427",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-180-14.ch-210-92.lg-280-110.sh-3252-1322-1408.ea-1404-63",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-1362.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-6211-1342-40.hd-605-22.ch-813-92.lg-3018-77.sh-5803-92.he-5845.fa-5467.ca-6276-106",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-180-13.ch-3779-110-70.lg-3596-110-1408.sh-3435-110-92.ha-3709.he-3740.fa-3276-72.ca-3485.cc-5800-110-110",
@@ -1833,7 +1833,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-5619-42.hd-4383-10-14.ch-3293-1408-71.lg-710-64.sh-725-1408.ha-5620-71.cc-3744-64-1408",
+    "habboFigure": "hr-5619-42.hd-4383-10-14.ch-3293-110-71.lg-710-64.sh-725-1408.ha-5620-71.cc-3744-64-71",
     "memberSince": "2018-07-30T11:14:32.000+00:00",
     "uniqueId": "hhit-49a35cc84e226b5725d264ab8975f41c",
     "name": "Mikiela!",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trash queennaa",
     "habboFigure": "hr-5503-1353.hd-4383-1383-30.ch-3501-110.lg-3353-93.sh-5308-95.ha-5854.he-3070-93.fa-5467.ca-6020-1330.cc-5926-95-93",

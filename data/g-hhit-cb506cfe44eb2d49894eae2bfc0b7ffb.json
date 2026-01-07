@@ -523,7 +523,7 @@
     "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-3936-1403-1403.hd-3536-10-10.ch-5167-110.lg-6303-1338-92.sh-5297.he-6236.fa-5467.ca-6276-92.wa-6165-1425.cc-3542-1338-1338",
+    "habboFigure": "hr-3936-1403-1403.hd-3536-10-10.ch-5167-110.lg-6303-1338-92.sh-5297.he-6236.fa-5467.ca-6276-92.cc-3542-1338-1338",
     "memberSince": "2009-12-08T16:31:10.000+00:00",
     "uniqueId": "hhit-b558d121555d798700f690badcf24bdf",
     "name": "-?CONIGLIETTA",
@@ -750,7 +750,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5773-1342.hd-6216-10-1365.ch-5595-1326.lg-5594-1326.sh-5803-92.ha-5301-1326.he-5802-92.fa-5467.ca-6276-92.wa-5370.cc-5925-1414",
@@ -790,7 +790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-180-14.ch-210-92.lg-280-110.sh-3252-1322-1408.ea-1404-63",
@@ -1840,7 +1840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-6211-1342-40.hd-605-22.ch-813-92.lg-3018-77.sh-5803-92.he-5845.fa-5467.ca-6276-106",
@@ -2530,10 +2530,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " commerciante afrodisiaco",
-    "habboFigure": "hr-4162-42.hd-190-10.ch-3506-1408-64.lg-5594-64.sh-4112-64-1408.ha-5677-64.he-4990-73.ea-1404-64.fa-5054.ca-3503-73.cc-3420-64",
+    "habboFigure": "hr-4162-42.hd-190-10.ch-3539-64.lg-5623.sh-3524-64-1408.ha-5677-64.he-4990-73.ea-1404-64.fa-5054.ca-3503-73",
     "memberSince": "2020-02-24T13:11:58.000+00:00",
     "uniqueId": "hhit-42e997113909c856fec3b955c57ba7b0",
     "name": "b0nostrain",
@@ -3690,7 +3690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FONDATORE - Tesoriere ¥Grove Street¥",
     "habboFigure": "hr-831-1395.hd-3091-8.ch-4111-1423.lg-3058-110.sh-290-110.ha-1006.ea-3148-110-92.fa-1209-1431.wa-2005.cc-5942-110",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini  G.D",
     "habboFigure": "hr-3841-42.hd-180-8.ch-5596-1408.lg-3596-1408-1408.sh-3419-1408-64.he-4022.ca-6324-82-1408.cc-6204-64",
