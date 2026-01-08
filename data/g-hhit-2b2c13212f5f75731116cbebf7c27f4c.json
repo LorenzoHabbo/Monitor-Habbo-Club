@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5619-1342.hd-629-1391.ch-5560-99-110.lg-3202-110-99.sh-3252-99-92.ha-6225-1426-92.he-3069-1408-1408.fa-3276-1408.ca-3175-1408",
@@ -5570,7 +5570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato g.d",
     "habboFigure": "hr-3791-45.hd-3845-10.ch-3528-82-1408.lg-3526-64-64.sh-3524-82-1408.he-3329-66-82.fa-3276-73.cc-5461-1408-82",
@@ -8310,7 +8310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-82.sh-3089-82.ha-6225-82-92.he-3070-92.fa-5601-89.ca-6324-82-110",

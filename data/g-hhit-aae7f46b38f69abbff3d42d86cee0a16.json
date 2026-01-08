@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "always",
     "habboFigure": "hr-831-1398.hd-190-1363.ch-215-110.lg-6303-110-110.sh-305-110.ha-1002-110.he-3070-1408.fa-6304-110.ca-3217-110-110.wa-3264-64-63.cc-4033-110-110",
@@ -660,7 +660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " ¥ ¥ ¥",
     "habboFigure": "hr-3936-45-45.hd-600-1.ch-665-1408.lg-710-82.sh-5247-1408-1408.he-3891.fa-3276-73.cc-5800-76-76",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3012-1348.hd-627-1390.ch-6029-1338-1426.lg-3192-89.sh-3180-1338-1426.ha-3242-1426-1338.fa-3378-1426-1338.ca-6324-1338-1426.wa-5599-1338-1426",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-82.sh-3089-82.ha-6225-82-92.he-3070-92.fa-5601-89.ca-6324-82-110",
