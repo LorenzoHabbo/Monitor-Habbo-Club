@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-830-31.hd-180-10.ch-3030-85.lg-3088-1408-1408.sh-3068-73-1408.cc-3294-88-1408",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-35.hd-180-10.ch-5452-82-72.lg-285-1408",
@@ -1741,9 +1741,9 @@
   },
   {
     "online": true,
-    "gender": "f",
+    "gender": "m",
     "motto": "Jus drein jus daun   Blodreina",
-    "habboFigure": "hr-5605-49.hd-6216-1-1365.ch-5560-110-88.lg-3596-110-110.sh-3089-110.ha-3382-88-110.fa-3378-64-1408.ca-3916-110-1408.wa-3263-92-92.cc-3232-110-88",
+    "habboFigure": "hr-3278-61-61.hd-3094-10.ch-3683-110-92.lg-3596-110-73.sh-3016-110.ha-1013-110.fa-1204.cc-3087-110",
     "memberSince": "2009-07-26T14:53:58.000+00:00",
     "uniqueId": "hhit-4dead5fb3dcfc925c43414c1ad87faed",
     "name": "Casi_Ang3les",
@@ -2560,10 +2560,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "always",
-    "habboFigure": "hr-5390-1349-1344.hd-190-1363.ch-3038-110.lg-6303-1425-1341.sh-3524-92-92.ha-1009-1321.he-3070-1408.ea-6196.fa-3296.wa-3264-110-93.cc-3420-1322",
+    "habboFigure": "hr-831-1398.hd-190-1363.ch-3032-75-92.lg-280-110.sh-3524-110-92.ha-1002-110.he-3070-1408.fa-3276-1325.ca-3131-110-110.wa-3073-110.cc-3158-110",
     "memberSince": "2010-03-27T18:11:46.000+00:00",
     "uniqueId": "hhit-51e68938a0d62f16954462d7156667c7",
     "name": "Ludo-Vik",
@@ -5480,7 +5480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ciao :)",
     "habboFigure": "hr-3670-1405.hd-5838-11-1365.ch-3934-110-110.lg-3933-1427.sh-3206-110.he-3740.ca-6276-92.cc-5925-82",
