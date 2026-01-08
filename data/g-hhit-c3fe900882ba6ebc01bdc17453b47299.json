@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-3494-1408-110.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -873,7 +873,7 @@
     "online": true,
     "gender": "f",
     "motto": "Custode dei segreti dell'aldilà.",
-    "habboFigure": "hr-5801-49-1344.hd-6216-1392-25.ch-5374-1339-92.lg-5909-92-92.sh-5464-92-1339.ha-4354-1339-92.he-5808-110.fa-5467.ca-5794-1337.wa-5419-1339-92.cc-4979-92.cp-5877-1337",
+    "habboFigure": "hr-5801-49-1344.hd-6216-1392-1363.ch-5374-1339-92.lg-5909-92-92.sh-5464-92-1339.ha-6225-1339-92.he-5765-1326.fa-5467.ca-6081-1337.wa-5123-1337.cc-4979-92.cp-5877-1337",
     "memberSince": "2014-12-01T14:49:30.000+00:00",
     "uniqueId": "hhit-e92e4a19f8989a569295857001caf67f",
     "name": "Nemethys",
@@ -2130,7 +2130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-4117-49-49.hd-615-28.ch-650-110.lg-5970-1334.ha-6225-1334-92.he-3070-92.ea-3107-92-92.fa-5467.ca-6212",
