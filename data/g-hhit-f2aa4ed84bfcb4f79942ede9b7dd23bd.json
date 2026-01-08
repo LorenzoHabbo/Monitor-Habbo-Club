@@ -3620,7 +3620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Spirito Guida Corleone",
     "habboFigure": "hr-3829-34.hd-205-14.ch-3934-72-1408.lg-275-82.sh-908-1408",
@@ -4230,7 +4230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Renna 2.0",
     "habboFigure": "hr-891-45.hd-190-1.ch-5608-64.lg-5594-82.sh-3383-90-1320.ha-5851.fa-3462-91",
@@ -9130,7 +9130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
