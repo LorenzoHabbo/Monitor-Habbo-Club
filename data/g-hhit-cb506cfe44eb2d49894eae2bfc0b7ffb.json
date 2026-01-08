@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ardente come il fuoco.",
     "habboFigure": "hr-5791-1401.hd-3095-3.ch-235-92.lg-270-110.sh-3089-73.he-3070-93.fa-1204.cc-5926-1330-1408",
@@ -760,7 +760,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3977-49.hd-180-28.ch-803-73.lg-4138-110.ha-3494-110-1408.he-3740.ea-4985.ca-5739-1325-110.cc-4176-73-1408",
@@ -1670,7 +1670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3106-1390.ch-883-92-92.lg-3787-92-92.ha-3620.he-3772-106.fa-4168-95.wa-3773-106.cc-3692-106-1408",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cherubini  G.D",
     "habboFigure": "hr-3841-42.hd-180-8.ch-5596-1408.lg-3596-1408-1408.sh-3419-1408-64.he-4022.ca-6324-82-1408.cc-6204-64",
