@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-5378-1408-1408.he-5088.ea-3168-80.fa-4168-108.ca-3217-92-1408.cp-3125-110",
@@ -333,7 +333,7 @@
     "online": true,
     "gender": "f",
     "motto": "Habbo Rewind|",
-    "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-73-73.lg-715-64.sh-5671-73.fa-3276-72",
+    "habboFigure": "hr-5619-45.hd-3631-1-12.ch-3399-80-80.lg-700-81.sh-5671-1408.fa-3276-72",
     "memberSince": "2010-06-30T15:24:10.000+00:00",
     "uniqueId": "hhit-160321256998d3649411e8c0ba0ab307",
     "name": "DolceEla",
@@ -770,10 +770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
-    "habboFigure": "hr-3715-49-56.hd-6216-28-1364.ch-5607-92.lg-3006-110-110.sh-6043.ha-1015.he-5088.fa-5467.ca-6276-74.wa-5370.cc-5926-110-1418",
+    "habboFigure": "hr-3715-49-56.hd-6216-28-1364.ch-5607-92.lg-3006-110-110.sh-6043.he-5088.fa-5467.ca-6276-74.wa-5370.cc-5926-110-1418",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -3040,7 +3040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La bontà è mangime per gli avvoltoi.",
     "habboFigure": "hr-4117-49-49.hd-615-28.ch-650-110.lg-710-110.ha-5620-110.ea-3107-92-92.fa-5467",
