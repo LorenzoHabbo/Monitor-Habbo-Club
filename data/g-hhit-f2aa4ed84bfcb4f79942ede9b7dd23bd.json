@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "life is simple",
     "habboFigure": "hr-828-34.hd-205-23.ch-215-110.lg-285-63.sh-295-1408.ha-3488.he-3070-1427.cp-5883-1331",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3841-42.hd-209-1370.ch-220-64.lg-280-64.sh-300-64.he-1608",
@@ -3760,7 +3760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4131-1342-1342.hd-6216-2-1365.ch-5374-1426-78.lg-3596-1425-1408.sh-5803-92.ha-6241-1425-110.fa-5975.ca-5282-1426.wa-5370.cc-5925-1426",
@@ -5570,7 +5570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "WALES SINCE 2007",
     "habboFigure": "hr-5791-58.hd-3845-26.ch-5596-96.lg-3418-110.sh-4112-96-96.ha-4192.he-5279.ea-3925-1430-93.fa-1209-96.cc-4091-110",
