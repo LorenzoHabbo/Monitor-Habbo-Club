@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "~Åmö tutt¡, må ñöñ vogl¡ö ñêssuñö ²-²",
     "habboFigure": "hr-3860-1404-1403.hd-3721-2.ch-255-64.lg-280-110.sh-5803-92.ha-4094-92-1427.he-3740.fa-5982-110.ca-3844-1331-1324.cc-6342",
@@ -1360,7 +1360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Venduti i dipinti",
     "habboFigure": "hr-3852-42.hd-4383-28-10.ch-4087-110.lg-4066-64.he-6103-92.fa-3276-1414.ca-6276-110",
@@ -9180,7 +9180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1394.hd-3845-1.ch-3185-92.lg-5594-1335.sh-3016-91.he-3218-1408.cc-6077",
