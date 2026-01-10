@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-828-61.hd-3102-18.ch-3934-1426-110.lg-3596-110-1408.sh-3035-110.he-3740.fa-5601-1315.wa-3773-1426.cp-3315-89",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La bontà è mangime per gli avvoltoi.",
     "habboFigure": "hr-4363-49-49.hd-6216-28-1365.ch-665-92.lg-5594-77.sh-5803-92.he-5314-110-110.fa-5467.wa-4060-110-110.cc-5926-110-92",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "polli e derivat ps.non sono napoletano",
     "habboFigure": "hr-3357-40.hd-209-8.ch-210-64.lg-3365-64.sh-3621-1408-64.ha-4133-64.ea-3925-64-64.fa-3462-1408.ca-4937.wa-3211-1408-1408.cc-4943-64",
