@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4131-1342-1342.hd-6216-2-1365.ch-5374-1426-78.lg-3596-1425-1408.sh-5803-92.ha-6241-1425-110.fa-5975.ca-5282-1426.wa-5370.cc-5925-1426",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-4363-1352-49.hd-4383-10-5.ch-5560-1417-1417.lg-3787-78-1408.sh-5308-89.he-5279.cc-5926-1326-1417",
@@ -1760,7 +1760,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-180-22.ch-3779-110-92.lg-3596-110-110.sh-3089-110.ha-3709.he-3740.fa-3344-110.ca-3485.cc-3867-92-106",
@@ -4170,7 +4170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Tu parli spazio, io tempo",
     "habboFigure": "hr-3322-40.hd-180-1.ch-215-1408.lg-280-1408.sh-305-91.ea-1404-64.cc-3512-91-1408",
