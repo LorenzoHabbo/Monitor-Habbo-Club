@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAVALIERE ELETTO 1P G.D.",
     "habboFigure": "hr-3841-61.hd-209-1.ch-3215-1408.lg-4066-110.sh-3524-92-92.ea-3484.ca-1802.cc-3007-110-1408",
@@ -3230,7 +3230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Scagnozzo semplice G.D.",
     "habboFigure": "hr-3468-42.hd-629-1.ch-3770-85-84.lg-715-1408.sh-907-85.ha-3655",
@@ -7160,7 +7160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ª Jus drein Jus daun ª",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -7180,7 +7180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-891-35.hd-180-1.ch-3342-82-1408.lg-5970-1408.ha-1010-1408.he-1608",
@@ -7810,7 +7810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato gd",
     "habboFigure": "hr-890-37.hd-629-1.ch-3770-85-84.lg-710-73.sh-3180-84-85",
