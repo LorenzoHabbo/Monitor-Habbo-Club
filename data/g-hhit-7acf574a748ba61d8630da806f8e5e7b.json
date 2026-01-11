@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a state of mind",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4363-1342-1342.hd-6216-10-1365.ch-5245-1326.lg-5594-1338.sh-5803-92.he-5139-1414.fa-5467.ca-6276-92.wa-4040-1328.cc-5925-1414",
@@ -1480,7 +1480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "io che uso ancora i calendari di carta",
     "habboFigure": "hr-3852-1342.hd-605-18.ch-660-106.lg-710-77.sh-5803-92.ha-4196.he-3070-1408.ea-3196-1408.fa-5467.ca-6276-92",
@@ -1890,10 +1890,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3977-49.hd-3721-28.ch-3372-92-110.lg-3365-92.fa-4185-100.wa-3504-100",
+    "habboFigure": "hr-6034-1407-41.hd-5525-26-28.ch-3934-64-64.lg-5594-110.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-5936-92.wa-5986-110.cc-5926-110-92.cp-3122-80",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -1920,7 +1920,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "..",
     "habboFigure": "hr-4118-38.hd-3631-1-14.ch-3539-81.lg-3864.sh-5551.ha-3857-80-1408.he-5618-80.cc-3744-81-1408",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "due ali per farmi volare per un po'",
     "habboFigure": "hr-3746-48.hd-207-10.ch-4111-64.lg-3116-64-1408.he-3660-64-1408.fa-3378-64-1408",
@@ -2880,7 +2880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Quelli come noi non si fidano mai..",
     "habboFigure": "hr-5971-45.hd-209-1380.ch-3934-92-110.lg-5594-82.sh-3089-82.ha-6225-82-92.he-3070-92.fa-5601-89.ca-6324-82-110",
@@ -3160,7 +3160,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trash queennaa",
     "habboFigure": "hr-4117-1351-1350.hd-600-10.ch-650-96.lg-3361-77.sh-5308-106.ha-3144-92-1414.ea-3698-110-1331.ca-3916-1327-106.cc-3289-77",
