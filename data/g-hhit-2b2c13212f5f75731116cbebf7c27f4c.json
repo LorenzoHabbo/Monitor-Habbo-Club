@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "FENICE VITALE G.D.",
     "habboFigure": "hr-155-36.hd-209-1.ch-215-1408.lg-4066-82.sh-4016-66-1408.ha-3745-82-66.ea-3484.cc-3326-66-72",
@@ -2410,7 +2410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CAVALIERE ELETTO 1P G.D.",
     "habboFigure": "hr-3841-61.hd-209-1.ch-5559-1408.lg-3787-110-1408.sh-3524-92-1408.ea-3484.ca-1802.cc-3087-1408",
@@ -5520,7 +5520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haze",
     "habboFigure": "hr-828-1345.hd-3091-1383.ch-3022-1323-1408.lg-275-1323.sh-295-96.he-1608.ea-6053-96.fa-3296",
