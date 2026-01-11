@@ -793,7 +793,7 @@
     "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-5556-31-40.hd-3103-1391.ch-5830-1326.lg-5594-1338.sh-6182.ha-6246.ea-3751.fa-4168-100.ca-5273-1410-98.cc-6342",
+    "habboFigure": "hr-5556-31-40.hd-3103-1391.ch-5239-1326.lg-5594-1338.sh-5242-78.ha-6246.ea-3751.fa-4168-100.ca-5273-1410-98.cc-6342",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "per gli amici e-e a verità",
     "habboFigure": "hr-828-1403.hd-180-1.ch-4975.lg-280-82.sh-3693-1325-1409.he-4971.ea-4985.ca-5002.wa-5370.cc-6342",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -3030,7 +3030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La bontà è mangime per gli avvoltoi.",
     "habboFigure": "hr-4117-49-49.hd-615-28.ch-650-110.lg-710-110.ha-5620-110.ea-3107-92-92.fa-5467.cc-3824-92-110",
