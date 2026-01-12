@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-52-51.hd-3956-9-1367.ch-3538-96.lg-3019-96.sh-3419-96-92.he-3082-1412.cc-3744-96-92",
@@ -840,7 +840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-210-1428.lg-280-1426.sh-5247-92-1334.he-3740.ea-5897-63-1408.fa-3276-100",
@@ -1762,7 +1762,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "Scagnozzo G.D! Life is a gift",
+    "motto": "Scagnozzo Esperto G.D. Life is a gift!",
     "habboFigure": "hr-4941-1394-1401.hd-3102-22.ch-3779-110-92.lg-3257-110.sh-3524-110-92.ha-3986.ea-5897-1339-1323.fa-1201.ca-3187-1413.cc-3635-110-92",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
@@ -1872,7 +1872,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "apprendista scelto G.D",
+    "motto": "iniziato G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.ha-3690-110.he-5088.ca-3466-1323-110.cc-5926-1323-110",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
@@ -2520,7 +2520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Lunga vita e prosperità ¥",
     "habboFigure": "hr-3852-1342.hd-6219-10-22.ch-5245-110.lg-5594-110.he-3740.fa-3276-97.ca-3885-1410-110.wa-6165-110.cc-6166-110-64",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.ha-5087.cc-6119",

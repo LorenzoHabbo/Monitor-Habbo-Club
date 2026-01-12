@@ -30,7 +30,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "  Masarez © 2o16 / 2o25 - NT",
     "habboFigure": "hr-3746-40.hd-190-1.ch-3934-1408-64.lg-5732-64-1408.sh-3587-1408-1408.he-1609-1408.cc-3509-64-1408",
@@ -1450,7 +1450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3940-92-92.lg-275-1412.sh-290-1412.ha-3488.fa-5600-92.cc-6342",
@@ -5030,7 +5030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-210-1428.lg-280-1426.sh-5247-92-1334.he-3740.ea-5897-63-1408.fa-3276-100",
