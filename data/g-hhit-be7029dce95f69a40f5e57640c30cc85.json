@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "What Else?",
     "habboFigure": "hr-3322-45.hd-180-10.ch-210-91.lg-285-84.cc-4107-73-64",
@@ -1363,7 +1363,7 @@
     "online": false,
     "gender": "f",
     "motto": "Mutata",
-    "habboFigure": "hr-5680-61.hd-4383-28-14.ch-5917-1326.lg-4066-110.ha-3586.he-3740.fa-3276-92.cc-6119",
+    "habboFigure": "hr-5680-61.hd-6216-28-1365.ch-5917-1326.lg-4066-110.ha-3586.he-3740.fa-3276-92.cc-6119",
     "memberSince": "2009-02-27T13:40:45.000+00:00",
     "uniqueId": "hhit-dda7c3c029e0b6a06e26ce08872bc188",
     "name": "!!belle",
@@ -2270,7 +2270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3103-1370.ch-3015-80.lg-3078-92.sh-3089-73.ha-3494-1408-110.he-5088.ea-3168-80.fa-5456-94.ca-3217-92-1408.cc-6077.cp-3125-110",
@@ -2370,7 +2370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crickei",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-3542-92-110",
@@ -6940,7 +6940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "But he's not as cool as me",
     "habboFigure": "hr-5773-1404.hd-6216-1-30.ch-5921-92-1408.lg-3483-92-1427.he-6173-100.fa-3276-1411.cc-3867-63-1408",
