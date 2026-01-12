@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3841-42.hd-209-1370.ch-220-64.lg-280-64.sh-300-64.he-1608",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "One Life|",
     "habboFigure": "hr-893-37.hd-209-1371.ch-6177-91-1408.lg-275-91.sh-295-91.he-4946-91.cc-6175-1408",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-6083-1342.hd-6216-10-1365.ch-4299-1425-1331.lg-5594-1338.sh-5803-100.ha-5468-1425-100.he-5244-100.fa-5467.ca-6276-92.wa-5370.cc-5800-100-100",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¥Apprendista novello GD ¥",
     "habboFigure": "hr-3043-1344.hd-209-2.ch-809-1408.lg-3235-96.sh-3035-81.he-1604.fa-1209-92.wa-2011.cc-3007-104-1408",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "GM HH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3215-110.lg-4138-110.ha-6014-107-110.cc-5800-108-1408",
@@ -3700,7 +3700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LETSGOSKI",
     "habboFigure": "hr-3670-40.hd-209-1.ch-5596-1408.lg-5594-81.sh-3524-66-64.ha-5557-64-1408.he-3660-64-82.fa-5601-66.cc-5558-64-1408",
@@ -4530,10 +4530,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Kiss kiss|",
-    "habboFigure": "hr-5772-1349-61.hd-4163-28-1372.ch-3233-110.lg-4369-110-92.sh-5308-92.he-3070-1410.ea-5897-110-110.fa-5467.cc-5926-110-92",
+    "habboFigure": "hr-5772-1349-61.hd-4163-28-1372.ch-3233-110.lg-4369-110-92.sh-5308-92.he-3070-1410.ea-5897-110-110.fa-5467.ca-6226-110-92.cc-5926-110-92",
     "memberSince": "2018-01-06T22:56:26.000+00:00",
     "uniqueId": "hhit-ffad8a2aaf3f1ff5ef2284cff8d28af4",
     "name": "marta5520",
@@ -4700,7 +4700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-1009-64.ea-3484",
@@ -4863,7 +4863,7 @@
     "online": false,
     "gender": "f",
     "motto": "Braccio Sx GD ƒ HIH ƒ Jehudiel GD ƒ",
-    "habboFigure": "hr-6211-1403-1403.hd-6216-10-13.ch-5607-110.lg-3136-110.ha-3620.fa-5467.ca-5381-1427.cc-6342",
+    "habboFigure": "hr-6211-1403-1403.hd-6216-10-13.ch-5919-110-1335.lg-3006-110-77.ha-3620.he-5765-71.fa-5467.cc-3867-110-77",
     "memberSince": "2018-09-21T14:50:00.000+00:00",
     "uniqueId": "hhit-6a7cec4fe2064fed4a5c24554c6a1fae",
     "name": "Lilyjade",
@@ -4910,7 +4910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista scelto G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-11.ch-3688-92.lg-5594-1323.ha-3690-110.he-5088.ca-3691-66-1408.cc-5926-1323-110",
@@ -7810,7 +7810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "soldato gd",
     "habboFigure": "hr-890-37.hd-629-1.ch-3770-85-84.lg-710-73.sh-3180-84-85.ca-6324-84-85",
@@ -9740,7 +9740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-5973-1403-1403.hd-6216-28-1363.ch-5560-1328-1328.lg-5594-92.sh-5274-92-97.ha-3620.fa-5467.ca-6276-92.cc-5461-1337-97",
