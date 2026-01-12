@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est",
     "habboFigure": "hr-828-54.hd-205-10.ch-3030-1408.lg-280-81.he-3891.ea-3639.fa-3296",
@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-828-61.hd-3102-18.ch-255-110.lg-4138-110.sh-908-110.he-3740.fa-5601-1315",
@@ -480,10 +480,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La bontà è mangime per gli avvoltoi.",
-    "habboFigure": "hr-4363-49-49.hd-6216-28-1365.ch-665-92.lg-5594-110.he-3958-92.fa-5467",
+    "habboFigure": "hr-4363-49-49.hd-6216-28-1365.ch-665-92.lg-5594-110.he-4946-110.fa-5467",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
