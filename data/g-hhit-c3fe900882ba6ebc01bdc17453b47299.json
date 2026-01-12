@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "TMBTE",
     "habboFigure": "hr-828-61.hd-3102-18.ch-255-110.lg-4138-110.sh-908-110.he-3740.fa-5601-1315",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D. Life is a gift!",
     "habboFigure": "hr-4941-1394-1401.hd-3102-22.ch-3779-110-92.lg-3257-110.sh-3524-110-92.ha-3986.ea-5897-1339-1323.fa-1201.ca-3187-1413.cc-3635-110-92",
@@ -3020,7 +3020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La bontà è mangime per gli avvoltoi.",
     "habboFigure": "hr-5681-49-49.hd-600-28.ch-665-92.lg-5970-110.he-6215-92.ea-3107-92-92.fa-5467",
