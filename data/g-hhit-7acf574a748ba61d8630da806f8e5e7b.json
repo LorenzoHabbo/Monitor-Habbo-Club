@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Mutata",
     "habboFigure": "hr-5680-61.hd-6216-28-1365.ch-5917-1326.lg-4066-110.he-6103-1326",
@@ -780,7 +780,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "^.^ |",
     "habboFigure": "hr-5617-1352-49.hd-4383-10-5.ch-5560-1417-1417.lg-3787-82-1408.sh-5308-89.he-5279.cc-5926-1326-1417",
@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "She offers me protection",
     "habboFigure": "hr-3163-61.hd-3721-18.ch-3030-110.lg-3933-1427.sh-3587-110-92.ha-3544.cc-3867-110-1427",
@@ -1763,7 +1763,7 @@
     "online": true,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D. Life is a gift!",
-    "habboFigure": "hr-4941-1394-1401.hd-3102-22.ch-3779-110-92.lg-3257-110.sh-3524-110-92.ha-3986.ea-3639.fa-1201.ca-3187-1413.cc-3635-110-92",
+    "habboFigure": "hr-4941-1394-1401.hd-3102-22.ch-3779-110-92.lg-3257-110.sh-3524-110-92.ha-3986.ea-5897-1339-110.fa-1201.ca-3187-1413.cc-3635-110-92",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -3490,7 +3490,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-4128-110-92.lg-3502-92.sh-5803-92.ha-5301-110.he-3070-92.fa-5467.ca-6276-110",
