@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Life is a state of mind",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-1608.fa-3344-1408.ca-1801-1408.wa-4317-1322.cc-5182-92",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "|",
     "habboFigure": "hr-802-32.hd-205-1.ch-210-1408.lg-4114-64-1408.sh-908-1408.ha-1002-1408.he-1608.fa-5600-1408.ca-4115-64-1408.cc-3917-82",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6083-1404.hd-6219-2-29.ch-4128-110-92.lg-3502-92.sh-5803-92.ha-5301-110.he-3070-92.fa-5467.ca-6276-110",
