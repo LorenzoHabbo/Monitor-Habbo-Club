@@ -940,10 +940,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "pigghjta ngule",
-    "habboFigure": "hr-125-31.hd-209-10.ch-215-72.lg-3078-82.sh-906-64.cc-3294-64-1408",
+    "habboFigure": "hr-125-31.hd-209-1369.ch-255-82.lg-3078-82.sh-906-64.ha-1003-82.ea-1401-64.fa-1202-64",
     "memberSince": "2010-05-10T14:20:18.000+00:00",
     "uniqueId": "hhit-f8a2fc8329ceb764c81595fe38b6dffb",
     "name": "Boyyhea",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5619-1342.hd-3100-1391.ch-5560-99-110.lg-5594-1426.sh-4112-95-81.ha-6225-1426-92.he-3069-1408-1408.fa-3276-1408.ca-3175-1408",
@@ -2410,9 +2410,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "comandante g.d",
+    "motto": "comandante g.d.",
     "habboFigure": "hr-5275-1343.hd-207-27.lg-5594-77.sh-4112-110-92.ha-5677-110.he-3070-92.ea-3484.fa-5601-92.cc-886-92",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
@@ -4450,7 +4450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ":/",
     "habboFigure": "hr-3768-40.hd-3845-1.ch-3321-81.lg-3088-66-1408.sh-3524-64-1408.ha-3710.fa-4044.cc-3867-82-80",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Scagnozzo Esperto G.D. Life is a gift!",
     "habboFigure": "hr-4941-1394-1401.hd-3102-22.ch-3779-110-92.lg-3257-110.sh-3524-110-92.ha-3986.ea-5897-1339-1323.fa-1201.ca-3187-1413.cc-3635-110-92",
@@ -5570,7 +5570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "uomini con piedi con patate",
     "habboFigure": "hr-3012-61.hd-605-28.ch-5453-1430-89.lg-3136-1430.sh-5464-71-93.ha-3272-1430-93.he-3081-92.fa-3276-66.ca-6226-93-93",
