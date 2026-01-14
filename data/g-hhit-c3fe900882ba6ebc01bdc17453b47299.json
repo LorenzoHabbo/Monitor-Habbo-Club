@@ -560,7 +560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Custode della Stella N T",
     "habboFigure": "hr-5962-40.hd-3845-14.ch-3987-1408-1408.lg-270-1408.sh-3419-1408-1408.ha-3709.fa-1205-1408.cc-5951-1408",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CHIAMAMI BIANCA !!!!",
     "habboFigure": "hr-3325-34-40.hd-3845-14.ch-5258.lg-3216-84.sh-3435-84-1408.ha-5076-83.he-6125-1408.fa-5600-73",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
