@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sic Mundus Creatus Est",
     "habboFigure": "hr-828-54.hd-205-10.ch-3030-1408.lg-280-81.he-3891.ea-3639.fa-3296",
@@ -1370,7 +1370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "FUEGO                    crikey",
     "habboFigure": "hr-4024-44.hd-3845-10.ch-665-1408.lg-710-1408.sh-908-73.he-3558.fa-5601-1408.cc-3975-74-73",
