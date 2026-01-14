@@ -1430,7 +1430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒ.ƒ",
     "habboFigure": "hr-3800-37-48.hd-3956-1-14.ch-660-75.lg-3290-1408.sh-3419-75-1408",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cison",
     "habboFigure": "hr-125-38.hd-190-8.ch-3030-64.lg-281-68.sh-305-64.ha-1002-64",
@@ -3400,7 +3400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-3321-110.lg-3216-110.sh-5670-110.ha-5677-110.ca-1803-92.wa-6165-110",
