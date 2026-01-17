@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Iniziata GD",
     "habboFigure": "hr-6174-37-40.hd-4383-1-12.ch-5374-82-66.lg-5909-1408-1408.sh-3619-82-1408.ha-5087.he-6236.ca-5455-82-66",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1399.hd-209-12.ch-3022-110-110.lg-3483-70-70.sh-4112-110-92.fa-1209-96.ca-1816.cc-3420-1408",
@@ -1730,7 +1730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -4590,7 +4590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-33.hd-209-1391.ch-3185-1423.lg-3078-110.sh-3016-1423",
@@ -5110,7 +5110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "recluta PIH",
     "habboFigure": "hr-893-35.hd-180-10.ch-809-82.lg-285-64.sh-3068-82-82.ha-3409-82-1408.ea-1406.ca-5770-1408.wa-2001.cc-260-72",
