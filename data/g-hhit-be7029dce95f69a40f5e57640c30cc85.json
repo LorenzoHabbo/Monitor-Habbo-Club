@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2006.",
     "habboFigure": "hr-3163-1397.hd-3092-10.ch-230-110.lg-6017-110-82.sh-3016-110.ha-1011-110.cc-6266-110",
@@ -3230,7 +3230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Se rimani, io ti lascio la mia voce...",
     "habboFigure": "hr-3841-32.hd-180-1.ch-210-1408.lg-3088-1408-1408.sh-4112-1408-1408.cc-4080",
