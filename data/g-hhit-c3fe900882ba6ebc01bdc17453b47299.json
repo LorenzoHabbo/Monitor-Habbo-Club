@@ -1666,7 +1666,7 @@
     "memberSince": "2020-05-30T15:46:21.000+00:00",
     "uniqueId": "hhit-51805141ce28d261390e51757d6e2ca0",
     "name": "Lightningbolt0",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3026,7 +3026,7 @@
     "memberSince": "2025-08-18T12:13:32.000+00:00",
     "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
     "name": "Morphiine",
-    "online": true,
+    "online": false,
     "isAdmin": false
   }
 ]
