@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Jus drein jus daun   Blodreina",
     "habboFigure": "hr-5605-49.hd-6216-28-1362.ch-3979-110.lg-3596-110-110.sh-3206-110.he-3958-110.fa-3276-73",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Per sempre nel mio cuore |||",
     "habboFigure": "hr-4941-61-1345.hd-3091-1389.lg-6017-96-1423.sh-3587-92-92.he-3070-93.fa-1201.cc-5177-1423-93",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-45.hd-3095-1370.ch-255-92.lg-3078-1336.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-5705.cc-6077.cp-3125-110",
@@ -630,7 +630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
@@ -643,7 +643,7 @@
     "online": true,
     "gender": "m",
     "motto": "Luna LLena - Elvis Crespo",
-    "habboFigure": "hr-3163-49.hd-5525-10-23.ch-3934-110-110.lg-280-110.sh-5247-92-110.fa-5975.ca-3414-66.cc-5925-92",
+    "habboFigure": "hr-3163-61.hd-5525-10-23.ch-3934-1418-110.lg-280-92.sh-5247-92-1418.he-3740.fa-5975.ca-3414-66.cc-5925-92",
     "memberSince": "2010-09-26T11:21:30.000+00:00",
     "uniqueId": "hhit-67cb924f85943a966dd18ced76bfce75",
     "name": "Lvca",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mandatemi i vostri inidun",
     "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3088-80-80.sh-3383-71-1408.fa-5601-64.cc-6119",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-38.hd-190-1370.ch-3581-66-85.lg-5113-82.sh-305-85.ha-3591.he-5074-73.ea-1401-1408.fa-5280-66.ca-4938.cc-4091-64",
@@ -1303,7 +1303,7 @@
     "online": false,
     "gender": "f",
     "motto": "yøløwn",
-    "habboFigure": "hr-5606-49-56.hd-6216-28-1364.ch-5607-92.lg-3006-110-110.sh-6043.he-5088.fa-5467.ca-6276-74.wa-5370.cc-5926-110-1418",
+    "habboFigure": "hr-5606-49-56.hd-6216-28-1364.ch-4001-92-1418.lg-3192-110.sh-6043.he-3999-110-1418.fa-5467.ca-6276-74.wa-5370.cc-6070",
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
@@ -1390,10 +1390,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
-    "habboFigure": "hr-3860-61-61.hd-180-1370.ch-3979-110.lg-4138-64.sh-3587-64-1408.ha-3586.he-6171-110-73.fa-5975.cc-5810-1408",
+    "habboFigure": "hr-3860-61-61.hd-180-1370.ch-3979-110.lg-4138-64.sh-3587-64-1408.ha-3586.he-1609-110.fa-5975.cc-5810-1408",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-5417.fa-3344-91.cc-6342",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201.wa-2008",
@@ -2630,7 +2630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Free",
     "habboFigure": "hr-5791-31.hd-180-1371.ch-255-64.lg-270-64.sh-295-73.he-1609-1408.ca-5737-64",
@@ -3830,10 +3830,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
-    "habboFigure": "hr-5680-45.hd-600-1.ch-3321-110.lg-3216-110.sh-5670-110.ha-5677-110.ca-1803-92.wa-6165-110",
+    "habboFigure": "hr-5680-45.hd-600-1.ch-655-92.lg-5594-110.sh-3089-64.ha-5677-110.ca-6212.cc-6077",
     "memberSince": "2024-05-05T20:21:09.000+00:00",
     "uniqueId": "hhit-548e2982f2b2f9be65b49580d043b00a",
     "name": "Snow1227",
@@ -3960,7 +3960,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "vite fragili come origami",
     "habboFigure": "hr-6055-1404-40.hd-6219-2-1363.ch-5921-1337-92.lg-3502-92.sh-5803-92.ha-5301-1337.he-3070-92.fa-5467.ca-6276-1337.cc-5800-92-1337",
@@ -4080,7 +4080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Peace and love",
     "habboFigure": "hr-165-45.hd-209-1.ch-3111-73-1408.lg-280-64.sh-906-1408.ha-1003-64.ca-1815-1408.cc-3294-1408-64",
