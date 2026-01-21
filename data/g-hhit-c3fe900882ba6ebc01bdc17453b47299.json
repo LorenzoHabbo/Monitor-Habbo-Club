@@ -576,7 +576,7 @@
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -786,7 +786,7 @@
     "memberSince": "2013-04-14T22:58:29.000+00:00",
     "uniqueId": "hhit-20251d50787be2ff40fb3175d2eb8e6a",
     "name": ".BlueJeans",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -3036,7 +3036,7 @@
     "memberSince": "2025-08-18T12:13:32.000+00:00",
     "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
     "name": "Morphiine",
-    "online": true,
+    "online": false,
     "isAdmin": false
   }
 ]
