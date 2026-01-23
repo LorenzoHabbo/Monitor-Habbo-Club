@@ -106,7 +106,7 @@
     "memberSince": "2007-12-12T18:26:05.000+00:00",
     "uniqueId": "hhit-fc2cc48a4effdccd773b15c24b2c7928",
     "name": "Darrell",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -616,7 +616,7 @@
     "memberSince": "2011-12-22T22:14:33.000+00:00",
     "uniqueId": "hhit-b01772c35df1f2fe4a256423a1e355a9",
     "name": ".Robi.",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -2126,7 +2126,7 @@
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3036,7 +3036,7 @@
     "memberSince": "2025-08-18T12:13:32.000+00:00",
     "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
     "name": "Morphiine",
-    "online": false,
+    "online": true,
     "isAdmin": false
   }
 ]
