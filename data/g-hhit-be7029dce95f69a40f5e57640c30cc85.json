@@ -1131,16 +1131,6 @@
   },
   {
     "gender": "m",
-    "motto": "➡Nomade Tyger Claws➡",
-    "habboFigure": "hr-830-40.hd-180-1370.ch-235-1408.lg-3290-64.sh-305-64.ea-1403-82.cc-260-73",
-    "memberSince": "2008-12-08T19:27:27.000+00:00",
-    "uniqueId": "hhit-962212c3c40b79b8124b86f46ed6408a",
-    "name": "luisinhoo",
-    "online": true,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
     "motto": "ride bene chi ride di sé",
     "habboFigure": "hr-125-40.hd-205-8.ch-806-1408.lg-3116-1408-1408.sh-300-1408.ea-1404-1408",
     "memberSince": "2008-12-09T19:44:55.000+00:00",
@@ -2996,7 +2986,7 @@
     "memberSince": "2010-08-30T16:43:01.000+00:00",
     "uniqueId": "hhit-c98f6ffbf9ddeaa516cfb7a1d0b4d078",
     "name": "Thomas-Welling",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9996,6 +9986,16 @@
     "memberSince": "2016-06-27T08:18:12.000+00:00",
     "uniqueId": "hhit-af1ba0b5fab616adfd37e462c5335f7c",
     "name": "giannandre56",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "tu m'e lassat sul ind a stu munn nir -",
+    "habboFigure": "hr-3163-1394.hd-3091-1370.ch-3185-64.lg-280-110.sh-3089-110.ha-3494-110-110.he-1608.fa-1209-110.ca-1816",
+    "memberSince": "2016-06-28T17:47:27.000+00:00",
+    "uniqueId": "hhit-a7b68df3094a62d2ff1b2f31885486ef",
+    "name": "M.Odegaard",
     "online": false,
     "isAdmin": false
   }
