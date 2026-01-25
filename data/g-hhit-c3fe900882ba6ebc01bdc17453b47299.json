@@ -546,7 +546,7 @@
     "memberSince": "2011-08-12T23:33:33.000+00:00",
     "uniqueId": "hhit-96477e0e09cff7aeeecf335cecd90cb7",
     "name": "folklore",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1436,7 +1436,7 @@
     "memberSince": "2019-11-11T17:05:56.000+00:00",
     "uniqueId": "hhit-a61b66ab2e501e56cc34fdfbaae6f99d",
     "name": "80Pazienza",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3036,7 +3036,7 @@
     "memberSince": "2025-08-18T12:13:32.000+00:00",
     "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
     "name": "Morphiine",
-    "online": true,
+    "online": false,
     "isAdmin": false
   }
 ]
