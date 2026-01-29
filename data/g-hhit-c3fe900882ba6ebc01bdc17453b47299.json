@@ -106,7 +106,7 @@
     "memberSince": "2007-12-12T18:26:05.000+00:00",
     "uniqueId": "hhit-fc2cc48a4effdccd773b15c24b2c7928",
     "name": "Darrell",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -496,7 +496,7 @@
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2126,7 +2126,7 @@
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -3032,11 +3032,11 @@
   {
     "gender": "f",
     "motto": "La bontà è mangime per gli avvoltoi.",
-    "habboFigure": "hr-4117-40-40.hd-600-10.ch-650-1408.lg-720-71.ha-5620-1408.fa-5467",
+    "habboFigure": "hr-4117-40-40.hd-600-10.ch-650-1408.lg-720-82.ha-5620-1408.fa-5467",
     "memberSince": "2025-08-18T12:13:32.000+00:00",
     "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
     "name": "Morphiine",
-    "online": false,
+    "online": true,
     "isAdmin": false
   }
 ]
