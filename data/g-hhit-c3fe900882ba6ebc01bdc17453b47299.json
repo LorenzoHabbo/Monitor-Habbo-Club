@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3940-92-92.lg-275-1412.sh-290-1412.he-6264-1412-92.fa-5600-92.cc-6342",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1408-1408.lg-695-1408.ea-3803-1408.ca-4956.cc-6166-1408-1408",
@@ -2120,7 +2120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ªJus drein Jus daunª fon.IOC",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
