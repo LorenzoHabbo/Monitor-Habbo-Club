@@ -390,7 +390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la mia vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -1000,7 +1000,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista g.d",
     "habboFigure": "hr-891-42.hd-190-1.ch-3840-66-64.lg-285-64.sh-295-64.ha-5378-64-1408.fa-1206-64",
@@ -2660,7 +2660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "GM HH Demone Giudice di Cerbero",
     "habboFigure": "hr-3163-61.hd-180-1370.ch-3323-110-1408.lg-4138-110.cc-5761-1424-92.cp-3284-92",
@@ -4590,7 +4590,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-125-32.hd-209-1.ch-3498-1408.lg-3078-64.sh-3419-90-1408",
