@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-45.hd-3095-1370.ch-255-92.lg-3078-1336.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-5705.cc-6077.cp-3125-110",
@@ -663,7 +663,7 @@
     "online": false,
     "gender": "m",
     "motto": "Io ho un sogno: avere un sogno!",
-    "habboFigure": "hr-6034-60-1351.hd-5525-27-1364.ch-5830-1419.lg-5594-64.sh-6305-110-106.he-4969.ea-4968.fa-6274-95.ca-6276-105.cc-4967",
+    "habboFigure": "hr-6034-60-1351.hd-6289.ch-5830-1419.lg-5594-64.sh-6305-110-106.he-4969.fa-6274-95.ca-6276-105.cc-4967",
     "memberSince": "2010-11-22T23:51:42.000+00:00",
     "uniqueId": "hhit-7a35aa36ee4a4a8ee54146724e8d1f17",
     "name": "Bitmap",
@@ -2670,7 +2670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ªJus drein Jus daunª fon.IOC",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -3170,7 +3170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Trash queenna",
     "habboFigure": "hr-5503-1353.hd-4383-1383-30.ch-3501-110.lg-3353-93.sh-5308-95.ha-5854.he-3070-93.fa-3276-96.ca-3175-95.cc-5926-95-93",
@@ -3450,7 +3450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Praha |",
     "habboFigure": "hr-4117-1397-1397.hd-6216-1391-1386.ch-5901-92-106.lg-3006-92-92.sh-6181-92.he-5088.fa-5624-96.ca-6276-92",
@@ -4150,7 +4150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Carpe diem.| Mushin Ykz|",
     "habboFigure": "hr-3810-45.hd-600-1370.ch-630-74.lg-5970-81.sh-5464-71-71.fa-3276-72.ca-5604-75-74.wa-4317-66.cc-5926-64-81",
