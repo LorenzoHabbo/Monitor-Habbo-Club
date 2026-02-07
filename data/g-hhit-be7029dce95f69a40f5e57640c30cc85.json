@@ -331,16 +331,6 @@
   },
   {
     "gender": "m",
-    "motto": "Since 2006.",
-    "habboFigure": "hr-3162-35.hd-3092-1.ch-3050-94-1408.lg-3058-64.sh-906-64.ha-6198.ea-3484.ca-1816.cc-5961-110-110",
-    "memberSince": "2006-10-27T19:54:32.000+00:00",
-    "uniqueId": "hhit-51985fc1297f97b6ca7caa2a6f1c0fe7",
-    "name": "MrAlex",
-    "online": true,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
     "motto": "{Solo Totth |} Oszust bóg El Malandrin",
     "habboFigure": "hr-155-48.hd-180-30.ch-3030-1408.lg-3216-82.sh-3348-66",
     "memberSince": "2007-01-19T13:09:28.000+00:00",
@@ -3836,7 +3826,7 @@
     "memberSince": "2011-03-02T16:25:39.000+00:00",
     "uniqueId": "hhit-180a9858c334daa29087c1a25b1d4ee9",
     "name": "Apnea",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -5096,7 +5086,7 @@
     "memberSince": "2011-10-03T14:45:06.000+00:00",
     "uniqueId": "hhit-8f880d7e6685333f6d87aa320dfac014",
     "name": ".:FATTITI:.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -7436,7 +7426,7 @@
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9996,6 +9986,16 @@
     "memberSince": "2016-06-27T08:18:12.000+00:00",
     "uniqueId": "hhit-af1ba0b5fab616adfd37e462c5335f7c",
     "name": "giannandre56",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "tu m'e lassat sul ind a stu munn nir -",
+    "habboFigure": "hr-3163-1394.hd-3091-1370.ch-3185-64.lg-280-110.sh-3089-110.ha-3494-110-110.he-1608.fa-1209-110.ca-1816",
+    "memberSince": "2016-06-28T17:47:27.000+00:00",
+    "uniqueId": "hhit-a7b68df3094a62d2ff1b2f31885486ef",
+    "name": "M.Odegaard",
     "online": false,
     "isAdmin": false
   }
