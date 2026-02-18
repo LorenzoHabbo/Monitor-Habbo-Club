@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ardente come il fuoco. No casi umani.",
     "habboFigure": "hr-5791-1401.hd-3095-3.ch-235-92.lg-270-110.sh-3089-73.he-3070-93.ea-3169-73.fa-1204.ca-4036-1409.pt-6342",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Per sempre nel mio cuore |||",
     "habboFigure": "hr-4941-1394-49.hd-180-1370.ch-4361-110-95.lg-3521-110-95.sh-3587-92-92.he-3070-93.fa-1201",
@@ -1562,7 +1562,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "soldato  semplice  G.D",
+    "motto": "soldato G.D",
     "habboFigure": "hr-3860-49-49.hd-3721-28.ch-6179-92.lg-5594-110.sh-6182.ha-3709.he-5088.cc-6184-106.pt-5961-106-1408",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-39.hd-180-1.ch-255-85.lg-3023-82.sh-3524-64-1408.he-1608.ca-1812.mc-5942-88",
@@ -2173,7 +2173,7 @@
     "online": true,
     "gender": "m",
     "motto": "ª Wanheda ªJus drein Jus daunª fon.IOC",
-    "habboFigure": "hr-3194-61-61.hd-180-30.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
+    "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
     "memberSince": "2022-02-15T11:33:30.000+00:00",
     "uniqueId": "hhit-0979f6da4297414c6d195331424105aa",
     "name": "kalavria",
@@ -2653,7 +2653,7 @@
     "online": true,
     "gender": "f",
     "motto": "Bisha e striscia,proprio come fa Aisha",
-    "habboFigure": "hr-4363-1407-1407.hd-5840-1391-1362.ch-5919-1426-1322.lg-5594-1426.sh-5308-1334.ha-3026-1335.he-5827-71-1334.fa-3276-1328.ca-5936-94.cc-5926-1334-94.pt-5826-1335.mc-6115-1333-1335",
+    "habboFigure": "hr-4363-61-61.hd-5840-11-1362.ch-4087-110.lg-5594-82.sh-3089-100.he-5828.fa-3276-70.pt-6166-1413-92.mc-5518-1330-1330",
     "memberSince": "2024-08-23T10:12:18.000+00:00",
     "uniqueId": "hhit-daebdaa9eb8fc692c88ce4c2461b40a2",
     "name": "AishaLaBisha",
@@ -2830,7 +2830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "visita le mie room kitemmuort",
     "habboFigure": "hd-190-27.ch-4111-110.lg-3596-1428-110.sh-3419-110-1428.ha-3241-110-64.he-3229-92.fa-5692-92-110.wa-3211-64-1428.mc-5800-64-64",
