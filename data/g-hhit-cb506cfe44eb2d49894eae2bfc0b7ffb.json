@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6345-1404.hd-3536-10-10.ch-4392-92-92.lg-5927-92-92.sh-3587-92-92.he-5721-92-92.fa-5467.ca-6325-92.mc-3744-92-92",
@@ -703,7 +703,7 @@
     "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
-    "habboFigure": "hr-5791-1394.hd-3091-1389.lg-4138-110.sh-4159-110-92.ha-4136-96.he-3070-1408.fa-1209-110.ca-3175-1408.cc-5951-110",
+    "habboFigure": "hr-5791-57.hd-5913-1.ch-5095-92.lg-280-77.sh-5247-1320-92.ha-4195.he-3070-92.ca-6276-92",
     "memberSince": "2012-02-26T15:41:41.000+00:00",
     "uniqueId": "hhit-6880b62f86fed38d39dd624c02e190ca",
     "name": "THEBIGPLANET.",
@@ -1560,10 +1560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "soldato scelto G.D",
-    "habboFigure": "hr-3860-1407-61.hd-3721-1.ch-5559-92.lg-5594-63.sh-4016-92-92.ha-4192.cc-4979-110.mc-5800-110-110",
+    "habboFigure": "hr-3860-1407-61.hd-3721-1.ch-5559-92.lg-5594-63.sh-4016-92-92.ha-4192.he-3891.cc-4979-110.mc-5800-110-110",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -2810,7 +2810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante  G.D",
     "habboFigure": "hr-3841-42.hd-209-8.ch-3416-90-64.lg-4138-64.sh-3419-1408-64.he-4022",
