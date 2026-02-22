@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5856.lg-5623.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-54-54.hd-3536-10-10.ch-635-1326.lg-6355-1326-95.sh-3587-92-92.he-5808-63.fa-5467",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Mandatemi i vostri inidun",
     "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3290-80.sh-3524-71-80.he-5553.fa-5601-91.pt-6119",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "20 LUGLIO 2025",
     "habboFigure": "hr-828-61.hd-205-17.ch-215-92.lg-4138-82.sh-6182.ha-5797.he-3070-66.fa-3276-110.ca-5983-66",
