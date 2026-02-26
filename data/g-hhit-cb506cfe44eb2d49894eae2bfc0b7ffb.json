@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "~voglio disinnamorarmi~",
     "habboFigure": "hr-5589-54-54.hd-3536-10-10.ch-6223-1412-95.lg-6355-1412-95.sh-6156-1412.he-3884-95-1413.fa-4185-95",
@@ -1520,7 +1520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-45.hd-195-1370.ch-255-64.lg-3078-64.sh-295-64.he-1608.fa-3276-72",
