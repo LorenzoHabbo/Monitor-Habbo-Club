@@ -1010,7 +1010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La spazz. si butta ogni sera",
     "habboFigure": "hr-5544-49-49.hd-6216-28-1365.ch-4122.lg-4066-110.ha-4120.fa-3276-97.wa-3210-82-1408",
@@ -1230,7 +1230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5856.lg-5623.sh-5869-1408-1408.ha-1008.ea-5743-64.fa-5467",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.pt-5826-63.mc-3542-92-110",
@@ -5940,7 +5940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hr-3161-39.hd-3092-1390.ch-6353.lg-3088-1408-1408.sh-3275-1410.ha-6198.ea-3169-63.fa-5636-1325.ca-1816.cc-5951-1409.pt-6069",
