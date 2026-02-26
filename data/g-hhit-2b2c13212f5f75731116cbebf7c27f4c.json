@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-3791-59.hd-6219-2-1367.ch-5245-92.lg-5974-92-92.ha-1012-92.he-3082-110.wa-5599-92-110",
@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Soldato GD",
     "habboFigure": "hr-3870-37.hd-4383-1-12.ch-3881-1408.lg-4114-81-81.sh-3524-1408-1408.ha-3857-81-80.ea-3484.ca-5455-1408-66.cc-5307-1408",
@@ -120,9 +120,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Angelo GD",
+    "motto": "Angelo GD 1p GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-215-1408.lg-3407-73-66.sh-906-1408.ha-3409-73-73.ca-3425-66-1408.cc-3405-73-66",
     "memberSince": "2007-07-14T15:56:41.000+00:00",
     "uniqueId": "hhit-aada7e3e4475cb61f91a42b2676b418d",
@@ -143,7 +143,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5503-42.hd-3845-19.ch-4190-64-73.lg-270-64.sh-3180-64-73.ha-1014.he-3833-66.ea-1403-73.fa-1204.ca-3466-64-73.wa-3661-73-64.cc-3280-64-73.cp-3288-73.mc-4091-64",
+    "habboFigure": "hr-5503-42.hd-190-19.ch-4190-64-73.lg-3088-64-64.sh-3180-64-73.ha-1014.he-3833-66.ea-1403-73.wa-3661-73-64.cc-3280-64-73.cp-3288-73.mc-4091-64",
     "memberSince": "2007-12-08T11:40:11.000+00:00",
     "uniqueId": "hhit-22f4495677cafa3e06f6f45ec68c84e8",
     "name": "-KerneL-",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cadetto GD",
     "habboFigure": "hr-5019-45.hd-3997-14.ch-5608-110.lg-3057-1335.sh-3089-110.ea-3484.fa-3344-85.ca-5770-1408",
@@ -1133,7 +1133,7 @@
     "online": true,
     "gender": "f",
     "motto": "angelo g.d",
-    "habboFigure": "hr-5680-1344.hd-3100-8.ch-3528-110-1408.lg-4341-92.sh-5670-92.ha-3709.cc-5926-92-1408",
+    "habboFigure": "hr-3791-1344.hd-3100-8.ch-5901-92-110.lg-720-71.sh-5670-92.ha-3709.cc-5926-92-92",
     "memberSince": "2010-12-16T21:39:25.000+00:00",
     "uniqueId": "hhit-007c095e376e8345f9d71d61b9cbff61",
     "name": "superdvina10",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH||",
     "habboFigure": "hr-836-1394.hd-3845-1.ch-883-110-92.lg-3018-110.fa-3276-96.cc-3249-110-92",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Decime esperta GD",
     "habboFigure": "hr-5969-34.hd-3956-1-20.ch-665-1408.lg-710-1408.sh-906-74.he-3465-1408-1408.wa-2009-1408.cc-3373-1408",
@@ -2000,9 +2000,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
-    "motto": "Vicario Semplice G.D",
+    "motto": "Vicario G.D",
     "habboFigure": "hr-890-36.hd-629-1.ch-4067-85-85.lg-3078-64.sh-740-1408.ha-3254-64",
     "memberSince": "2012-02-05T19:45:15.000+00:00",
     "uniqueId": "hhit-20b348a8f03113f3d41ffd00dc3474db",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Decime GD",
     "habboFigure": "hr-6211-48-42.hd-4163-1-1.ch-3598-82-73.lg-5970-82.sh-6181-73.ha-4194.ca-5635-71-1408",
@@ -3090,9 +3090,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Soldato Scelto G.D.",
+    "motto": "Scagnozzo Semplice G.D.",
     "habboFigure": "hd-180-1.ch-210-1408.lg-5623.ha-5697.fa-3590.cc-5622",
     "memberSince": "2015-09-11T12:18:42.000+00:00",
     "uniqueId": "hhit-75e63bd669c2c9e3914c8ffde5843607",
@@ -3352,7 +3352,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "maga dei Valar 1p gd",
+    "motto": "sacerdotessa gd",
     "habboFigure": "hr-4117-34-34.hd-600-10.ch-4392-64-88.lg-3078-64.sh-3383-64-1408.ha-1003-64.fa-5601-1408.ca-6328-64-64.cc-6205-64",
     "memberSince": "2016-06-08T20:03:42.000+00:00",
     "uniqueId": "hhit-2e634d3afaab77215eadd9962fbb8fff",
@@ -3610,7 +3610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|Decima esperta GD|",
     "habboFigure": "hr-5579-34.hd-4163-1-30.ch-3598-64-64.lg-4167-64.sh-5729-64-1408.he-5618-64.wa-2012",
@@ -3880,7 +3880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista novella G.D.",
     "habboFigure": "hr-4118-39.hd-629-1.ch-665-68.lg-3216-76.fa-3276-72.ca-1812",
@@ -3990,9 +3990,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Cavaliere Fidato 1p G.D! Life is a gif",
+    "motto": "Cavaliere Eletto G.D! Life is a gif",
     "habboFigure": "hr-3163-1394.hd-180-22.ch-3779-110-92.lg-3257-110.sh-3524-110-1408.ha-3709.he-3740.fa-3344-1325.ca-3485.mc-5800-92-106",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
@@ -4070,9 +4070,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Vicario Semplice G.D",
+    "motto": "Vicario G.D",
     "habboFigure": "hr-893-36.hd-209-14.ch-4165-64-64.lg-4167-64.sh-300-64.ha-1009-64.ea-3484",
     "memberSince": "2018-04-19T14:01:34.000+00:00",
     "uniqueId": "hhit-e480a63a8bb5954b24873f11579f368c",
@@ -4230,9 +4230,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
-    "motto": "Soldato Scelto G.D",
+    "motto": "Scagnozzo Semplice G.D",
     "habboFigure": "hr-515-42.hd-600-8.ch-665-64.lg-3023-64.sh-3068-1320-64.ca-1801-1408",
     "memberSince": "2018-10-22T23:51:21.000+00:00",
     "uniqueId": "hhit-437d080f1d86dcec68ac00237a80e333",
@@ -4260,9 +4260,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "scagnozzo esperto G.D",
+    "motto": "decime G.D",
     "habboFigure": "hr-3860-1399-1399.hd-3721-1.ch-6327-82.lg-3361-92.sh-6182.ha-6326-82.ca-6081-82.wa-3359-1408.cc-6102-82",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
@@ -5950,7 +5950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "A volte il contrario ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ",
     "habboFigure": "hr-5791-40.hd-5838-27-27.ch-6353.lg-6355-1408-63.sh-6156-1428.he-5578-1427.ca-6325-1408.cc-4033-1408-92.pt-5690-1408",
@@ -6050,9 +6050,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "cavaliere 1p gd",
+    "motto": "cavaliere fidato gd",
     "habboFigure": "hr-3841-37.hd-3095-8.ch-215-110.lg-3407-1331-66.sh-906-110.ha-3409-1331-66.ea-3484.fa-3344-110.ca-3425-66-1408.cc-3405-1331-66",
     "memberSince": "2022-01-07T16:20:46.000+00:00",
     "uniqueId": "hhit-b9c68b79903a7cc88de7e815e75f5dd4",
@@ -6732,7 +6732,7 @@
   {
     "online": true,
     "gender": "f",
-    "motto": "Vicario Semplice GD",
+    "motto": "Vicario GD",
     "habboFigure": "hr-890-37.hd-629-1.ch-3770-85-84.lg-710-73.sh-3180-84-85.ca-6324-85-84",
     "memberSince": "2022-09-18T21:13:08.000+00:00",
     "uniqueId": "hhit-ddb6c866465c007c235b189c7e40c9a6",
@@ -7670,9 +7670,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "Scagnozzo GD",
+    "motto": "Scagnozzo esperto GD",
     "habboFigure": "hr-115-31.hd-180-10.ch-240-64.lg-275-64.sh-305-71.ha-3662-64-1408.fa-3816",
     "memberSince": "2023-04-01T19:31:37.000+00:00",
     "uniqueId": "hhit-6da5835c006f0f4557c302c47249c18f",
@@ -8410,10 +8410,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
-    "habboFigure": "hr-3163-1406.hd-208-1.ch-230-92.lg-4092-110.sh-3068-110-110.ha-3620.ca-1804-110.wa-3212-110-110.cc-4032",
+    "habboFigure": "hr-3163-1406.hd-208-1.ch-230-92.lg-4092-110.sh-3068-110-110.ha-3620.ca-6325-77.wa-3212-110-110",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
@@ -8880,7 +8880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "demone giudice di cerbero g.d.",
     "habboFigure": "hr-893-44.hd-209-19.ch-210-64.lg-3078-76.ha-1003-76.fa-1201.ca-1801-76.cp-3127-73",
