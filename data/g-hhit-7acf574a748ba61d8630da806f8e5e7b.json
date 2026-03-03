@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3468-1352.hd-3845-27.ch-3539-1408.lg-4119.sh-3467.ha-4192.he-3469-1408.ea-3726.fa-3344-1416.ca-3916-110-1408.wa-3798-1417-1408.cc-3326-1408-1408.cp-3125-1417.pt-6077.mc-5942-110",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Bailando contigo asì",
     "habboFigure": "hr-3163-45.hd-180-10.ch-3059-110.lg-275-110.sh-3587-1331-1408.ha-3242-64-1331.he-3070-110.fa-3193-110.ca-5136.cc-3326-1331-1331",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110",
@@ -730,7 +730,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3786-31-40.hd-3103-1391.ch-5954-107-1408.lg-5113-1338.sh-5242-110.he-6377.ea-3750.fa-6367.cc-5114-1408-1408",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "20 LUGLIO 2025",
     "habboFigure": "hr-828-49.hd-180-18.ch-215-92.lg-4138-94.sh-6182.ha-4136-1322.he-3070-92.fa-3276-110.ca-5983-92",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-6352-71.lg-3391-73-72.sh-3621-71-73.ea-1401-71",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "..",
     "habboFigure": "hr-4118-44.hd-3631-1-14.ch-5302-74-1408.lg-3216-80.he-6215-74.fa-3276-72.cp-3285-80",
