@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a state of mind.",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-5962-1342.hd-3845-1.ch-3940-1409-1409.lg-3365-110.sh-5247-92-64.ha-4089-110.he-5074-92.fa-5691-92-1418.ca-6167-92-1412",
@@ -4500,9 +4500,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": ".",
+    "motto": "..",
     "habboFigure": "hr-893-37.hd-180-1370.ch-215-1408.lg-275-64.he-5482.ca-5739-64-1408",
     "memberSince": "2012-03-05T15:41:24.000+00:00",
     "uniqueId": "hhit-13b46f50c258e71fad040c8cfd258322",
