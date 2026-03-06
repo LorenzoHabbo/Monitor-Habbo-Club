@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -460,10 +460,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mandatemi i vostri inidun",
-    "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3290-80.sh-3383-71-80.he-5553.fa-3147-75.pt-6119",
+    "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3290-80.sh-3383-71-80.he-5553.fa-5601-75.pt-6119",
     "memberSince": "2010-12-25T23:10:25.000+00:00",
     "uniqueId": "hhit-547b2e8490253227529aecc0d9df7277",
     "name": ":Vermilion:",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3090-37.hd-209-1.ch-4165-73-1408.lg-3290-64.sh-3524-64-1408.he-1608.ca-1812.cc-260-1408.mc-5942-88",
