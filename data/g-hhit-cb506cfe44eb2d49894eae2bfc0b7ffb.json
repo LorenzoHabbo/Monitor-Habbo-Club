@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-39.hd-209-8.ch-210-1408.lg-270-1408.he-1608.fa-1204",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5589-54-54.hd-3536-10-10.ch-6086-92-92.lg-710-1326.sh-725-1414.ha-5471-1326-92.fa-5467.ca-6358-1414",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mandatemi i vostri inidun",
     "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3290-80.sh-3383-71-80.he-5553.fa-5601-75.pt-6119",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3786-31-40.hd-3103-1391.ch-5954-107-1408.lg-5632-1338.sh-6182.he-6384-1408.ea-3750.fa-6367.ca-6343-1433-1432.wa-6385-1408",
@@ -1210,10 +1210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "20 LUGLIO 2025",
-    "habboFigure": "hr-828-49.hd-180-18.ch-3527-92.lg-280-89.he-4945.fa-3276-110.ca-5983-92",
+    "habboFigure": "hr-828-1404.hd-180-17.ch-215-92.lg-280-1409.sh-3206-92.he-4945.fa-3276-110.ca-5983-92.mc-5461-1409-92",
     "memberSince": "2015-11-29T16:34:27.000+00:00",
     "uniqueId": "hhit-bca96ef263ef3ba26ea9ea1de0051266",
     "name": "You-sri",
@@ -1743,7 +1743,7 @@
     "online": false,
     "gender": "m",
     "motto": ".",
-    "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-79-92.lg-5623.sh-5032.ea-3169-102.fa-5636-92",
+    "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-5623.sh-5032.ea-3169-102.fa-5636-92.ca-6020-80",
     "memberSince": "2020-01-16T13:13:38.000+00:00",
     "uniqueId": "hhit-2485e19b115683de76b902e720b7601b",
     "name": "Gravity05",
@@ -1790,9 +1790,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "#SaveHabbo.",
+    "motto": "#SaveHabbo",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
     "memberSince": "2020-03-23T04:27:33.000+00:00",
     "uniqueId": "hhit-056cd4e205470577445407debbffd0a8",
