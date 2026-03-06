@@ -40,7 +40,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a state of mind.",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92",
@@ -70,10 +70,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "crikey",
-    "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-6341-1321-110.pt-5826-63",
+    "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.pt-5826-63.mc-3542-92-110",
     "memberSince": "2010-02-20T20:43:33.000+00:00",
     "uniqueId": "hhit-4b1d63857591fd85de66adbc149c4ce8",
     "name": "darkpaolo95",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1322.ca-3883.pt-6119.mc-5942-1321",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "fmiwefmiwfiwaF",
     "habboFigure": "hd-3956-1-14.ch-5488-1408.lg-6000-1408.sh-4159-1408-1408.ha-3710.he-5808-64.fa-1208-1408.cc-4109-1408-1408.pt-6166-71-71",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Il mio eroe è moltobug4",
     "habboFigure": "hr-5841-49.hd-5838-1-1358.lg-6017-1331-1331.sh-4112-1321-110.ha-1026.he-3181-1320.cc-5179-64-93",
