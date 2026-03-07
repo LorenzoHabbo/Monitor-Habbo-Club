@@ -1590,9 +1590,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "scendo sti infami li sparo",
+    "motto": "",
     "habboFigure": "hr-5971-31.hd-207-1.ch-255-64.lg-5594-82.sh-305-1408.ha-3709.he-1608",
     "memberSince": "2010-01-05T16:15:16.000+00:00",
     "uniqueId": "hhit-59b5c67215389ab2b346d191d6999111",
@@ -1620,7 +1620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-45.hd-3095-1370.ch-255-92.lg-3078-1336.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-4115-110-1408.cp-3125-110.pt-6077",
@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3602-32-45.hd-3845-1.ch-255-110.lg-3418-64.sh-5247-92-64.ca-5936-92",
@@ -5420,7 +5420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110.fa-6367",

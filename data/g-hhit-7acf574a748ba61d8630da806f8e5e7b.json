@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-45.hd-3095-1370.ch-255-92.lg-3078-1336.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-4115-110-1408.cp-3125-110.pt-6077",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.he-6215-1327.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110.fa-6367",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-6352-71.lg-3391-73-72.sh-3621-71-73.ea-1401-71",
