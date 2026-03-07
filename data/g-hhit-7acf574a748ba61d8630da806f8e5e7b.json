@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-45.hd-3095-1370.ch-255-92.lg-3078-1336.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-4115-110-1408.cp-3125-110.pt-6077",
@@ -2210,7 +2210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Superiore in prova P.I.H.",
     "habboFigure": "hr-5503-1353.hd-4383-27-1364.ch-4299-1337-1337.lg-3361-77.sh-3354-1337-1337.he-4345-1337.fa-6367.ca-4344-1339",
