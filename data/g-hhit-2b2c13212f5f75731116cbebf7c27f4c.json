@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la vita",
     "habboFigure": "hr-4031-49-49.hd-3098-9.ch-3540-106.lg-6017-106-108.sh-3419-106-92.ca-5916-106-108",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-809-100.lg-270-110.sh-908-64.fa-1204",
@@ -2950,7 +2950,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista  g.d",
     "habboFigure": "hr-4996-1407.hd-4015-14.ch-210-88.lg-3596-1323-1424.sh-3595-105.ha-3710.ca-4378.cc-4940-101-1340",
