@@ -336,7 +336,7 @@
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -462,7 +462,7 @@
   {
     "gender": "m",
     "motto": "Motto inappropriato",
-    "habboFigure": "hr-3841-45.hd-208-1.ch-5608-71.lg-3290-80.sh-3383-71-80.he-5553.fa-5601-75.pt-6119",
+    "habboFigure": "hr-3841-45.hd-3604-1.ch-5608-71.lg-3290-80.sh-3383-71-80.he-5553.fa-5601-75.pt-6119",
     "memberSince": "2010-12-25T23:10:25.000+00:00",
     "uniqueId": "hhit-547b2e8490253227529aecc0d9df7277",
     "name": ":Vermilion:",
@@ -702,7 +702,7 @@
   {
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
-    "habboFigure": "hr-3163-34.hd-5913-2.ch-6179-92.lg-281-92.sh-6182.ha-4192.he-6183.fa-3276-96.ca-5026-92.cc-6184-106",
+    "habboFigure": "hr-3163-34.hd-5913-2.ch-6179-92.lg-281-92.sh-6182.ha-3656.he-6183.fa-3276-96.ca-5026-92.cc-6184-106",
     "memberSince": "2012-02-26T15:41:41.000+00:00",
     "uniqueId": "hhit-6880b62f86fed38d39dd624c02e190ca",
     "name": "THEBIGPLANET.",
@@ -986,7 +986,7 @@
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1346,7 +1346,7 @@
     "memberSince": "2017-03-19T17:42:21.000+00:00",
     "uniqueId": "hhit-0246320387235af1c7c3763ee0a7dc1a",
     "name": "James2701",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2282,7 +2282,7 @@
   {
     "gender": "f",
     "motto": "Ho un sassolino nella scarpa, ahi",
-    "habboFigure": "hr-3957-45-36.hd-5522-10-1369.ch-5735-74-82.lg-695-1408.sh-3354-81-1408.he-3833-66.fa-3276-73.ca-6328-75-81.cc-4217-1408.pt-6077.mc-3975-1408-81",
+    "habboFigure": "hr-3957-45-36.hd-5522-10-1369.ch-5735-74-82.lg-695-1408.sh-3354-81-1408.he-3833-66.fa-3276-73.ca-6328-75-81.cc-6341-73-74.pt-6077.mc-3975-1408-81",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -2796,6 +2796,16 @@
     "memberSince": "2025-02-17T23:13:59.000+00:00",
     "uniqueId": "hhit-dc1db96c81df88e87c10bebf786d742a",
     "name": "Guilty.",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "",
+    "habboFigure": "hr-155-34.hd-180-1.ch-235-91.lg-285-64.sh-295-64",
+    "memberSince": "2025-02-20T23:22:18.000+00:00",
+    "uniqueId": "hhit-40d9fe087bf39aebdb4878a88224e0ea",
+    "name": "Wake",
     "online": false,
     "isAdmin": false
   },
