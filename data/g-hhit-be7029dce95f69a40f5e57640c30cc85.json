@@ -4856,7 +4856,7 @@
     "memberSince": "2012-04-06T13:31:33.000+00:00",
     "uniqueId": "hhit-40a7d3cd01cccc886bf4fad0c5f51451",
     "name": "Tanque",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -6012,7 +6012,7 @@
   {
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-110.sh-5247-92-110.ha-4089-1422.ea-3196-1408.fa-3276-95.ca-6325-1422",
+    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-110.sh-5247-92-110.ha-5849.ea-3196-1408.fa-3276-95.ca-6325-1422",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -6091,8 +6091,8 @@
   },
   {
     "gender": "m",
-    "motto": "",
-    "habboFigure": "hd-207-14.ch-3806-1408.lg-270-1408.sh-3348-1408.ha-3431-1408-1408.he-4946-1408.wa-5123-1408",
+    "motto": "dinosauro",
+    "habboFigure": "hd-207-30.ch-3806-84.lg-3842-64-71.sh-3348-84.ha-3431-64-1408.he-4990-84.wa-5123-84",
     "memberSince": "2014-01-25T23:23:02.000+00:00",
     "uniqueId": "hhit-dc15a29bf86392cbc94c82542a0c49d0",
     "name": "MattSetup",
@@ -6756,7 +6756,7 @@
     "memberSince": "2015-02-24T14:27:23.000+00:00",
     "uniqueId": "hhit-066324585292b0519d22e9d07c78f37f",
     "name": "xMSChannel",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
