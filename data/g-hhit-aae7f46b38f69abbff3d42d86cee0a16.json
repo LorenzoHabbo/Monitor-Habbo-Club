@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-6341-1321-110.pt-5826-63",
@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1395.hd-180-1379.ch-3032-92-1408.lg-3078-89.ha-3709.he-3070-92.fa-3276-1322.cc-6163-1341",
@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6361-1365-14.lg-3136-1338.sh-6182.he-6384-1421.fa-6367.wa-6385-1340",
