@@ -940,10 +940,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
-    "habboFigure": "hr-3860-40-40.hd-180-14.ch-3498-1408.lg-4138-1408.sh-3587-1408-1408.ha-3620.he-6377.fa-5975.ca-5227",
+    "habboFigure": "hr-3860-40-40.hd-180-14.ch-255-1408.lg-4138-1408.ha-3620.he-6377.fa-5975.ca-5227",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -980,10 +980,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-110.sh-5247-92-110.ha-5849.ea-3196-1408.fa-3276-95.ca-6325-1422",
+    "habboFigure": "hr-6083-1394.hd-600-1379.ch-660-110.lg-5594-110.ha-4089-1422.ea-3196-1408.fa-3276-95.ca-6325-1422",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Abbiamo solo una vita.  Mi manchi kook",
     "habboFigure": "hr-3829-49.hd-180-17.ch-3032-92-92.lg-280-1427.sh-6182.ha-6080.he-3070-92.fa-1203.ca-5381-92",
@@ -1340,7 +1340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-3344-110.ca-3217-1408-1408.wa-2008.cc-5558-110-1408",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante  G.D",
     "habboFigure": "hr-3841-42.hd-209-8.ch-4171-81-1408.lg-6089-81-1408.sh-3419-1408-88.he-4022",
