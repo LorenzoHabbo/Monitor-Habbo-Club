@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1404.hd-207-2.ch-210-1428.lg-280-1426.sh-5247-92-1334.he-3740.fa-3276-100",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.he-6215-1327.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110.fa-6367",
@@ -740,7 +740,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6361-1365-14.lg-3136-1338.sh-6182.ha-3737.he-6384-1421.fa-6367.wa-6385-1340",
@@ -930,7 +930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Thomvs. truffa per 500 ho screen",
     "habboFigure": "hd-3956-1-14.ch-5488-1408.lg-6000-1408.sh-4159-1408-1408.ha-3710.he-5808-64.fa-1208-1408.cc-4109-1408-1408.pt-6166-71-71",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Paladino 1p G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-180-22.ch-3779-110-92.lg-3257-110.sh-3524-110-1408.ha-3709.he-3740.fa-3344-1325.ca-3485.mc-5800-92-106",
@@ -1293,7 +1293,7 @@
     "online": true,
     "gender": "m",
     "motto": "apprendista aiutante G.D",
-    "habboFigure": "hr-3520-61.hd-3721-1392.ch-3979-96.lg-3483-73-110.sh-5803-1408.he-3740.ea-3978-96-110.fa-5601-1408.pt-5961-96-96.mc-5810-92",
+    "habboFigure": "hr-3520-61.hd-3721-1392.ch-3486-96-110.lg-3483-73-110.sh-5803-1408.he-3740.ea-3978-96-110.fa-5601-1408.pt-5961-96-96.mc-5810-92",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -1440,7 +1440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "due ali per farmi volare per un po'",
     "habboFigure": "hr-3746-48.hd-207-10.ch-6353.lg-3116-82-1408.sh-6156-73.ha-3620.fa-3378-64-1408.cc-5926-82-1408",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Superiore in prova P.I.H.",
     "habboFigure": "hr-5503-1353.hd-4383-1383-30.ch-3077-1416-1416.lg-3023-110.sh-3016-1416.ha-3129-1416.he-3070-93.fa-3276-96.wa-2005.cc-3009-1417-1416",
@@ -2360,10 +2360,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
-    "habboFigure": "hr-5680-45.hd-600-1.ch-655-92.lg-5594-110.sh-3089-64.ha-5677-110.ca-6212.mc-6115-1408-1408",
+    "habboFigure": "hr-5680-45.hd-600-1.ch-655-64.lg-3216-110.sh-5670-110.ca-6212.cc-5926-74-1408",
     "memberSince": "2024-05-05T20:21:09.000+00:00",
     "uniqueId": "hhit-548e2982f2b2f9be65b49580d043b00a",
     "name": "Snow1227",
