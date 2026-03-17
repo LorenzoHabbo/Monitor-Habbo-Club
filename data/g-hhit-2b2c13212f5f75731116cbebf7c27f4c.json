@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6211-59-1394.hd-6219-2-1367.ch-6180-96.lg-3136-89.sh-6182.he-6384-110.fa-6367.wa-6385-110.pt-6031-1410-110",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-5245-92.lg-5545-110-110.sh-5308-92.he-4977-92-92.fa-3276-1427.wa-5986-64.mc-6346-64-1427",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-210-82.lg-285-1341.sh-905-85.fa-1204",
@@ -1130,7 +1130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "angelo g.d",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-3013-110.lg-4341-92.sh-5671-92.ha-3709",
@@ -4110,7 +4110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Superiore in prova P.I.H",
     "habboFigure": "hr-3673-45.hd-600-14.ch-630-76.lg-720-64.sh-3068-76-76.ha-1023-76.he-3974.ca-1804-1408.wa-2001",
@@ -4240,10 +4240,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
-    "gender": "m",
+    "online": false,
+    "gender": "f",
     "motto": "apprendista aiutante G.D",
-    "habboFigure": "hr-3860-1399-1399.hd-3721-1.ch-6353.lg-3968-92.sh-6182.ha-4192.he-3740.cc-4979-92.mc-5810-92",
+    "habboFigure": "hr-4343-1395-1395.hd-3721-1.ch-3629-96-110.lg-716-66-1408.sh-735-68.he-3772-96.wa-3773-96",
     "memberSince": "2018-11-24T06:59:14.000+00:00",
     "uniqueId": "hhit-969ecf0942f95166650cb94bf7747bc8",
     "name": "sir.crocodile",
@@ -5050,7 +5050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-829-49.hd-3103-8.ch-5559-110.lg-4113-1408-1408.fa-3296.ca-4937.wa-5599-63-1408.cp-3205",
@@ -6040,7 +6040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "comandante 1p gd",
     "habboFigure": "hr-3841-37.hd-3095-8.ch-215-110.lg-3407-1321-1321.sh-906-110.ha-3409-1321-1321.ea-3484.fa-3344-110.ca-3425-66-1408.cc-3405-1321-1321",
