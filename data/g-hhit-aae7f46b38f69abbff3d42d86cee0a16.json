@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3604-1370.ch-3432-96-96.lg-280-96.sh-3467.ha-4164.he-6384-96.ea-3141.ca-4183-96-96.wa-6385-96.cc-3158-96.cp-3125-110.pt-6077",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-6341-1321-110.pt-5826-63",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Il mio eroe è moltobug4        12",
     "habboFigure": "hr-5841-1403.hd-6361-10-1367.ch-5856.lg-5594-82.sh-5868.he-5578-1427.ca-5769-92-1321.cc-5926-110-1408.cp-5883-110",
