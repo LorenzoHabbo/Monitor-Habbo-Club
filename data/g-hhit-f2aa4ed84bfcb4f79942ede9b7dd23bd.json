@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3841-45.hd-3604-1370.ch-3432-96-96.lg-280-96.sh-3467.ha-4164.he-6384-96.ea-3141.ca-6081-110.wa-6385-96.cc-3158-96.cp-3125-110.pt-6077",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3602-32-45.hd-6361-1-28.ch-255-110.lg-3418-64.sh-5247-92-64.ca-6167-92-1412",
@@ -5690,7 +5690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6361-1365-14.ch-5559-63.lg-3136-1338.sh-6182.ha-3737.he-6384-1421.fa-6367.wa-6385-1340",
