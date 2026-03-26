@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-5120-36-35.hd-4383-10-14.ch-3045-98.lg-5970-103.sh-4064-95.ha-3305-95-86.he-1603-102.ca-1816.wa-2010",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1412.sh-290-1412.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1412",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3786-1399-55.hd-3604-1365.ch-3237-96-96.lg-280-96.sh-3467.he-6384-96.ea-3141.fa-5624-96.ca-5705.wa-6385-96.cp-3125-110.pt-6077",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-5417.fa-3344-91.pt-6342",
