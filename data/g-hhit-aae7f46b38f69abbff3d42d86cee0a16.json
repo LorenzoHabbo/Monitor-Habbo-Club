@@ -220,10 +220,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hd-6361-1365-14.ch-5559-63.lg-3136-1338.sh-6182.ha-3737.he-6384-1421.fa-6367.wa-6385-1340",
+    "habboFigure": "hd-6361-1365-14.ch-5559-63.lg-3136-1338.sh-6182.ha-3737.he-6384-1421.fa-6367.wa-6385-1340.pt-6376",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5841-1403.hd-4174-10.ch-5856.lg-5594-82.sh-5868.he-5578-1427.ea-5007.fa-1211.ca-5769-92-1321.cc-6341-110-72.cp-5883-110.pt-6376",
@@ -650,7 +650,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "O.M nel cuore",
     "habboFigure": "hr-3871-45.hd-190-8.ch-210-85.lg-3078-64.sh-3068-1408-1408.fa-5760",
