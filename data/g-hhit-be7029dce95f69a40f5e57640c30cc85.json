@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5258.lg-6137.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
@@ -1700,7 +1700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3768-61.hd-3604-27.ch-4165-1408-1408.lg-3023-1410.sh-906-92.ha-4326.he-1608.ea-1402.fa-1205-110.ca-1802.wa-5123-1321.cc-887-110.cp-3125-96.pt-6077.mc-5942-110",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[ NºT ] Dama dell'Oscurità [ NºT ]",
     "habboFigure": "hr-6010-42-42.hd-6072-18-1372.ch-4189-110-110.lg-5594-110.ha-4192.he-6386-110.ea-6357-1410.fa-3378-63-1408.ca-5771-110-1410.wa-6387-110.cc-4184-110-1408",
@@ -4861,16 +4861,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "WALES",
-    "habboFigure": "hr-3260-60.hd-3845-18.ch-5559-96.lg-3116-102-1408.sh-4112-102-110.he-3070-1321.fa-4168-1322.ca-1816.cp-3204.mc-4091-110",
-    "memberSince": "2012-04-06T13:31:33.000+00:00",
-    "uniqueId": "hhit-40a7d3cd01cccc886bf4fad0c5f51451",
-    "name": "Tanque",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "E-campus",
     "habboFigure": "hr-4117-31-31.hd-615-10.ch-3881-74.lg-3418-68.sh-725-74.ha-3952.fa-3276-73.ca-4037-1408-1408",
@@ -5230,7 +5220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "!!!!!\"Megl mmiria ca pietà\"!!!!!",
     "habboFigure": "hd-180-14.ch-3540-85.lg-5594-1408.ha-6246.he-6236.ca-5017.mc-5800-1408-1408",
@@ -8870,7 +8860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "» Katsuobushi »",
     "habboFigure": "hr-6211-1346-60.hd-4383-28-1372.ch-5560-110-92.lg-3006-110-92.sh-6181-110.he-6173-110.ca-3937.wa-3264-110-92.cc-5926-64-92.pt-6119",
@@ -9997,6 +9987,16 @@
     "memberSince": "2018-02-23T23:33:41.000+00:00",
     "uniqueId": "hhit-38395ce5c13c95a82dd867504253adbc",
     "name": "Nicotk",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Se vi interessa un world gdr contattat",
+    "habboFigure": "hr-829-45.hd-3103-10.ch-3506-1408-1408.lg-3058-110.sh-300-1320.ea-3169-88.wa-3073-110.cc-886-1432",
+    "memberSince": "2018-02-25T15:29:43.000+00:00",
+    "uniqueId": "hhit-27c60fe296dd39c4262c9a1517fc5c27",
+    "name": "SONICdHEDGEHOG",
     "isAdmin": false
   }
 ]
