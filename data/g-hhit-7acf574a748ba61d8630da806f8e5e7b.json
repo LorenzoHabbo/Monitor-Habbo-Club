@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "~Veni Vidi Vici~",
     "habboFigure": "hr-3281-40.hd-3845-28.ch-6177-92-92.lg-3502-110.sh-5247-92-92.he-5348",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "..",
     "habboFigure": "hr-4118-44.hd-3631-1-14.ch-5302-74-1408.lg-3216-80.he-6215-74.fa-3276-72.cp-3285-80",
@@ -2350,7 +2350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-64.lg-3216-110.sh-5670-64.he-5808-1408.ca-6212.cc-5926-74-1408.mc-6346-110-64",
