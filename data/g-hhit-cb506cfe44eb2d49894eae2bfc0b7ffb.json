@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-4996-1348.hd-4383-10-14.ch-3005-92-1327.lg-5970-92.sh-4064-1414.wa-2010",
@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1412.sh-290-1412.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1412",
@@ -340,7 +340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5566-1404-1404.hd-3536-10-10.ch-6029-92-1410.lg-6088-1410-1408.sh-5803-1322.he-6019.fa-6274-1412.cc-5580-1322-1410",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "..",
     "habboFigure": "hr-893-37.hd-180-1370.ch-215-1408.lg-275-64.he-5482.ca-5739-64-1408",
@@ -970,7 +970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "l\\_/l\"\"\"'\"\\_====_ \\_(‡).__I_.(‡)_]",
     "habboFigure": "hr-4193-36.hd-180-30.ch-3432-66-91.lg-3290-64.ha-1006.he-6019.ea-1404-64.fa-4013.cc-3509-64-66",
@@ -1570,7 +1570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I make no Promises",
     "habboFigure": "hr-155-39.hd-180-8.lg-3019-1427.sh-3115-1408-1408.wa-3073-63",
