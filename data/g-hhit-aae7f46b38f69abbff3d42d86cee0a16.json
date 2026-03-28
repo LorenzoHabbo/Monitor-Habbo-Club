@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-5245-92.lg-5545-110-1408.sh-5308-1408.he-4977-92-92.fa-3276-71.wa-5986-64.pt-6077",
@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a state of mind.",
     "habboFigure": "hr-679-1345.hd-209-8.ch-4190-1410-67.lg-4191-1410-1322.ha-5371-92-1408.he-1608.fa-3344-1408.ca-6020-1408.wa-6154-1322-1408.cc-4943-92.pt-5826-1410",
@@ -580,7 +580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5841-1403.hd-5838-10-1367.ch-5856.lg-5594-82.sh-5868.he-5578-1427.ca-5769-92-1321.cc-5926-110-1408.cp-5883-110",
