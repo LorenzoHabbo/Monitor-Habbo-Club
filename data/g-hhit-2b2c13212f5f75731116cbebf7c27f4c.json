@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ In Pensione",
     "habboFigure": "hr-5898-54-1404.hd-6361-10-1368.ch-5607-110.lg-5243-110.sh-5928.fa-5467.ca-5459-92",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "alone in the darkness",
     "habboFigure": "hr-165-45.hd-205-1.ch-3416-1408-1408.lg-6017-91-91.sh-3524-64-1408.fa-5211-91.wa-3211-91-66",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-210-110.lg-285-64.sh-905-85.fa-1204",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Capo regime salathiel g.d/GM HIH||",
     "habboFigure": "hr-3012-61.hd-3098-1.ch-3046-110.lg-3057-92.sh-3027-110-92.cc-3066-92",
