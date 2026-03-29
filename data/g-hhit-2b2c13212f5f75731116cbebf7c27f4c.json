@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-829-1394.hd-3095-2.ch-210-110.lg-285-64.sh-905-85.fa-1204",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hd-3845-1367.ch-3237-1408-1408.lg-3023-110.sh-906-92.he-6384-96.fa-5835-96.ca-1816.wa-6385-96.cc-887-110.cp-3125-96.pt-6376",
@@ -3910,7 +3910,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒ|",
     "habboFigure": "hr-5773-1346.hd-6216-28-1392.ch-5374-1326-1326.lg-3136-1326.sh-5803-92.fa-5467",
@@ -4130,7 +4130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-42.hd-180-10.ch-3030-1408.lg-275-81.ea-1404-1408.fa-1205-64",
