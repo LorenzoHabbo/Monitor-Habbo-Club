@@ -713,7 +713,7 @@
     "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
-    "habboFigure": "hr-5791-57.hd-5913-1.ch-5095-92.lg-280-77.sh-5247-1320-92.ha-3656.he-3070-92.ca-6276-92.mc-3867-80-105",
+    "habboFigure": "hr-5791-57.hd-5913-1.ch-5095-92.lg-280-77.sh-5247-1320-92.ha-4195.he-3070-92.ca-6276-92.mc-3867-80-105",
     "memberSince": "2012-02-26T15:41:41.000+00:00",
     "uniqueId": "hhit-6880b62f86fed38d39dd624c02e190ca",
     "name": "THEBIGPLANET.",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-40-40.hd-4383-10-14.ch-5560-1408-1408.lg-3483-81-81.ha-3709.he-5808-83.fa-5600-1408.mc-5925-82",
@@ -900,7 +900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6361-1365-14.ch-5559-63.lg-3136-1338.sh-6182.ha-3737.he-6384-1421.fa-6367.wa-6385-1340.pt-6376",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "º Novae Tenebrae º - UBI tu IBI ego-",
     "habboFigure": "hr-3841-43.hd-209-1370.ch-215-72.lg-3787-64-64.sh-4112-82-82.he-3879-1408.ca-5770-64.cc-3874-82-82",
