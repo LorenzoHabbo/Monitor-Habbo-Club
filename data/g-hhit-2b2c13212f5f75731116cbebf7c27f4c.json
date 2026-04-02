@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ In Pensione",
     "habboFigure": "hr-6314-31.hd-6361-10-1368.ch-665-92.lg-3006-92-92.ha-3709.he-6309-1409.fa-5467.cc-4184-106-92.pt-6119",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-180-10.ch-5258.lg-6137.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
@@ -2590,10 +2590,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ricercatrice dei perduti ||",
-    "habboFigure": "hr-5680-36.hd-629-19.ch-3045-92.lg-3078-110.sh-3089-1336.he-3274-92.wa-3263-1408-1408.cc-3008-92-110.cp-3285-1408",
+    "habboFigure": "hr-5680-36.hd-629-19.ch-6321-95-110.lg-3078-110.sh-3089-1336.he-3274-97.wa-3263-1408-1408",
     "memberSince": "2013-11-17T21:08:40.000+00:00",
     "uniqueId": "hhit-9a8b6aa8191e2bfa8534a0bade22126e",
     "name": "matilde716",
@@ -8390,7 +8390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
     "habboFigure": "hr-3847-1394.hd-6216-18-1372.ch-5560-99-1339.lg-5594-110.sh-3338-1428.ha-3620.he-5808-92.fa-5467.mc-4041-1428",
