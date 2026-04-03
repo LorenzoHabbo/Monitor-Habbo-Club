@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-4216-59-31.hd-6219-2-1367.ch-6180-102.lg-5974-102-92.sh-6182",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista G.D.",
     "habboFigure": "hr-802-40.hd-180-14.ch-255-73.lg-270-82.sh-305-1408.ca-3425-66-1408.wa-2007",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-18.ch-6353.lg-5594-1338.sh-6182.ha-5087.he-3740.cc-4979-92.pt-5961-1409-1408.mc-5800-110-1412",
@@ -5040,7 +5040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-135-49.hd-3103-8.ch-5559-110.lg-4113-1408-1408.fa-3296.ca-4937.wa-5599-63-1408.cp-3205",
