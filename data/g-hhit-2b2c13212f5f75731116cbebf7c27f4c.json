@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ In Pensione",
     "habboFigure": "hr-6314-31.hd-6361-10-1368.ch-665-92.lg-3006-92-92.ha-3709.he-6309-1409.fa-5467.cc-4184-106-92.pt-6119",
@@ -4790,7 +4790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haze",
     "habboFigure": "hr-828-1345.hd-3091-1383.ch-3022-1323-1408.lg-275-1323.sh-295-96.he-1608.ea-6053-96.fa-3296",
@@ -5040,7 +5040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-135-49.hd-3103-8.ch-5559-110.lg-4113-1408-1408.fa-3296.ca-4937.wa-5599-63-1408.cp-3205",
