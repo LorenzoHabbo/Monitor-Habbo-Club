@@ -3380,7 +3380,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "LA FLAME",
     "habboFigure": "hr-3602-32-45.hd-6361-1-28.ch-3940-110-110.lg-3418-64.sh-5247-92-64.fa-3276-110.ca-6167-92-1412",
@@ -4660,7 +4660,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "          oblivion",
     "habboFigure": "hr-6010-40-40.hd-4383-10-14.ch-5560-1408-1408.lg-3483-81-81.ha-3709.he-5808-83.fa-5600-1408.mc-5925-82",
@@ -5670,7 +5670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6361-1365-14.ch-5559-92.lg-3136-71.sh-6181-82.he-6384-1421.fa-6367.wa-6385-1340.pt-6376",
@@ -6010,7 +6010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
     "habboFigure": "hr-3860-40-40.hd-180-14.ch-255-1408.lg-4138-1408.sh-3587-1408-1408.ha-3586.he-6377.fa-5975.ca-5227",
@@ -7930,7 +7930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Recluta P.I.H.",
     "habboFigure": "hd-4015-14.ch-3030-82.lg-3596-82-82.sh-3595-82.ha-4319.wa-2007",
@@ -8090,10 +8090,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ªEclissi viventeª[ NºT ]",
-    "habboFigure": "hd-6361-22-26.ch-3203-1408.lg-6355-92-1327.he-6308-92.ca-5480",
+    "habboFigure": "hd-6361-22-26.ch-3203-1408.lg-6355-92-1327.he-3560.ca-5480",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
