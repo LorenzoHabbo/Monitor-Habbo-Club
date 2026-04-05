@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "La tua assistente di volo preferita :)",
     "habboFigure": "hr-5617-1397-1397.hd-5684-10.ch-3213-1408-83.lg-5970-1427.sh-730-110.fa-4168-1320.ca-6380-89-1408.wa-6298-105.cc-5926-83-83",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
     "habboFigure": "hr-3860-61-61.hd-180-1390.ch-255-110.lg-4138-110.sh-3587-110-92.ha-5276-92.he-6377.fa-5975.ca-5502",
