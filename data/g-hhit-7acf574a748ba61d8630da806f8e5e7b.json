@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "crikey",
     "habboFigure": "hr-831-1354.hd-3095-3.ch-3779-110-92.lg-5594-1341.sh-3016-110.ha-3571.fa-3474.cc-6341-1321-110.pt-5826-63",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.he-6215-1327.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6323-1343.hd-629-7.ch-3629-98-92.lg-3391-95-1408.sh-6064-92-110.he-3778-110",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-18.ch-6353.lg-5594-1338.sh-6182.ha-5087.he-3740.cc-4979-92.pt-5961-1409-1408.mc-5800-110-1412",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-5623.sh-5032.ea-3169-102.fa-5636-92.ca-6020-80",
