@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-77.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-77",
@@ -2240,7 +2240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-890-48.hd-629-1.ch-660-73.lg-720-73.sh-3383-64-1408",
@@ -3940,7 +3940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-1394-1394.hd-5837-1379-1372.ch-3668-110-1412.lg-4138-110.sh-5931.ha-3620.he-5828.fa-5948-1408.ca-3844-110-1412.wa-4060-96-110",
@@ -4010,7 +4010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[ NºT ] Dama dell'Oscurità [ NºT ]",
     "habboFigure": "hr-6010-42-42.hd-6072-18-1372.ch-4189-110-110.lg-5594-110.ha-4192.he-6386-110.ea-6357-1410.fa-3378-63-1408.ca-5771-110-1410.wa-6387-110.cc-4184-110-1408",
@@ -6010,10 +6010,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-6083-1394.hd-600-1370.ch-660-110.lg-5594-110.sh-5247-92-110.ha-3677.ea-1404-64.fa-3276-1412.ca-6325-1422",
+    "habboFigure": "hr-6083-1394.hd-600-1370.ch-660-110.lg-5594-110.sh-5247-92-110.ha-4322.ea-1404-64.fa-3276-1412.ca-6325-1422",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
