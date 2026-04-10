@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-6311-92-1408.lg-3361-92.ha-3709.he-3070-92.fa-3276-1323.cc-6310-1425-1408.pt-5826-92",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M nel cuore",
     "habboFigure": "hr-3871-45.hd-190-8.ch-210-85.lg-3078-64.sh-3068-1408-1408.fa-5760",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-655-110.lg-3216-110.sh-5670-64.he-6173-1412.ca-6212.cc-5926-73-1408.mc-6346-110-64",
