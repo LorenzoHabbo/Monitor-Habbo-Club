@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Iniziato GD",
     "habboFigure": "hr-4941-1394-49.hd-180-1370.ch-4361-110-95.lg-3787-110-67.sh-3587-92-92.he-3070-93.fa-1201",
@@ -370,9 +370,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "fashion polizeiiii",
+    "motto": "fashion polizei",
     "habboFigure": "hr-6323-61.hd-6216-10-1375.ch-5907-1326-1326.lg-3267-1326-1326.sh-4064-110.ha-3614-1326-1326.he-5074-97.fa-5467",
     "memberSince": "2010-02-23T14:08:30.000+00:00",
     "uniqueId": "hhit-248c86d4cabbd8458aeb70338d7d7a7e",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-49.hd-180-28.ch-3030-1429.lg-280-92.sh-3206-92.ha-4192.he-3740.fa-3276-63.ca-5769-63-1408.cc-5926-77-92",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6361-1365-14.ch-5559-92.lg-3136-71.sh-6181-82.he-6384-1421.fa-5835-82.wa-6385-1340.pt-6376",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
@@ -1330,7 +1330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-3344-110.ca-3217-1408-1408.wa-2008.cc-5558-110-1408",
