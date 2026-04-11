@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "<3",
     "habboFigure": "hr-3260-1395.hd-5317-1388-1357.ch-4361-110-92.lg-5594-110.sh-3016-110.ha-6198.fa-5600-92.ca-6325-92",
@@ -530,7 +530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-5606-49-56.hd-6216-28-1364.ch-3013-110.lg-3933-1418.sh-6043.he-6373.fa-5467.ca-6325-92.wa-5370.cc-5926-110-110.pt-6070",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Free Palestine! ƒ",
     "habboFigure": "hr-155-45.hd-180-1370.ch-210-82.lg-281-1408.sh-305-1408.ha-1002-1408",
