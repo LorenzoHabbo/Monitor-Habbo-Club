@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-49-40.hd-6216-28-29.ch-665-1330.lg-3006-110-110.sh-5670-110.he-4977-64-1330.ca-5769-92-1408.wa-5986-110.cc-5926-110-1408.pt-6299-64-64",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -1390,10 +1390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Life is a state of mind.",
-    "habboFigure": "hr-679-1345.hd-209-8.ch-4165-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-4345-1408.ea-4346-1408-1408.fa-3344-1408.ca-3466-67-92.wa-4317-1322.cc-5182-92",
+    "habboFigure": "hr-679-1345.hd-209-8.ch-4165-1410-67.lg-3078-1410.sh-5803-92.ha-3567.he-4345-1408.ea-4346-1408-1408.fa-3344-1408.ca-3466-67-92.wa-4317-1322.cc-5182-92.pt-5826-1408",
     "memberSince": "2009-10-01T18:09:06.000+00:00",
     "uniqueId": "hhit-36f6ea4aaf16981065ab64d501ce8a17",
     "name": "ExecutiveGiu",
@@ -3380,10 +3380,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "exhausted",
-    "habboFigure": "hr-3602-32-45.hd-6361-1-28.ch-3940-110-110.lg-3418-64.sh-5247-92-64.he-3833-1410.fa-6232-1413.ca-5768-1410-1410",
+    "habboFigure": "hr-3602-32-45.hd-6361-1-28.ch-5830-92.lg-3418-1341.sh-5247-92-64.he-3833-1410.fa-6232-1413.ca-3691-1409-110",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -6013,7 +6013,7 @@
     "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
-    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-255-110.lg-4138-110.sh-3587-110-92.ha-3586.he-6377.fa-5975.pt-6299-92-110",
+    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3979-110.lg-4138-110.sh-3587-110-92.ha-3586.he-6377.fa-5975.pt-6299-92-110",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -6370,7 +6370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-6083-1394.hd-600-1370.ch-660-110.lg-5594-110.sh-5247-92-110.ha-3677.ea-1404-64.fa-3276-1412.ca-6325-1422",
