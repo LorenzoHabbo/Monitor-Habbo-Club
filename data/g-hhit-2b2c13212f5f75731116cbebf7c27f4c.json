@@ -10,7 +10,7 @@
     "isAdmin": true
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Braccio Dx GD ƒ In Pensione",
     "habboFigure": "hr-6323-31.hd-6361-10-1368.ch-6292-1335-1414.lg-3361-1334.he-6296-1414-1324.fa-5467.pt-6077",
@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendista G.D.",
     "habboFigure": "hr-802-32.hd-180-1.ch-3030-82.lg-270-82.sh-305-1408.ca-3425-66-1408",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "angelo g.d",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-3013-92.lg-5970-1423.sh-5671-92.ha-3709.ca-6380-1326-1408",
@@ -4890,7 +4890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3829-42.hd-205-10.ch-3342-82-1408.lg-3596-82-64.he-3833-1408.fa-5601-82.cc-5441-82-1408.pt-6178-64",
@@ -5020,7 +5020,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-135-49.hd-3103-8.ch-5559-110.lg-4113-1408-1408.fa-3296.ca-4937.wa-5599-63-1408.cp-3205",
@@ -6030,7 +6030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.ha-5087.pt-6119",
@@ -6690,7 +6690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Campionessa GD",
     "habboFigure": "hr-890-37.hd-629-1.ch-3770-76-75.lg-3078-88.sh-3180-76-75.ca-6380-75-88",
@@ -8640,7 +8640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Aiutante G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
