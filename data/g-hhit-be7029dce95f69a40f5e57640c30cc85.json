@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-49-40.hd-6216-28-29.ch-665-1330.lg-3006-110-110.sh-5670-110.he-4977-64-1330.ca-5769-92-1408.wa-5986-110.cc-5926-110-1408.pt-6299-64-64",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Afk anni luce",
     "habboFigure": "hr-828-1342.hd-205-1379.ch-6353.lg-280-92.sh-3035-110.he-3070-92.ea-1404-110.fa-3276-1329.ca-3414-1413",
@@ -5520,7 +5520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-5606-49-56.hd-6216-28-1364.ch-3013-110.lg-3933-1418.sh-6043.he-6373.fa-5467.ca-6325-92.wa-5370.cc-5926-110-110.pt-6070",
@@ -9910,7 +9910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.mc-5461-92-1321",
