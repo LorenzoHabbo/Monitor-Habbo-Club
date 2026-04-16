@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-45.hd-3095-1370.ch-3208-92-1408.lg-3078-1336.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-4115-110-1408.cp-3125-110.pt-6299-84-1408",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Portami in camera le conigliette",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.pt-5690-110.mc-3867-100-110",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.ha-5087.pt-6119",
@@ -1820,7 +1820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ª Wanheda ªJus drein Jus daunª fon.IOC",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -2040,7 +2040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "O.M nel cuore",
     "habboFigure": "hr-3090-36.hd-190-8.ch-210-85.lg-275-64.sh-295-1408.ea-1404-64.fa-5624-64",
