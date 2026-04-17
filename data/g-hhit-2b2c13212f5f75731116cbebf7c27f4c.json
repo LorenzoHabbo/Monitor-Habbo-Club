@@ -4090,7 +4090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Holaaaaaaaaaaaaaaaa",
     "habboFigure": "hr-802-40.hd-180-14.ch-3030-80.lg-270-83",
@@ -4220,7 +4220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3860-1404-1404.hd-3721-18.ch-6353.lg-5594-1338.sh-6182.ha-5087.he-3740.cc-4979-92.pt-5961-1409-1408.mc-5800-110-1412",
@@ -5390,10 +5390,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|CADETTO G.D.|",
-    "habboFigure": "hr-4117-49-49.hd-3956-1391-1389.ch-650-98.lg-3174-98-92.sh-3068-92-98.he-5314-98-92.ca-5171-98-92",
+    "habboFigure": "hr-4118-61.hd-3956-1390-1389.ch-3013-110.lg-4369-92-95.sh-3089-95",
     "memberSince": "2021-02-23T10:01:13.000+00:00",
     "uniqueId": "hhit-2b55a423b25e0a7729cc5d74f6a488ba",
     "name": "Carlacuore",
@@ -8660,7 +8660,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Capo Aiutante G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -8720,7 +8720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Soldato Scelto G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-285-82.sh-290-73.ea-1406.ca-1809",
