@@ -3940,7 +3940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6034-1395-1395.hd-180-1.ch-5833-82-92.lg-3596-82-67.sh-3154-92-92.ha-3620",
@@ -4610,7 +4610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Wolfgang",
     "habboFigure": "hr-5019-35.hd-3604-1.ch-4025-64-81.lg-4017-64-81.sh-4016-64-81.ha-4194.he-4019-64-81.ea-4021-64-81.fa-4014-64-81.ca-4378.cc-4026-64-81",
@@ -7640,7 +7640,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-3322-40.hd-3604-30.ch-3110-64-64.lg-3078-1408",
