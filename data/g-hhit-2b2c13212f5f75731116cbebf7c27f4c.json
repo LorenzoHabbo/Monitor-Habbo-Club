@@ -430,7 +430,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "apprendista G.D.",
     "habboFigure": "hr-802-32.hd-180-1.ch-3030-82.lg-270-82.sh-305-1408.ca-3425-66-1408",
@@ -3480,6 +3480,16 @@
     "isAdmin": false
   },
   {
+    "online": true,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-5544-40-1397.hd-6216-1-1365.ch-3005-92-92.lg-3018-82.sh-5803-92.ha-3118-82-82.he-1609-64.fa-3276-1328",
+    "memberSince": "2016-11-29T13:26:47.000+00:00",
+    "uniqueId": "hhit-eaaa2c6527280a82d44f257ef3255bbb",
+    "name": "eneide",
+    "isAdmin": false
+  },
+  {
     "online": false,
     "gender": "m",
     "motto": "",
@@ -3960,7 +3970,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Marestro G.D! Life is a gift",
     "habboFigure": "hr-3163-1394.hd-180-22.ch-3779-110-92.lg-3596-110-1408.sh-6182.ha-3709.he-3740.fa-1201.mc-5800-110-93",
@@ -4920,7 +4930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)= rec. ph",
     "habboFigure": "hr-6010-34-48.hd-3845-10.ch-6011-1408-73.lg-6013-73-73.sh-4159-64-64.he-4944.fa-3276-72",
@@ -8660,7 +8670,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Aiutante G.D",
     "habboFigure": "hd-209-1.ch-210-64.lg-270-64.sh-906-64.ha-1021-64.he-1609-64.ea-1401-64.fa-1205-64.ca-1804-64.wa-2008.cc-260-64",
@@ -8720,7 +8730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Soldato Scelto G.D",
     "habboFigure": "hr-165-31.hd-209-19.ch-3030-1408.lg-285-82.sh-290-73.ea-1406.ca-1809",
@@ -9987,16 +9997,6 @@
     "memberSince": "2024-05-29T17:55:57.000+00:00",
     "uniqueId": "hhit-0371197271e8831634513a3c6c01b823",
     "name": "Mielemillefori",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Nella vita l'importante è..",
-    "habboFigure": "hr-802-48.hd-209-1.ch-3111-73-66.lg-5594-64.sh-906-73.ha-4192.he-3660-64-1408.ca-1804-66.wa-3211-73-66",
-    "memberSince": "2024-05-29T20:43:35.000+00:00",
-    "uniqueId": "hhit-67d635318a002c3aa91022b479307072",
-    "name": "rosolaccio1",
     "isAdmin": false
   }
 ]
