@@ -90,7 +90,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Helping Habbos ™",
     "habboFigure": "hr-165-40.hd-207-10.ch-3438-71-91.lg-5594-82.sh-295-1408.ha-1002-91.he-1608.fa-3276-72.wa-2001.cc-3326-91-91.pt-6322",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-5605-40.hd-600-14.ch-5560-64-64.lg-3596-1408-64.ha-3709.he-5088.fa-3276-73.wa-2001.cc-5926-1408-1408",
@@ -1833,7 +1833,7 @@
     "online": true,
     "gender": "m",
     "motto": "—: BABYMONSTER ~ CHOOM 04/05",
-    "habboFigure": "hr-5124-49.hd-5798-2.ch-255-1408.lg-6355-110-96.sh-5639.ha-3759.ea-6330-110-110.fa-5948-92",
+    "habboFigure": "hr-5124-49.hd-5798-2.ch-255-1408.lg-6355-110-96.sh-5639.ha-3759.ea-6330-110-110.fa-5948-92.pt-6322",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
     "name": "MVPsimo_",
@@ -2010,7 +2010,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "chi non rischia non vince.",
     "habboFigure": "hr-5791-1407.hd-209-8.ch-803-110.lg-3057-110.sh-3089-110.ha-3709.cc-4184-110-92.cp-3308-1408-1408",
@@ -2820,7 +2820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "but you can't break a broken heart",
     "habboFigure": "hd-190-27.ch-3372-110-92.lg-3365-110.sh-3180-110-110.ha-3382-110-110.fa-5692-92-92.ca-4036-63.wa-3212-110-64.cc-4107-110-1427.mc-4091-64",
