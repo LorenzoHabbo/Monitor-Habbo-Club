@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|| ASTRO DEL MATTINO | G D ||",
     "habboFigure": "hr-5680-36.hd-629-19.ch-4087-1326.lg-3787-1326-1408.sh-6181-1326.he-3082-1326",
@@ -2850,10 +2850,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Builder Designer©®™",
-    "habboFigure": "hr-4360-1398-49.hd-6219-1359-28.ch-6353.lg-6355-92-92.sh-3206-89.he-6309-1409.fa-1208-89.ca-6167-92-92.cc-5926-1338-1339",
+    "habboFigure": "hr-4360-1398-49.hd-6219-1359-28.ch-6353.lg-4138-92.sh-3206-89.he-6309-1409.fa-1208-89.ca-6167-92-92.cc-5926-1338-1339",
     "memberSince": "2015-04-22T14:21:58.000+00:00",
     "uniqueId": "hhit-558183d112426b4f79f09868fe04e574",
     "name": "-Uzumaki",
@@ -6240,7 +6240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Decime GD",
     "habboFigure": "hr-135-39.hd-190-1.ch-875-73-73.lg-3023-73.sh-3383-73-73.ha-1021-73.ea-5897-73-73.wa-2009-73.cc-3294-73-72",
