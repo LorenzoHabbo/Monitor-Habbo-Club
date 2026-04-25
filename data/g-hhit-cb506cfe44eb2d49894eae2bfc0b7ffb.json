@@ -250,9 +250,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
-    "motto": "PESARO CAPITALE | TE DAG NA SGHèTA",
+    "motto": "PESARO CAPITALE | OGGI NOFESTA W DUCIE",
     "habboFigure": "hr-893-34.hd-180-1370.ch-235-72.lg-3116-82-72.sh-906-72",
     "memberSince": "2009-03-19T20:01:40.000+00:00",
     "uniqueId": "hhit-acd52bbc2f23cad9d81a85f2ea6e8688",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3788-105.lg-3596-110-105.ha-3709.he-3070-92.fa-3276-1323.ca-3883.pt-6119",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-5606-49-56.hd-6216-28-1364.ch-3013-110.lg-3933-1418.sh-6043.he-6373.fa-5467.ca-6325-92.wa-5370.cc-5926-110-110.pt-6070",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥",
     "habboFigure": "hr-6211-61-49.hd-615-1.ch-4087-110.lg-5974-110-92.sh-5803-92.he-3891.fa-5600-92",
