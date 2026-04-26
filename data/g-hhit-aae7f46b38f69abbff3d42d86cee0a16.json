@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-57.hd-3095-1370.ch-3038-110.lg-3078-92.sh-906-92.he-1608.ea-3168-92.fa-1201.ca-6380-81-110.wa-2012.cc-4979-1408.cp-3125-110.pt-6376",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "NAPOLETANA CU L'UOCCHIJ A CINESIN",
     "habboFigure": "hr-4117-42-42.hd-615-10.ch-655-1408.lg-710-82.sh-725-64.ha-1005-64.ea-1404-1408.fa-3276-72.mc-3744-1408-1408",
