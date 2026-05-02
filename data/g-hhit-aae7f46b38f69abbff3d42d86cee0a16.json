@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-42.hd-180-1370.ch-210-73.lg-270-73.sh-290-73.ha-1006.ca-1809",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5833-1325-67.lg-3320-82-92.sh-5868.ea-3169-102.fa-5636-92",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "In pensione.",
     "habboFigure": "hr-125-42.hd-190-1.ch-3030-64.lg-3116-64-1408.sh-295-1408.ha-1004-64",
