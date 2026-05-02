@@ -2560,7 +2560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|| ASTRO DEL MATTINO | G D ||",
     "habboFigure": "hr-5681-1345-38.hd-3100-19.ch-4353-92-1327.lg-6013-110-110.he-5314-81-1413",
@@ -3910,7 +3910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ƒ|",
     "habboFigure": "hr-3260-1342.hd-6157-1370-1365.ch-5168-92-92.lg-285-1412.sh-3354-110-1408.ha-3614-92-92.fa-1206-1320",
@@ -5420,7 +5420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|CADETTO G.D.|",
     "habboFigure": "hr-4118-61.hd-3956-1390-1389.ch-3013-110.lg-4369-92-95.sh-3089-95",
@@ -8480,10 +8480,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Angelo Difensore di Jehudhiel G.D.",
-    "habboFigure": "hr-3847-1404.hd-6216-28-17.ch-665-110.lg-3116-110-1408.sh-3206-89.ha-6014-110-110.he-5808-92.fa-5467",
+    "habboFigure": "hr-3847-1404.hd-6216-28-17.ch-5560-92-95.lg-5594-77.sh-3338-1409.ha-3620.he-5808-92.fa-5467.mc-4041-1409",
     "memberSince": "2023-08-02T23:49:12.000+00:00",
     "uniqueId": "hhit-2454484fb925cb733f4b857f61769985",
     "name": "numi",
