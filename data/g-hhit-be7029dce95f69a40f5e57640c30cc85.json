@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-3006-110-110.sh-5670-110.he-4977-64-100.fa-5467.ca-5769-1408-1408.wa-5986-110.cc-5926-110-110.pt-6299-100-110",
@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Giorgio Poi I Pomeriggi",
     "habboFigure": "hr-4117-45-45.hd-205-10.ch-215-1408.lg-270-64.sh-906-1408.he-3543-1408.ea-5576-1408-1408.fa-5467.cc-260-1408",
@@ -5600,7 +5600,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "But he's not as cool as me",
     "habboFigure": "hr-6323-1404.hd-6157-1-1360.ch-5917-87.lg-3526-1425-92.sh-3206-92.he-6173-100.fa-3276-97.cc-5580-1415-1408",
