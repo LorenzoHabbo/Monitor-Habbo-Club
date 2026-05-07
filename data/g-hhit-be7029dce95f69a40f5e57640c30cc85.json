@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Giorgio Poi I Pomeriggi",
     "habboFigure": "hr-4117-45-45.hd-205-10.ch-215-1408.lg-270-64.sh-906-1408.he-3543-1408.ea-5576-1408-1408.fa-5467.cc-260-1408",
@@ -1270,9 +1270,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "[Bloodreina]  TH",
+    "motto": "",
     "habboFigure": "hr-5605-44.hd-3845-1.ch-5560-110-110.lg-3596-92-110.sh-3524-92-1408.ha-3709.he-5088.fa-5601-92.cc-5926-92-110",
     "memberSince": "2009-07-26T14:53:58.000+00:00",
     "uniqueId": "hhit-4dead5fb3dcfc925c43414c1ad87faed",
@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amor che muovi il sole le stelle mare",
     "habboFigure": "hr-3791-32.hd-600-10.ch-4067-76-73.lg-710-64.sh-3180-74-76.he-3274-73.fa-3276-71.ca-1801-80",
@@ -5180,7 +5180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Boh.. non so!",
     "habboFigure": "hr-3322-1397.hd-6438-1391-14.ch-3215-92.lg-5594-110.sh-3206-1321.he-4022.ca-1816.cc-3946-89.cp-3120-63",
@@ -9870,7 +9870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.mc-5461-92-1321",
