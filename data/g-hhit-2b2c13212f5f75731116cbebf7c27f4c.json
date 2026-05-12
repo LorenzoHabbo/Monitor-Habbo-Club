@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "HIHƒ Imperatrice G.Dƒ",
     "habboFigure": "hr-6323-59.hd-6219-2-1367.ch-5921-1331-110.lg-3006-110-1331.sh-6182.ha-3586.he-6296-1321-1410.ca-5768-1408-1408.cc-5926-110-1331.pt-6322",
@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Messaggero Del Patto 1p GD",
     "habboFigure": "hr-115-48.hd-209-1370.ch-215-73.lg-3407-1408-66.sh-906-1408.ha-3409-1408-66.ca-3425-66-1408.cc-3405-1408-66",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "angelo g.d",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-5899-96.lg-5594-102.sh-5671-92.ha-3709.cc-5926-92-1408",
@@ -2073,7 +2073,7 @@
     "online": true,
     "gender": "m",
     "motto": "ELITE 1P G.D.",
-    "habboFigure": "hr-3841-42.hd-209-1.ch-3323-1408-82.lg-4113-64-1408.ea-3484.ca-1801-1408.cc-3294-82-1408",
+    "habboFigure": "hr-3841-42.hd-209-1.ch-5830-1408.lg-4066-64.sh-3524-1408-1408.ea-3484.ca-1801-1408",
     "memberSince": "2012-04-09T12:06:07.000+00:00",
     "uniqueId": "hhit-8abf27120b20bccb1d0584c3704314e6",
     "name": "rayam",
@@ -2580,7 +2580,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|| ASTRO DEL MATTINO | G D ||",
     "habboFigure": "hr-5680-36.hd-629-19.ch-4087-1326.lg-3787-1326-1408.sh-6181-1326.he-3082-92",
@@ -2710,7 +2710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Apprendista Novello G.D.",
     "habboFigure": "hr-3519-37-32.hd-600-1.ch-655-64.lg-3526-82-80.sh-740-1408",
@@ -2870,7 +2870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "BuilderDesigner©®™    APlaceWithNoName",
     "habboFigure": "hr-3012-61.hd-3103-1391.ch-5956-1339-1339.lg-3915-92-1408.sh-4065-110-110.ha-6014-92-110.he-5808-64.ca-3084-92-92.cc-5926-92-64",
@@ -3900,10 +3900,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ikigai/Aiutante novello G.D.",
-    "habboFigure": "hr-3860-61-61.hd-3721-29.ch-3934-110-110.lg-4138-110.sh-3587-110-92.he-3740.ea-3575.ca-3844-96-1413.pt-6322",
+    "habboFigure": "hr-3860-61-61.hd-3721-29.ch-3934-110-110.lg-4138-110.sh-3587-110-92.he-3740.ea-3575.fa-5600-92.ca-3844-96-96.pt-6322",
     "memberSince": "2017-11-25T17:28:20.000+00:00",
     "uniqueId": "hhit-5d9ae516788f4680a1c7fb9824e06048",
     "name": ".:Fenrir:.",
@@ -4950,7 +4950,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Drums Of Liberation",
     "habboFigure": "hr-3499-31.hd-209-1.ch-3368-73-1408.lg-3364-73-1408.sh-295-1408.ha-3709.wa-3504-1408.cc-4947-73",
@@ -5480,7 +5480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|CADETTO G.D.|",
     "habboFigure": "hr-4117-1395-1395.hd-3956-1390-1370.ch-665-110.lg-3088-96-110.sh-3089-96.ha-3709.ca-4959",
@@ -5593,7 +5593,7 @@
     "online": true,
     "gender": "m",
     "motto": " G.D",
-    "habboFigure": "hd-205-1370.ch-5596-1408.lg-3434-1408-1408.ha-1004-1408.fa-6170-1408.wa-3504-68.cc-4178",
+    "habboFigure": "hr-3090-34.hd-190-10.ch-5596-74.lg-281-1408.sh-295-64",
     "memberSince": "2021-04-30T13:31:50.000+00:00",
     "uniqueId": "hhit-988435c2f0f5149fae0bb663e7b76a4b",
     "name": "TheGreatestSD",
@@ -6280,7 +6280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " fon.IOC",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
