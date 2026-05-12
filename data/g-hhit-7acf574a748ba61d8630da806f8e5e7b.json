@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-5605-44.hd-3845-1.ch-5560-110-110.lg-3596-92-110.sh-3524-92-1408.ha-3709.he-5088.fa-5601-92.cc-5926-92-1408",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "rimasto... su habbo dal 2007 ºº",
     "habboFigure": "hr-5791-42.hd-3845-10.ch-4165-64-73.lg-3088-64-64.sh-3383-64-73.ha-5968-64-73.he-3833-1408.ea-1404-64.fa-5054.ca-1805-73.wa-2002.mc-4091-64",
@@ -320,7 +320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3260-37.hd-3095-1370.ch-3840-1426-1336.lg-6161-110-1426.sh-906-92.he-1608.ea-3168-1320.fa-1205-1325.ca-6380-110-110.wa-6385-110.cc-4979-92.cp-3125-110.pt-6376",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.mc-5461-92-1321",
@@ -1200,10 +1200,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro G.D! Life is a gift",
-    "habboFigure": "hr-3163-1394.hd-180-22.ch-3779-110-92.lg-3596-110-110.sh-3089-110.he-4977-89-1412.fa-3276-72.ca-3485.mc-5800-93-110",
+    "habboFigure": "hr-828-1394.hd-180-10.ch-3779-110-92.lg-3596-110-110.sh-3089-110.ha-3986.fa-3276-72.ca-3485.cc-4184-110-86",
     "memberSince": "2018-02-11T11:42:49.000+00:00",
     "uniqueId": "hhit-ddc1cfd70b13e4a1fd84fe1d35650c6b",
     "name": "_Oni01_",
@@ -1470,10 +1470,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "— CHOOM ~ BABYMONSTER—",
-    "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-255-1413.lg-6355-110-1413.sh-5639.he-6444-96.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6322.mc-6424-1413",
+    "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-255-1413.lg-6355-110-1413.sh-5639.he-6444-96.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6322.mc-6424-102",
     "memberSince": "2020-04-15T14:41:08.000+00:00",
     "uniqueId": "hhit-1e37a47d817e89def459a68c179a0d7b",
     "name": "MVPsimo_",
@@ -1800,7 +1800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6434-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-3833-1321.pt-6119",
@@ -1830,7 +1830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ª Wanheda ªJus drein Jus daunª fon.IOC",
     "habboFigure": "hr-3194-61-61.hd-180-1391.ch-3030-63.lg-280-110.sh-906-110.he-3376-110-1408.cc-3389-110-1323",
@@ -2080,7 +2080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sophie Sparkle ti amo",
     "habboFigure": "hr-170-42.hd-207-1.ch-878-85-1408.lg-4092-1408.sh-906-64.ea-1404-64.fa-1206-64.ca-1809.wa-2012",
@@ -2340,7 +2340,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-5680-45.hd-600-1.ch-665-1337.lg-5594-110.sh-3089-110.he-5808-1412.ca-6212.cc-4979-64",
