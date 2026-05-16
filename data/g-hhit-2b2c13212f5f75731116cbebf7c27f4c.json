@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Scagnozza GD",
     "habboFigure": "hr-5544-42-42.hd-4383-1-19.ch-4392-90-1408.lg-3842-90-1408.sh-5670-90.ha-3675-90-91.he-3627-72-73.ea-5910-64-64",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "rimasto... su habbo dal 2007 ºº",
     "habboFigure": "hr-5791-42.hd-3845-10.ch-4165-64-73.lg-3088-64-64.sh-3383-64-73.ha-5968-64-73.he-3833-1408.ea-1404-64.fa-5054.ca-1805-73.wa-2002.mc-4091-64",
@@ -190,7 +190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "S <3",
     "habboFigure": "hr-125-45.hd-180-8.ch-3030-1408.lg-3023-64.sh-906-1408.ha-1004-76.ea-1403-64.ca-1802.cc-5926-76-1408",
@@ -2890,7 +2890,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "BuilderDesigner©®™    APlaceWithNoName",
     "habboFigure": "hr-3012-61.hd-3103-1391.ch-5956-1339-1339.lg-3915-92-1408.sh-4065-110-110.ha-6014-92-110.he-5808-64.ca-3084-92-92.cc-5926-92-64",
