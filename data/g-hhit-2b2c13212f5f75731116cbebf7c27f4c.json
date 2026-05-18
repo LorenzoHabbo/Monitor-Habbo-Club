@@ -311,16 +311,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "Grand Theft Furni Habbo Hotel †",
-    "habboFigure": "hr-165-45.hd-205-1.ch-4165-91-64.lg-6017-91-91.sh-3524-64-1408.fa-5211-91",
-    "memberSince": "2008-10-17T16:37:32.000+00:00",
-    "uniqueId": "hhit-805a13e304d74b81c0fe2167721ea1f1",
-    "name": "tonycipriany",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "Apprendista novello G.D.",
     "habboFigure": "hr-3194-48-40.hd-3096-11.ch-3045-110.lg-3006-110-1408.sh-3184-110.he-3295-1323-1408",
@@ -407,16 +397,6 @@
     "memberSince": "2008-11-28T19:19:48.000+00:00",
     "uniqueId": "hhit-08d1d8a92b11828f0a341ba0f01bfc75",
     "name": "markino94..",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "¥ Cadetto G.D. ¥",
-    "habboFigure": "hr-3786-37-45.hd-3845-19.ch-4165-82-1408.lg-4167-82.sh-3524-1408-1408",
-    "memberSince": "2008-12-03T21:13:57.000+00:00",
-    "uniqueId": "hhit-34bab8b18997f8e378351bf96d5742a9",
-    "name": "brayan102",
     "isAdmin": false
   },
   {
@@ -1160,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "angelo g.d",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-5901-95-92.lg-3282-71.sh-5671-92.ha-3709.cc-9865-92",
@@ -4000,7 +3980,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "codroipo",
     "habboFigure": "hr-830-46.hd-208-10.ch-210-1408.lg-285-64.sh-300-91.he-1608.ea-3698-1408-1408.fa-1208-83.ca-1806-80.cc-260-64",
@@ -4950,7 +4930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Drums Of Liberation",
     "habboFigure": "hr-4090-42.hd-209-1.ch-3368-81-71.lg-3596-1408-1408.sh-295-81.ha-3709.ca-4036-81.wa-3504-81.cc-3827-81-1408",
@@ -7390,7 +7370,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Apprendista novella G.d.",
     "habboFigure": "hr-890-48.hd-625-1.ch-685-64.lg-3216-1408.he-3274-1408.ea-1404-1408.fa-3276-72",
@@ -9883,7 +9863,7 @@
     "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3090-37.hd-205-1.ch-235-1408.lg-270-64.sh-290-64.ha-1014.ea-1404-64.wa-2001.cc-260-1408",
+    "habboFigure": "hr-3090-37.hd-205-1.ch-267-1408.lg-3201-64-1408",
     "memberSince": "2024-03-25T16:01:33.000+00:00",
     "uniqueId": "hhit-a97a0997091224414d0e4789c582aab6",
     "name": "Iupiter",
@@ -9997,6 +9977,26 @@
     "memberSince": "2024-04-24T19:49:09.000+00:00",
     "uniqueId": "hhit-90f35702b494856be9536c7df5791b76",
     "name": "Patato69",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "Apprendista G.D",
+    "habboFigure": "hr-890-38.hd-627-1.ch-884-91.lg-3023-88.sh-907-64.ha-1023-64",
+    "memberSince": "2024-04-24T21:10:52.000+00:00",
+    "uniqueId": "hhit-78748cedec162dcd59ea17c87d999d25",
+    "name": "Scr.federic_aa",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "Apprendista novella G.D.",
+    "habboFigure": "hr-540-35.hd-605-1.ch-820-71-81.lg-715-82.sh-907-71.ha-1013-82.he-1608",
+    "memberSince": "2024-05-01T08:40:40.000+00:00",
+    "uniqueId": "hhit-012469a6d5ddadcd9dae64d2e354d8c6",
+    "name": "Giioia9",
     "isAdmin": false
   }
 ]
