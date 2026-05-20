@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-49.hd-5913-28.lg-280-92.sh-6182.he-3740.fa-3276-1412.ca-5026-92.cc-6423-63.pt-6322",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "..",
     "habboFigure": "hr-893-37.hd-180-1370.ch-215-1408.lg-275-64.he-5482.ca-5739-64-1408",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6323-49.hd-6216-28-1364.ch-3013-110.lg-3933-1418.sh-6043.ha-6198.he-6373.fa-5467.ca-6041.wa-5370.cc-5926-110-110.pt-6070",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-26-1367.lg-6355-1427-1427.ha-6198.ea-1402.fa-6367.pt-6069.mc-6451",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Abbiamo solo una vita.  Mi manchi kook",
     "habboFigure": "hr-3829-49.hd-180-17.ch-3032-92-73.lg-285-82.sh-6182.ea-3727.fa-1203.ca-6325-92.wa-3073-90.mc-5942-110",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -1550,10 +1550,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I make no Promises",
-    "habboFigure": "hr-155-39.hd-180-8.lg-3019-1427.sh-3115-1408-1408.wa-3073-63",
+    "habboFigure": "hr-155-39.hd-180-8.ch-210-1408.lg-270-1408.sh-3115-1408-1408",
     "memberSince": "2018-11-20T22:22:30.000+00:00",
     "uniqueId": "hhit-c4c4f341929bb0f15b11669fd20f9e14",
     "name": "SkyRoom",
@@ -2563,7 +2563,7 @@
     "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3841-42.hd-3845-8.ch-5559-1408.lg-4138-64.sh-4112-1408-1408.ha-4326.he-5750-66.ea-5576-64-64.cc-3509-64-64.pt-5690-1408",
+    "habboFigure": "hr-5019-42.hd-3845-8.ch-5559-1408.lg-4138-64.sh-4112-1408-1408.he-5750-66.ea-5576-64-64.cc-3509-64-64.pt-5690-1408",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
