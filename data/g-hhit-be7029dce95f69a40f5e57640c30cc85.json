@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "YaºKuºZa Sud",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-3006-110-110.sh-5670-110.he-4977-64-100.fa-5467.wa-5986-110.pt-6077.mc-3867-110-110",
@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "donna d'onore famigghia cumanna",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-92.he-5808-63.fa-5601-92.ca-3885-110-110.cc-5926-110-1408",
@@ -4720,7 +4720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-49.hd-5913-28.lg-280-92.sh-6182.he-3740.fa-3276-1412.ca-5026-92.cc-6423-63.pt-6322",
