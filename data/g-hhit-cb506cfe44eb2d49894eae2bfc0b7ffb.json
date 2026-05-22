@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-5605-44.hd-3845-1.ch-5560-110-110.lg-3596-92-110.sh-3524-92-1408.ha-3709.he-5088.fa-5601-92.cc-5926-92-1408",
@@ -300,7 +300,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sempre nel mio cuore|||",
     "habboFigure": "hr-4941-61-55.hd-3091-1389.ch-4361-110-95.lg-3787-110-1408.sh-3587-92-92.he-3070-1321.fa-1201",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-49.hd-3845-28.ch-255-92.lg-280-106.sh-905-92.he-3740.fa-3276-1413.cp-3204",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3488.he-3740.ca-6235",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6323-49.hd-6216-28-1364.ch-3013-110.lg-3933-1418.sh-6043.ha-6198.he-6373.fa-5467.ca-6041.wa-5370.cc-5926-110-110.pt-6070",
@@ -963,7 +963,7 @@
     "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-5773-1394.hd-600-1370.ch-665-110.lg-5594-110.sh-5247-92-110.ha-4132.ea-5576-64-1408.fa-3276-1412.ca-6325-1422.cc-5926-82-82.pt-6322",
+    "habboFigure": "hr-5773-1394.hd-600-1370.ch-665-110.lg-5594-110.sh-5247-92-110.ha-4132.he-3557.ea-5576-64-1408.fa-3276-1412.ca-6325-1422.cc-5926-82-82.pt-6322",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -1010,10 +1010,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1405.hd-195-18.ch-5856.lg-5594-1334.sh-6043.he-3070-92.cp-5883-1427",
+    "habboFigure": "hr-828-1405.hd-195-18.ch-5856.lg-5594-1334.sh-6043.he-3070-92.cp-5883-1427.pt-6342",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo.",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alastor GD",
     "habboFigure": "hr-6313-40.hd-6219-2-1365.ch-3030-64.lg-3384-64-110.sh-3383-64-110.he-3820-64.ca-4936.wa-3264-110-1408.cc-4978-100-110",
@@ -2570,7 +2570,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Amo la neve e la sua semplicitá",
     "habboFigure": "hr-6434-45.hd-600-1.ch-665-1337.lg-5594-110.sh-3089-110.he-5808-100.ca-6380-1325-1408.cc-4108-74-1408",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "aiutante  G.D.",
     "habboFigure": "hr-3841-42.hd-209-8.ch-6378-82.lg-4138-64.sh-4112-1408-72.he-4022.pt-6322",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3841-42.hd-209-8.ch-5833-82-1408.lg-4138-82.sh-3419-1408-64.he-1609-81",

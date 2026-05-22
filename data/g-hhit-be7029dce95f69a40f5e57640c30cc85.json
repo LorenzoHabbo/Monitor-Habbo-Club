@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-5605-44.hd-3845-1.ch-5560-110-110.lg-3596-92-110.sh-3524-92-1408.ha-3709.he-5088.fa-5601-92.cc-5926-92-1408",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Habbo Rewind|",
     "habboFigure": "hr-5681-45-40.hd-600-1.ch-3399-88-88.lg-700-82.sh-5671-91.fa-3276-72.wa-2001",
@@ -4720,7 +4720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-49.hd-3845-28.ch-255-92.lg-280-106.sh-905-92.he-3740.fa-3276-1413.cp-3204",
@@ -5470,7 +5470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6323-49.hd-6216-28-1364.ch-3013-110.lg-3933-1418.sh-6043.ha-6198.he-6373.fa-5467.ca-6041.wa-5370.cc-5926-110-110.pt-6070",
@@ -5963,7 +5963,7 @@
     "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-5773-1394.hd-600-1370.ch-665-110.lg-5594-110.sh-5247-92-110.ha-4132.ea-5576-64-1408.fa-3276-1412.ca-6325-1422.cc-5926-82-82.pt-6322",
+    "habboFigure": "hr-5773-1394.hd-600-1370.ch-665-110.lg-5594-110.sh-5247-92-110.ha-4132.he-3557.ea-5576-64-1408.fa-3276-1412.ca-6325-1422.cc-5926-82-82.pt-6322",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
@@ -6180,10 +6180,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-1405.hd-195-18.ch-5856.lg-5594-1334.sh-6043.he-3070-92.cp-5883-1427",
+    "habboFigure": "hr-828-1405.hd-195-18.ch-5856.lg-5594-1334.sh-6043.he-3070-92.cp-5883-1427.pt-6342",
     "memberSince": "2014-05-13T21:13:42.000+00:00",
     "uniqueId": "hhit-9e4cd23675e27e7135587581bf429200",
     "name": "Nelend",
@@ -8530,7 +8530,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3528-71-73.lg-3526-73-71.sh-3621-71-73.he-6360.ea-1401-71",
