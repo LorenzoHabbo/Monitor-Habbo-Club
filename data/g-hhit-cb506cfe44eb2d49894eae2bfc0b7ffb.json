@@ -130,9 +130,9 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
-    "motto": "donna d'onore famigghia cumanna",
+    "motto": "",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-1408.lg-710-64.sh-5803-92.he-5808-63.fa-5601-92.ca-3885-110-110.cc-5926-110-1408",
     "memberSince": "2008-04-14T16:54:21.000+00:00",
     "uniqueId": "hhit-372639b9b03b73297fca830a8e4318cc",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-49.hd-3845-28.ch-255-92.lg-280-106.sh-905-92.he-3740.fa-3276-1413.cp-3204",
@@ -1320,7 +1320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-5596-71.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-3344-110.ca-3217-1408-1408.wa-2008.cc-5558-110-1408",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "— CHOOM ~ BABYMONSTER—",
     "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-255-1413.lg-6355-110-1413.sh-5639.he-6444-1413.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6322.mc-6448",
@@ -1880,7 +1880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥",
     "habboFigure": "hr-6211-61-1407.hd-615-10.ch-5919-110-92.lg-710-64.sh-5803-92.he-3891.fa-5600-92",
@@ -1940,7 +1940,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alastor GD",
     "habboFigure": "hr-6313-40.hd-6219-2-1365.ch-3030-64.lg-3384-64-110.sh-3383-64-110.he-3820-64.ca-4936.wa-3264-110-1408.cc-4978-100-110",
@@ -2212,7 +2212,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "cercatore di rifugio Shibuya",
+    "motto": "Esploratore Urbano Shibuya",
     "habboFigure": "hr-828-61.hd-3094-18.ch-5833-91-110.lg-3290-110.sh-3016-92.he-3070-110.ea-1402.fa-3276-1331",
     "memberSince": "2022-05-17T07:25:47.000+00:00",
     "uniqueId": "hhit-3e92f4d8e39e731b6d8a8f943f243aaf",
