@@ -171,16 +171,6 @@
   },
   {
     "online": false,
-    "gender": "f",
-    "motto": "YaºKuºZa Sud",
-    "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-3006-110-110.sh-5670-110.he-4977-64-100.fa-5467.wa-5986-110.pt-6077.mc-3867-110-110",
-    "memberSince": "2006-07-08T00:15:54.000+00:00",
-    "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
-    "name": "-Angel-",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "m",
     "motto": "from the stars",
     "habboFigure": "hd-180-14.ch-215-1408.lg-280-1408.sh-906-1408.ha-1004-1408.ea-1404-1408.cc-5926-64-1408",
@@ -1620,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-39.hd-3095-1370.ch-3038-92.lg-3078-110.sh-906-92.ha-6422.he-5578-1408.ea-1404-110.fa-1201.ca-5705.wa-2011.cc-6423-63.cp-3125-110.pt-6299-92-96",
@@ -6013,7 +6003,7 @@
     "online": true,
     "gender": "m",
     "motto": "PLUS ULTRAAAAAAAA!",
-    "habboFigure": "hr-3860-40-40.hd-180-14.ch-3030-1408.lg-3116-1408-1408.sh-3587-1408-1408.ha-3586.he-6377.fa-5975.pt-6299-1408-1408",
+    "habboFigure": "hr-3860-40-40.hd-180-14.ch-3030-1408.lg-3116-1408-1408.sh-3587-1408-1408.ha-3586.he-5808-1408.fa-5975.ca-5502.pt-6299-1408-1408",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -6220,10 +6210,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
-    "habboFigure": "hd-6361-26-1367.lg-6355-1427-1427.ha-6198.ea-1402.fa-6367.cp-3312.pt-6069",
+    "habboFigure": "hd-6361-26-1367.lg-6355-1427-1427.ha-6198.ea-1402.cp-3312.pt-6069",
     "memberSince": "2013-10-14T19:08:30.000+00:00",
     "uniqueId": "hhit-16e8bfb7bbe99b9bbf193923136cf672",
     "name": "A-N-D-R-E-Z",
@@ -9030,7 +9020,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -9997,6 +9987,16 @@
     "memberSince": "2017-01-08T19:14:25.000+00:00",
     "uniqueId": "hhit-d2746b75c812c3bfafefff887556cea8",
     "name": "lalustr00",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Legend Of Habbo Calcio",
+    "habboFigure": "hr-891-37.hd-208-1370.ch-3111-82-1408.lg-3116-81-1408.sh-3115-64-73.ha-1003-80.fa-1206-64",
+    "memberSince": "2017-01-10T13:07:52.000+00:00",
+    "uniqueId": "hhit-c500d0780ee220f52668f0ea25c62bc2",
+    "name": "AndryCata.",
     "isAdmin": false
   }
 ]
