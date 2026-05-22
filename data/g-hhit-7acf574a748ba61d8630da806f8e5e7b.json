@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3488.he-3740.ca-6235",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3528-71-73.lg-3526-73-71.sh-3621-71-73.he-6360.ea-1401-71",
@@ -1270,10 +1270,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-6034-1407-41.hd-5525-26-28.ch-3934-64-64.lg-5594-110.sh-3587-92-92.he-5393.ea-5392.fa-5948-92.ca-5936-92.wa-5986-110.cc-5926-110-92.cp-3122-80",
+    "habboFigure": "hr-6034-1407-41.hd-190-26.ch-3934-64-64.lg-5594-110.sh-3587-92-92.ha-3677.he-5393.ea-5576-64-64.fa-5948-92.wa-5986-110.cc-5485-92-110.cp-3122-80",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6434-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-3833-1321.pt-6442",
