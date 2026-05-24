@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-828-49.hd-3845-28.ch-255-92.lg-280-106.sh-905-92.he-3740.fa-3276-1413.cp-3204.pt-6322",
@@ -2800,7 +2800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3841-42.hd-209-8.ch-5833-82-1408.lg-4138-82.sh-3419-1408-64.he-1609-81",
