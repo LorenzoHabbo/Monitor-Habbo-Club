@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Ti passo a prendere sopra un Mercedes",
     "habboFigure": "hr-3163-45.hd-180-10.ch-3059-110.lg-275-110.sh-3587-1331-1408.ha-3242-64-1331.he-6443.fa-3193-110.ca-5136.cc-3326-1331-1331.pt-6442.mc-6410-1422",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6436.ch-5559-63.lg-3136-1338.sh-6182.ha-6422.he-6384-1421.fa-6367.wa-6385-1340.cc-6423-1335.pt-6322.mc-6424-63",
@@ -1290,7 +1290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4118-44.hd-3631-1-14.ch-5302-82-81.lg-695-71.sh-735-81.he-5618-81",
