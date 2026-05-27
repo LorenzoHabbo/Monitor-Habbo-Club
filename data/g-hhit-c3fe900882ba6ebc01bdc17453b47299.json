@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-893-42.hd-207-10.ch-3342-64-90.lg-3320-82-1408.ha-4196.he-3557.fa-3344-64",
@@ -1080,7 +1080,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "— CHOOM ~ BABYMONSTER—",
     "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-255-1413.lg-6355-110-1413.sh-5639.he-6444-1413.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6322.mc-6448",
