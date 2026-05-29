@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "YaºKuºZa Sud",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-3006-110-110.sh-5670-110.he-5457-92.fa-5467.pt-6077.mc-3867-110-110",
@@ -1210,7 +1210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-6002.ch-5258.lg-5584.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
@@ -1690,7 +1690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-39.hd-3095-1370.ch-3038-92.lg-3078-110.sh-906-92.ha-6422.he-5578-1408.fa-6450-96.ca-5705.wa-2011.cc-6423-63.cp-3125-110.pt-6299-92-96",
@@ -5320,7 +5320,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " Masarez",
     "habboFigure": "hr-5680-1398.hd-5683-1391.ch-3013-1408.lg-5970-1338.sh-3089-100.he-3660-92-110.fa-3276-73.wa-3212-110-1427.cc-5926-100-1408",
