@@ -110,7 +110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "half angel half devil.",
     "habboFigure": "hr-545-42.hd-605-10.ch-660-1408.lg-3116-64-1408.ha-4006",
@@ -490,7 +490,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-6002.ch-5258.lg-5584.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-5019-39.hd-3095-1370.ch-3038-92.lg-3078-110.sh-906-92.ha-6422.he-5578-1408.fa-6450-96.ca-5705.wa-2011.cc-6423-63.cp-3125-110.pt-6299-92-96",
@@ -2490,10 +2490,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Klefo è qui",
-    "habboFigure": "hr-3090-35.hd-208-20.ch-3030-1408.lg-270-82.sh-3068-1408-80",
+    "habboFigure": "hr-3090-32.hd-208-1370.ch-3030-1408.lg-270-82.sh-3068-1408-80",
     "memberSince": "2013-06-01T17:58:23.000+00:00",
     "uniqueId": "hhit-98210f077bf334bc1cf3b74a75575e71",
     "name": "Klefo",
@@ -2623,7 +2623,7 @@
     "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
-    "habboFigure": "hr-5773-1394.hd-600-1379.ch-660-110.lg-5594-1334.sh-5247-92-110.ha-3677.he-3557.fa-3276-95.ca-5249-94-110.pt-6166-1413-92",
+    "habboFigure": "hr-5773-1394.hd-600-1370.ch-665-110.lg-5594-110.sh-5247-92-110.ha-4132.ea-5576-64-1408.fa-3276-1412.ca-6325-1422.cc-5926-82-82.pt-6322",
     "memberSince": "2013-11-30T22:27:52.000+00:00",
     "uniqueId": "hhit-5ebefde2c30629a2a6993320e0326b17",
     "name": "Moonkey",
