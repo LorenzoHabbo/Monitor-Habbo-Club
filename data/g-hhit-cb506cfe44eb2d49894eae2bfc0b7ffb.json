@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -670,7 +670,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "La vostra invidia è la mia forza.",
     "habboFigure": "hr-831-1407.hd-180-22.ch-210-1427.lg-275-92.sh-5247-92-110.ha-3612-1408.fa-3276-63.ca-5026-92.pt-6322.mc-3867-110-92",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6436.ch-5559-63.lg-3136-74.sh-6182.ha-6422.he-6390-77.wa-6385-74.cc-6423-1335.pt-6383-92-1427.mc-6424-63",
@@ -1272,7 +1272,7 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "ª apprendista novello G.D. ª",
+    "motto": "ª Vicario Semplice G.D. ª",
     "habboFigure": "hr-890-44.hd-600-1.ch-822-73.lg-3216-82",
     "memberSince": "2016-07-26T12:15:48.000+00:00",
     "uniqueId": "hhit-4372dcef4ffb3e06174c413d64c7b09a",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio.",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I make no Promises",
     "habboFigure": "hr-155-39.hd-180-8.lg-3019-1427.sh-3115-1408-1408.wa-3073-63",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "scrivo veleno in chat ma poi non invio",
     "habboFigure": "hr-3520-61.hd-3721-1392.ch-3486-96-110.lg-3483-73-110.sh-5803-1408.he-3740.ea-3978-96-110.fa-5601-1408.pt-5961-96-96.mc-5810-92",
@@ -2790,7 +2790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "aiutante  G.D.",
     "habboFigure": "hr-3841-42.hd-209-8.ch-5216-82-82.lg-6089-82-1408.sh-4112-1408-72.he-4022.pt-6322",
