@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G.D.",
     "habboFigure": "hd-6002.ch-5258.lg-5584.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
@@ -310,7 +310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5019-45.hd-3845-8.ch-4190-73-73.lg-4191-73-73.sh-300-1408.ha-4188-73.he-1608.fa-3344-64.ca-1801-80",
@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-61.hd-180-1379.ch-3167.lg-3596-110-92.ha-6422.he-3082-1417.ea-3148-110-92.fa-3276-1413.ca-3883.cc-6423-1417.pt-6442",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Daimyō ºFoderi Rossiº fon.IOH",
     "habboFigure": "hr-6397-61.hd-180-1391.ch-3432-110-110.lg-3057-1427.sh-3035-110.ha-3054-1408-110.fa-6398-110.cc-886-110",
@@ -2560,10 +2560,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-5210-42-40.hd-3845-8.ch-5596-1408.lg-6089-1408-64.sh-5247-1408-64.ha-4006.he-5578-1408.ea-6447-81",
+    "habboFigure": "hr-4941-42-40.hd-3845-8.ch-5596-1408.lg-6089-1408-64.sh-5247-1408-64.ha-4006.he-5578-1408.ea-6447-81.pt-5690-1408",
     "memberSince": "2024-04-10T00:51:42.000+00:00",
     "uniqueId": "hhit-3ec53112e10b0fb7f34c40748a5f4516",
     "name": "Highest",
