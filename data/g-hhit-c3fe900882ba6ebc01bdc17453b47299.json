@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Habbo Rewind|",
     "habboFigure": "hr-5681-45-40.hd-600-1.ch-3399-88-88.lg-700-82.sh-5671-91.fa-3276-72.wa-2001",
@@ -342,8 +342,8 @@
   {
     "online": false,
     "gender": "f",
-    "motto": "",
-    "habboFigure": "hr-5579-40.hd-627-10.ch-4067-1408-73.lg-5594-82.sh-6181-64.he-3329-73-73.fa-3378-64-1408",
+    "motto": "QUIT PROFILE",
+    "habboFigure": "hr-545-45.hd-629-1.ch-685-1408.lg-700-1408",
     "memberSince": "2011-05-25T15:01:23.000+00:00",
     "uniqueId": "hhit-fa2103651f11bd74976d551d8680239a",
     "name": "VeroChiocciola",
@@ -1380,7 +1380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " Daimyō ºFoderi Rossiº fon.IOH",
     "habboFigure": "hr-6397-40.hd-180-1391.ch-3432-110-110.lg-3057-1427.sh-3035-110.ha-3054-1408-110.fa-6398-1408.cc-886-110",
@@ -1977,6 +1977,16 @@
     "memberSince": "2023-10-03T12:39:48.000+00:00",
     "uniqueId": "hhit-68d6ad60dd3edabf6de38d1e884ee8e1",
     "name": "PiccolaStrega",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "QUIT PROFILE",
+    "habboFigure": "hr-545-45.hd-629-1.ch-685-1408.lg-700-1408",
+    "memberSince": "2025-08-18T12:13:32.000+00:00",
+    "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
+    "name": "Morphiine",
     "isAdmin": false
   }
 ]
