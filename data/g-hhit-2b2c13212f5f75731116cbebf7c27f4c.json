@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Amo la vita!",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -1140,7 +1140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "angelo g.d",
     "habboFigure": "hr-5617-1344-40.hd-3100-8.ch-3005-92-92.lg-5582-106-92.sh-5671-92.ha-3709",
@@ -2070,10 +2070,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Studioso delle arti 1p  g.d.",
-    "habboFigure": "hr-3163-1404.hd-6361-1-30.ch-5830-92.lg-4373.sh-5803-92.ha-5846.fa-5600-1408.ca-5549-64-106.mc-6410-106",
+    "habboFigure": "hr-3163-1404.hd-6361-1-27.ch-3110-92-92.lg-5594-1427.sh-3035-89.ha-3986.he-3070-1408.fa-5600-92.ca-5549-64-86.cc-6163-89.mc-6410-89",
     "memberSince": "2012-04-07T11:39:51.000+00:00",
     "uniqueId": "hhit-bf41622d5f20e1287093eec8d73841f6",
     "name": "daniele03907",
@@ -2310,7 +2310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "SEntinella Semplice  G.D..",
     "habboFigure": "hr-5503-38.hd-209-8.ch-4165-82-84.lg-4167-76.sh-3115-64-1408.ea-3484.ca-1812.wa-2006",
@@ -2620,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| ASTRO DEL MATTINO 1 P | G D ||",
     "habboFigure": "hr-5680-36.hd-629-19.ch-4087-1326.lg-3787-1326-1408.he-3082-92",
@@ -2913,7 +2913,7 @@
     "online": false,
     "gender": "m",
     "motto": "BuilderDesigner©®™",
-    "habboFigure": "hr-3260-1407.hd-3103-1359.ch-3323-110-110.lg-3057-110.sh-3089-110.ha-1002-110.ea-1401-110.fa-5636-110.ca-3084-110-110",
+    "habboFigure": "hr-3260-1407.hd-3103-1359.ch-3323-110-110.lg-3057-110.sh-3027-110-92.ha-1002-110.ea-1401-110.fa-5636-110",
     "memberSince": "2015-04-22T14:21:58.000+00:00",
     "uniqueId": "hhit-558183d112426b4f79f09868fe04e574",
     "name": "-Uzumaki",
@@ -4050,7 +4050,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "codroipo",
     "habboFigure": "hr-3020-34.hd-208-10.ch-4367-84.lg-3116-72-72.sh-905-74.he-1608.ea-3698-1408-1408.fa-1208-83.ca-1806-80",
@@ -4060,7 +4060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Maestro G.D! Life is a gift",
     "habboFigure": "hr-4941-1394-40.hd-3102-22.ch-3779-110-92.lg-3257-110.sh-3089-110.ha-3986.ea-5897-63-1408.fa-3276-72.ca-3187-92.cc-3635-1331-110",
@@ -6550,7 +6550,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Specialista di Picche Shibuya",
     "habboFigure": "hr-828-61.hd-3094-18.ch-5833-91-110.lg-3290-110.sh-3016-92.he-3070-110.ea-1402.fa-3276-1331",
@@ -9840,7 +9840,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| Occupato",
     "habboFigure": "hr-5680-1395.hd-600-10.ch-3045-1417.lg-5970-1426.sh-5464-1339-76.he-3660-110-1408.ea-3484",
