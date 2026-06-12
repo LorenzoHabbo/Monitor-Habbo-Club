@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -1100,7 +1100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3077-1408-110.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-3344-110",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".:[ M ]:.",
     "habboFigure": "hr-828-59.hd-3721-2.ch-3934-92-110.lg-285-110.sh-3206-63.he-3070-92.fa-3276-72.ca-3844-1428-110.wa-4060-110-110",
@@ -1510,7 +1510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)= rec. ph",
     "habboFigure": "hr-6323-34.hd-3845-10.ch-6011-1408-73.lg-6013-73-73.sh-4159-64-64.he-6308-68.fa-3276-72.pt-6322",
