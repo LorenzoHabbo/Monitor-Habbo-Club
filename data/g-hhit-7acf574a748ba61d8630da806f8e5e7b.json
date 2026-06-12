@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-4370-45.hd-3095-1370.ch-3208-92-1408.lg-3078-110.sh-906-92.ha-3352-110-1408.he-5088.ea-1404-92.fa-3344-64.ca-6380-96-1408.wa-2005.cc-4979-110.cp-3125-110.mc-6437-110-96",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -770,7 +770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1370.ch-665-110.lg-5594-110.sh-5247-92-110.ha-4132.ea-5576-64-1408.fa-3276-1412.ca-6325-1422.pt-6322",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sto a lavoro",
     "habboFigure": "hr-3860-1404-1404.hd-3721-18.ch-5830-66.lg-5594-66.sh-3275-66.ha-5832-66.he-5577-66-1408.ea-5576-1408-1408.mc-5808-110",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6434-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-3833-1321.pt-6442",
