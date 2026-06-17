@@ -70,10 +70,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ti guardo e wow che follia sei",
-    "habboFigure": "hr-5773-42.hd-627-10.ch-665-92.lg-5594-1428.sh-3206-92.ha-5468-110-1408.he-6066-1408.fa-5601-1408.mc-5808-1408",
+    "habboFigure": "hr-5773-42.hd-627-10.ch-665-92.lg-5594-1428.sh-3206-92.ha-5468-110-1408.fa-5601-1408.mc-5808-1408",
     "memberSince": "2008-04-14T16:54:21.000+00:00",
     "uniqueId": "hhit-372639b9b03b73297fca830a8e4318cc",
     "name": "princess687",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-4370-45.hd-3095-1370.ch-3208-92-1408.lg-3078-110.sh-906-92.ha-3352-110-1408.he-5088.ea-1404-92.fa-3344-64.ca-6380-96-1408.wa-2005.cc-4979-110.cp-3125-110",
@@ -1980,7 +1980,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "empty",
     "habboFigure": "hr-4363-1350-1350.hd-627-2.ch-665-1425.lg-5594-1418.fa-3378-110-110.mc-5800-92-92",
