@@ -1630,7 +1630,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-4370-45.hd-3095-1370.ch-3208-92-1408.lg-3078-110.sh-906-92.ha-3352-110-1408.he-5088.ea-1404-92.fa-3344-64.ca-6380-96-1408.wa-2005.cc-4979-110.cp-3125-110",
@@ -3390,10 +3390,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "not really",
-    "habboFigure": "hr-3602-32-45.hd-3845-1.ch-6476-110-110.lg-3418-64.sh-5032.ca-5936-92",
+    "habboFigure": "hr-3602-32-45.hd-3845-1.ch-6476-110-110.lg-3418-1409.sh-5032",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -5680,7 +5680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6436.ch-5559-63.lg-3136-1427.sh-6182.ha-6422.he-3740.fa-6367.wa-6385-92.cc-6423-1335.pt-6383-1408-1408.mc-6424-76",
@@ -6230,7 +6230,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-26-1367.lg-6355-1427-1427.ha-6198.ea-1402.cp-3312.pt-6069",
