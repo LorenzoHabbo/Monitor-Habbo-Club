@@ -810,7 +810,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hd-180-14.ch-210-1408.lg-280-1408.ha-5832-1408.ea-1404-1408",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio.",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante  G.D.",
     "habboFigure": "hr-3163-42.hd-3091-8.ch-803-110.lg-6089-92-106.sh-3154-92-106.ca-1816.pt-6322",
