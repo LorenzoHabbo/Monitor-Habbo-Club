@@ -70,10 +70,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "YaºKuºZa Sud",
-    "habboFigure": "hr-6211-49-49.hd-6216-10-29.ch-5907-92-92.lg-5243-77.sh-3206-92.ha-5460-68-1433.ea-3108-92-92.fa-5467.wa-3798-95-104.pt-6383-1323-1410",
+    "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-3006-110-110.sh-5670-110.he-4977-64-1415.fa-5467.wa-5986-64.pt-6077.mc-3867-110-110",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -4320,7 +4320,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "afk dalla vita",
     "habboFigure": "hr-3860-1404-1404.hd-3721-18.ch-6353.lg-5594-1338.sh-6182.ha-5087.he-3740.cc-4979-92.pt-5961-1409-1408.mc-5800-110-1412",
@@ -6223,7 +6223,7 @@
     "online": false,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6434-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-3833-1321.pt-6383-1328-1328",
+    "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-6039.lg-3047-1336.sh-907-110.ha-6037.he-3833-1321.ca-6041.pt-6442",
     "memberSince": "2022-01-12T20:07:36.000+00:00",
     "uniqueId": "hhit-7645477e8e1f3a8bbaf64e6f8b929d24",
     "name": "JapaneseCherry",
@@ -9111,16 +9111,6 @@
   },
   {
     "online": false,
-    "gender": "m",
-    "motto": "carabiniere A.C.H.",
-    "habboFigure": "hd-180-10.ch-215-85.lg-3078-64.sh-906-1408.ha-1003-85.he-1608.cc-3294-84-1408",
-    "memberSince": "2023-10-26T16:12:11.000+00:00",
-    "uniqueId": "hhit-c09641479248477e3963213863c4e124",
-    "name": "habbo-9-1-6",
-    "isAdmin": false
-  },
-  {
-    "online": false,
     "gender": "f",
     "motto": "apprendista novella G.D.",
     "habboFigure": "hr-681-42.hd-625-1.ch-665-73.lg-3078-68.sh-735-1408.ha-4006.wa-2009-68",
@@ -9997,6 +9987,16 @@
     "memberSince": "2024-04-09T17:51:59.000+00:00",
     "uniqueId": "hhit-88ba5bcf373b328673031d55d20a0fa3",
     "name": "KrisiTheKid",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "Apprendista Novello G.D",
+    "habboFigure": "hr-3841-34.hd-180-1.ch-255-82.lg-3449.sh-906-1408.ca-3425-66-1320.cc-3448.cp-3124-1408",
+    "memberSince": "2024-04-10T15:40:23.000+00:00",
+    "uniqueId": "hhit-7f0f441844535df0663e51831ca2afec",
+    "name": "@Finuccio@",
     "isAdmin": false
   }
 ]
