@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3095-1370.ch-3038-110.lg-3078-1408.sh-3089-110.ha-3494-92-110.he-3070-1408.ea-3168-80.fa-1201.wa-2012.cc-4979-1408.cp-3205.pt-6077",
@@ -880,7 +880,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3836-71-73.lg-3526-73-71.sh-3621-71-73.ea-1401-71",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio.",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -1270,7 +1270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "afk dalla vita",
     "habboFigure": "hr-3860-1404-1404.hd-3721-18.ch-6353.lg-5594-1338.sh-6182.ha-5087.he-3740.cc-4979-92.pt-5961-1409-1408.mc-5800-110-1412",
@@ -1283,7 +1283,7 @@
     "online": false,
     "gender": "m",
     "motto": "Haud facile astutus fallit astutum",
-    "habboFigure": "hr-3860-42-42.hd-5525-26-27.ch-3934-110-110.lg-3933-64.sh-3587-92-92.ha-3855-110.he-3732.fa-5948-92.mc-5800-63-63",
+    "habboFigure": "hr-6034-1407-41.hd-5525-26-28.ch-210-110.lg-5594-110.sh-3587-92-92.he-5643.ea-5392.fa-5948-92.ca-5936-92",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -1300,7 +1300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": ".",
     "habboFigure": "hr-4118-44.hd-3631-1-14.ch-650-81.lg-3526-81-82.sh-730-81.he-6215-81",
@@ -1470,7 +1470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "— SUGAR HONEY ICE TEA —",
     "habboFigure": "hr-5124-49.hd-5524-2-1365.ch-255-1413.lg-6355-110-1413.sh-5639.he-6444-1413.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6322.mc-6448",
@@ -1800,10 +1800,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
-    "habboFigure": "hr-6434-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.he-3833-1321.pt-6383-97-97",
+    "habboFigure": "hr-5773-54.hd-4383-1-1368.ch-5030-97-97.lg-3047-1336.sh-907-97.ha-5087.pt-6383-97-97",
     "memberSince": "2022-01-12T20:07:36.000+00:00",
     "uniqueId": "hhit-7645477e8e1f3a8bbaf64e6f8b929d24",
     "name": "JapaneseCherry",
