@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3095-1370.ch-3038-110.lg-3078-1408.sh-3089-110.ha-3494-92-110.he-3070-1408.ea-3168-80.wa-2012.cc-4979-1408.cp-3205.pt-6077",
@@ -1977,6 +1977,16 @@
     "memberSince": "2023-10-03T12:39:48.000+00:00",
     "uniqueId": "hhit-68d6ad60dd3edabf6de38d1e884ee8e1",
     "name": "PiccolaStrega",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "",
+    "habboFigure": "hr-4363-1353-1346.hd-600-1.ch-665-110.lg-3483-110-110.sh-6181-92.he-3082-92.fa-5467.mc-5800-92-92",
+    "memberSince": "2025-08-18T12:13:32.000+00:00",
+    "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
+    "name": "Morphiine",
     "isAdmin": false
   }
 ]
