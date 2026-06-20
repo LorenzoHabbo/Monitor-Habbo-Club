@@ -50,7 +50,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Spia GD",
     "habboFigure": "hr-4363-37-37.hd-4383-1-12.ch-4067-81-1408.lg-4119.sh-730-81.ea-3727",
@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "YaºKuºZa Sud",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-3006-110-110.sh-5670-110.he-4977-64-1415.fa-5467.wa-5986-64.pt-6077.mc-3867-110-110",
@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "In Habbo dal 2007! Sentinella GD",
     "habboFigure": "hr-125-39.hd-209-1381.ch-3185-84.lg-281-82.sh-3154-1408-1408.ha-4050.he-3324-72-73.ca-6380-68-1408",
@@ -427,6 +427,16 @@
     "memberSince": "2009-01-25T14:50:05.000+00:00",
     "uniqueId": "hhit-c68adca61c935b412e359f7ad6ef78ce",
     "name": "@rim@moi",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "apprendista G.D.",
+    "habboFigure": "hr-802-32.hd-180-1.ch-3030-82.lg-270-82.sh-305-1408.ca-3425-66-1408",
+    "memberSince": "2009-01-29T17:32:31.000+00:00",
+    "uniqueId": "hhit-d8ee3f738afbbd0540b4a87c0db4601d",
+    "name": "maicon1992",
     "isAdmin": false
   },
   {
@@ -2610,7 +2620,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "| ASTRO DEL MATTINO 1 P | G D ||",
     "habboFigure": "hr-5680-36.hd-629-19.ch-5998-1326.lg-4369-1326-1408.sh-6181-1326.he-3181-92",
@@ -5050,7 +5060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)= rec. ph",
     "habboFigure": "hr-6323-34.hd-3845-10.ch-6011-1408-73.lg-6013-73-73.sh-4159-64-64.he-6308-68.fa-3276-72.pt-6322",
@@ -5593,7 +5603,7 @@
     "online": false,
     "gender": "m",
     "motto": "Alastor GD",
-    "habboFigure": "hr-5791-1404.hd-6219-2-1365.ch-3806-92.lg-6089-1328-92.sh-3206-1414.he-3660-1323-1323.fa-3344-1409",
+    "habboFigure": "hr-3531-1404-1404.hd-6219-2-1365.ch-3806-92.lg-6089-1328-92.sh-3206-1414.he-3660-1323-1323.fa-3344-1409",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -7133,7 +7143,7 @@
     "online": false,
     "gender": "f",
     "motto": "apprendista novella gd",
-    "habboFigure": "hr-3020-45.hd-600-1.ch-685-66.lg-700-66.sh-730-91.wa-2007",
+    "habboFigure": "hr-545-45.hd-600-1.ch-685-66.lg-700-66",
     "memberSince": "2022-11-10T17:13:25.000+00:00",
     "uniqueId": "hhit-1aaadbcac2967a0673d867192f5e21c2",
     "name": "Wihelmina",
@@ -9987,16 +9997,6 @@
     "memberSince": "2024-04-09T17:51:59.000+00:00",
     "uniqueId": "hhit-88ba5bcf373b328673031d55d20a0fa3",
     "name": "KrisiTheKid",
-    "isAdmin": false
-  },
-  {
-    "online": false,
-    "gender": "m",
-    "motto": "Apprendista Novello G.D",
-    "habboFigure": "hr-3841-34.hd-180-1.ch-255-82.lg-3449.sh-906-1408.ca-3425-66-1320.cc-3448.cp-3124-1408",
-    "memberSince": "2024-04-10T15:40:23.000+00:00",
-    "uniqueId": "hhit-7f0f441844535df0663e51831ca2afec",
-    "name": "@Finuccio@",
     "isAdmin": false
   }
 ]
