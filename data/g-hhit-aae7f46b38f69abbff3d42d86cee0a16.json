@@ -1,6 +1,6 @@
 [
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "YaºKuºZa Sud",
     "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-4166-64-92.lg-4369-64-64.sh-5670-110.ha-6014-64-110.fa-5467.ca-3413-92.wa-3427-63-1408.cc-5951-110.mc-4091-110",
@@ -80,7 +80,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3090-1396.hd-3095-1370.ch-3038-110.lg-3384-1408-1408.sh-3383-110-1408.ha-3382-92-110.he-3070-1408.ea-3168-80.wa-2012.cc-3380-1408-1408.cp-3205.pt-6077",
@@ -210,7 +210,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6436.ch-5559-63.lg-3136-1427.sh-6182.ha-6422.he-3740.fa-6367.wa-6385-92.cc-6423-1335.pt-6383-1408-1408.mc-6424-76",
