@@ -500,7 +500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3163-1403.hd-180-1379.ch-3032-92-1408.lg-3078-89.ha-3709.he-3070-92.fa-3276-1323.cc-6163-1425",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-28.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -1810,7 +1810,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sopravvissuto the 100",
     "habboFigure": "hr-3090-37.hd-209-1.ch-255-85.lg-3023-82.sh-3524-64-64.mc-5942-88",
