@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte",
     "habboFigure": "hr-3673-1394.hd-3095-2.ch-3110-110-110.lg-275-110.sh-295-110.fa-1204.cp-3311-93",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6063-1395.hd-629-8.ch-3213-92-95.lg-3136-95.sh-6064-95-110.mc-5461-92-95",
@@ -1430,10 +1430,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "due ali",
-    "habboFigure": "hr-3746-48.hd-3845-10.ch-6388-1408-64.lg-3116-64-1408.sh-3338-64.he-5577-84-1408.fa-3378-64-1408.cc-5926-64-1408",
+    "habboFigure": "hr-3746-48.hd-3845-10.ch-4111-64.lg-3116-64-1408.fa-3378-64-1408",
     "memberSince": "2020-03-13T15:00:38.000+00:00",
     "uniqueId": "hhit-1d3498788859f0f0e5327d2c8c7bdf23",
     "name": "riccardomel",
