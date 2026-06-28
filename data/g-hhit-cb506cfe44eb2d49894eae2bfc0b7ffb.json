@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER!",
     "habboFigure": "hr-3260-1407.hd-3095-1370.ch-3167.lg-3384-1408-110.sh-3383-110-1408.ha-3690-96.he-1601.ea-1404-92.fa-1201.ca-3691-1321-110.wa-2002.cc-4979-92.cp-3125-1408.pt-6077",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "fashion polizei",
     "habboFigure": "hr-6323-45.hd-615-10.ch-3417-82-1408.lg-710-82.sh-5803-1408.he-3958-82.fa-5467.mc-5810-1408",
@@ -1310,7 +1310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-61.hd-209-8.ch-3077-1408-110.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-3344-110",
@@ -1593,7 +1593,7 @@
     "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
-    "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-89.he-3070-92.ea-3168-106.fa-5435.ca-4372-93.wa-5676",
+    "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-89.he-3070-92.ea-3959.fa-5435.ca-4372-93.wa-5676",
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Chi sono io?",
     "habboFigure": "hr-3990-40-40.hd-3537-14.ch-210-1408.lg-4138-64.sh-5295.ha-4195.he-5644.ea-3960.fa-5975.ca-5273-1408-64.cc-5286.pt-5826-64",
