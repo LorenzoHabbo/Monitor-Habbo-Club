@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Viva la vita!",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5801-49-57.hd-6436.lg-3136-92.he-3740.fa-6367.pt-6383-1408-1408",
@@ -1240,7 +1240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥Scrittrice&Builder¥",
     "habboFigure": "hr-4363-1397-1398.hd-3631-1389-30.ch-5607-110.lg-6017-104-1408.he-6215-104.ea-1402.fa-3276-1328.ca-3989-92-110.cp-3285-92",
@@ -1400,7 +1400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-14.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -1580,7 +1580,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas .",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-89.he-3070-92.ea-3959.fa-5435.ca-4372-93.wa-5676",
@@ -2770,10 +2770,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante  G.D.",
-    "habboFigure": "hr-3163-61.hd-180-8.ch-3185-92.lg-6089-106-110.sh-4112-92-1408.ca-1816.pt-6322",
+    "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-6089-106-110.sh-4112-110-106.ca-1816.pt-6322",
     "memberSince": "2025-05-07T11:16:49.000+00:00",
     "uniqueId": "hhit-de8e2328ed3f3e1c7b894290877d8369",
     "name": ".andrea2270...:",

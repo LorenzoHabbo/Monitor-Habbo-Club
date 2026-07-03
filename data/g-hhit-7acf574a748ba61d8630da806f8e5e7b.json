@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Viva la vita!",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -260,10 +260,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "Sono morto e poi rinato più volte",
-    "habboFigure": "hr-3673-1394.hd-3095-2.ch-3030-84.lg-3023-89.sh-3089-82.fa-1204.ca-3219-85.wa-2007",
+    "motto": "Sono morto e poi rinato più volte.",
+    "habboFigure": "hr-3673-1394.hd-3095-2.ch-3030-100.lg-3023-89.sh-3089-82.fa-1204.ca-3219-102.wa-2007",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|||",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-5801-49-57.hd-6436.lg-3136-92.he-3740.fa-6367.pt-6383-1408-1408",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-828-34.hd-3536-18-14.ch-255-92.lg-280-1321.sh-5803-92.ha-3586.fa-4044.ca-3844-1321-92.pt-6442.mc-5461-92-1321",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas .",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-89.he-3070-92.ea-3959.fa-5435.ca-4372-93.wa-5676",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=rec. ph",
     "habboFigure": "hr-6323-34.hd-3845-10.ch-3598-73-1408.lg-6013-73-73.sh-4159-64-64.he-6308-68.fa-3276-72.pt-6322",
