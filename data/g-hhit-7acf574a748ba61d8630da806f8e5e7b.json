@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Viva la vita!",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -242,8 +242,8 @@
   {
     "online": false,
     "gender": "m",
-    "motto": "Apprendista Scelto G.D.",
-    "habboFigure": "hd-6002.ch-5258.lg-6137.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467",
+    "motto": "Apprendista Scelto G",
+    "habboFigure": "hd-6002.ch-5258.lg-6137.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467.mc-6468-1408",
     "memberSince": "2009-06-13T11:17:50.000+00:00",
     "uniqueId": "hhit-4a479ef8db6255a9d26cda388ee00de1",
     "name": "el--rudy",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas .",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-89.he-3070-92.ea-3959.fa-5435.ca-4372-93.wa-5676",
