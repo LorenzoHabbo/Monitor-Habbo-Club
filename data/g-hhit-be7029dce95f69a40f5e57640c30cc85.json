@@ -540,7 +540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-5773-42.hd-627-10.ch-665-92.lg-5594-1428.sh-3206-92.ha-5468-110-92.fa-5601-92",
@@ -1073,7 +1073,7 @@
     "online": true,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-5803-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-3587-92-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -1240,10 +1240,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
-    "habboFigure": "hr-829-1394.hd-3095-2.ch-3203-110.lg-3136-107.fa-1204.ca-6186",
+    "habboFigure": "hr-829-1394.hd-3095-2.ch-215-1408.lg-3018-107.sh-295-1424.ha-3261-96.fa-1204",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -2110,7 +2110,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Habbo Rewind|.",
     "habboFigure": "hr-5681-45-31.hd-3956-1-12.ch-3399-71-71.lg-3483-81-1408.sh-730-71.fa-3276-72",
@@ -5050,10 +5050,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
-    "motto": "crikey",
-    "habboFigure": "hr-828-61.hd-207-3.ch-5856.lg-5594-1426.sh-305-110.ha-5866.fa-6367",
+    "motto": "",
+    "habboFigure": "hr-828-61.hd-207-3.ch-6353.lg-3078-77.sh-3035-92.ha-5627-64.he-1609-110.ea-1404-110.cc-5400",
     "memberSince": "2012-07-13T12:19:10.000+00:00",
     "uniqueId": "hhit-10a65f7570179aa202df3d621261cde9",
     "name": "far",
@@ -7340,7 +7340,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "| Ti voglio bene |",
     "habboFigure": "hr-3786-40-40.hd-3845-14.ch-210-1408.lg-280-1408.fa-3378-1408-1408.wa-4317-1408.cc-4184-1408-1408",
@@ -8433,7 +8433,7 @@
     "online": false,
     "gender": "m",
     "motto": "si",
-    "habboFigure": "hr-5971-34.hd-190-8.ch-5559-1408.lg-5970-82.sh-906-64.he-5764-1408.fa-5600-1408.wa-6172-1408-72.cc-3509-64-1408.mc-6409",
+    "habboFigure": "hr-5971-34.hd-190-1.ch-5559-1408.lg-5970-82.sh-906-64.he-5764-1408.fa-5600-1408.wa-6172-1408-72.cc-3509-64-1408.mc-6409",
     "memberSince": "2016-09-24T07:27:27.000+00:00",
     "uniqueId": "hhit-624a9287f27a3c6a49631612de8d811a",
     "name": "xxlegmagic",
@@ -8530,7 +8530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-40.hd-3631-1-14.ch-3836-71-1408.lg-3526-73-71.sh-3621-71-73.ea-1401-71",
