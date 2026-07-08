@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-3587-92-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
@@ -733,7 +733,7 @@
     "online": true,
     "gender": "m",
     "motto": "Generale di Brigata A.C.H./trix|",
-    "habboFigure": "hr-3048-61-61.hd-3095-1370.ch-3059-110.lg-3023-67.sh-3089-110.ha-3130-110-110.he-1604.fa-3276-1325.ca-3175-1322.wa-2001",
+    "habboFigure": "hr-831-61.hd-3095-1370.ch-4190-1425-110.lg-4191-1425-1426.sh-3089-110.ha-4188-1425.fa-3276-1325",
     "memberSince": "2012-04-02T18:08:38.000+00:00",
     "uniqueId": "hhit-be2069421fedbf37680ea069ce1d9d70",
     "name": "BIGinarepopstar",
@@ -871,9 +871,9 @@
   },
   {
     "online": true,
-    "gender": "m",
+    "gender": "f",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-5801-49-57.hd-6436.lg-3136-92.ha-6528-92-1408.he-3740.fa-6367.cc-6513-92-92.pt-6383-1408-1408",
+    "habboFigure": "hr-5801-31-40.hd-627-28.ch-665-1328.lg-3006-92-92.ha-6528-1328-92.cc-3232-63-1408",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -923,7 +923,7 @@
     "online": true,
     "gender": "m",
     "motto": "se mi cerchi probabilmente sto dormend",
-    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3030-110.lg-4138-110.sh-3587-110-1408.ha-3620.he-6377.fa-5975.ca-5227.cc-6102-106.pt-6322",
+    "habboFigure": "hr-3860-61-61.hd-180-1390.ch-3030-110.lg-4138-110.sh-3587-110-1408.ha-3620.he-6377.fa-5975.ca-5227.cc-6102-106.pt-6322.mc-5808-63",
     "memberSince": "2013-08-11T13:29:56.000+00:00",
     "uniqueId": "hhit-068c88797000dbf1de26254109ed7e89",
     "name": "metal187",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "††††††††BOOM††††††††††††††††††††††††††",
     "habboFigure": "hr-3800-42-42.hd-3604-10.ch-3679-64-64.lg-4092-64.sh-3180-64-64.ha-3352-73-64.he-1609-73.fa-3378-64-64.ca-5739-64-64.wa-6071.mc-3744-64-64",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo.",
     "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
