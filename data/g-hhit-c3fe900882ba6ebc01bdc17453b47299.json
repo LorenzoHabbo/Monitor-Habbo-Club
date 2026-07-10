@@ -140,10 +140,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
-    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-3587-92-92.ha-3488.fa-5600-92.pt-6342.mc-3542-92-1338",
+    "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-3587-92-92.ha-6480-1338-92.fa-5600-92.pt-6342.mc-3542-92-1338",
     "memberSince": "2009-03-29T11:53:55.000+00:00",
     "uniqueId": "hhit-7046cdebb582febcef5ebb40e72a5971",
     "name": "piccolino",
@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Curiosone",
     "habboFigure": "hr-5681-45-31.hd-3956-1-12.ch-3399-71-71.lg-3483-81-1408.sh-730-71.fa-3276-72",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.pt-6166-105-1408",
