@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-6496-1394.hd-5696-2-28.ch-6493-92-82.lg-4002-92-82.ha-6490-92-82.ca-5739-67-64.pt-6488-92-1338",
@@ -220,7 +220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sindacalista non ufficiale Corleone..",
     "habboFigure": "hr-3163-49.hd-5696-3-1365.ch-5559-63.lg-5594-89.sh-3089-110.ha-3709.cc-3917-1429.mc-5800-110-110",
@@ -260,10 +260,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
-    "habboFigure": "hr-3673-1394.hd-3095-2.ch-215-1432.lg-3136-68.sh-295-110.fa-1204.cp-3308-110-110",
+    "habboFigure": "hr-6397-1394.hd-3095-2.ch-3203-110.lg-3136-107.sh-295-82.fa-1204.ca-6186",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -600,7 +600,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "CEO of Swag",
     "habboFigure": "hr-3829-37.hd-190-1370.ch-3581-64-73.lg-5113-64.sh-295-91.ha-3591.he-5074-1408.fa-5280-90.ca-4938.mc-4091-64",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3811.hd-629-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.fa-6504-72.ca-4956.pt-6166-105-1408",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6323-1343.hd-629-1.ch-6516-1412.lg-3391-1423-110",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas .",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-89.he-3070-92.fa-5435.ca-4372-93.mc-5808-63",
