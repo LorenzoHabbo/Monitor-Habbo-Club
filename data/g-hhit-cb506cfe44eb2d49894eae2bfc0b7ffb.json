@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -870,10 +870,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
-    "gender": "f",
+    "online": true,
+    "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hr-5801-31-40.hd-627-28.ch-665-1328.lg-3006-92-92.ha-6528-1328-92.cc-3232-63-1408",
+    "habboFigure": "hd-6435.ch-5192.lg-5190.he-3740.ea-3750.fa-3276-72",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Untouchable!",
     "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-92.lg-3320-82-92.sh-3068-92-92.ha-5417.fa-3344-91.pt-6342",
@@ -1250,7 +1250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "¥Scrittrice&Builder¥",
     "habboFigure": "hr-6211-1398-1344.hd-3631-1389-30.ch-3013-110.lg-3526-110-1410.he-6019.fa-3276-1328.cc-4217-93",
