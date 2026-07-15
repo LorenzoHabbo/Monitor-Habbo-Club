@@ -260,9 +260,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
-    "motto": "Maresciallo A.C.H. 35p",
+    "motto": "Marescialla A.C.H. 35p",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
@@ -550,7 +550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Alastor GD",
     "habboFigure": "hr-3531-40-40.hd-6219-14-14.ch-3030-1408.lg-6089-82-1408.he-3660-1408-1408.fa-3344-1408",

@@ -1710,7 +1710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "berlin diva undercover",
     "habboFigure": "hr-6323-45.hd-615-10.ch-3417-82-1408.lg-710-82.sh-5803-1408.he-3958-82.fa-5467.mc-5810-1408",
@@ -3390,7 +3390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "not really",
     "habboFigure": "hr-6034-45-31.hd-6361-1-28.ch-6476-77-77.lg-3418-1426.sh-5032.he-6360.ca-6325-92",
@@ -4240,7 +4240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Contabile (Zingaro) Corleone",
     "habboFigure": "hr-115-42.hd-4174-1.ch-3934-1408-64.lg-3023-85.ha-3690-73.fa-4283-64.ca-3691-66-64.pt-6376",
@@ -7010,7 +7010,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Valuto Onestamente i Tuoi Rari",
     "habboFigure": "hr-3163-37.hd-3091-12.ch-3001-110-93.lg-3267-110-93.sh-3252-93-110.ha-3243-93.he-4345-1429.ea-4346-110-92.fa-3147-1323.ca-4344-1408.wa-3212-110-1321.cp-3307-93-1408",
@@ -7720,9 +7720,9 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
-    "motto": "Maresciallo A.C.H. 35p",
+    "motto": "Marescialla A.C.H. 35p",
     "habboFigure": "hr-3671-60-40.hd-3105-1390.ch-3245-106.lg-3787-92-92.ha-3620.he-3772-105.fa-4168-1328.wa-3773-106.cc-5382-106.pt-6077.mc-5810-92",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
@@ -8270,7 +8270,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "CARABINIERE A.C.H.",
     "habboFigure": "hd-180-1.ch-3030-1408.lg-270-1408.fa-3832-80-80.mc-5808-64",
