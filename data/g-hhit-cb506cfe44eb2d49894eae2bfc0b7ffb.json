@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -870,7 +870,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hd-6435.ch-5192.lg-5190.sh-4159-63-1408.he-3740.ea-3750.fa-3276-72.pt-6031-1322-110",
@@ -1410,7 +1410,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Fidasse è bene, non fidasse è meglio",
     "habboFigure": "hr-3163-61.hd-3536-18-28.ch-3934-1323-110.lg-3526-1338-92.sh-5803-92.ha-3586.ea-3886.cc-6513-1323-92",
@@ -2782,7 +2782,7 @@
   {
     "online": true,
     "gender": "m",
-    "motto": "aiutante  G.D. b",
+    "motto": "aiutante  G.D.",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-6089-106-110.sh-4112-1408-1408.ca-1816.pt-6322",
     "memberSince": "2025-05-07T11:16:49.000+00:00",
     "uniqueId": "hhit-de8e2328ed3f3e1c7b894290877d8369",
