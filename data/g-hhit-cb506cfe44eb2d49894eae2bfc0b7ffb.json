@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-3587-92-92.ha-6480-1338-92.fa-5600-92.pt-6512-1338.mc-3542-92-1338",
@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-34.hd-3095-1370.ch-3203-1408.lg-4138-64.sh-3206-1408.ha-4136-1408.he-5088.fa-6504-1412.cc-4979-92.cp-3204.pt-6376.mc-4137-1408",
@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -680,7 +680,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "...",
     "habboFigure": "hr-893-37.hd-180-1370.ch-215-1408.lg-275-64.he-5482.ca-5739-64-1408",
@@ -940,7 +940,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-28-30.lg-6355-1423-1423.ha-6198.ea-1406.cp-3312.pt-6069",
@@ -1190,7 +1190,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un gatto favoloso KOOK",
     "habboFigure": "hr-828-49.hd-180-1359.ch-210-92.lg-280-92.sh-5803-92.ha-5460-92-1337.he-3740.fa-6484.ca-6325-92",
@@ -1540,7 +1540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "I make no Promises",
     "habboFigure": "hr-155-39.hd-180-8.lg-3019-1427.sh-3115-1408-1408.wa-3073-63",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6523.sh-5803-92.ha-5169-89.he-3070-92.fa-5435.ca-4372-93.mc-5808-63",
@@ -2677,6 +2677,16 @@
     "memberSince": "2024-12-20T06:15:03.000+00:00",
     "uniqueId": "hhit-5e5f22e3caf61dc4014c6825add06ccf",
     "name": "Ban-life",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "m",
+    "motto": "FRATELLO E SCHIAVO CORLEONE",
+    "habboFigure": "hr-3664-35.hd-208-10.ch-3688-71.lg-5970-71.he-6125-71.fa-4058-1408.ca-5049-1408.wa-4060-71-1408",
+    "memberSince": "2025-01-02T23:06:20.000+00:00",
+    "uniqueId": "hhit-716c6e14e65c0b203905b3787bb1197f",
+    "name": "Michael-LGBT",
     "isAdmin": false
   },
   {
