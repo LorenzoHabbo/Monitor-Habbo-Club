@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "   ƒ",
     "habboFigure": "hr-5773-42.hd-627-10.ch-665-92.lg-5594-63.sh-3206-92.ha-5468-110-92.fa-5601-1408",
@@ -260,7 +260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-4941-37-31.hd-180-1370.ch-210-1408.lg-3337-1408.sh-3338-1408.ea-3639.cc-3928",
@@ -1970,7 +1970,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Acid Cry",
     "habboFigure": "hr-5606-49-49.hd-627-28.ch-4299-110-92.lg-3006-110-110.sh-5308-92.he-6296-110-92.fa-5601-92",
