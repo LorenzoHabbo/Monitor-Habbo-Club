@@ -2610,7 +2610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "| ASTRO DEL MATTINO 1 P | G D ||",
     "habboFigure": "hr-5680-36.hd-629-19.ch-3045-92.lg-3078-110.sh-3089-1336.wa-3263-1408-1408.cc-3008-92-110.cp-3285-1408",
@@ -3050,7 +3050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ªEclissi viventeª[ NºT ].",
     "habboFigure": "hr-6010-40-40.hd-6361-14-14.ch-6353.lg-5594-1408.sh-5729-91-1408.ha-5557-1408-1408.ca-3844-64-1408.cc-3509-1408-1408.pt-6299-76-64",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "tranquilli siete tutti conoscenti",
     "habboFigure": "hr-4193-61.hd-6361-28-14.ch-6353.lg-3407-93-93.sh-6182.ha-4056.he-3740.cc-3928.mc-5808-79",
@@ -8840,7 +8840,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Ehi tu! Si tu!",
     "habboFigure": "hr-802-39.hd-209-8.ch-255-82.lg-3088-1408-82.sh-300-64",
