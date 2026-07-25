@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-209-8.ch-806-1408.lg-3078-1408.sh-3115-1408-1408.cp-3120-1408",
@@ -3360,7 +3360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "messaggero del patto gd",
     "habboFigure": "hr-4343-34-35.hd-600-10.ch-4989-64-1408.lg-700-83.sh-3180-64-64.he-6082-64-1408.fa-5601-1408.ca-6324-80-64.pt-6166-72-1408",
@@ -3570,7 +3570,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "apprendista novello G.D",
     "habboFigure": "hr-3673-48.hd-628-1.ch-650-64.lg-3695-64.sh-906-64.fa-3276-72",
@@ -4310,7 +4310,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "tranquilli siete tutti conoscenti",
     "habboFigure": "hr-4193-61.hd-6361-28-14.ch-6353.lg-3407-93-93.sh-6182.ha-4056.he-3740.cc-3928.mc-5808-79",
