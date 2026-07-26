@@ -1870,7 +1870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "",
     "habboFigure": "hr-6083-45.hd-600-1.ch-4087-1320.lg-3526-82-1408.sh-3687-1320-1320",
@@ -2420,7 +2420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-209-8.ch-806-1408.lg-3078-1408.sh-3115-1408-1408.cp-3120-1408",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Haly Gnaoui",
     "habboFigure": "hr-3841-45.hd-207-1.ch-876-66-1408.lg-280-82.sh-290-64.he-3918.ea-1404-1408.fa-3344-91",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Foderi Rossi",
     "habboFigure": "hr-5465-45-48.hd-205-19.ch-3342-73-1320.lg-3023-64.he-4379.ea-3925-82-74.fa-1201.ca-3876-83-82.cc-4979-72",
@@ -5300,7 +5300,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Appuntato A.C.H.",
     "habboFigure": "hr-5680-35.hd-3631-1-1369.ch-665-73.lg-5970-81.sh-730-73.he-3660-1408-1408.fa-3276-73.wa-2001.cc-5926-82-1408",
@@ -5850,7 +5850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-28-30.lg-6355-1423-1423.ha-6198.ea-1406.cp-3312.pt-6069",
@@ -5870,7 +5870,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "¶Coordinatore Manhattan [F.C]¶",
     "habboFigure": "hr-828-49.hd-207-1370.ch-3323-92-105.lg-6089-105-92.sh-3154-105-105.he-3218-92.ea-3388-105-92.fa-3276-92.ca-3292-105.mc-4356",
@@ -8520,7 +8520,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-45.hd-3631-1-14.ch-6514-73-71.lg-3526-73-71.sh-3621-71-73.ea-1401-71",
