@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3488.he-3740.ca-6235",
@@ -820,7 +820,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-300-83.ea-1404-110",
@@ -1550,7 +1550,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "tranquilli siete tutti conoscenti",
     "habboFigure": "hr-4193-61.hd-6361-28-14.ch-6353.lg-3407-93-93.sh-6182.ha-4056.he-3740.cc-3928.mc-5808-79",
