@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "   ƒ",
     "habboFigure": "hr-5773-42.hd-627-10.ch-665-92.lg-5594-63.sh-3206-92.ha-5468-110-92.fa-5601-1408",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Rosso le guance, la bocca (comanda)",
     "habboFigure": "hr-5566-37-31.hd-3536-10-10.ch-650-74.lg-5243-74.sh-6455-1408-74.ha-6480-74-75.he-6066-74.fa-6274-71.ca-6276-74.mc-5461-74-74",
@@ -1563,7 +1563,7 @@
     "online": false,
     "gender": "m",
     "motto": "Pazzesco a tratti imbarazzante",
-    "habboFigure": "hr-6034-1407-41.hd-190-26.ch-3934-110-64.lg-5594-110.sh-3587-92-92.ha-3570.he-5393.ea-5576-64-64.fa-5948-92.wa-5986-110.cc-3509-64-92.cp-3122-80",
+    "habboFigure": "hr-115-45.hd-190-18.ch-3032-64-1408.lg-281-64.sh-3587-92-92.ha-1002-64.he-5393.ea-1402",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Deepmind",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-891-42.hd-207-10.ch-3030-1408.lg-275-64.sh-906-64",
@@ -1900,7 +1900,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "¥",
     "habboFigure": "hr-6211-1407-1407.hd-615-10.ch-5917-110.lg-3018-64.sh-5803-92.he-3891.fa-5600-92",
@@ -2450,7 +2450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Chi sono io?",
     "habboFigure": "hr-3990-40-40.hd-3537-14.ch-210-1408.lg-4138-64.sh-5295.ha-4120.he-5348.fa-5975.ca-6189.cc-5286.pt-5826-64",
