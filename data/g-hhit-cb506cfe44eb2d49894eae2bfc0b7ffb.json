@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "   ƒ",
     "habboFigure": "hr-5773-42.hd-627-10.ch-665-92.lg-5594-63.sh-3206-92.ha-5468-110-92.fa-5601-1408",
@@ -230,7 +230,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Mi ritrovai coi casi umani la cui via",
     "habboFigure": "hr-5791-34.hd-180-1.ch-3679-73-1408.lg-275-73.ha-3709.ea-3925-1320-1320.fa-1204.pt-6342",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Apprendista Scelto G",
     "habboFigure": "hd-6002.ch-5258.lg-6137.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467.mc-6468-83",
@@ -1590,7 +1590,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6523.sh-5803-92.ha-5169-89.he-3070-92.fa-5435.ca-4372-93.mc-5808-63",
@@ -1610,7 +1610,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ".",
     "habboFigure": "hr-891-42.hd-207-10.ch-3030-1408.lg-275-64.sh-906-64",
@@ -1820,10 +1820,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "sopravvissuto the 100",
-    "habboFigure": "hr-3090-37.hd-209-1.ch-255-85.lg-3023-82.sh-3524-64-64.mc-5942-88",
+    "habboFigure": "hr-3090-37.hd-209-1.ch-4165-64-1408.lg-3290-64.sh-3524-64-64.mc-5942-88",
     "memberSince": "2020-04-12T01:02:07.000+00:00",
     "uniqueId": "hhit-c9770c710ab56ce7c1cbfffb5d83c40c",
     "name": "alexburk",
