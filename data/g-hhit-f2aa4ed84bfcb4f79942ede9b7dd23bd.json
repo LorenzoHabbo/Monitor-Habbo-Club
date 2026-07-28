@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Member The Montana Club©",
     "habboFigure": "hr-3746-1404.hd-3092-2.ch-3215-76.lg-275-93.sh-3206-92.ea-3169-110.fa-3344-1409",
@@ -370,7 +370,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-5503-45.hd-190-1.ch-235-1408.lg-3088-1408-1408.sh-290-64.ha-1013-1408.he-3833-1408.ea-1404-1408.fa-3344-91",
@@ -2370,10 +2370,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Napoletano",
-    "habboFigure": "hr-3090-37.hd-209-8.ch-5596-1408.lg-3078-1408.sh-3115-1408-1408.cp-3120-1408",
+    "habboFigure": "hr-3090-37.hd-209-8.ch-255-1408.lg-3078-1408.sh-3115-1408-1408.he-1608.cp-3120-1408",
     "memberSince": "2010-11-02T09:50:28.000+00:00",
     "uniqueId": "hhit-a2ae380be069e1ea9901e505212b8746",
     "name": "gaetano581",
@@ -6210,7 +6210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-28-30.lg-6355-1423-1423.ha-6198.ea-1406.cp-3312.pt-6069",
