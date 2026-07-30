@@ -120,7 +120,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "che shoook!.... twitch.tv/ttnovee",
     "habboFigure": "hr-3163-1407.hd-205-1.ch-3668-92-92.lg-6089-106-1424.ha-4325.ea-5576-1428-92.fa-3276-110.ca-5414-92.cp-3128-64",
@@ -380,7 +380,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-5962-1342.hd-6219-11-1365.ch-6353.lg-5594-110.he-3740.fa-3993-110.pt-6383-110-1410",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-209-8.ch-255-1408.lg-3078-1408.sh-3115-1408-1408.he-1608.cp-3120-1408",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-3281-52.hd-3845-8.ch-6177-92-1430.lg-3202-110-1408.sh-5247-92-92.he-5348",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -510,10 +510,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Questo è il mio Vangelo.",
-    "habboFigure": "hr-3163-34.hd-6021-2.ch-6147.lg-3933-100.sh-3587-106-92.he-6094-1408.ea-4985.fa-6367.ca-6186.cc-6102-106.pt-6512-1422.mc-6445",
+    "habboFigure": "hr-3163-34.hd-6021-2.ch-6147.lg-6089-106-92.sh-3587-106-92.ha-6479-106-92.he-6148.ea-4985.fa-6367.ca-6186.cc-6102-106.pt-6512-1422.mc-6445",
     "memberSince": "2011-07-24T14:39:10.000+00:00",
     "uniqueId": "hhit-be256d1950981bb381b5d2f4d1a290c9",
     "name": "Visir",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-3852-61.hd-629-1370.ch-6029-1326-98.lg-3391-95-1408.ha-3488.he-3740.ca-6235",
@@ -1030,7 +1030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ciao crikey.",
     "habboFigure": "hr-3377-48-45.hd-3631-1-14.ch-6514-73-71.lg-3526-73-71.sh-3621-71-73.ea-1401-71",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "who wants to live forever?",
     "habboFigure": "hr-3163-1407.hd-209-8.ch-3059-96.lg-3328-82-1408.sh-906-76.ha-3709.ea-3169-110.fa-1201",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "bfghfgbsgfg",
     "habboFigure": "hd-208-10.ch-4367-84.lg-3216-71.sh-905-71.ha-3730.ea-3698-1408-1408.fa-1205-1408.ca-1806-80.cc-3723-64",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "tranquilli siete tutti conoscenti",
     "habboFigure": "hr-3860-1404-1404.hd-6361-18-14.ch-6353.lg-5732-110-73.sh-3720-110-92.ha-3382-110-1408.he-6390-100.fa-6095.cc-3717-110-1408.pt-5961-110-92",
@@ -1280,7 +1280,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-3048-1345-51.hd-6021-11.ch-5394.lg-6523.sh-5803-92.ha-5169-89.he-3070-92.fa-5435.ca-4372-93",
@@ -1420,7 +1420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "vivo ma non ho scelta ne motivo",
     "habboFigure": "hr-3746-48.hd-207-10.ch-6388-66-90.lg-6355-64-73.ha-6198.fa-1212.ca-5051-84-84",
@@ -1500,7 +1500,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=rec. ph",
     "habboFigure": "hr-6505-34.hd-3631-10-10.ch-6011-84-84.lg-6013-73-72.sh-3068-82-82.he-6308-68.fa-3276-73.wa-2001.pt-6322.mc-5925-82",
@@ -2150,7 +2150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "2° Sovrintendente P. I. H.",
     "habboFigure": "hr-6374-48-34.hd-4383-10-12.ch-635-66.lg-3023-64.sh-3068-66-66.ha-1023-66.fa-6367.ca-1804-1408.wa-2001",
