@@ -240,7 +240,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Apprendista Scelto G",
     "habboFigure": "hd-6002.ch-5258.lg-6137.sh-5869-1408-1408.ha-1008.ea-5743-1408.fa-5467.mc-6468-83",
@@ -480,7 +480,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -690,7 +690,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -860,7 +860,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "[BuilderRoom]™ - [CostruttoreStanze]™.",
     "habboFigure": "hr-5019-45.hd-3845-1.ch-5608-64.lg-3078-82.sh-3068-1408-1408.ha-1004-64.fa-5601-73",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "—      I'M THE MOON     —",
     "habboFigure": "hr-6496-49.hd-5524-2-1365.ch-3668-110-110.lg-4373.sh-5639.ha-6197.he-6444-96.ea-6333-92-92.fa-5948-92.ca-5250.cp-3313-92.pt-6322.mc-6448",
@@ -2140,10 +2140,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
-    "motto": "2° Sovrintendente P. I. H.",
-    "habboFigure": "hr-5503-48.hd-3604-1.ch-635-66.lg-3023-64.sh-3068-66-66.ha-1023-66.ca-1804-1408.wa-2001",
+    "motto": "Sovrintendete Capo P. I. H.",
+    "habboFigure": "hr-5503-42.hd-3604-1.ch-4067-64-73.lg-5582-73-73.sh-5308-73.ha-4192.he-6384-73.fa-5624-73.ca-5771-64-73.wa-6385-64.cc-5926-73-64",
     "memberSince": "2023-11-03T21:12:52.000+00:00",
     "uniqueId": "hhit-b56624c58b5d13963ca7632d9fca2b4a",
     "name": "anonya",
