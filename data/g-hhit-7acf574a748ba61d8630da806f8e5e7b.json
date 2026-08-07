@@ -270,7 +270,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sono morto e poi rinato più volte.",
     "habboFigure": "hr-6453-1394-1394.hd-3095-2.ch-3059-81.lg-270-109.sh-3089-82.fa-1204.ca-3219-85",
@@ -520,7 +520,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Questo è il mio Vangelo.",
     "habboFigure": "hr-3163-34.hd-6021-2.ch-6147.lg-6089-106-92.sh-3587-106-92.ha-6479-106-92.he-6148.ea-4985.fa-6367.ca-6186.cc-6102-106.pt-6512-1422.mc-6445",
@@ -720,7 +720,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-180-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
