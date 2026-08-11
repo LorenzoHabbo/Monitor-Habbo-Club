@@ -1142,11 +1142,11 @@
   {
     "gender": "f",
     "motto": "angelo g.d",
-    "habboFigure": "hr-6453-1343-1343.hd-3100-8.ch-5899-107.lg-4341-92.sh-5671-92.ha-3709",
+    "habboFigure": "hr-6453-1343-1343.hd-3100-8.ch-3013-92.lg-3018-1423.sh-5671-92.ha-3709",
     "memberSince": "2010-12-16T21:39:25.000+00:00",
     "uniqueId": "hhit-007c095e376e8345f9d71d61b9cbff61",
     "name": "superdvina10",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -2526,6 +2526,16 @@
     "memberSince": "2013-07-02T00:33:44.000+00:00",
     "uniqueId": "hhit-c2966288b24767b3a2dd81e160e5de1e",
     "name": "PapaDaniele",
+    "online": false,
+    "isAdmin": false
+  },
+  {
+    "gender": "m",
+    "motto": "addi $s0, $s0, 999",
+    "habboFigure": "hr-3829-42.hd-3721-8.ch-3728-64-1408.lg-3290-64.sh-3587-64-1408.ha-3855-64.he-3740.ea-3575.ca-3844-64-1408.mc-3867-64-1408",
+    "memberSince": "2013-07-16T22:03:43.000+00:00",
+    "uniqueId": "hhit-f60299c2ea945cf1321dd4eb88d72266",
+    "name": "antonio8994",
     "online": false,
     "isAdmin": false
   },
@@ -4766,7 +4776,7 @@
     "memberSince": "2019-12-21T11:21:28.000+00:00",
     "uniqueId": "hhit-594a649ef7abe498abb76544eb24345e",
     "name": "Riccardo12112",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -9132,11 +9142,11 @@
   {
     "gender": "f",
     "motto": "Sovrintendete Capo P. I. H. •",
-    "habboFigure": "hr-5503-48.hd-3631-1-12.ch-5351-1408-72.lg-3361-82.sh-5464-72-1408.ha-5704.he-5750-1320.fa-6367.ca-5603-71-80",
+    "habboFigure": "hr-5503-48.hd-3631-1-12.ch-3335-68-68.lg-5582-1320-71.sh-3435-68-73.he-3894-68.fa-6367.ca-5603-71-80.wa-3895-68.cc-3390-71-1320",
     "memberSince": "2023-11-03T21:12:52.000+00:00",
     "uniqueId": "hhit-b56624c58b5d13963ca7632d9fca2b4a",
     "name": "anonya",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -9986,16 +9996,6 @@
     "memberSince": "2024-05-01T08:40:40.000+00:00",
     "uniqueId": "hhit-012469a6d5ddadcd9dae64d2e354d8c6",
     "name": "Giioia9",
-    "online": false,
-    "isAdmin": false
-  },
-  {
-    "gender": "m",
-    "motto": "Apprendista Novello G.D.",
-    "habboFigure": "hr-3090-42.hd-209-8.ch-3110-1408-81.lg-3116-81-1408.sh-3115-1408-1408.cp-3284-1408",
-    "memberSince": "2024-05-02T14:09:15.000+00:00",
-    "uniqueId": "hhit-0d7d55dfa656416e9c78aeffd8a93974",
-    "name": "SigaSmoke",
     "online": false,
     "isAdmin": false
   }
