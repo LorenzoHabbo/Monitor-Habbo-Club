@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un gatto favoloso KOOK",
     "habboFigure": "hr-3829-49.hd-180-17.ch-3032-92-73.lg-285-82.sh-3206-92.he-3740.ea-3727.fa-1203.ca-6325-92.wa-3073-90.pt-5826-73",
@@ -2140,7 +2140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Sovrintendete Capo P. I. H. •",
     "habboFigure": "hr-5720-48-42.hd-4383-1-12.ch-5167-88.lg-5165-1408-1408.sh-6156-73.ha-4192.he-3894-68.fa-4168-72.ca-5455-88-66.wa-3895-68",
