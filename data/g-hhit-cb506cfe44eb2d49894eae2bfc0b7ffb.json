@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-6453-1401-44.hd-3845-1.ch-5560-110-110.lg-3596-110-1428.sh-3524-1428-92.ha-3709.he-5088.fa-5601-92.wa-3263-110-1408.cc-3515-1427-110",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -850,7 +850,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3163-45.hd-6361-1359-14.ch-5559-1338.lg-5594-1428.ha-3026-105.ea-5626-1408.ca-3175-1321.cc-5629-110-1408.pt-6342.mc-6452-1408",
@@ -1560,7 +1560,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "from | import saaaas",
     "habboFigure": "hr-6533-1394-49.hd-6021-11.ch-5394.lg-6355-80-107.sh-5803-92.ha-5169-63.he-3070-92.fa-5435.ca-4372-93.mc-5808-63",
