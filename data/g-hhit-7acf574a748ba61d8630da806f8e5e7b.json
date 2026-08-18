@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-6453-1401-44.hd-3845-1.ch-5560-110-110.lg-3596-110-1428.sh-3524-1428-92.ha-3709.he-5088.fa-5601-92.wa-3263-110-1408.cc-3515-1427-110",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-34.hd-3095-1370.ch-3203-1408.lg-4138-64.sh-3206-1408.ha-4136-1408.he-5088.fa-6504-1412.ca-6207.cc-4979-92.cp-3204.pt-6376.mc-6452-1408",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Par Aspera Ad Astra",
     "habboFigure": "hr-3090-38.hd-209-8.ch-255-82.lg-3078-1408.sh-305-1408.ha-3117-1408.fa-5624-81.ca-3545-1408.wa-5478-1408-1408.cc-5382-1408",
