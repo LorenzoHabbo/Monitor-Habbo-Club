@@ -150,10 +150,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-3977-1403.hd-3721-2.ch-5093-92.lg-6478-110-110.sh-3035-92.ha-6471-92.fa-5982-110.wa-6470-110-110.pt-6512-77.mc-6452-63",
+    "habboFigure": "hr-3977-1403.hd-3721-2.ch-5093-92.lg-6478-110-110.sh-3035-92.ha-6471-64.he-3716.fa-5982-110.wa-6470-110-110.pt-6512-77.mc-6452-63",
     "memberSince": "2008-06-26T21:04:39.000+00:00",
     "uniqueId": "hhit-2bc6c83dc794fff226b9ad8c8a276825",
     "name": "GARZELLA",
@@ -1040,7 +1040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Par Aspera Ad Astra",
     "habboFigure": "hr-3090-38.hd-209-8.ch-255-81.lg-3078-81.sh-3180-1408-81.ha-3117-1408.fa-5624-81.ca-3545-1408.wa-5478-1408-1408.cc-5382-1408",
