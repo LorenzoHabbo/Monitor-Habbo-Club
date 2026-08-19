@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-37.hd-209-1.ch-235-64.lg-3023-73.sh-906-64.wa-2012",
@@ -1050,7 +1050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-209-1.ch-5596-1408.lg-3078-1408.sh-305-73.he-1608.ca-5278-1408.cp-3120-1408",
@@ -2540,7 +2540,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Since 2008",
     "habboFigure": "hr-155-38.hd-180-8.ch-225-90.lg-285-64.sh-3068-90-82.ca-1804-1408.wa-2001",
