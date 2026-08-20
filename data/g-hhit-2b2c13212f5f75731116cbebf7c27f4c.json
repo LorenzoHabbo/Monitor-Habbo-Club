@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-155-37.hd-209-1.ch-235-64.lg-3023-73.sh-906-64.wa-2012",
@@ -2530,7 +2530,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Recluta PIH",
     "habboFigure": "hr-4370-61.hd-4015-22.ch-3416-106-106.lg-3483-106-106.sh-3587-106-92.he-3740.ea-3575.ca-3702-92-92.mc-3867-92-92",
@@ -5030,7 +5030,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": " _/'''!'''\\_7        (_@__@_)=rec.pih",
     "habboFigure": "hr-6323-34.hd-3631-10-10.ch-6514-82-1408.lg-3023-64.he-6308-68.fa-3276-73",
