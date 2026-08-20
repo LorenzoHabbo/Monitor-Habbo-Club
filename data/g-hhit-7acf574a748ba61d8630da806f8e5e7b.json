@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Non sono cioccolata",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.mc-3867-100-110",
@@ -700,7 +700,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "ƒPic.nik mi manchi sorella miiaƒ",
     "habboFigure": "hr-6323-1343.hd-629-1.ch-6516-1412.lg-3391-1423-110",
@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Chi ti ama ti sbuccia la frutta",
     "habboFigure": "hr-3860-1403-1403.hd-3721-18.ch-255-1429.lg-5594-64.sh-3587-1325-92.ha-3776.he-3732",
