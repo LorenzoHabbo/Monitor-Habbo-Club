@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Napoletano",
     "habboFigure": "hr-3090-37.hd-209-1.ch-5596-1408.lg-3078-1408.sh-305-73.he-1608.ca-5278-1408.cp-3120-1408",
@@ -510,7 +510,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Non sono cioccolata",
     "habboFigure": "hr-3163-61.hd-6045-2.ch-3030-110.lg-3933-100.sh-3587-110-92.ha-3586.he-3740.fa-5600-92.mc-3867-100-110",
@@ -1390,7 +1390,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": ",",
     "habboFigure": "hr-5791-49.hd-3093-7.ch-5608-77.lg-5623.sh-5032.ea-3169-102.fa-5636-92.ca-6020-80",
