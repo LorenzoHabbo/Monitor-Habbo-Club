@@ -200,7 +200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": ":iddqd",
     "habboFigure": "hr-3520-45.hd-180-1.ch-4003.lg-275-64.sh-295-64.he-3376-68-81.fa-3344-91.wa-2001.cc-3593-64-68",
@@ -1790,7 +1790,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Cosa scrivo a fare?",
     "habboFigure": "hr-3090-40.hd-209-14.ch-210-1408.lg-270-1408.ha-3709",
@@ -7400,7 +7400,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Combatti! Sempre… (vivi)",
     "habboFigure": "hr-3871-42.hd-3845-10.ch-3438-64-64.lg-3596-1408-1408.sh-3115-64-64.wa-3661-64-1408",
