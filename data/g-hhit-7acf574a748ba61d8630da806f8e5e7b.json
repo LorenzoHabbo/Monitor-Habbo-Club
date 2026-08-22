@@ -170,7 +170,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "meglio soli che male accompagnati...",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un gatto favoloso KOOK",
     "habboFigure": "hr-3829-49.hd-180-17.ch-3001-1337-92.lg-285-82.sh-5803-92.he-3740.fa-3276-1412.ca-6325-92.cc-3289-82",
@@ -1040,10 +1040,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Par Aspera Ad Astra",
-    "habboFigure": "hd-209-8.ch-230-1408.lg-3078-90.sh-300-64.ha-1020",
+    "habboFigure": "hd-209-8.ch-230-66.lg-3023-66.sh-908-85.ha-1001.cc-3280-84-72",
     "memberSince": "2017-01-18T16:20:42.000+00:00",
     "uniqueId": "hhit-87629ef20295d411b55e5779f3b87521",
     "name": "domi691",

@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "meglio soli che male accompagnati...",
     "habboFigure": "hr-5617-1345-40.hd-3631-1-14.ch-3005-102-110.lg-3078-82.sh-3419-101-110.ea-3484.cc-5926-82-110",
@@ -910,10 +910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
-    "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6452-1408",
+    "habboFigure": "hd-6436.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6452-1408",
     "memberSince": "2013-10-14T19:08:30.000+00:00",
     "uniqueId": "hhit-16e8bfb7bbe99b9bbf193923136cf672",
     "name": "A-N-D-R-E-Z",
@@ -1043,7 +1043,7 @@
     "online": false,
     "gender": "m",
     "motto": "Untouchable!",
-    "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-92.lg-3320-82-92.sh-3068-92-92.ha-5417.fa-3344-91.pt-6342",
+    "habboFigure": "hr-3520-45.hd-209-1370.ch-3498-1408.lg-3320-82-1408.sh-3068-1408-1408.ha-5417.fa-3344-91.pt-6342",
     "memberSince": "2014-11-05T18:02:22.000+00:00",
     "uniqueId": "hhit-76a7bda9e928fb49c290bd4843bdc1a9",
     "name": "Ak1",
@@ -1160,7 +1160,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un gatto favoloso KOOK",
     "habboFigure": "hr-3829-49.hd-180-17.ch-3001-1337-92.lg-285-82.sh-5803-92.he-3740.fa-3276-1412.ca-6325-92.cc-3289-82",
