@@ -470,7 +470,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "|",
     "habboFigure": "hr-3811.hd-627-10.ch-5762-1327-105.lg-695-1408.ea-3803-92.ca-4956.pt-6166-105-1408",
@@ -557,6 +557,16 @@
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
+    "isAdmin": false
+  },
+  {
+    "online": false,
+    "gender": "f",
+    "motto": "The sun will rise and we'll try again.",
+    "habboFigure": "hr-5773-1407.hd-6361-18-28.ch-5921-1334-92.lg-5594-64.sh-5247-92-1408.he-6297-1335-1409.fa-3276-1331.mc-6410-1334",
+    "memberSince": "2013-06-17T16:41:02.000+00:00",
+    "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
+    "name": "Shippah.",
     "isAdmin": false
   },
   {
@@ -1960,10 +1970,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Mi uccidi piano, morfina.",
-    "habboFigure": "hr-4117-49-49.hd-6216-28-1365.ch-6498-110-92.lg-5594-110.sh-6454-110.he-3740.fa-5467.ca-5768-92-92.cc-3515-110-92",
+    "habboFigure": "hr-6211-49-49.hd-6216-28-1365.ch-6498-110-110.lg-5594-110.sh-6454-110.he-6296-110-92.fa-5467.ca-5768-92-92.wa-5986-110.mc-5808-92",
     "memberSince": "2025-08-18T12:13:32.000+00:00",
     "uniqueId": "hhit-93e8eadc989d38e86c870e2278745aaa",
     "name": "Morphiine",
