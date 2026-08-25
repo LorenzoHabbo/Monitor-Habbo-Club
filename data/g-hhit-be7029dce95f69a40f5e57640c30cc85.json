@@ -850,10 +850,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "What Else?",
-    "habboFigure": "hr-3322-42.hd-209-10.ch-210-91.lg-285-84.cc-4107-73-64",
+    "habboFigure": "hr-3322-45.hd-209-10.ch-210-91.lg-285-84.cc-4107-73-64",
     "memberSince": "2008-12-28T12:42:14.000+00:00",
     "uniqueId": "hhit-b60eb9e7eff879e00747a6919f49a97f",
     "name": "007riki",
@@ -1070,7 +1070,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-110.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-110",
@@ -4780,7 +4780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Foderi Rossi",
     "habboFigure": "hr-5465-45-48.hd-205-19.ch-808-73.lg-3023-82.ha-3494-1408-1408.he-4379.ea-3925-82-74.fa-1201.ca-3876-83-82.wa-2008.cc-3917-73",
@@ -9180,7 +9180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Nomade  Scelto tyger claws",
     "habboFigure": "hr-802-36.hd-209-1.ch-255-73.lg-3088-1408-1408.sh-305-90.wa-2007",
