@@ -1060,7 +1060,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-110.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-110",
@@ -5040,7 +5040,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "cooked",
     "habboFigure": "hr-828-61.hd-207-3.lg-281-110.sh-3035-92.he-1609-110.ea-1404-110.fa-6367.mc-3744-96-96",
@@ -8700,7 +8700,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Occhio alle parole",
     "habboFigure": "hr-115-31.hd-209-1370.ch-210-71.lg-3078-1408.sh-908-1408.ea-3925-91-91.fa-4168-71",
