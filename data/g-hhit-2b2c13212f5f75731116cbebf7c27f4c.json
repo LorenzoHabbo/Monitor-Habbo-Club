@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-34.hd-3095-1370.ch-3203-1408.lg-4138-64.sh-3206-1408.ha-4136-1408.he-5088.fa-6504-1412.ca-6207.cc-4979-92.cp-3204.pt-6376.mc-6452-1408",
@@ -730,10 +730,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Carabiniere A.C.H.",
-    "habboFigure": "hr-3673-38.hd-629-10.ch-665-73.lg-720-82.sh-740-90.he-1608.fa-3276-1408.ca-1812.wa-2001",
+    "habboFigure": "hr-3673-38.hd-629-10.ch-665-73.lg-720-82.sh-740-90.he-1610.fa-3276-1408.ca-3425-1408-1408.wa-2001",
     "memberSince": "2010-02-05T19:07:12.000+00:00",
     "uniqueId": "hhit-9532b9ccf535fc7e269785401c6543b6",
     "name": "FrancyLaStilosa",
@@ -1460,7 +1460,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -2563,7 +2563,7 @@
     "online": true,
     "gender": "m",
     "motto": "Maresciallo Capo A.C.H. 60p Crikey",
-    "habboFigure": "hr-3163-1346.hd-3721-28.ch-255-1427.lg-280-110.sh-3587-92-92.he-3884-110-92.fa-3276-72.ca-3702-110-92.mc-6547-110-92",
+    "habboFigure": "hr-3163-1346.hd-3721-28.ch-255-1427.lg-280-110.sh-3587-92-92.he-3884-110-92.fa-3276-72.ca-3702-110-92",
     "memberSince": "2013-07-16T22:03:43.000+00:00",
     "uniqueId": "hhit-f60299c2ea945cf1321dd4eb88d72266",
     "name": "antonio8994",
@@ -4260,7 +4260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Capo Decime G.D.",
     "habboFigure": "hr-170-36.hd-209-1.ch-3323-85-1408.lg-3078-64.sh-4112-85-64.ca-1804-73.wa-2001",
@@ -6210,7 +6210,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": " angelo g.d",
     "habboFigure": "hr-3841-37.hd-3095-8.ch-215-110.lg-3407-1329-66.sh-906-110.ha-3409-1329-1410.ea-3484.fa-3344-110.ca-3425-66-1408.cc-3405-1329-66",
@@ -7650,7 +7650,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "cancelliera dell'eden 1p g.d.",
     "habboFigure": "hr-3671-39-39.hd-600-1.ch-3807-80-1408.lg-4092-64.sh-906-1408.he-6215-80",
