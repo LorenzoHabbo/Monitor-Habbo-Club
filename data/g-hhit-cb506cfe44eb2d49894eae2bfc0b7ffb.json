@@ -360,7 +360,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "berlin diva undercover",
     "habboFigure": "hr-5383-1401-59.hd-615-10.ch-4340-1324-1331.lg-3202-82-110.sh-5670-110.he-1605-110.fa-4058-1408.ca-3989-104-93",
@@ -460,7 +460,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-180-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -1170,7 +1170,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Un gatto favoloso KOO",
     "habboFigure": "hr-3829-49.hd-180-17.ch-3940-110-110.lg-4138-110.sh-3206-92.he-3070-66.fa-3276-1331.ca-5983-92",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante g.d",
     "habboFigure": "hr-3163-42.hd-3091-8.ch-3185-92.lg-4138-110.sh-4112-92-1408.he-4022.ca-1816.pt-6322",
