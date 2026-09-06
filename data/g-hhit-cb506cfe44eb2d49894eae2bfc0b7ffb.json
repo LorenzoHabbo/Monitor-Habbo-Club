@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-34.hd-3095-1370.ch-3203-1408.lg-4138-64.sh-3206-1408.ha-4136-1408.he-5088.fa-6504-1412.ca-6207.cc-4979-92.cp-3204.pt-6376.mc-6452-1408",
@@ -800,7 +800,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-180-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
@@ -920,7 +920,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbott",
     "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6452-102",
@@ -2780,7 +2780,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante g.d",
     "habboFigure": "hr-3163-42.hd-3091-8.ch-3185-92.lg-4138-110.sh-4112-92-1408.he-4022.ca-1816.pt-6322",
