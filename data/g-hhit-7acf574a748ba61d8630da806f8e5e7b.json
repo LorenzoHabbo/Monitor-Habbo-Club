@@ -100,7 +100,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "nno",
     "habboFigure": "hr-3860-40-40.hd-180-10.ch-3934-1408-64.lg-3596-1408-1408.fa-3276-73",
@@ -150,7 +150,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "H",
     "habboFigure": "hr-3163-1403.hd-3721-2.ch-6538-110-92.lg-3483-106-81.sh-5247-92-110.ha-6537-110-92.fa-5982-110.wa-5370",
@@ -330,7 +330,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-31.hd-3095-1370.ch-3203-1408.lg-4138-64.sh-3206-1408.he-5088.fa-6504-1412.ca-6207.cc-4979-92.cp-3204.pt-6376.mc-5808-1408",
@@ -710,7 +710,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "",
     "habboFigure": "hr-828-31.hd-180-14.ch-807-110.lg-280-110.sh-906-1320",
@@ -1180,7 +1180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Carabiniere A.C.H.",
     "habboFigure": "hd-208-10.ch-250-83.lg-3216-71.sh-3068-72-72.ha-3730.ea-3698-1408-1408.fa-1205-1408.ca-1813.wa-2001.cc-6518-71-71",
@@ -2390,7 +2390,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Alohomora",
     "habboFigure": "hr-3800-31-42.hd-180-1.ch-210-90.lg-3078-82.sh-295-88.ha-4192.ea-1404-1408.ca-5278-85.wa-2009-88.cc-3294-90-64",
