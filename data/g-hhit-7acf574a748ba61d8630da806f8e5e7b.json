@@ -106,7 +106,7 @@
     "memberSince": "2007-12-26T19:26:58.000+00:00",
     "uniqueId": "hhit-5f6de2773eb23324561f5f5d58b82109",
     "name": "fedemister2",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -176,7 +176,7 @@
     "memberSince": "2008-10-27T14:12:58.000+00:00",
     "uniqueId": "hhit-e850fb161825b1c5e00fe342f46c737f",
     "name": "MIRC.70",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -336,7 +336,7 @@
     "memberSince": "2010-01-10T10:04:19.000+00:00",
     "uniqueId": "hhit-9a8a5badd64dda4e6ebc49b34559d23e",
     "name": "cristian666",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -426,7 +426,7 @@
     "memberSince": "2010-11-02T09:50:28.000+00:00",
     "uniqueId": "hhit-a2ae380be069e1ea9901e505212b8746",
     "name": "gaetano581",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -706,7 +706,7 @@
     "memberSince": "2012-12-13T10:21:35.000+00:00",
     "uniqueId": "hhit-d708a155e1a27748073e5be145863e40",
     "name": "zairabimba@",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -716,7 +716,7 @@
     "memberSince": "2013-01-06T18:47:45.000+00:00",
     "uniqueId": "hhit-66ba2a28c07b02a2d152ff0c620e943a",
     "name": "UltimRomantico",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -836,7 +836,7 @@
     "memberSince": "2014-08-14T15:40:09.000+00:00",
     "uniqueId": "hhit-283794c05c88bed9049f06ac9032bc0b",
     "name": "Jiren22",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -856,7 +856,7 @@
     "memberSince": "2014-10-01T18:28:54.000+00:00",
     "uniqueId": "hhit-5560b6310c7dc8eff31c673730437989",
     "name": "SeleneRyan",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "gender": "f",
-    "motto": "Luogotenente ACH",
+    "motto": "Luogotenente Carica Speciale ACH",
     "habboFigure": "hr-6453-59-61.hd-3105-1390.ch-3245-106.lg-3019-96.ha-3620.fa-4168-1328.cc-3692-110-96.pt-6077",
     "memberSince": "2015-05-24T22:08:52.000+00:00",
     "uniqueId": "hhit-ee34de666f5334797a9e4048bdfc50df",
@@ -1186,7 +1186,7 @@
     "memberSince": "2018-02-08T17:58:10.000+00:00",
     "uniqueId": "hhit-62dc676f5b0ca473e8466310e6738972",
     "name": "MeloSushiPer12",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1286,7 +1286,7 @@
     "memberSince": "2019-02-27T14:47:45.000+00:00",
     "uniqueId": "hhit-71fdd6798f5f34ef9ac1aaeb6ca3d799",
     "name": ",Homy",
-    "online": false,
+    "online": true,
     "isAdmin": false
   },
   {
@@ -1606,7 +1606,7 @@
     "memberSince": "2020-11-19T21:10:20.000+00:00",
     "uniqueId": "hhit-47989af9d0f1ed2e1b4739aea84b550a",
     "name": "Kev.",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
@@ -1642,7 +1642,7 @@
   {
     "gender": "m",
     "motto": "Alastor GD",
-    "habboFigure": "hr-3531-40-40.hd-6219-10-12.ch-3030-1408.lg-6089-1408-1408.sh-295-1408.he-3660-1408-1408.fa-3344-1408",
+    "habboFigure": "hr-3531-1396-1396.hd-6219-2-1365.ch-3779-110-100.lg-3626-110-92.sh-3089-110.he-3660-110-92.fa-3344-67",
     "memberSince": "2021-03-26T06:44:18.000+00:00",
     "uniqueId": "hhit-8c584acad27e7d71c37b0718e4873bf0",
     "name": "Olotor",
@@ -1922,7 +1922,7 @@
   {
     "gender": "f",
     "motto": "Ho un sassolino nella scarpa, ahii",
-    "habboFigure": "hr-6505-49.hd-3098-10.ch-3250-1422.lg-3174-1422-1422.he-5767-104-92.fa-3350.wa-2010.cp-3207-1422-70.pt-6077",
+    "habboFigure": "hr-4024-52.hd-600-10.ch-3250-1422.lg-3174-1422-1422.sh-5464-92-104.he-3070-68.fa-3276-70.wa-2010.cp-3207-1422-70.pt-6077",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -2311,12 +2311,12 @@
   },
   {
     "gender": "f",
-    "motto": "",
+    "motto": "->| Cinnamoroll |<-",
     "habboFigure": "hr-4363-1398-31.hd-6216-1391-1365.ch-6514-110-86.lg-4369-110-95.sh-6181-86.he-5314-110-86.fa-5467.mc-6346-110-86",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
-    "online": true,
+    "online": false,
     "isAdmin": false
   },
   {
