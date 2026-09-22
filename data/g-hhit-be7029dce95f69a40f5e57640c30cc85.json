@@ -1260,7 +1260,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-6453-1401-44.hd-6216-1-1365.ch-5560-110-110.lg-3526-110-1428.sh-3524-110-92.ha-5704.fa-3276-1412.wa-3263-110-1408.cc-3515-92-92",
@@ -4770,7 +4770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Foderi Rossi",
     "habboFigure": "hr-5465-45-48.hd-205-19.ch-808-73.lg-3023-82.ha-3494-1408-1408.he-4379.ea-3925-82-74.fa-1201.ca-3876-83-82.wa-2008.cc-3917-73",
@@ -5040,7 +5040,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "cooked",
     "habboFigure": "hr-828-61.hd-207-3.ch-5856.lg-5594-1426.sh-305-110.ha-5866.fa-6367",
@@ -5930,7 +5930,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Snitch, don't kill my vibe",
     "habboFigure": "hr-5773-1394.hd-600-1370.ch-6327-110.lg-5594-1334.sh-730-110.ha-6326-1408.ea-5576-110-64.fa-3276-1412.ca-3217-110-92.wa-3210-1408-1408",
@@ -6370,10 +6370,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "PEDALINI",
-    "habboFigure": "hr-515-45.hd-625-1.ch-5735-64-73.lg-715-68.sh-3068-64-1408.ha-1015.he-3329-73-64.ca-5960-84-73",
+    "habboFigure": "hr-515-45.hd-625-1.ch-3682-64-73.lg-3387-73-1408.sh-3068-84-1408.ha-1015.he-3329-73-84.ca-5960-84-73",
     "memberSince": "2014-09-01T09:56:03.000+00:00",
     "uniqueId": "hhit-6d6eb266c0ded7ea0b37ebf1d16bec2c",
     "name": "D4VIDE776",
@@ -7093,7 +7093,7 @@
     "online": false,
     "gender": "m",
     "motto": "apprendistello GD",
-    "habboFigure": "hd-6361-14-14.ch-6353.lg-5594-1408.sh-5729-91-1408.ha-5774-64-1408.ca-3844-64-1408.cc-3509-1408-1408.pt-6299-76-64",
+    "habboFigure": "hr-5617-60-40.hd-5913-10.ch-6353.lg-6355-110-96.sh-3064-96.fa-5467",
     "memberSince": "2015-08-04T22:34:48.000+00:00",
     "uniqueId": "hhit-9422c63a183c9c8c8a742e1f6e0d663a",
     "name": "SirBlack!!",
