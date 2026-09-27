@@ -130,7 +130,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "e guardamose",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-92.lg-710-110.sh-5803-92.he-3891.fa-5601-92.cc-5078-110",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Sempre nel mio cuore|||",
     "habboFigure": "hr-4941-42-35.hd-180-1370.ch-4361-76-84.lg-3787-81-82.sh-3587-1408-76.he-1608.fa-1201",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-1407.hd-3095-1370.ch-3015-1409.lg-4167-85.sh-6425-1408-1408.he-1608.fa-6504-1412.ca-5705.wa-2005.pt-6077",
@@ -790,10 +790,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "",
-    "habboFigure": "hr-828-31.hd-3091-14.ch-210-92.lg-280-110.sh-3252-1320-1408",
+    "habboFigure": "hr-828-31.hd-180-1.ch-210-92.lg-280-110.sh-3252-1320-1408",
     "memberSince": "2013-01-06T18:47:45.000+00:00",
     "uniqueId": "hhit-66ba2a28c07b02a2d152ff0c620e943a",
     "name": "UltimRomantico",
@@ -890,7 +890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "se mi cerchi probabilmente sto dormend",
     "habboFigure": "hr-3860-40-40.hd-180-14.ch-210-1408.lg-4138-1408.sh-3587-1408-1408.ha-3586.he-6377.fa-5975.mc-5808-1408",
@@ -910,7 +910,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6452-102",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
