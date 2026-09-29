@@ -1,6 +1,6 @@
 [
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "  » Padrino Corleone »",
     "habboFigure": "hr-3436-61-61.hd-5913-28.ch-805-110.lg-280-1409.sh-3693-1409-1325.he-5458-110-1431.ea-1404-110.fa-1202-1412.ca-6499-100.wa-4060-1409-1325.pt-6166-1413-1408.mc-6452-63",
@@ -173,7 +173,7 @@
     "online": false,
     "gender": "f",
     "motto": "Ma tu ci pensi mai?",
-    "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-5594-1418.sh-6454-64.he-4977-92-1418.ea-3978-1427-110.fa-5975.ca-6325-92.wa-5986-64.mc-3867-1428-63",
+    "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-665-92.lg-5594-110.sh-6454-64.he-4977-64-1415.fa-5975.ca-6325-92.wa-5986-64.mc-3867-110-110",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -2200,7 +2200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Dopo tutto questo tempo? SEMPRE º",
     "habboFigure": "hr-5962-1342.hd-6219-11-1365.ch-6353.lg-5594-110.he-3740.fa-3993-110.pt-6383-110-1410.mc-6452-1408",
@@ -3380,10 +3380,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "laFlame",
-    "habboFigure": "hr-6533-31-61.hd-6361-1-28.ch-6476-110-110.lg-3418-1409.sh-5032.ha-5191.he-3833-92.ea-6460-1408.ca-5769-92-1323.pt-6322",
+    "habboFigure": "hr-6533-31-61.hd-6361-1-28.ch-6476-110-110.lg-3418-1409.sh-5032.he-3833-92.ea-6460-1408",
     "memberSince": "2011-05-21T23:23:14.000+00:00",
     "uniqueId": "hhit-70a467b1de837612f2711e8988e19f19",
     "name": "-Vin.Diesel.",
@@ -6200,7 +6200,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6452-102",
@@ -6233,7 +6233,7 @@
     "online": true,
     "gender": "m",
     "motto": " Sovrintendente Capo [P.I.H]¶",
-    "habboFigure": "hr-828-1398.hd-207-1370.ch-3840-92-1332.lg-6089-100-92.sh-3154-100-1332.ea-3388-1332-1337.fa-3276-1331.ca-5706.cc-4080.pt-5826-93.mc-3744-1409-1332",
+    "habboFigure": "hr-828-1342.hd-207-1370.ch-3539-1331.lg-6089-1331-1408.sh-3154-1331-1331.he-3918.ea-6460-1331.fa-3276-92.ca-4037-92-97",
     "memberSince": "2013-10-30T17:03:12.000+00:00",
     "uniqueId": "hhit-7e46137ca390e160cf7af350a993f41a",
     "name": "valerio4393",
@@ -7690,7 +7690,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Luogotenente Carica Speciale 65pACH",
     "habboFigure": "hr-6453-59-61.hd-3105-1390.ch-3245-106.lg-3019-96.ha-3620.fa-4168-1328.cc-3692-110-96.pt-6077",
@@ -8050,7 +8050,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "apprendistello GD",
     "habboFigure": "hr-5210-60-61.hd-207-28.ch-5559-110.lg-5594-110.sh-5729-110-110.he-3740.ea-3148-110-110.fa-4048.ca-3844-110-92.wa-3264-110-110",
@@ -9930,7 +9930,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "MarcoSolo ormai.",
     "habboFigure": "hr-115-1394.hd-190-1391.ch-210-92.lg-280-77.sh-3035-92.he-3833-1427.ea-1404-110",
