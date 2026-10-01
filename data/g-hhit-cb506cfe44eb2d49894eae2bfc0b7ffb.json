@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-1338",
@@ -420,7 +420,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sono una creatura mistica",
     "habboFigure": "hr-3841-40.hd-3604-1.ch-3030-80.lg-3290-80.sh-3524-71-81.he-5553.fa-5601-80.ca-4183-71-81.cc-4080.pt-6119",
@@ -450,7 +450,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3163-61.hd-3091-8.ch-3185-92.lg-4138-110.sh-4112-110-92.he-4022.pt-6322.mc-6548-92",
