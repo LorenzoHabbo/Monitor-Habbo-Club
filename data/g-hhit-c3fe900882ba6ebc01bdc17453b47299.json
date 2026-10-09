@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "e guardamose",
     "habboFigure": "hr-3852-42.hd-627-10.ch-665-92.lg-710-110.sh-5803-92.he-3891.fa-5600-92",
@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-92.lg-275-1338.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-1338",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-5019-1407.hd-3095-1370.ch-210-1325.lg-6161-85-67.sh-3419-1325-1325.ha-6209.fa-6504-1412.ca-6208.wa-2005.cc-3825-85-1408.pt-6567-1408",
@@ -563,7 +563,7 @@
     "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
-    "habboFigure": "hd-6519.lg-3502-66.he-3740.ca-3175-1321.pt-6567-68.mc-6548-96",
+    "habboFigure": "hd-6519.lg-3502-66.he-3740.ca-3175-1321.pt-6565-110-1408.mc-6548-96",
     "memberSince": "2013-04-30T22:04:02.000+00:00",
     "uniqueId": "hhit-2415368869b77640294c1afa8a2fddf7",
     "name": "Inve",
@@ -573,7 +573,7 @@
     "online": false,
     "gender": "f",
     "motto": "The sun will rise and we'll try again.",
-    "habboFigure": "hr-5773-1407.hd-6361-27-30.ch-5917-64.lg-5594-64.sh-5247-92-1408.he-6297-64-63.ea-6460-1408.fa-3276-64.ca-6343-1408-63",
+    "habboFigure": "hr-5773-1407.hd-6361-27-30.ch-5917-64.lg-5594-64.sh-5247-92-1408.he-6297-64-63.ea-6460-1408.fa-3276-64.ca-6343-1408-63.pt-6565-64-1427",
     "memberSince": "2013-06-17T16:41:02.000+00:00",
     "uniqueId": "hhit-6f03d57fc7e374ed573308f6ebe58e6a",
     "name": "Shippah.",
@@ -1090,7 +1090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "—      coming soon     —",
     "habboFigure": "hr-5124-49.hd-6616.ch-255-110.lg-5594-110.sh-5639.he-6444-96.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6618-1413.mc-6424-96",
