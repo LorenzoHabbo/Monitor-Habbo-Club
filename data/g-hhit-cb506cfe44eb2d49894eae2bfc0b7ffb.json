@@ -640,7 +640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Just hold on...‘",
     "habboFigure": "hr-165-39.hd-209-1.ch-4171-1408-1408.lg-270-82.sh-3587-1408-1408.fa-3276-73.ca-1807",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -2740,10 +2740,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante G.D",
-    "habboFigure": "hr-3163-42.hd-209-8.ch-3030-1408.lg-3596-1408-1408.sh-4112-1408-1408.he-4022.cc-4176-82-1408.pt-6555-1408-1408.mc-6548-92",
+    "habboFigure": "hr-3163-42.hd-209-8.lg-3596-1408-64.sh-4112-1408-1408.he-4022.cc-4178.pt-6555-1408-1408.mc-6548-92",
     "memberSince": "2025-05-07T11:16:49.000+00:00",
     "uniqueId": "hhit-de8e2328ed3f3e1c7b894290877d8369",
     "name": "andrea2270@",
