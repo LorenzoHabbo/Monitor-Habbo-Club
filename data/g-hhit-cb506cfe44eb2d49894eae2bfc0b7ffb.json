@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-110.lg-275-110.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-92",
@@ -280,7 +280,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "[Qƒ] Shibuya »",
     "habboFigure": "hr-6453-1401-44.hd-6216-1-1365.ch-5560-110-1428.lg-3387-110-1428.sh-3524-110-92.ha-3709.he-3070-92.fa-3276-1412.cc-5926-110-92",
@@ -290,7 +290,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sempre nel mio cuore|||",
     "habboFigure": "hr-4941-42-35.hd-180-1370.ch-4361-76-84.lg-3787-81-82.sh-3587-1408-84.he-1608.fa-1201",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-3841-1407.hd-3095-1370.ch-210-1325.lg-6161-85-67.sh-3419-1325-1325.ha-6209.fa-6504-1412.ca-6208.wa-6387-1408.cc-3825-85-1408.pt-6567-1408",
@@ -1890,7 +1890,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Regolatevi",
     "habboFigure": "hr-545-40.hd-615-10.ch-660-64.lg-710-1408.sh-905-64.ha-1015.he-1606-64.ea-1403-1408.fa-3590",
