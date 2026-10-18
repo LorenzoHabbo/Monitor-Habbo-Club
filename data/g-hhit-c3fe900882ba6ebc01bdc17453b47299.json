@@ -70,7 +70,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "9/5",
     "habboFigure": "hr-3852-42.hd-3097-27.ch-3013-110.lg-710-110.sh-5803-92.he-3891.fa-5600-1408.pt-6559-64-92.mc-6552-1415-92",
@@ -140,7 +140,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-110.lg-275-110.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-92",
@@ -180,7 +180,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-6533-1407-40.hd-3095-1370.ch-6015-1325-1408.lg-6017-85-67.sh-3419-1325-1325.ha-6014-1408-1408.fa-6504-1412.ca-6208.wa-5478-1408-1408.cc-3825-85-1408.pt-6567-1408",
@@ -1060,10 +1060,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "#SaveHabbo",
-    "habboFigure": "hr-100.hd-3095-3.ch-3059-107.lg-3257-110.sh-3089-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
+    "habboFigure": "hr-828-1346.hd-3095-3.ch-3059-107.lg-3257-110.sh-3035-1326.ha-1026.he-3069-1326-1326.ca-3131-1339-1421",
     "memberSince": "2020-03-23T04:27:33.000+00:00",
     "uniqueId": "hhit-056cd4e205470577445407debbffd0a8",
     "name": "RockyBalboa33",
