@@ -250,7 +250,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "3009",
     "habboFigure": "hr-828-1404.hd-180-2.ch-3030-110.lg-275-110.sh-290-92.ha-3488.fa-5600-92.pt-6553.mc-3542-92-92",
@@ -350,7 +350,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "ER BOMBER !",
     "habboFigure": "hr-6533-1407-40.hd-3095-1370.ch-6015-1325-1408.lg-6017-85-67.sh-3419-1325-1325.ha-6014-1408-1408.fa-6504-1412.ca-6208.wa-5478-1408-1408.cc-3825-85-1408.pt-6567-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "yøløwn",
     "habboFigure": "hr-6500-49-1349.hd-6216-28-30.ch-5607-92.lg-4369-1418-1418.sh-6043.ha-1002-110.he-6373.fa-5467.ca-5635-92-92.wa-5370.cc-5926-110-74.pt-6070",
@@ -910,10 +910,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
-    "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6452-102",
+    "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6574-1325-1431",
     "memberSince": "2013-10-14T19:08:30.000+00:00",
     "uniqueId": "hhit-16e8bfb7bbe99b9bbf193923136cf672",
     "name": "An.D.Rez",
@@ -1220,7 +1220,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "L'erba del vicino e sempre più buona.",
     "habboFigure": "hr-3800-37-40.hd-208-1370.ch-235-1408.lg-3023-85.sh-906-1408.ca-1809.wa-2011.cp-3286",
@@ -1513,7 +1513,7 @@
     "online": false,
     "gender": "m",
     "motto": "Chi ti ama ti sbuccia la frutta",
-    "habboFigure": "hr-6034-1407-41.hd-190-26.ch-3934-110-64.lg-5594-110.sh-3587-92-92.ha-3570.he-5393.ea-5576-64-64.fa-5948-92.wa-5986-110.cc-3509-64-92.cp-3122-80",
+    "habboFigure": "hr-3860-49-49.hd-5525-28-28.ch-3934-92-64.lg-3483-1428-110.sh-3587-92-92.he-3716.ea-1401-110.fa-5948-1408.cc-5926-110-1408",
     "memberSince": "2018-12-15T22:24:27.000+00:00",
     "uniqueId": "hhit-6628864a89f8c835fd06ae8948ddb07b",
     "name": "Kattrocchi",
@@ -1770,7 +1770,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "—      coming soon     —",
     "habboFigure": "hr-5124-49.hd-6616.ch-255-110.lg-5594-110.sh-5639.he-6444-96.ea-6330-110-110.fa-5948-92.ca-6276-92.pt-6618-1413.mc-6424-96",
@@ -2233,7 +2233,7 @@
     "online": false,
     "gender": "f",
     "motto": "Ho un sassolino nella scarpa, ahii",
-    "habboFigure": "hr-9534-1347.hd-3631-10-1368.ch-3013-1419.lg-3078-1423.sh-4159-1417-92.he-3081-68.fa-3276-1329.cp-3207-1417-1431.pt-6559-92-1433",
+    "habboFigure": "hr-9534-53.hd-3631-10-1368.ch-3046-1419.lg-3078-1423.sh-4159-1417-92.he-3218-110.fa-3276-1329.cp-3207-1417-1431.pt-6567-1409",
     "memberSince": "2022-11-20T11:49:15.000+00:00",
     "uniqueId": "hhit-fa5e5171ba78c83c944f7b122c7265fa",
     "name": "CD20RTXMB",
@@ -2510,10 +2510,10 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "-> | Cinnamoroll | <-",
-    "habboFigure": "hr-6551-61-1400.hd-6216-1362-1367.ch-4063-110-110.lg-3502-110.sh-6156-100.ha-3843-110-94.ca-6545-1322-1432",
+    "habboFigure": "hr-6551-61-46.hd-6216-1361-1367.ch-4063-110-110.lg-3502-110.sh-6156-100.ha-3843-110-94.ca-6545-94-1432.pt-6559-110-94",
     "memberSince": "2024-06-08T18:44:34.000+00:00",
     "uniqueId": "hhit-206eb96a503fc61cd14f91dbd9460081",
     "name": "Gardenia",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3841-42.hd-209-8.ch-210-1408.lg-3596-1408-1408.sh-4112-1408-82.he-4022.ca-4005-72-81.cc-6568-82-1408.pt-6555-1408-1408.mc-6548-1408",
