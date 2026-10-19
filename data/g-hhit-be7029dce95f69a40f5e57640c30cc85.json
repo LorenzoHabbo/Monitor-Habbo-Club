@@ -63,7 +63,7 @@
     "online": false,
     "gender": "m",
     "motto": "Collezionista lv.15",
-    "habboFigure": "hr-5389-1407.hd-5041-2.ch-5394.lg-5398.sh-3524-110-1336.ha-6291.he-6444-110.ea-6447-1336.fa-5386-1336.ca-6252-63.wa-5674.cc-5400.pt-6442.mc-6449-92",
+    "habboFigure": "hr-5389-1407.hd-5041-2.ch-5394.lg-5398.sh-3524-110-1336.ha-6291.he-6444-110.fa-5386-1336.ca-6252-63.wa-5674.cc-5400.pt-6442.mc-6449-92",
     "memberSince": "2005-10-07T16:00:26.000+00:00",
     "uniqueId": "hhit-1a86bd9e21eafd7e2bdaf2419846e53d",
     "name": "Arro",
@@ -213,7 +213,7 @@
     "online": true,
     "gender": "f",
     "motto": "Freshie º APACHE",
-    "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-5998-92.lg-5594-63.sh-6454-64.he-4977-1409-64.fa-5975.ca-6325-92.wa-5986-64.mc-5800-110-110",
+    "habboFigure": "hr-6211-49-49.hd-6216-28-29.ch-5998-92.lg-5594-63.sh-6454-64.he-4977-1409-64.fa-1209-110.ca-6325-92.wa-5986-64.mc-5800-110-110",
     "memberSince": "2006-07-08T00:15:54.000+00:00",
     "uniqueId": "hhit-843fbc0d093ce597cb25500b95dd37d2",
     "name": "-Angel-",
@@ -1220,10 +1220,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "Shoganai, panta rei",
-    "habboFigure": "hr-3673-1394.hd-6045-2.ch-803-110.lg-5732-110-100.sh-3252-91-110.fa-1204.ca-6044.wa-3264-110-64.cc-3299-64-1408",
+    "habboFigure": "hr-829-1394.hd-3095-2.ch-210-73.lg-3483-108-73.sh-3275-85.fa-1204.cc-3269-73-73",
     "memberSince": "2009-07-10T17:03:16.000+00:00",
     "uniqueId": "hhit-d9b04b96e054e4f637d511aa2bcbd79f",
     "name": "Mitico-Gian",
@@ -2090,7 +2090,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "f",
     "motto": "Curiosoneeee  Assistente Scelta P.I.H",
     "habboFigure": "hr-5681-45-40.hd-3956-1-12.ch-3399-1320-1320.lg-3483-68-80.fa-3276-72",
@@ -2740,7 +2740,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "Ainghiabank",
     "habboFigure": "hr-4117-31-31.hd-615-10.ch-5351-64-76.lg-3526-81-81.sh-4064-64.ha-3666-76-64.fa-5467.pt-6077.mc-5461-76-64",
@@ -5310,10 +5310,10 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "f",
     "motto": "apprendista novella G.D.",
-    "habboFigure": "hr-515-45.hd-615-10.ch-660-76.lg-700-75.sh-725-1408.he-1610.ea-1404-64",
+    "habboFigure": "hr-540-45.hd-615-10.ch-665-76.lg-700-75.sh-908-74.he-1610",
     "memberSince": "2013-02-10T13:25:31.000+00:00",
     "uniqueId": "hhit-065fdae6ef6eab8d7829a0b1bf1568cd",
     "name": "tortillaMatta",
@@ -5830,7 +5830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Uomo D'onore Corleone èunmattocolbotto",
     "habboFigure": "hd-6361-28-30.ch-5559-1408.lg-6355-1423-1423.ha-6198.ea-1406.pt-6069.mc-6574-1325-1431",
@@ -6353,7 +6353,7 @@
     "online": true,
     "gender": "f",
     "motto": "CHI SA FARE SA CAPIRE",
-    "habboFigure": "hr-515-33.hd-600-1.ch-5735-110-96.lg-3200-99.ha-1015.he-3329-110-96",
+    "habboFigure": "hr-515-33.hd-600-1.ch-3045-1416.lg-3216-1416.ha-1015.he-3329-99-1341",
     "memberSince": "2014-09-01T09:56:03.000+00:00",
     "uniqueId": "hhit-6d6eb266c0ded7ea0b37ebf1d16bec2c",
     "name": "D4VIDE776",
@@ -6640,7 +6640,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Sort out your mind",
     "habboFigure": "hr-3602-31-42.hd-190-10.ch-267-64.lg-3078-64.sh-3524-64-1408.wa-2007.cc-3512-76-1408",
