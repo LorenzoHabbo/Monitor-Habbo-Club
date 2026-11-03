@@ -440,7 +440,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "Italia, Ungheria, Polonia, Est Europa",
     "habboFigure": "hr-893-37.hd-180-1.ch-225-1408.lg-270-81.sh-906-64.ha-6225-82-1408.ca-6324-82-1408",
@@ -830,7 +830,7 @@
     "isAdmin": false
   },
   {
-    "online": true,
+    "online": false,
     "gender": "m",
     "motto": "‘ ~Faber est suae quisque fortunae~ ‘",
     "habboFigure": "hr-3163-45.hd-6361-1359-14.ch-5559-1338.lg-5594-1428.ha-6246.ea-5626-1408.ca-3175-1321.cc-5629-110-1408.pt-6342.mc-6452-1408",
@@ -2730,7 +2730,7 @@
     "isAdmin": false
   },
   {
-    "online": false,
+    "online": true,
     "gender": "m",
     "motto": "aiutante G.D",
     "habboFigure": "hr-3841-42.hd-209-8.ch-3030-82.lg-3596-1408-1408.sh-4112-1408-82.he-4022.ca-6550-1408-1408.cc-6204-82.pt-6555-1408-1408.mc-6548-1408",
